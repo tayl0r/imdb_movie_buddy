@@ -1,0 +1,987 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>IMDB Movie Picker</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: #121212;
+    color: #e0e0e0;
+  }
+
+  body {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+
+  .top-bar {
+    z-index: 200;
+    background: #1a1a1a;
+    border-bottom: 1px solid #333;
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-shrink: 0;
+  }
+
+  .top-bar h1 { font-size: 18px; color: #f5c518; }
+
+  .top-bar-right {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+
+  .selected-count { font-size: 13px; color: #aaa; }
+
+  .btn {
+    background: #e94560;
+    color: #fff;
+    border: none;
+    padding: 6px 14px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 13px;
+    font-weight: 600;
+  }
+  .btn:hover { background: #c73652; }
+  .btn:disabled { background: #444; cursor: not-allowed; }
+  .btn-outline {
+    background: transparent;
+    border: 1px solid #e94560;
+    color: #e94560;
+  }
+  .btn-outline:hover { background: #e9456020; }
+
+  .main-area {
+    display: flex;
+    flex: 1;
+    overflow: hidden;
+  }
+
+  /* Filter panel */
+  .filter-panel {
+    width: 240px;
+    background: #1a1a1a;
+    border-right: 1px solid #333;
+    flex-shrink: 0;
+    overflow-y: auto;
+    padding: 16px;
+    margin-left: -240px;
+    transition: margin-left 0.25s ease;
+  }
+
+  .filter-panel.open {
+    margin-left: 0;
+  }
+
+  .filter-panel h3 {
+    font-size: 13px;
+    color: #888;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+  }
+
+  .filter-panel .filter-clear {
+    font-size: 12px;
+    color: #e94560;
+    cursor: pointer;
+    float: right;
+    background: none;
+    border: none;
+    padding: 0;
+  }
+  .filter-panel .filter-clear:hover { text-decoration: underline; }
+
+  .genre-list {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+
+  .genre-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 4px 6px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 13px;
+    color: #ccc;
+    user-select: none;
+  }
+  .genre-item:hover { background: #2a2a2a; }
+
+  .genre-item input {
+    accent-color: #e94560;
+    cursor: pointer;
+  }
+
+  .genre-item .genre-count {
+    margin-left: auto;
+    font-size: 11px;
+    color: #555;
+  }
+
+  .filter-toggle {
+    background: none;
+    border: 1px solid #555;
+    color: #ccc;
+    padding: 5px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 13px;
+  }
+  .filter-toggle:hover { border-color: #f5c518; color: #f5c518; }
+  .filter-toggle.active { border-color: #e94560; color: #e94560; }
+
+  .grid-wrapper {
+    overflow: auto;
+    flex: 1;
+  }
+
+  .rank-header {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background: #1a1a1a;
+    display: flex;
+    border-bottom: 1px solid #333;
+    padding-left: 56px;
+    width: max-content;
+  }
+
+  .rank-header.hidden { display: none; }
+
+  .rank-header span {
+    width: 222px;
+    flex-shrink: 0;
+    text-align: center;
+    color: #888;
+    font-size: 11px;
+    font-weight: 600;
+    padding: 6px 2px;
+  }
+
+  .year-row {
+    display: flex;
+    align-items: flex-start;
+    width: max-content;
+  }
+
+  .year-label {
+    position: sticky;
+    left: 0;
+    z-index: 50;
+    background: #1a1a1a;
+    font-weight: 700;
+    font-size: 14px;
+    color: #f5c518;
+    width: 56px;
+    flex-shrink: 0;
+    text-align: right;
+    padding: 3px 8px;
+    border-right: 1px solid #333;
+    align-self: stretch;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+  }
+
+  .year-movies {
+    display: flex;
+    flex-wrap: nowrap;
+    padding: 3px 0;
+    gap: 3px;
+  }
+
+  .cell {
+    width: 216px;
+    border-radius: 3px;
+    overflow: hidden;
+    cursor: pointer;
+    position: relative;
+    border: 2px solid transparent;
+    transition: border-color 0.12s;
+  }
+
+  .cell:hover {
+    border-color: #f5c518;
+    z-index: 10;
+  }
+
+  .cell.selected {
+    border-color: #e94560;
+    box-shadow: 0 0 6px #e9456080;
+  }
+
+  .cell.filtered-out {
+    display: none;
+  }
+
+  .cell .poster-wrap {
+    position: relative;
+    width: 100%;
+    height: 320px;
+    overflow: hidden;
+  }
+
+  .cell img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    background: #2a2a2a;
+  }
+
+  .cell .cell-title {
+    font-size: 12px;
+    color: #ccc;
+    padding: 4px 2px;
+    text-align: center;
+    line-height: 1.3;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+  }
+
+  .cell .hover-btns {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    flex-direction: column;
+    pointer-events: none;
+  }
+
+  .cell:hover .hover-btns { pointer-events: auto; }
+
+  .cell .hover-btn {
+    flex: 1;
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    font-weight: 700;
+    color: #fff;
+    opacity: 0;
+    transition: opacity 0.15s;
+    text-shadow: 0 1px 6px #000, 0 0 20px #000;
+  }
+
+  .cell:hover .hover-btn { opacity: 1; }
+
+  .cell .hover-btn:hover {
+    background: #0003;
+  }
+
+  .cell .rating-pip {
+    position: absolute;
+    bottom: 4px;
+    left: 4px;
+    background: #000c;
+    color: #f5c518;
+    font-size: 16px;
+    font-weight: 700;
+    padding: 3px 6px;
+    border-radius: 4px;
+    line-height: 1;
+  }
+
+  /* Detail popup */
+  .popup-overlay {
+    display: none;
+    position: fixed;
+    inset: 0;
+    z-index: 500;
+    background: #000a;
+  }
+
+  .popup-overlay.active { display: flex; align-items: center; justify-content: center; }
+
+  .popup {
+    background: #1e1e1e;
+    width: 100vw;
+    height: 100vh;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .popup-top {
+    display: flex;
+    gap: 32px;
+    padding: 40px;
+    flex: 1;
+    align-items: flex-start;
+  }
+
+  .popup-poster {
+    max-height: calc(100vh - 160px);
+    width: auto;
+    max-width: 45vw;
+    flex-shrink: 0;
+    border-radius: 8px;
+    object-fit: contain;
+    background: #333;
+  }
+
+  .popup-info {
+    flex: 1;
+    min-width: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    padding-top: 8px;
+  }
+
+  .popup-title {
+    font-size: 36px;
+    font-weight: 700;
+    color: #fff;
+    line-height: 1.2;
+  }
+
+  .popup-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    align-items: center;
+    font-size: 18px;
+  }
+
+  .popup-rating {
+    color: #f5c518;
+    font-weight: 700;
+    font-size: 28px;
+  }
+
+  .popup-tag {
+    background: #333;
+    padding: 4px 14px;
+    border-radius: 6px;
+    color: #aaa;
+    font-size: 18px;
+  }
+
+  .popup-genres {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .popup-genre {
+    font-size: 16px;
+    padding: 4px 12px;
+    border-radius: 4px;
+    background: #2a1a4e;
+    color: #c0a0f0;
+  }
+
+  .popup-plot {
+    font-size: 20px;
+    color: #bbb;
+    line-height: 1.6;
+    padding: 0 40px 20px;
+  }
+
+  .popup-actions {
+    padding: 0 40px 32px;
+    display: flex;
+    gap: 12px;
+  }
+
+  .popup-actions .btn {
+    font-size: 18px;
+    padding: 10px 24px;
+  }
+
+  .popup-close {
+    position: absolute;
+    top: 16px;
+    right: 24px;
+    background: none;
+    border: none;
+    color: #888;
+    font-size: 36px;
+    cursor: pointer;
+    z-index: 10;
+  }
+  .popup-close:hover { color: #fff; }
+
+  .popup .metascore {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 6px;
+    font-size: 18px;
+    font-weight: 700;
+    color: #fff;
+  }
+  .metascore.high { background: #6c3; }
+  .metascore.mid { background: #fc3; color: #333; }
+  .metascore.low { background: #f00; }
+
+  .vote-count { color: #777; font-size: 18px; }
+
+  .list-row .year-label {
+    font-size: 11px;
+    font-weight: 600;
+    color: #c0a0f0;
+    width: 180px;
+    line-height: 1.3;
+    text-align: left;
+    padding-left: 8px;
+  }
+
+  .loading {
+    text-align: center;
+    padding: 80px;
+    color: #666;
+    font-size: 16px;
+  }
+</style>
+</head>
+<body>
+
+<div class="top-bar">
+  <div style="display:flex;align-items:center;gap:12px;">
+    <button class="filter-toggle" id="filterToggle" onclick="toggleFilterPanel()">Filters</button>
+    <h1>IMDB Movie Picker</h1>
+    <input type="text" id="searchBox" placeholder="Search movies..." style="padding:6px 12px;border-radius:6px;border:1px solid #444;background:#1a1a2e;color:#e0e0e0;font-size:14px;width:200px;outline:none;">
+  </div>
+  <div class="top-bar-right">
+    <span class="selected-count" id="selectedCount">0 selected</span>
+    <button class="btn btn-outline" id="clearBtn" disabled onclick="clearAll()">Clear</button>
+    <button class="btn" id="exportBtn" disabled onclick="exportCSV()">Export CSV</button>
+    <button class="btn" id="saveBtn" disabled onclick="saveCSV()">Save to Disk</button>
+  </div>
+</div>
+
+<div class="main-area">
+  <div class="filter-panel" id="filterPanel">
+    <h3>Rating <button class="filter-clear" onclick="clearRatingFilter()">Clear</button></h3>
+    <div class="genre-list" id="ratingList"></div>
+    <hr style="border:none;border-top:1px solid #333;margin:14px 0;">
+    <h3>Genre <button class="filter-clear" onclick="clearGenreFilter()">Clear</button></h3>
+    <div class="genre-list" id="genreList"></div>
+  </div>
+  <div class="grid-wrapper" id="gridWrapper">
+    <div class="loading" id="loading">Loading movies...</div>
+    <div class="rank-header" id="rankHeader"></div>
+    <div id="gridBody"></div>
+  </div>
+</div>
+
+<!-- Detail popup -->
+<div class="popup-overlay" id="popupOverlay">
+  <div class="popup" style="position:relative;">
+    <button class="popup-close" onclick="closePopup()">&times;</button>
+    <div class="popup-top">
+      <img class="popup-poster" id="popupPoster" src="" alt="">
+      <div class="popup-info">
+        <div class="popup-title" id="popupTitle"></div>
+        <div class="popup-meta" id="popupMeta"></div>
+        <div class="popup-genres" id="popupGenres"></div>
+      </div>
+    </div>
+    <div class="popup-plot" id="popupPlot"></div>
+    <div class="popup-actions">
+      <button class="btn" id="popupToggle" onclick="toggleFromPopup()">Add to Watch List</button>
+    </div>
+  </div>
+</div>
+
+<script>
+const START_YEAR = 1980;
+const END_YEAR = 2025;
+const MAX_RANK = 50;
+const STORAGE_KEY = 'imdb_want_to_watch';
+
+let allData = {};       // { year: { movies: [...] } }
+let listData = {};      // { listName: [movies...] }  (deduplicated)
+let movieIndex = {};    // titleId -> movie object
+let selected = loadSelected();
+let currentPopupId = null;
+let activeGenres = new Set();   // genres currently checked
+let allGenres = {};             // genre -> count
+let activeRatings = new Set();  // certificate ratings checked
+let allRatings = {};            // rating -> count
+
+const FILTER_KEY = 'imdb_filters';
+function loadFilters() {
+  try {
+    const f = JSON.parse(localStorage.getItem(FILTER_KEY) || '{}');
+    if (f.genres) f.genres.forEach(g => activeGenres.add(g));
+    if (f.ratings) f.ratings.forEach(r => activeRatings.add(r));
+  } catch {}
+}
+function saveFilters() {
+  localStorage.setItem(FILTER_KEY, JSON.stringify({
+    genres: [...activeGenres],
+    ratings: [...activeRatings],
+  }));
+}
+loadFilters();
+
+function loadSelected() {
+  try { return new Set(JSON.parse(localStorage.getItem(STORAGE_KEY) || '[]')); }
+  catch { return new Set(); }
+}
+function saveSelected() {
+  localStorage.setItem(STORAGE_KEY, JSON.stringify([...selected]));
+  updateCount();
+}
+function updateCount() {
+  const n = selected.size;
+  document.getElementById('selectedCount').textContent = n + ' selected';
+  document.getElementById('exportBtn').disabled = n === 0;
+  document.getElementById('saveBtn').disabled = n === 0;
+  document.getElementById('clearBtn').disabled = n === 0;
+}
+function clearAll() {
+  selected.clear();
+  saveSelected();
+  document.querySelectorAll('.cell.selected').forEach(el => el.classList.remove('selected'));
+}
+
+function toggleMovie(titleId) {
+  if (selected.has(titleId)) selected.delete(titleId);
+  else selected.add(titleId);
+  saveSelected();
+  const cell = document.querySelector(`.cell[data-id="${titleId}"]`);
+  if (cell) cell.classList.toggle('selected');
+}
+
+function formatVotes(n) {
+  if (!n) return '';
+  if (n >= 1000000) return (n / 1000000).toFixed(1) + 'M';
+  if (n >= 1000) return (n / 1000).toFixed(0) + 'K';
+  return String(n);
+}
+function formatRuntime(mins) {
+  if (!mins) return '';
+  const h = Math.floor(mins / 60);
+  const m = mins % 60;
+  return h > 0 ? h + 'h ' + m + 'm' : m + 'm';
+}
+function posterUrl(url, width) {
+  if (!url) return '';
+  return url.replace(/\._V1_\./, `._V1_SX${width}.`);
+}
+function metascoreClass(s) {
+  if (s >= 61) return 'high';
+  if (s >= 40) return 'mid';
+  return 'low';
+}
+function escapeHtml(s) {
+  const d = document.createElement('div');
+  d.textContent = s;
+  return d.innerHTML;
+}
+
+// --- Popup ---
+function openPopup(titleId) {
+  const m = movieIndex[titleId];
+  if (!m) return;
+  currentPopupId = titleId;
+  document.getElementById('popupPoster').src = posterUrl(m.poster?.url, 800);
+  document.getElementById('popupTitle').textContent = m.title + ' (' + m.year + ')';
+
+  let meta = '';
+  if (m.imdbRating) meta += `<span class="popup-rating">★ ${m.imdbRating}</span>`;
+  if (m.numVotes) meta += `<span class="vote-count">${formatVotes(m.numVotes)} votes</span>`;
+  if (m.metascore) meta += `<span class="metascore ${metascoreClass(m.metascore)}">${m.metascore}</span>`;
+  if (m.certificate) meta += `<span class="popup-tag">${escapeHtml(m.certificate)}</span>`;
+  if (m.runtimeMinutes) meta += `<span class="popup-tag">${formatRuntime(m.runtimeMinutes)}</span>`;
+  document.getElementById('popupMeta').innerHTML = meta;
+
+  document.getElementById('popupGenres').innerHTML =
+    (m.genres || []).map(g => `<span class="popup-genre">${escapeHtml(g)}</span>`).join('');
+  document.getElementById('popupPlot').textContent = m.plot || '';
+
+  const btn = document.getElementById('popupToggle');
+  btn.textContent = selected.has(titleId) ? 'Remove from Watch List' : 'Add to Watch List';
+  document.getElementById('popupOverlay').classList.add('active');
+}
+function closePopup() {
+  document.getElementById('popupOverlay').classList.remove('active');
+  currentPopupId = null;
+}
+function toggleFromPopup() {
+  if (!currentPopupId) return;
+  toggleMovie(currentPopupId);
+  const btn = document.getElementById('popupToggle');
+  btn.textContent = selected.has(currentPopupId) ? 'Remove from Watch List' : 'Add to Watch List';
+}
+
+document.getElementById('popupOverlay').addEventListener('click', e => {
+  if (e.target === e.currentTarget) closePopup();
+});
+document.addEventListener('keydown', e => {
+  if (e.key === 'Escape') closePopup();
+});
+document.getElementById('searchBox').addEventListener('input', () => applyFilters());
+
+// --- Grid rendering ---
+function buildGrid() {
+  // Rank header
+  const header = document.getElementById('rankHeader');
+  let headerHtml = '';
+  for (let r = 1; r <= MAX_RANK; r++) headerHtml += `<span>${r}</span>`;
+  header.innerHTML = headerHtml;
+
+  const body = document.getElementById('gridBody');
+  body.innerHTML = '';
+
+  // Rows: one per year, newest first
+  for (let year = END_YEAR; year >= START_YEAR; year--) {
+    const row = document.createElement('div');
+    row.className = 'year-row';
+
+    const label = document.createElement('div');
+    label.className = 'year-label';
+    label.textContent = year;
+    row.appendChild(label);
+
+    const moviesDiv = document.createElement('div');
+    moviesDiv.className = 'year-movies';
+
+    const movies = allData[year]?.movies || [];
+    const byRank = {};
+    movies.forEach(m => { byRank[m.rank] = m; });
+
+    for (let r = 1; r <= MAX_RANK; r++) {
+      const m = byRank[r];
+      if (!m) continue;
+
+      const cell = document.createElement('div');
+      cell.className = 'cell' + (selected.has(m.titleId) ? ' selected' : '');
+      cell.dataset.id = m.titleId;
+      cell.title = m.title;
+      const isSelected = selected.has(m.titleId);
+      cell.innerHTML = `
+        <div class="poster-wrap">
+          <img src="${posterUrl(m.poster?.url, 432)}" alt="" loading="lazy">
+          ${m.imdbRating ? `<span class="rating-pip">${m.imdbRating}</span>` : ''}
+          <div class="hover-btns">
+            <button class="hover-btn fav-btn">${isSelected ? '♥ Favorited' : '♡ Favorite'}</button>
+            <button class="hover-btn detail-btn">Details</button>
+          </div>
+        </div>
+        <div class="cell-title">${escapeHtml(m.title)}</div>
+      `;
+      cell.querySelector('.fav-btn').addEventListener('click', e => {
+        e.stopPropagation();
+        toggleMovie(m.titleId);
+        e.currentTarget.textContent = selected.has(m.titleId) ? '♥ Favorited' : '♡ Favorite';
+      });
+      cell.querySelector('.detail-btn').addEventListener('click', e => {
+        e.stopPropagation();
+        openPopup(m.titleId);
+      });
+      moviesDiv.appendChild(cell);
+    }
+
+    row.appendChild(moviesDiv);
+    body.appendChild(row);
+  }
+
+  // List rows
+  for (const [name, movies] of Object.entries(listData)) {
+    const row = document.createElement('div');
+    row.className = 'year-row list-row';
+
+    const label = document.createElement('div');
+    label.className = 'year-label';
+    label.textContent = name;
+    label.title = name;
+    row.appendChild(label);
+
+    const moviesDiv = document.createElement('div');
+    moviesDiv.className = 'year-movies';
+
+    for (const m of movies) {
+      const cell = document.createElement('div');
+      cell.className = 'cell' + (selected.has(m.titleId) ? ' selected' : '');
+      cell.dataset.id = m.titleId;
+      cell.title = m.title;
+      const isSelected = selected.has(m.titleId);
+      cell.innerHTML = `
+        <div class="poster-wrap">
+          <img src="${posterUrl(m.poster?.url, 432)}" alt="" loading="lazy">
+          ${m.imdbRating ? `<span class="rating-pip">${m.imdbRating}</span>` : ''}
+          <div class="hover-btns">
+            <button class="hover-btn fav-btn">${isSelected ? '♥ Favorited' : '♡ Favorite'}</button>
+            <button class="hover-btn detail-btn">Details</button>
+          </div>
+        </div>
+        <div class="cell-title">${escapeHtml(m.title)}</div>
+      `;
+      cell.querySelector('.fav-btn').addEventListener('click', e => {
+        e.stopPropagation();
+        toggleMovie(m.titleId);
+        e.currentTarget.textContent = selected.has(m.titleId) ? '♥ Favorited' : '♡ Favorite';
+      });
+      cell.querySelector('.detail-btn').addEventListener('click', e => {
+        e.stopPropagation();
+        openPopup(m.titleId);
+      });
+      moviesDiv.appendChild(cell);
+    }
+
+    row.appendChild(moviesDiv);
+    body.appendChild(row);
+  }
+}
+
+// --- CSV export ---
+function buildCSV() {
+  let csv = 'year,rank,title,imdb_score,num_ratings\n';
+  const rows = [];
+  for (let year = START_YEAR; year <= END_YEAR; year++) {
+    const movies = allData[year]?.movies || [];
+    movies.forEach(m => {
+      if (selected.has(m.titleId)) {
+        rows.push(m);
+      }
+    });
+  }
+  for (const [name, movies] of Object.entries(listData)) {
+    movies.forEach(m => {
+      if (selected.has(m.titleId)) {
+        rows.push(m);
+      }
+    });
+  }
+  rows.forEach(m => {
+    const title = m.title.includes(',') ? `"${m.title.replace(/"/g, '""')}"` : m.title;
+    csv += `${m.year},${m.rank || ''},${title},${m.imdbRating || ''},${m.numVotes || ''}\n`;
+  });
+  return csv;
+}
+
+function exportCSV() {
+  const csv = buildCSV();
+  const blob = new Blob([csv], { type: 'text/csv' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = 'want_to_watch.csv';
+  a.click();
+  URL.revokeObjectURL(url);
+}
+
+async function saveCSV() {
+  const btn = document.getElementById('saveBtn');
+  try {
+    const res = await fetch('/save-csv', {
+      method: 'POST',
+      headers: { 'Content-Type': 'text/plain' },
+      body: buildCSV(),
+    });
+    if (!res.ok) throw new Error('Server error');
+    btn.textContent = 'Saved!';
+  } catch (e) {
+    btn.textContent = 'Error!';
+  }
+  setTimeout(() => { btn.textContent = 'Save to Disk'; }, 1500);
+}
+
+// --- Filter panel ---
+function toggleFilterPanel() {
+  const panel = document.getElementById('filterPanel');
+  const btn = document.getElementById('filterToggle');
+  panel.classList.toggle('open');
+  btn.classList.toggle('active');
+}
+
+function buildFilterLists() {
+  // Collect genres and ratings with counts
+  allGenres = {};
+  allRatings = {};
+  const allMovieSources = [
+    ...Object.values(allData).flatMap(d => d.movies),
+    ...Object.values(listData).flat(),
+  ];
+  for (const m of allMovieSources) {
+    for (const g of (m.genres || [])) {
+      allGenres[g] = (allGenres[g] || 0) + 1;
+    }
+    if (m.certificate) {
+      allRatings[m.certificate] = (allRatings[m.certificate] || 0) + 1;
+    }
+  }
+
+  // Rating list
+  const ratingOrder = ['G', 'PG', 'PG-13', 'R', 'NC-17'];
+  const ratingsSorted = Object.entries(allRatings).sort((a, b) => {
+    const ai = ratingOrder.indexOf(a[0]), bi = ratingOrder.indexOf(b[0]);
+    if (ai !== -1 && bi !== -1) return ai - bi;
+    if (ai !== -1) return -1;
+    if (bi !== -1) return 1;
+    return b[1] - a[1];
+  });
+  const ratingList = document.getElementById('ratingList');
+  ratingList.innerHTML = '';
+  for (const [rating, count] of ratingsSorted) {
+    const label = document.createElement('label');
+    label.className = 'genre-item';
+    label.innerHTML = `
+      <input type="checkbox" value="${escapeHtml(rating)}">
+      <span>${escapeHtml(rating)}</span>
+      <span class="genre-count">${count}</span>
+    `;
+    const ratingCb = label.querySelector('input');
+    ratingCb.checked = activeRatings.has(rating);
+    ratingCb.addEventListener('change', e => {
+      if (e.target.checked) activeRatings.add(rating);
+      else activeRatings.delete(rating);
+      applyFilters();
+    });
+    ratingList.appendChild(label);
+  }
+
+  // Genre list
+  const genresSorted = Object.entries(allGenres).sort((a, b) => b[1] - a[1]);
+  const genreList = document.getElementById('genreList');
+  genreList.innerHTML = '';
+  for (const [genre, count] of genresSorted) {
+    const label = document.createElement('label');
+    label.className = 'genre-item';
+    label.innerHTML = `
+      <input type="checkbox" value="${escapeHtml(genre)}">
+      <span>${escapeHtml(genre)}</span>
+      <span class="genre-count">${count}</span>
+    `;
+    const genreCb = label.querySelector('input');
+    genreCb.checked = activeGenres.has(genre);
+    genreCb.addEventListener('change', e => {
+      if (e.target.checked) activeGenres.add(genre);
+      else activeGenres.delete(genre);
+      applyFilters();
+    });
+    genreList.appendChild(label);
+  }
+}
+
+function clearGenreFilter() {
+  activeGenres.clear();
+  document.querySelectorAll('#genreList input').forEach(cb => cb.checked = false);
+  applyFilters();
+}
+
+function clearRatingFilter() {
+  activeRatings.clear();
+  document.querySelectorAll('#ratingList input').forEach(cb => cb.checked = false);
+  applyFilters();
+}
+
+function isFiltering() {
+  const searchText = document.getElementById('searchBox').value.trim();
+  return activeGenres.size > 0 || activeRatings.size > 0 || searchText.length > 0;
+}
+
+function applyFilters() {
+  saveFilters();
+  const filtering = isFiltering();
+  const searchText = document.getElementById('searchBox').value.trim().toLowerCase();
+
+  // Hide/show rank header
+  document.getElementById('rankHeader').classList.toggle('hidden', filtering);
+
+  document.querySelectorAll('.cell[data-id]').forEach(cell => {
+    const m = movieIndex[cell.dataset.id];
+    if (!m) return;
+
+    let pass = true;
+    // Search: title must contain text
+    if (searchText && !m.title.toLowerCase().includes(searchText)) {
+      pass = false;
+    }
+    // Genre: AND
+    if (pass && activeGenres.size > 0) {
+      const movieGenres = new Set(m.genres || []);
+      pass = [...activeGenres].every(g => movieGenres.has(g));
+    }
+    // Rating: OR
+    if (pass && activeRatings.size > 0) {
+      pass = activeRatings.has(m.certificate || '');
+    }
+
+    cell.classList.toggle('filtered-out', !pass);
+  });
+}
+
+// --- Load data ---
+async function loadData() {
+  const fetches = [];
+  for (let year = START_YEAR; year <= END_YEAR; year++) {
+    fetches.push(
+      fetch(`data/${year}.json`)
+        .then(r => r.ok ? r.json() : null)
+        .catch(() => null)
+    );
+  }
+  const results = await Promise.all(fetches);
+  results.forEach((data, i) => {
+    const year = START_YEAR + i;
+    if (!data) return;
+    allData[year] = data;
+    data.movies.forEach(m => { movieIndex[m.titleId] = m; });
+  });
+
+  // Load list files
+  try {
+    const listRes = await fetch('/api/lists');
+    if (listRes.ok) {
+      const listFiles = await listRes.json();
+      const listFetches = listFiles.map(fname =>
+        fetch(`data/${encodeURIComponent(fname)}`)
+          .then(r => r.ok ? r.json() : null)
+          .catch(() => null)
+      );
+      const listResults = await Promise.all(listFetches);
+      const seenIds = new Set(Object.keys(movieIndex));
+      listResults.forEach((data, i) => {
+        if (!data || !data.movies) return;
+        const name = listFiles[i].replace(/\.json$/, '');
+        const dedupedMovies = [];
+        for (const m of data.movies) {
+          if (seenIds.has(m.titleId)) continue;
+          seenIds.add(m.titleId);
+          dedupedMovies.push(m);
+          movieIndex[m.titleId] = m;
+        }
+        if (dedupedMovies.length > 0) {
+          listData[name] = dedupedMovies;
+        }
+      });
+    }
+  } catch {}
+
+  document.getElementById('loading').style.display = 'none';
+  buildGrid();
+  buildFilterLists();
+  if (isFiltering()) applyFilters();
+  updateCount();
+}
+
+loadData();
+</script>
+</body>
+</html>

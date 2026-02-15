@@ -1,0 +1,1578 @@
+{
+  "year": 1988,
+  "movies": [
+    {
+      "rank": 1,
+      "titleId": "tt0095016",
+      "title": "Die Hard",
+      "originalTitle": "Die Hard",
+      "year": 1988,
+      "releaseDate": {
+        "day": 20,
+        "month": 7,
+        "year": 1988
+      },
+      "plot": "A New York City cop, John McClane, tries to save his estranged wife and several others taken hostage by terrorists during a Christmas Eve party at the Nakatomi Plaza Skyscraper in Los Angeles, California.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMGNlYmM1NmQtYWExMS00NmRjLTg5ZmEtMmYyYzJkMzljYWMxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Bruce Willis in Die Hard (1988)",
+        "width": 1066,
+        "height": 1600
+      },
+      "imdbRating": 8.2,
+      "numVotes": 1022430,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7920,
+      "runtimeMinutes": 132,
+      "metascore": 72,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 2,
+      "titleId": "tt0095953",
+      "title": "Rain Man",
+      "originalTitle": "Rain Man",
+      "year": 1988,
+      "releaseDate": {
+        "day": 16,
+        "month": 12,
+        "year": 1988
+      },
+      "plot": "After a selfish L.A. yuppie learns his estranged father left a fortune to an autistic-savant brother in Ohio that he didn't know existed, he absconds with his brother and sets out across the country, hoping to gain a larger inheritance.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDUzODNkNGUtNzJjNi00ODFlLTkzMzktMGNkOTIwYWM2YTQzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tom Cruise and Dustin Hoffman in Rain Man (1988)",
+        "width": 623,
+        "height": 980
+      },
+      "imdbRating": 8,
+      "numVotes": 580097,
+      "certificate": "R",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 7980,
+      "runtimeMinutes": 133,
+      "metascore": 65,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 3,
+      "titleId": "tt0096283",
+      "title": "My Neighbor Totoro",
+      "originalTitle": "Tonari no Totoro",
+      "year": 1988,
+      "releaseDate": {
+        "day": 13,
+        "month": 7,
+        "year": 1990
+      },
+      "plot": "When two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYWM3MDE3YjEtMzIzZC00ODE5LTgxNTItNmUyMTBkM2M2NmNiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "My Neighbor Totoro (1988)",
+        "width": 1000,
+        "height": 1480
+      },
+      "imdbRating": 8.1,
+      "numVotes": 425739,
+      "certificate": "G",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 5160,
+      "runtimeMinutes": 86,
+      "metascore": 87,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 4,
+      "titleId": "tt0094721",
+      "title": "Beetlejuice",
+      "originalTitle": "Beetlejuice",
+      "year": 1988,
+      "releaseDate": {
+        "day": 30,
+        "month": 3,
+        "year": 1988
+      },
+      "plot": "The spirits of a deceased couple are harassed by an unbearable family that has moved into their home, and hire a malicious spirit to drive them out.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjkwNzVlNDEtMTJlNy00OTdlLTljYWItM2RkZmZkYzY3YjM2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Geena Davis, Winona Ryder, Alec Baldwin, Jeffrey Jones, Michael Keaton, and Catherine O'Hara in Beetlejuice (1988)",
+        "width": 1005,
+        "height": 1500
+      },
+      "imdbRating": 7.4,
+      "numVotes": 415362,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 5520,
+      "runtimeMinutes": 92,
+      "metascore": 71,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 5,
+      "titleId": "tt0095327",
+      "title": "Grave of the Fireflies",
+      "originalTitle": "Hotaru no haka",
+      "year": 1988,
+      "releaseDate": {
+        "day": 26,
+        "month": 7,
+        "year": 1989
+      },
+      "plot": "A young boy and his little sister struggle to survive in Japan during World War II.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTY5MmE2OGMtN2IxNC00MDY4LTkwMGEtZDUzOTYyNWE0ZTNjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Corinne Orr, Ayano Shiraishi, Tsutomu Tatsumi, J. Robert Spencer, Emily Neves, and Adam Gibbs in Grave of the Fireflies (1988)",
+        "width": 1600,
+        "height": 2400
+      },
+      "imdbRating": 8.5,
+      "numVotes": 377452,
+      "certificate": "Not Rated",
+      "genres": [
+        "Animation",
+        "Drama",
+        "War"
+      ],
+      "runtimeSeconds": 5280,
+      "runtimeMinutes": 88,
+      "metascore": 94,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 6,
+      "titleId": "tt0095765",
+      "title": "Cinema Paradiso",
+      "originalTitle": "Nuovo Cinema Paradiso",
+      "year": 1988,
+      "releaseDate": {
+        "day": 23,
+        "month": 2,
+        "year": 1990
+      },
+      "plot": "Salvatore, a famous film director, returns to his hometown for the funeral of the local theater's film projectionist, Alfredo. He reminisces about his life as a young boy falling in love with cinema.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTljNzc4YWEtYTZlMS00ODMyLWIwMTAtNWQxY2VkMDEwYTk5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Salvatore Cascio, Marco Leonardi, Agnese Nano, and Philippe Noiret in Cinema Paradiso (1988)",
+        "width": 580,
+        "height": 859
+      },
+      "imdbRating": 8.5,
+      "numVotes": 314741,
+      "certificate": "PG",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 10440,
+      "runtimeMinutes": 174,
+      "metascore": 80,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 7,
+      "titleId": "tt0094737",
+      "title": "Big",
+      "originalTitle": "Big",
+      "year": 1988,
+      "releaseDate": {
+        "day": 3,
+        "month": 6,
+        "year": 1988
+      },
+      "plot": "After wishing to be made big, a teenage boy wakes the next morning to find himself mysteriously in the body of an adult.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzE3ZTc2ZDgtMzQ4MS00NjEyLWJkMDYtZmMzZmY5ODJhMDdmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tom Hanks in Big (1988)",
+        "width": 1024,
+        "height": 1500
+      },
+      "imdbRating": 7.3,
+      "numVotes": 258121,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 6240,
+      "runtimeMinutes": 104,
+      "metascore": 73,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 8,
+      "titleId": "tt0094898",
+      "title": "Coming to America",
+      "originalTitle": "Coming to America",
+      "year": 1988,
+      "releaseDate": {
+        "day": 29,
+        "month": 6,
+        "year": 1988
+      },
+      "plot": "An extremely pampered African prince travels to Queens, New York and goes undercover to find a wife that he can respect for her intelligence and strong will.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDY1N2RiYWMtMTNmMy00MWQzLTlkYzAtYzRlZmM5OGZhMjUwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Eddie Murphy in Coming to America (1988)",
+        "width": 983,
+        "height": 1500
+      },
+      "imdbRating": 7.1,
+      "numVotes": 238445,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "runtimeSeconds": 7020,
+      "runtimeMinutes": 117,
+      "metascore": 47,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 9,
+      "titleId": "tt0096438",
+      "title": "Who Framed Roger Rabbit",
+      "originalTitle": "Who Framed Roger Rabbit",
+      "year": 1988,
+      "releaseDate": {
+        "day": 22,
+        "month": 6,
+        "year": 1988
+      },
+      "plot": "When a cartoon rabbit is accused of murder, he enlists the help of a burnt out private investigator to prove his innocence.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDc5ZGRiM2EtMWRmMC00YjViLWEwMjYtNGE5MWVlZGEzZGM0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Frank Sinatra, Christopher Lloyd, Kathleen Turner, Joanna Cassidy, Bob Hoskins, Jim Cummings, and Charles Fleischer in Who Framed Roger Rabbit (1988)",
+        "width": 1015,
+        "height": 1500
+      },
+      "imdbRating": 7.7,
+      "numVotes": 231803,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 6240,
+      "runtimeMinutes": 104,
+      "metascore": 83,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 10,
+      "titleId": "tt0094625",
+      "title": "Akira",
+      "originalTitle": "Akira",
+      "year": 1988,
+      "releaseDate": {
+        "day": 16,
+        "month": 7,
+        "year": 1988
+      },
+      "plot": "A secret military project endangers Neo-Tokyo when it turns a teenage biker gang member into a rampaging psychic psychopath who can only be stopped by his best friend.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYWUxMGRhZDQtMTBmMi00N2IxLWE5NmYtMDMyMWExODAwNWYzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Akira (1988)",
+        "width": 1433,
+        "height": 2048
+      },
+      "imdbRating": 8,
+      "numVotes": 223863,
+      "certificate": "R",
+      "genres": [
+        "Animation",
+        "Action",
+        "Drama"
+      ],
+      "runtimeSeconds": 7440,
+      "runtimeMinutes": 124,
+      "metascore": 68,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 11,
+      "titleId": "tt0095705",
+      "title": "The Naked Gun: From the Files of Police Squad!",
+      "originalTitle": "The Naked Gun: From the Files of Police Squad!",
+      "year": 1988,
+      "releaseDate": {
+        "day": 2,
+        "month": 12,
+        "year": 1988
+      },
+      "plot": "Incompetent police Detective Frank Drebin must foil an attempt to assassinate Queen Elizabeth II.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTI5N2I1MjAtNTc0Yy00ZDIyLThkZTctMGQ5NTBhNjIwMWQ0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Leslie Nielsen, George Kennedy, Ricardo Montalban, Priscilla Presley, O.J. Simpson, Jeannette Charles, Reggie Jackson, and Nancy Marchand in The Naked Gun: From the Files of Police Squad! (1988)",
+        "width": 1825,
+        "height": 2868
+      },
+      "imdbRating": 7.6,
+      "numVotes": 219520,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 5100,
+      "runtimeMinutes": 85,
+      "metascore": 76,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 12,
+      "titleId": "tt0095159",
+      "title": "A Fish Called Wanda",
+      "originalTitle": "A Fish Called Wanda",
+      "year": 1988,
+      "releaseDate": {
+        "day": 29,
+        "month": 7,
+        "year": 1988
+      },
+      "plot": "In London, four very different people team up on a jewel heist, then try to double-cross one another for the loot, complicated by their efforts to fool the very proper barrister Archibald Leach.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjFhZDg1ZmEtYmI0Ny00MjM3LWIxNzItMzU1MzczZTljMTkxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "John Cleese, Jamie Lee Curtis, Kevin Kline, and Michael Palin in A Fish Called Wanda (1988)",
+        "width": 1067,
+        "height": 1600
+      },
+      "imdbRating": 7.5,
+      "numVotes": 164396,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 6480,
+      "runtimeMinutes": 108,
+      "metascore": 80,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 13,
+      "titleId": "tt0096256",
+      "title": "They Live",
+      "originalTitle": "They Live",
+      "year": 1988,
+      "releaseDate": {
+        "day": 4,
+        "month": 11,
+        "year": 1988
+      },
+      "plot": "They influence our decisions without us knowing it. They numb our senses without us feeling it. They control our lives without us realizing it. They live.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTQ3MjM3ODU1NV5BMl5BanBnXkFtZTgwMjU3NDU2MTE@._V1_.jpg",
+        "caption": "Jeff Imada and Roddy Piper in They Live (1988)",
+        "width": 706,
+        "height": 1060
+      },
+      "imdbRating": 7.2,
+      "numVotes": 161987,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 5640,
+      "runtimeMinutes": 94,
+      "metascore": 55,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 14,
+      "titleId": "tt0095956",
+      "title": "Rambo III",
+      "originalTitle": "Rambo III",
+      "year": 1988,
+      "releaseDate": {
+        "day": 25,
+        "month": 5,
+        "year": 1988
+      },
+      "plot": "Loner Rambo leaves a Buddhist monastery to free his Green Beret mentor from Soviets in Afghanistan.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzBjYjk0MDMtNmUyYi00MjJlLWEwZmMtMGZlYWI1OTEwMjdkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Sylvester Stallone in Rambo III (1988)",
+        "width": 994,
+        "height": 1538
+      },
+      "imdbRating": 5.8,
+      "numVotes": 148504,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6120,
+      "runtimeMinutes": 102,
+      "metascore": 36,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 15,
+      "titleId": "tt0096320",
+      "title": "Twins",
+      "originalTitle": "Twins",
+      "year": 1988,
+      "releaseDate": {
+        "day": 9,
+        "month": 12,
+        "year": 1988
+      },
+      "plot": "A physically perfect but innocent man goes in search of his long-lost twin brother, who turns out to be a short, womanizing, small-time crook.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDJmMTc5YmUtN2FmNi00YzlhLWEwNTktZjI3NjlhMWE3ODM0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Arnold Schwarzenegger and Danny DeVito in Twins (1988)",
+        "width": 1968,
+        "height": 2970
+      },
+      "imdbRating": 6.2,
+      "numVotes": 147264,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 6420,
+      "runtimeMinutes": 107,
+      "metascore": 50,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 16,
+      "titleId": "tt0096446",
+      "title": "Willow",
+      "originalTitle": "Willow",
+      "year": 1988,
+      "releaseDate": {
+        "day": 20,
+        "month": 5,
+        "year": 1988
+      },
+      "plot": "A young dwarf farmer is chosen to undertake a perilous journey in order to protect a special baby from an evil queen. Along the way, he teams up with a disgraced swordsman to defeat the evil sorceress.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BM2E5Mjg3NzItNTNlNy00NzJmLThjOGUtZjdjMTZiMGJkYTMzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Val Kilmer, Joanne Whalley, Billy Barty, Warwick Davis, Kevin Pollak, Kate Greenfield, Ruth Greenfield, Jean Marsh, Rick Overton, and Pat Roach in Willow (1988)",
+        "width": 2282,
+        "height": 3405
+      },
+      "imdbRating": 7.2,
+      "numVotes": 138497,
+      "certificate": "PG",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "runtimeSeconds": 7560,
+      "runtimeMinutes": 126,
+      "metascore": 47,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 17,
+      "titleId": "tt0094862",
+      "title": "Child's Play",
+      "originalTitle": "Child's Play",
+      "year": 1988,
+      "releaseDate": {
+        "day": 9,
+        "month": 11,
+        "year": 1988
+      },
+      "plot": "A dying serial killer transfers his consciousness into a popular kids doll using voodoo. A struggling single mother gifts her six-year-old son the much sought-after doll for his birthday, and the doll slowly begins to show its true colors.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTc2M2FjMDMtYzBmNS00ODMxLWJjOTYtZmNkMDYxMTU5ZTBhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Brad Dourif and Dinah Manoff in Child's Play (1988)",
+        "width": 2030,
+        "height": 3000
+      },
+      "imdbRating": 6.7,
+      "numVotes": 130557,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5220,
+      "runtimeMinutes": 87,
+      "metascore": 58,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 18,
+      "titleId": "tt0096061",
+      "title": "Scrooged",
+      "originalTitle": "Scrooged",
+      "year": 1988,
+      "releaseDate": {
+        "day": 23,
+        "month": 11,
+        "year": 1988
+      },
+      "plot": "A selfish, cynical television executive is haunted by three spirits bearing lessons on Christmas Eve.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYWY3ODUyZTQtMTQyZS00ZWIyLTk3M2YtYzU5ZWQ3MTEwZGU1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Bill Murray in Scrooged (1988)",
+        "width": 1976,
+        "height": 2964
+      },
+      "imdbRating": 6.9,
+      "numVotes": 128466,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 6060,
+      "runtimeMinutes": 101,
+      "metascore": 38,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 19,
+      "titleId": "tt0095647",
+      "title": "Mississippi Burning",
+      "originalTitle": "Mississippi Burning",
+      "year": 1988,
+      "releaseDate": {
+        "day": 27,
+        "month": 1,
+        "year": 1989
+      },
+      "plot": "Two FBI agents with wildly different styles arrive in Mississippi to investigate the disappearance of three civil rights activists.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDgwNTljYmMtYmQyNi00MmEwLTk0NzMtZDJmZDIzZmQ4MzQ2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Willem Dafoe and Gene Hackman in Mississippi Burning (1988)",
+        "width": 1475,
+        "height": 2237
+      },
+      "imdbRating": 7.8,
+      "numVotes": 126715,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "runtimeSeconds": 7680,
+      "runtimeMinutes": 128,
+      "metascore": 65,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 20,
+      "titleId": "tt0097493",
+      "title": "Heathers",
+      "originalTitle": "Heathers",
+      "year": 1989,
+      "releaseDate": {
+        "day": 31,
+        "month": 3,
+        "year": 1989
+      },
+      "plot": "At Westerburg High where cliques rule, jocks dominate and all the popular girls are named Heather, it's going to take a Veronica and mysterious new kid to give teen angst a body count.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzY2ODdmZDItMzQ4MS00ZDczLWIyZmItNDljYmMwZjQ2NGU3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Winona Ryder and Christian Slater in Heathers (1989)",
+        "width": 1974,
+        "height": 2920
+      },
+      "imdbRating": 7.1,
+      "numVotes": 126050,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 6180,
+      "runtimeMinutes": 103,
+      "metascore": 72,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 21,
+      "titleId": "tt0095489",
+      "title": "The Land Before Time",
+      "originalTitle": "The Land Before Time",
+      "year": 1988,
+      "releaseDate": {
+        "day": 18,
+        "month": 11,
+        "year": 1988
+      },
+      "plot": "An orphaned brontosaurus teams up with other young dinosaurs in order to reunite with their families in a valley.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYThiYTJkZjAtZWE1OS00YjI3LWEyZjQtZWVmMmI3NjNkYTg4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Judith Barsi, Gabriel Damon, Candace Hutson, Will Ryan, and Frank Welker in The Land Before Time (1988)",
+        "width": 1983,
+        "height": 2929
+      },
+      "imdbRating": 7.4,
+      "numVotes": 106298,
+      "certificate": "G",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Drama"
+      ],
+      "runtimeSeconds": 4140,
+      "runtimeMinutes": 69,
+      "metascore": 66,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 22,
+      "titleId": "tt0095631",
+      "title": "Midnight Run",
+      "originalTitle": "Midnight Run",
+      "year": 1988,
+      "releaseDate": {
+        "day": 20,
+        "month": 7,
+        "year": 1988
+      },
+      "plot": "A bounty hunter pursues a former Mafia accountant who is also being chased by a rival bounty hunter, the F.B.I., and his old mob boss after jumping bail.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNmQ2NWU5OWYtOTNiOC00MjA1LWJhOWQtMzYyMDgwMmE5ZDE0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Robert De Niro and Charles Grodin in Midnight Run (1988)",
+        "width": 800,
+        "height": 1221
+      },
+      "imdbRating": 7.5,
+      "numVotes": 102855,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 7560,
+      "runtimeMinutes": 126,
+      "metascore": 78,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 23,
+      "titleId": "tt0092675",
+      "title": "Bloodsport",
+      "originalTitle": "Bloodsport",
+      "year": 1988,
+      "releaseDate": {
+        "day": 29,
+        "month": 4,
+        "year": 1988
+      },
+      "plot": "\"Bloodsport\" follows Frank Dux, an American martial artist serving in the military, who decides to leave the army to compete in a martial arts tournament in Hong Kong where fights to the death can occur.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNmRkMGNkZWYtNzk3ZC00OGM0LThjMzMtMDg2YzViMTJmNjNhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jean-Claude Van Damme, Forest Whitaker, and Bolo Yeung in Bloodsport (1988)",
+        "width": 1805,
+        "height": 2818
+      },
+      "imdbRating": 6.8,
+      "numVotes": 102170,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Biography",
+        "Drama"
+      ],
+      "runtimeSeconds": 5520,
+      "runtimeMinutes": 92,
+      "metascore": 29,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 24,
+      "titleId": "tt0094889",
+      "title": "Cocktail",
+      "originalTitle": "Cocktail",
+      "year": 1988,
+      "releaseDate": {
+        "day": 29,
+        "month": 7,
+        "year": 1988
+      },
+      "plot": "A talented New York City bartender takes a job at a bar in Jamaica and falls in love.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTgxNjg5MWUtNzRjNi00MDg0LTk1NzAtMTY1NzllMWNkZjYzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tom Cruise in Cocktail (1988)",
+        "width": 3318,
+        "height": 4884
+      },
+      "imdbRating": 5.9,
+      "numVotes": 97524,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 6240,
+      "runtimeMinutes": 104,
+      "metascore": 12,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 25,
+      "titleId": "tt0095031",
+      "title": "Dirty Rotten Scoundrels",
+      "originalTitle": "Dirty Rotten Scoundrels",
+      "year": 1988,
+      "releaseDate": {
+        "day": 14,
+        "month": 12,
+        "year": 1988
+      },
+      "plot": "Two con men try to settle their rivalry by betting on who can swindle a young American heiress out of fifty thousand dollars first.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzRmYjM2ZmEtYTczZC00YWJjLWJjZTMtYTFlYjljMTVmMTAwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Steve Martin and Michael Caine in Dirty Rotten Scoundrels (1988)",
+        "width": 993,
+        "height": 1500
+      },
+      "imdbRating": 7.4,
+      "numVotes": 85367,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 6600,
+      "runtimeMinutes": 110,
+      "metascore": 68,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 26,
+      "titleId": "tt0095963",
+      "title": "Red Heat",
+      "originalTitle": "Red Heat",
+      "year": 1988,
+      "releaseDate": {
+        "day": 17,
+        "month": 6,
+        "year": 1988
+      },
+      "plot": "A tough Russian policeman is forced to partner up with a cocky Chicago police detective when he is sent to Chicago to apprehend a Georgian drug lord who killed his partner and fled the country.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzE2MjAxZDItOTM5Yi00ZGNjLThjMDMtYTg1NmNhZWY0ZWUxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Arnold Schwarzenegger and Jim Belushi in Red Heat (1988)",
+        "width": 1495,
+        "height": 2265
+      },
+      "imdbRating": 6.1,
+      "numVotes": 80896,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 6240,
+      "runtimeMinutes": 104,
+      "metascore": 61,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 27,
+      "titleId": "tt0094947",
+      "title": "Dangerous Liaisons",
+      "originalTitle": "Dangerous Liaisons",
+      "year": 1988,
+      "releaseDate": {
+        "day": 24,
+        "month": 2,
+        "year": 1989
+      },
+      "plot": "A scheming widow and her manipulative ex-lover make a bet regarding the corruption of a recently married woman.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYmJkMzZhNzktYjgyYi00N2ZjLTgxN2EtN2JhOGY1NTE3ZWY0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Michelle Pfeiffer, Glenn Close, and John Malkovich in Dangerous Liaisons (1988)",
+        "width": 1519,
+        "height": 2265
+      },
+      "imdbRating": 7.5,
+      "numVotes": 79456,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 7140,
+      "runtimeMinutes": 119,
+      "metascore": 74,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 28,
+      "titleId": "tt0096487",
+      "title": "Young Guns",
+      "originalTitle": "Young Guns",
+      "year": 1988,
+      "releaseDate": {
+        "day": 12,
+        "month": 8,
+        "year": 1988
+      },
+      "plot": "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMGE5ZjYzMDEtZmQ4ZS00YjczLTk5YWYtNjdkZjY4NmQxNTEyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Charlie Sheen, Emilio Estevez, Dermot Mulroney, Kiefer Sutherland, Lou Diamond Phillips, and Casey Siemaszko in Young Guns (1988)",
+        "width": 507,
+        "height": 755
+      },
+      "imdbRating": 6.8,
+      "numVotes": 73174,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Drama",
+        "Western"
+      ],
+      "runtimeSeconds": 6420,
+      "runtimeMinutes": 107,
+      "metascore": 50,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 29,
+      "titleId": "tt0095742",
+      "title": "A Nightmare on Elm Street 4: The Dream Master",
+      "originalTitle": "A Nightmare on Elm Street 4: The Dream Master",
+      "year": 1988,
+      "releaseDate": {
+        "day": 19,
+        "month": 8,
+        "year": 1988
+      },
+      "plot": "Freddy Krueger returns once again to terrorize the dreams of the remaining Dream Warriors, as well as those of a young woman who may be able to defeat him for good.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2FlMDZlNjUtM2QyYS00Y2YyLWI3ZjEtZDdjZWM5ZTg0MDRiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "A Nightmare on Elm Street 4: The Dream Master (1988)",
+        "width": 1793,
+        "height": 2791
+      },
+      "imdbRating": 5.6,
+      "numVotes": 67489,
+      "certificate": "R",
+      "genres": [
+        "Horror"
+      ],
+      "runtimeSeconds": 5580,
+      "runtimeMinutes": 93,
+      "metascore": 56,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 30,
+      "titleId": "tt0095497",
+      "title": "The Last Temptation of Christ",
+      "originalTitle": "The Last Temptation of Christ",
+      "year": 1988,
+      "releaseDate": {
+        "day": 12,
+        "month": 8,
+        "year": 1988
+      },
+      "plot": "The life of Jesus Christ, his journey through life as he faces the struggles all humans do, and his final temptation on the cross.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjE2MWE2NDQtMjIzYy00OGY4LTk3YjktZTE2MWExYmEzMjM5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "The Last Temptation of Christ (1988)",
+        "width": 981,
+        "height": 1500
+      },
+      "imdbRating": 7.5,
+      "numVotes": 67384,
+      "certificate": "R",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 9840,
+      "runtimeMinutes": 164,
+      "metascore": 80,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 31,
+      "titleId": "tt0096463",
+      "title": "Working Girl",
+      "originalTitle": "Working Girl",
+      "year": 1988,
+      "releaseDate": {
+        "day": 21,
+        "month": 12,
+        "year": 1988
+      },
+      "plot": "When a secretary's idea is stolen by her boss, she seizes an opportunity to steal it back by pretending she has her boss' job.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzZhNGFlNGYtMjgyMi00YmZiLWFjNjktZGIzYjkxM2YyZWJjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Harrison Ford, Sigourney Weaver, and Melanie Griffith in Working Girl (1988)",
+        "width": 1422,
+        "height": 2200
+      },
+      "imdbRating": 6.8,
+      "numVotes": 67283,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 6780,
+      "runtimeMinutes": 113,
+      "metascore": 73,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 32,
+      "titleId": "tt0095271",
+      "title": "Halloween 4: The Return of Michael Myers",
+      "originalTitle": "Halloween 4: The Return of Michael Myers",
+      "year": 1988,
+      "releaseDate": {
+        "day": 21,
+        "month": 10,
+        "year": 1988
+      },
+      "plot": "Ten years after his original massacre, the invalid Michael Myers awakens on Halloween Eve and returns to Haddonfield to kill his seven-year-old niece. Can Dr. Loomis stop him?",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGQ2NzZhYjItMTYwNC00YzVhLWIwNzItMGEwM2M2ZDI3ZmNmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "George P. Wilbur in Halloween 4: The Return of Michael Myers (1988)",
+        "width": 1374,
+        "height": 2127
+      },
+      "imdbRating": 5.8,
+      "numVotes": 64130,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5280,
+      "runtimeMinutes": 88,
+      "metascore": 34,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 33,
+      "titleId": "tt0092493",
+      "title": "Crocodile Dundee II",
+      "originalTitle": "Crocodile Dundee II",
+      "year": 1988,
+      "releaseDate": {
+        "day": 25,
+        "month": 5,
+        "year": 1988
+      },
+      "plot": "Australian outback expert protects his New York love from gangsters who've followed her down under.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWE0ZDYzZTktOWJiNi00ZjdmLWI5ZTktY2FhMjdkOTNkYzY3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Paul Hogan and Linda Kozlowski in Crocodile Dundee II (1988)",
+        "width": 1013,
+        "height": 1500
+      },
+      "imdbRating": 5.7,
+      "numVotes": 64061,
+      "certificate": "PG",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 6660,
+      "runtimeMinutes": 111,
+      "metascore": 41,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 34,
+      "titleId": "tt0094812",
+      "title": "Bull Durham",
+      "originalTitle": "Bull Durham",
+      "year": 1988,
+      "releaseDate": {
+        "day": 15,
+        "month": 6,
+        "year": 1988
+      },
+      "plot": "A fan who has an affair with one minor-league baseball player each season meets an up-and-coming pitcher and the experienced catcher assigned to him.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOGJiNmFmZjYtYzQzZi00ZTk1LWI2MGUtZjI1NDI3YmU4Y2FhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Kevin Costner and Susan Sarandon in Bull Durham (1988)",
+        "width": 1014,
+        "height": 1500
+      },
+      "imdbRating": 7,
+      "numVotes": 63670,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Sport"
+      ],
+      "runtimeSeconds": 6480,
+      "runtimeMinutes": 108,
+      "metascore": 73,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 35,
+      "titleId": "tt0095174",
+      "title": "Frantic",
+      "originalTitle": "Frantic",
+      "year": 1988,
+      "releaseDate": {
+        "day": 26,
+        "month": 2,
+        "year": 1988
+      },
+      "plot": "In a hotel room in Paris, a doctor comes out of the shower and finds that his wife has disappeared. He soon finds himself caught up in a world of intrigue, espionage, gangsters, drugs and murder.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjY2ODQ3MTQyOV5BMl5BanBnXkFtZTgwNTc2MzkyMTE@._V1_.jpg",
+        "caption": "Harrison Ford and Emmanuelle Seigner in Frantic (1988)",
+        "width": 675,
+        "height": 1000
+      },
+      "imdbRating": 6.8,
+      "numVotes": 61243,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "runtimeSeconds": 7200,
+      "runtimeMinutes": 120,
+      "metascore": 66,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 36,
+      "titleId": "tt0095294",
+      "title": "Hellbound: Hellraiser II",
+      "originalTitle": "Hellbound: Hellraiser II",
+      "year": 1988,
+      "releaseDate": {
+        "day": 23,
+        "month": 12,
+        "year": 1988
+      },
+      "plot": "Kirsty is brought to an institution after the horrible events of Hellraiser (1987), where the occult-obsessive head doctor resurrects Julia and unleashes the Cenobites and their demonic underworld.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDU4NTQ3MjItZjhlNy00NDllLTllMjctYTE2MDI3OTUwNDM5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Doug Bradley in Hellbound: Hellraiser II (1988)",
+        "width": 1919,
+        "height": 2910
+      },
+      "imdbRating": 6.4,
+      "numVotes": 60406,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5820,
+      "runtimeMinutes": 97,
+      "metascore": 41,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 37,
+      "titleId": "tt0096764",
+      "title": "The Adventures of Baron Munchausen",
+      "originalTitle": "The Adventures of Baron Munchausen",
+      "year": 1988,
+      "releaseDate": {
+        "day": 10,
+        "month": 3,
+        "year": 1989
+      },
+      "plot": "An account of Baron Munchausen's supposed travels and fantastical experiences across late 18th-century Europe with his band of misfits.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODY3NzNkMjQtNzliNi00MjdhLWI2NmEtMTY0NDM2ZWI3YTI2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "John Neville in The Adventures of Baron Munchausen (1988)",
+        "width": 506,
+        "height": 755
+      },
+      "imdbRating": 7.1,
+      "numVotes": 59619,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 7560,
+      "runtimeMinutes": 126,
+      "metascore": 69,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 38,
+      "titleId": "tt0094964",
+      "title": "Dead Ringers",
+      "originalTitle": "Dead Ringers",
+      "year": 1988,
+      "releaseDate": {
+        "day": 23,
+        "month": 9,
+        "year": 1988
+      },
+      "plot": "Twin gynecologists take full advantage of the fact that nobody can tell them apart, until their relationship begins to deteriorate over a woman.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTMwZDViNDMtZGJjNC00YzM4LWFiN2YtZjVjNjAwOWNjMTIxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jeremy Irons and Genevi\u00e8ve Bujold in Dead Ringers (1988)",
+        "width": 435,
+        "height": 650
+      },
+      "imdbRating": 7.2,
+      "numVotes": 58340,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6960,
+      "runtimeMinutes": 116,
+      "metascore": 86,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 39,
+      "titleId": "tt0095250",
+      "title": "The Big Blue",
+      "originalTitle": "Le grand bleu",
+      "year": 1988,
+      "releaseDate": {
+        "day": 19,
+        "month": 8,
+        "year": 1988
+      },
+      "plot": "The rivalry between Enzo and Jacques, two childhood friends and now world-renowned free divers, becomes a beautiful and perilous journey into oneself and the unknown.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWUyYThiMjctNWZiZS00YzkwLTg0MmQtYmJiZGQxOGQyYzJkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "The Big Blue (1988)",
+        "width": 1489,
+        "height": 2260
+      },
+      "imdbRating": 7.5,
+      "numVotes": 58335,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Sport"
+      ],
+      "runtimeSeconds": 10080,
+      "runtimeMinutes": 168,
+      "metascore": 35,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 40,
+      "titleId": "tt0095776",
+      "title": "Oliver & Company",
+      "originalTitle": "Oliver & Company",
+      "year": 1988,
+      "releaseDate": {
+        "day": 18,
+        "month": 11,
+        "year": 1988
+      },
+      "plot": "A lost and alone kitten joins a gang of dogs engaged in petty larceny in New York City.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTAxMzMwNzQtNGYxNC00OTgwLWI3ZTgtMDBlOTE4MGFkMGEwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Bette Midler, Cheech Marin, Roscoe Lee Browne, Billy Joel, Joey Lawrence, Sheryl Lee Ralph, and Richard Mulligan in Oliver & Company (1988)",
+        "width": 550,
+        "height": 866
+      },
+      "imdbRating": 6.6,
+      "numVotes": 56604,
+      "certificate": "G",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 4440,
+      "runtimeMinutes": 74,
+      "metascore": 58,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 41,
+      "titleId": "tt0095253",
+      "title": "The Great Outdoors",
+      "originalTitle": "The Great Outdoors",
+      "year": 1988,
+      "releaseDate": {
+        "day": 17,
+        "month": 6,
+        "year": 1988
+      },
+      "plot": "A Chicago man and his family go camping with his obnoxious brother-in-law.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjhmMWQ5YmItMWNkZi00YzMzLWFjMDctMWJjYjFhZWU3NDhjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Dan Aykroyd and John Candy in The Great Outdoors (1988)",
+        "width": 815,
+        "height": 1200
+      },
+      "imdbRating": 6.6,
+      "numVotes": 56602,
+      "certificate": "PG",
+      "genres": [
+        "Comedy"
+      ],
+      "runtimeSeconds": 5460,
+      "runtimeMinutes": 91,
+      "metascore": 24,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 42,
+      "titleId": "tt0096163",
+      "title": "The Vanishing",
+      "originalTitle": "Spoorloos",
+      "year": 1988,
+      "releaseDate": {
+        "day": 27,
+        "month": 10,
+        "year": 1988
+      },
+      "plot": "Rex and Saskia, a young couple in love, are on vacation. They stop at a busy service station and Saskia is abducted. After three years and no sign of Saskia, Rex begins receiving letters from the abductor.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTdlMmViNGMtMzJmZC00YTJlLTg3MDMtYTFmNWI1MTlkNzU1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Johanna ter Steege in The Vanishing (1988)",
+        "width": 706,
+        "height": 1012
+      },
+      "imdbRating": 7.6,
+      "numVotes": 54064,
+      "certificate": "Not Rated",
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6420,
+      "runtimeMinutes": 107,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 43,
+      "titleId": "tt0094963",
+      "title": "The Dead Pool",
+      "originalTitle": "The Dead Pool",
+      "year": 1988,
+      "releaseDate": {
+        "day": 13,
+        "month": 7,
+        "year": 1988
+      },
+      "plot": "Inspector \"Dirty\" Harry Callahan must stop a sick secret contest to murder various San Francisco celebrities, with himself being one of the targets.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjY5NjBlZjItMzI3ZS00MmJkLTkxMTgtMzY5OWRjYjdhYzMxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Clint Eastwood in The Dead Pool (1988)",
+        "width": 670,
+        "height": 1000
+      },
+      "imdbRating": 6.3,
+      "numVotes": 52046,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Mystery"
+      ],
+      "runtimeSeconds": 5460,
+      "runtimeMinutes": 91,
+      "metascore": 46,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 44,
+      "titleId": "tt0095444",
+      "title": "Killer Klowns from Outer Space",
+      "originalTitle": "Killer Klowns from Outer Space",
+      "year": 1988,
+      "releaseDate": {
+        "day": 27,
+        "month": 5,
+        "year": 1988
+      },
+      "plot": "Aliens who look like clowns come from outer space and terrorize a small town.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWQ0MjRiMzktNGYyMi00YjNkLTg5OGItOGM2MTBlZDAxNWRmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Killer Klowns from Outer Space (1988)",
+        "width": 1484,
+        "height": 2250
+      },
+      "imdbRating": 6.2,
+      "numVotes": 51918,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 5280,
+      "runtimeMinutes": 88,
+      "metascore": 43,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 45,
+      "titleId": "tt0095675",
+      "title": "Women on the Verge of a Nervous Breakdown",
+      "originalTitle": "Mujeres al borde de un ataque de \"nervios\"",
+      "year": 1988,
+      "releaseDate": {
+        "day": 11,
+        "month": 11,
+        "year": 1988
+      },
+      "plot": "A television actress encounters a variety of eccentric characters after embarking on a journey to discover why her lover abruptly left her.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjBjZTg0ODktZDE1OC00Njg3LWJkZGQtYTAwOGQ1OTQ0NDg3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Carmen Maura and Julieta Serrano in Women on the Verge of a Nervous Breakdown (1988)",
+        "width": 1970,
+        "height": 3000
+      },
+      "imdbRating": 7.5,
+      "numVotes": 50165,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 5280,
+      "runtimeMinutes": 88,
+      "metascore": 85,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 46,
+      "titleId": "tt0094761",
+      "title": "The Blob",
+      "originalTitle": "The Blob",
+      "year": 1988,
+      "releaseDate": {
+        "day": 5,
+        "month": 8,
+        "year": 1988
+      },
+      "plot": "A deadly entity from space crash-lands near a small town and begins consuming everyone in its path. Panic ensues as shady government scientists try to contain the horrific creature.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjE5NDIzZmQtYzdmNy00NjMxLTk3NjUtY2I2MTllNTU0YzRkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "The Blob (1988)",
+        "width": 1487,
+        "height": 2260
+      },
+      "imdbRating": 6.7,
+      "numVotes": 48713,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5700,
+      "runtimeMinutes": 95,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 47,
+      "titleId": "tt0095179",
+      "title": "Friday the 13th: The New Blood",
+      "originalTitle": "Friday the 13th Part VII: The New Blood",
+      "year": 1988,
+      "releaseDate": {
+        "day": 13,
+        "month": 5,
+        "year": 1988
+      },
+      "plot": "Jason Voorhees is accidentally freed from his watery prison by a telekinetic teenager. Now, only she can stop him.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTA5ZTFlYzQtMWNmMS00ZDI4LTg4ZWQtNzYzNjFiYzQyODhjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Friday the 13th: The New Blood (1988)",
+        "width": 1989,
+        "height": 2947
+      },
+      "imdbRating": 5.2,
+      "numVotes": 46973,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5280,
+      "runtimeMinutes": 88,
+      "metascore": 13,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 48,
+      "titleId": "tt0094608",
+      "title": "The Accused",
+      "originalTitle": "The Accused",
+      "year": 1988,
+      "releaseDate": {
+        "day": 14,
+        "month": 10,
+        "year": 1988
+      },
+      "plot": "After a young woman suffers a brutal gang rape in a bar one night, a prosecutor assists in bringing the perpetrators to justice, including the ones who encouraged and cheered on the attack.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDU2NGRmNGYtN2JiNi00ZDcyLTllM2UtNzhiNDM4ZTU3ODMxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jodie Foster and Kelly McGillis in The Accused (1988)",
+        "width": 1435,
+        "height": 2204
+      },
+      "imdbRating": 7.1,
+      "numVotes": 42761,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 6660,
+      "runtimeMinutes": 111,
+      "metascore": 65,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 49,
+      "titleId": "tt0096332",
+      "title": "The Unbearable Lightness of Being",
+      "originalTitle": "The Unbearable Lightness of Being",
+      "year": 1988,
+      "releaseDate": {
+        "day": 5,
+        "month": 2,
+        "year": 1988
+      },
+      "plot": "A doctor in 1968 Prague struggles with monogamy to his wife's frustration, and then the Soviet invasion further disrupts their lives.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzQyMTliMzMtNzliZi00MmMwLWExZGEtNzQ3MDc1NmY4M2I1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Lena Olin in The Unbearable Lightness of Being (1988)",
+        "width": 600,
+        "height": 886
+      },
+      "imdbRating": 7.2,
+      "numVotes": 40497,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 10260,
+      "runtimeMinutes": 171,
+      "metascore": 73,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 50,
+      "titleId": "tt0095882",
+      "title": "Police Academy 5: Assignment: Miami Beach",
+      "originalTitle": "Police Academy 5: Assignment: Miami Beach",
+      "year": 1988,
+      "releaseDate": {
+        "day": 18,
+        "month": 3,
+        "year": 1988
+      },
+      "plot": "Eric Lassard is about to retire, which Harris plans to exploit to take over his position. In Miami, where Lassard is to be honored, a mix-up leads to an adventure involving diamonds, kidnapping and betrayal.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDMzN2NhZjAtNDFlZC00MDc5LWJlMzctNzFjMTgyNjFhYTMzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Police Academy 5: Assignment: Miami Beach (1988)",
+        "width": 960,
+        "height": 1440
+      },
+      "imdbRating": 4.6,
+      "numVotes": 40494,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 5400,
+      "runtimeMinutes": 90,
+      "metascore": 18,
+      "credits": [],
+      "titleType": "movie"
+    }
+  ]
+}

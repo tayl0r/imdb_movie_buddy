@@ -1,0 +1,1590 @@
+{
+  "year": 2006,
+  "movies": [
+    {
+      "rank": 1,
+      "titleId": "tt0482571",
+      "title": "The Prestige",
+      "originalTitle": "The Prestige",
+      "year": 2006,
+      "releaseDate": {
+        "day": 20,
+        "month": 10,
+        "year": 2006
+      },
+      "plot": "Two friends and fellow magicians become bitter enemies after a sudden tragedy. As they devote themselves to this rivalry, they make sacrifices that bring them fame but, with terrible consequences.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTM3MzQ5MjQ5OF5BMl5BanBnXkFtZTcwMTQ3NzMzMw@@._V1_.jpg",
+        "caption": "Christian Bale, Hugh Jackman, and Scarlett Johansson in The Prestige (2006)",
+        "width": 1385,
+        "height": 2048
+      },
+      "imdbRating": 8.5,
+      "numVotes": 1570621,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 7800,
+      "runtimeMinutes": 130,
+      "metascore": 66,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 2,
+      "titleId": "tt0407887",
+      "title": "The Departed",
+      "originalTitle": "The Departed",
+      "year": 2006,
+      "releaseDate": {
+        "day": 6,
+        "month": 10,
+        "year": 2006
+      },
+      "plot": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_.jpg",
+        "caption": "Leonardo DiCaprio, Jack Nicholson, and Matt Damon in The Departed (2006)",
+        "width": 450,
+        "height": 665
+      },
+      "imdbRating": 8.5,
+      "numVotes": 1539266,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 9060,
+      "runtimeMinutes": 151,
+      "metascore": 85,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 3,
+      "titleId": "tt0416449",
+      "title": "300",
+      "originalTitle": "300",
+      "year": 2006,
+      "releaseDate": {
+        "day": 9,
+        "month": 3,
+        "year": 2007
+      },
+      "plot": "In the ancient battle of Thermopylae, King Leonidas and 300 Spartans fight against Xerxes and his massive Persian army.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjc4OTc0ODgwNV5BMl5BanBnXkFtZTcwNjM1ODE0MQ@@._V1_.jpg",
+        "caption": "300 (2006)",
+        "width": 1944,
+        "height": 2880
+      },
+      "imdbRating": 7.6,
+      "numVotes": 906950,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "runtimeSeconds": 7020,
+      "runtimeMinutes": 117,
+      "metascore": 52,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 4,
+      "titleId": "tt0383574",
+      "title": "Pirates of the Caribbean: Dead Man's Chest",
+      "originalTitle": "Pirates of the Caribbean: Dead Man's Chest",
+      "year": 2006,
+      "releaseDate": {
+        "day": 7,
+        "month": 7,
+        "year": 2006
+      },
+      "plot": "Jack Sparrow races to recover the heart of Davy Jones to avoid enslaving his soul to Jones' service, as other friends and foes seek the heart for their own agenda as well.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTcwODc1MTMxM15BMl5BanBnXkFtZTYwMDg1NzY3._V1_.jpg",
+        "caption": "Johnny Depp, Orlando Bloom, and Keira Knightley in Pirates of the Caribbean: Dead Man's Chest (2006)",
+        "width": 450,
+        "height": 666
+      },
+      "imdbRating": 7.4,
+      "numVotes": 818925,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 9060,
+      "runtimeMinutes": 151,
+      "metascore": 53,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 5,
+      "titleId": "tt0457430",
+      "title": "Pan's Labyrinth",
+      "originalTitle": "El laberinto del fauno",
+      "year": 2006,
+      "releaseDate": {
+        "day": 19,
+        "month": 1,
+        "year": 2007
+      },
+      "plot": "In 1944 Spain, a girl is sent to live with her ruthless stepfather. During the night, she meets a fairy who takes her to an old faun. He tells her she's a princess, but must prove her royalty by surviving three gruesome tasks.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTc1NTAxMWItMWFlNy00MmU2LTkwMTMtNzMwOTg5OTQ5YTFiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ivana Baquero in Pan's Labyrinth (2006)",
+        "width": 1938,
+        "height": 2892
+      },
+      "imdbRating": 8.2,
+      "numVotes": 742544,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "War"
+      ],
+      "runtimeSeconds": 7080,
+      "runtimeMinutes": 118,
+      "metascore": 98,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 6,
+      "titleId": "tt0381061",
+      "title": "Casino Royale",
+      "originalTitle": "Casino Royale",
+      "year": 2006,
+      "releaseDate": {
+        "day": 17,
+        "month": 11,
+        "year": 2006
+      },
+      "plot": "After earning a licence to kill, secret agent James Bond sets out on his first mission as 007. Bond must defeat a private banker funding terrorists in a high-stakes game of poker at Casino Royale, in Montenegro.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMWQ1ZDM4NDktMWY0NC00MjcxLWJlMDMtNmE2MGVhYzRjMWQ0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Daniel Craig and Eva Green in Casino Royale (2006)",
+        "width": 1000,
+        "height": 1487
+      },
+      "imdbRating": 8,
+      "numVotes": 738007,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "runtimeSeconds": 8640,
+      "runtimeMinutes": 144,
+      "metascore": 80,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 7,
+      "titleId": "tt0450259",
+      "title": "Blood Diamond",
+      "originalTitle": "Blood Diamond",
+      "year": 2006,
+      "releaseDate": {
+        "day": 8,
+        "month": 12,
+        "year": 2006
+      },
+      "plot": "A fisherman, a smuggler, and a syndicate of businessmen match wits over the possession of a priceless diamond.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOGYzOGI0YTUtNTAwYy00M2JhLTgyODEtMjlhZTk1Yzc5ZTBhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Leonardo DiCaprio and Djimon Hounsou in Blood Diamond (2006)",
+        "width": 730,
+        "height": 1081
+      },
+      "imdbRating": 8,
+      "numVotes": 621521,
+      "certificate": "R",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 8580,
+      "runtimeMinutes": 143,
+      "metascore": 64,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 8,
+      "titleId": "tt0454921",
+      "title": "The Pursuit of Happyness",
+      "originalTitle": "The Pursuit of Happyness",
+      "year": 2006,
+      "releaseDate": {
+        "day": 15,
+        "month": 12,
+        "year": 2006
+      },
+      "plot": "A struggling salesman takes custody of his son as he's poised to begin a life-changing professional career.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTQ5NjQ0NDI3NF5BMl5BanBnXkFtZTcwNDI0MjEzMw@@._V1_.jpg",
+        "caption": "Will Smith, Brian Howe, Thandiwe Newton, and Jaden Smith in The Pursuit of Happyness (2006)",
+        "width": 1378,
+        "height": 2048
+      },
+      "imdbRating": 8,
+      "numVotes": 613601,
+      "certificate": "PG-13",
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "runtimeSeconds": 7020,
+      "runtimeMinutes": 117,
+      "metascore": 64,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 9,
+      "titleId": "tt0376994",
+      "title": "X-Men: The Last Stand",
+      "originalTitle": "X-Men: The Last Stand",
+      "year": 2006,
+      "releaseDate": {
+        "day": 26,
+        "month": 5,
+        "year": 2006
+      },
+      "plot": "The human government develops a cure for mutations, and Jean Grey becomes a darker uncontrollable persona called the Phoenix who allies with Magneto, causing escalation into an all-out battle for the X-Men.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMThmOWE3OWEtODJmNC00ZDEzLTk4MWUtNzEzM2RiNmJiZmU3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Famke Janssen, Halle Berry, Kelsey Grammer, Anna Paquin, Patrick Stewart, Ben Foster, James Marsden, Hugh Jackman, and Elliot Page in X-Men: The Last Stand (2006)",
+        "width": 978,
+        "height": 1419
+      },
+      "imdbRating": 6.6,
+      "numVotes": 569342,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6240,
+      "runtimeMinutes": 104,
+      "metascore": 58,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 10,
+      "titleId": "tt0206634",
+      "title": "Children of Men",
+      "originalTitle": "Children of Men",
+      "year": 2006,
+      "releaseDate": {
+        "day": 5,
+        "month": 1,
+        "year": 2007
+      },
+      "plot": "In 2027, in a chaotic world in which women have somehow become infertile, a former activist agrees to help transport a miraculously pregnant woman to a sanctuary at sea.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDNkNmNiYzYtYWY0YS00NWEwLTgwMWUtYjM0M2E4Nzk3MzhmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Children of Men (2006)",
+        "width": 1320,
+        "height": 1953
+      },
+      "imdbRating": 7.9,
+      "numVotes": 561767,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6540,
+      "runtimeMinutes": 109,
+      "metascore": 84,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 11,
+      "titleId": "tt0449059",
+      "title": "Little Miss Sunshine",
+      "originalTitle": "Little Miss Sunshine",
+      "year": 2006,
+      "releaseDate": {
+        "day": 18,
+        "month": 8,
+        "year": 2006
+      },
+      "plot": "A family determined to get their young daughter into the finals of a beauty pageant take a cross-country trip in their VW bus.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTgzNTgzODU0NV5BMl5BanBnXkFtZTcwMjEyMjMzMQ@@._V1_.jpg",
+        "caption": "Alan Arkin, Toni Collette, Greg Kinnear, Steve Carell, Paul Dano, and Abigail Breslin in Little Miss Sunshine (2006)",
+        "width": 2033,
+        "height": 3000
+      },
+      "imdbRating": 7.8,
+      "numVotes": 553207,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 6060,
+      "runtimeMinutes": 101,
+      "metascore": 80,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 12,
+      "titleId": "tt0317219",
+      "title": "Cars",
+      "originalTitle": "Cars",
+      "year": 2006,
+      "releaseDate": {
+        "day": 9,
+        "month": 6,
+        "year": 2006
+      },
+      "plot": "On the way to the biggest race of his life, a hotshot rookie race car gets stranded in a rundown town and learns that winning isn't everything in life.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTg5NzY0MzA2MV5BMl5BanBnXkFtZTYwNDc3NTc2._V1_.jpg",
+        "caption": "Paul Newman, Tom Hanks, Billy Crystal, John Goodman, Michael Keaton, Tim Allen, Katherine Helmond, Bonnie Hunt, Cheech Marin, John Ratzenberger, Tony Shalhoub, Andrew Stanton, Mario Andretti, Dave Foley, John Lasseter, Jay Leno, Randy Newman, Jeremy Piven, Owen Wilson, Darla K. Anderson, Jack Angel, Michael Bell, Bob Bergen, Susan Blu, Torbin Xan Bullock, Rodger Bumpass, George Carlin, Scott Clark, Lindsey Collins, William Cone, Bob Costas, Edmund Cupcupin, John Cygan, Jennifer Darling, Paul Dooley, Paul Eiding, Bill Farmer, Brian Fee, Teresa Ganzel, Craig Good, Jan Rabson, Jess Harnell, Jean-Claude Kalache, Richard Kind, Jorgen Klubien, Jenifer Lewis, Sherry Lynn, Danny Mann, Edie McClurg, Mickie McGowan, Laraine Newman, Theodore Newton, Colleen O'Shaughnessey, Adrian Ochoa, Bob Pauley, Bob Peterson, Richard Petty, Steve Purcell, Guido Quaroni, Joe Ranft, Jonas Rivera, Lou Romano, Dan Scanlon, Stephen Schaffer, Ken Schretzmann, Bob Scott, Sonoko Konishi, Michael Wallis, Jim Ward, Humpy Wheeler, Dale Earnhardt Jr., Ray Magliozzi, Tom Magliozzi, Kiel Murray, Phil Lorin, Larry the Cable Guy, Darrell Waltrip, Dan Fogelman, E.J. Holowicki, Artie Kempner, Michael Schumacher, Colette Whitaker, Mike Nelson, A.J. Riebli III, Lynda Petty, Jay Ward, Elissa Knight, Larry Benton, Douglas Keever, Sarah Clark, Richard Cawood, Hooman Khalili, Kathy Coates, Erik Langley, Matty Staudt, Marco Boerries, and Andrea Boerries in Cars (2006)",
+        "width": 450,
+        "height": 667
+      },
+      "imdbRating": 7.3,
+      "numVotes": 527069,
+      "certificate": "G",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 6960,
+      "runtimeMinutes": 116,
+      "metascore": 73,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 13,
+      "titleId": "tt0458352",
+      "title": "The Devil Wears Prada",
+      "originalTitle": "The Devil Wears Prada",
+      "year": 2006,
+      "releaseDate": {
+        "day": 30,
+        "month": 6,
+        "year": 2006
+      },
+      "plot": "With an aspiration to become a journalist, Andy, a smart but sensible young graduate, travels to New York. She starts working as an assistant to one of the city's biggest high fashion magazine editors, the cynical Miranda Priestly.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWM3NTI3YWEtYjJmMy00M2U5LWI1NzEtZWM3ZDY2ZWNjOGRiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "The Devil Wears Prada (2006)",
+        "width": 1693,
+        "height": 2500
+      },
+      "imdbRating": 7,
+      "numVotes": 523292,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 6540,
+      "runtimeMinutes": 109,
+      "metascore": 62,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 14,
+      "titleId": "tt0382625",
+      "title": "The Da Vinci Code",
+      "originalTitle": "The Da Vinci Code",
+      "year": 2006,
+      "releaseDate": {
+        "day": 19,
+        "month": 5,
+        "year": 2006
+      },
+      "plot": "A murder and clues in paintings lead to the discovery of a closely guarded religious mystery.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjIxMjQyMTc3Nl5BMl5BanBnXkFtZTcwMTA1MDUzMw@@._V1_.jpg",
+        "caption": "Tom Hanks and Audrey Tautou in The Da Vinci Code (2006)",
+        "width": 1377,
+        "height": 2048
+      },
+      "imdbRating": 6.6,
+      "numVotes": 482880,
+      "certificate": "PG-13",
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 8940,
+      "runtimeMinutes": 149,
+      "metascore": 46,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 15,
+      "titleId": "tt0443453",
+      "title": "Borat",
+      "originalTitle": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
+      "year": 2006,
+      "releaseDate": {
+        "day": 3,
+        "month": 11,
+        "year": 2006
+      },
+      "plot": "Kazakh TV talking head Borat is dispatched to the United States to report on the greatest country in the world.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTk0MTQ3NDQ4Ml5BMl5BanBnXkFtZTcwOTQ3OTQzMw@@._V1_.jpg",
+        "caption": "Sacha Baron Cohen in Borat (2006)",
+        "width": 1385,
+        "height": 2048
+      },
+      "imdbRating": 7.4,
+      "numVotes": 472865,
+      "certificate": "R",
+      "genres": [
+        "Comedy"
+      ],
+      "runtimeSeconds": 5040,
+      "runtimeMinutes": 84,
+      "metascore": 89,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 16,
+      "titleId": "tt0405094",
+      "title": "The Lives of Others",
+      "originalTitle": "Das Leben der Anderen",
+      "year": 2006,
+      "releaseDate": {
+        "day": 30,
+        "month": 3,
+        "year": 2007
+      },
+      "plot": "In 1984 East Berlin, an agent of the secret police conducting surveillance on a writer and his lover finds himself becoming increasingly absorbed by their lives.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjM1N2Q0YWEtN2E5MC00NDM3LTk2NTEtMTc1NTk5OTA5ZGIzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Martina Gedeck, Sebastian Koch, and Ulrich M\u00fche in The Lives of Others (2006)",
+        "width": 868,
+        "height": 1297
+      },
+      "imdbRating": 8.4,
+      "numVotes": 440611,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 8220,
+      "runtimeMinutes": 137,
+      "metascore": 89,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 17,
+      "titleId": "tt0317919",
+      "title": "Mission: Impossible III",
+      "originalTitle": "Mission: Impossible III",
+      "year": 2006,
+      "releaseDate": {
+        "day": 5,
+        "month": 5,
+        "year": 2006
+      },
+      "plot": "IMF agent Ethan Hunt comes into conflict with a dangerous and sadistic arms dealer who threatens his life and his fianc\u00e9e in response.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzY1MzdjMjYtNDJiZS00N2U4LWI0MWQtZTRiZWYxMzU3ZmI4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tom Cruise in Mission: Impossible III (2006)",
+        "width": 1600,
+        "height": 2376
+      },
+      "imdbRating": 6.9,
+      "numVotes": 422182,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7560,
+      "runtimeMinutes": 126,
+      "metascore": 66,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 18,
+      "titleId": "tt0454848",
+      "title": "Inside Man",
+      "originalTitle": "Inside Man",
+      "year": 2006,
+      "releaseDate": {
+        "day": 24,
+        "month": 3,
+        "year": 2006
+      },
+      "plot": "A police detective, a bank robber and a high-power broker enter high-stakes negotiations after the criminal's brilliant heist spirals into a hostage situation.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWFmMDZkYjktMjYyOS00MTM2LTg2MmQtOTUwMzJjMDlhZDY1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jodie Foster, Denzel Washington, and Clive Owen in Inside Man (2006)",
+        "width": 1013,
+        "height": 1500
+      },
+      "imdbRating": 7.6,
+      "numVotes": 422133,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "runtimeSeconds": 7740,
+      "runtimeMinutes": 129,
+      "metascore": 76,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 19,
+      "titleId": "tt0477347",
+      "title": "Night at the Museum",
+      "originalTitle": "Night at the Museum",
+      "year": 2006,
+      "releaseDate": {
+        "day": 22,
+        "month": 12,
+        "year": 2006
+      },
+      "plot": "A newly recruited night security guard at the Museum of Natural History discovers that an ancient curse causes the animals and exhibits on display to come to life and wreak havoc.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGMyYjYyZDAtNzRiZC00ZjRkLTkwYjktODkxODQzNTFiMTVmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Robin Williams, Ben Stiller, Pierfrancesco Favino, Patrick Gallagher, Mizuo Peck, Rami Malek, and Crystal the Monkey in Night at the Museum (2006)",
+        "width": 1083,
+        "height": 1600
+      },
+      "imdbRating": 6.5,
+      "numVotes": 405453,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family"
+      ],
+      "runtimeSeconds": 6480,
+      "runtimeMinutes": 108,
+      "metascore": 48,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 20,
+      "titleId": "tt0443543",
+      "title": "The Illusionist",
+      "originalTitle": "The Illusionist",
+      "year": 2006,
+      "releaseDate": {
+        "day": 1,
+        "month": 9,
+        "year": 2006
+      },
+      "plot": "In turn-of-the-century Vienna, a magician uses his abilities to secure the love of a woman far above his social standing.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzNmYmI4YWMtMGFkOS00ODVkLTg3MTEtOTExNDg3ZjQ0MGM3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Edward Norton, Jessica Biel, and Paul Giamatti in The Illusionist (2006)",
+        "width": 1050,
+        "height": 1500
+      },
+      "imdbRating": 7.5,
+      "numVotes": 402748,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Mystery"
+      ],
+      "runtimeSeconds": 6600,
+      "runtimeMinutes": 110,
+      "metascore": 68,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 21,
+      "titleId": "tt0389860",
+      "title": "Click",
+      "originalTitle": "Click",
+      "year": 2006,
+      "releaseDate": {
+        "day": 23,
+        "month": 6,
+        "year": 2006
+      },
+      "plot": "A workaholic architect finds a universal remote that allows him to fast-forward and rewind to different parts of his life. Complications arise when the remote starts to overrule his choices.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTA1MTUxNDY4NzReQTJeQWpwZ15BbWU2MDE3ODAxNw@@._V1_.jpg",
+        "caption": "Adam Sandler in Click (2006)",
+        "width": 450,
+        "height": 668
+      },
+      "imdbRating": 6.4,
+      "numVotes": 383438,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 6420,
+      "runtimeMinutes": 107,
+      "metascore": 45,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 22,
+      "titleId": "tt0457939",
+      "title": "The Holiday",
+      "originalTitle": "The Holiday",
+      "year": 2006,
+      "releaseDate": {
+        "day": 8,
+        "month": 12,
+        "year": 2006
+      },
+      "plot": "Amanda lives in LA and is a movie trailer editor. Iris lives in Surrey and is a journalist. The two decide to swap houses for two weeks at Christmas - both trying to forget their troubled love lives, until love finds them anyways.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZmEwNDg0M2QtMDdiNy00YTliLTk4ZjctOThjZjczODVmMTdkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Cameron Diaz, Jude Law, Kate Winslet, and Jack Black in The Holiday (2006)",
+        "width": 800,
+        "height": 1200
+      },
+      "imdbRating": 7,
+      "numVotes": 364765,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "runtimeSeconds": 8160,
+      "runtimeMinutes": 136,
+      "metascore": 52,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 23,
+      "titleId": "tt0472043",
+      "title": "Apocalypto",
+      "originalTitle": "Apocalypto",
+      "year": 2006,
+      "releaseDate": {
+        "day": 8,
+        "month": 12,
+        "year": 2006
+      },
+      "plot": "As the Mayan kingdom faces its decline, a young man is taken on a perilous journey to a world ruled by fear and oppression.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzJkNzI3ZmEtZmRhOS00YTM1LWI3OTAtZmVjZmNkODIxNmFmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Mar\u00eda Isabel D\u00edaz Lago, Antonio Monroi, Mayra Serbulo, Pepe Su\u00e1rez, Gerardo Taracena, Raoul Max Trujillo, Jonathan Brewer, Hiram Soto, Morris Birdyellowhead, Rudy Youngblood, Dalia Hern\u00e1ndez, Sayuri Gutierrez, Ricardo Diaz Mendoza, Carlos Emilio B\u00e1ez, Israel R\u00edos, Ariel Galvan, Iazua Larios, Amilcar Ram\u00edrez, Bernardo Ruiz, Espiridion Acosta Cache, Itandehui Gutierrez, Israel Contreras, Lorena Heranandez, Rodolfo Palacios, and Carlos Ramos in Apocalypto (2006)",
+        "width": 1200,
+        "height": 1779
+      },
+      "imdbRating": 7.8,
+      "numVotes": 354477,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "runtimeSeconds": 8340,
+      "runtimeMinutes": 139,
+      "metascore": 68,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 24,
+      "titleId": "tt0453467",
+      "title": "Deja Vu",
+      "originalTitle": "Deja Vu",
+      "year": 2006,
+      "releaseDate": {
+        "day": 22,
+        "month": 11,
+        "year": 2006
+      },
+      "plot": "After a ferry is bombed in New Orleans, an A.T.F. agent joins a unique investigation using experimental surveillance technology to find the bomber, but soon finds himself becoming obsessed with one of the victims.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzEwNTAwNjEwMV5BMl5BanBnXkFtZTYwMzgzMjA3._V1_.jpg",
+        "caption": "Denzel Washington and Paula Patton in Deja Vu (2006)",
+        "width": 367,
+        "height": 541
+      },
+      "imdbRating": 7.1,
+      "numVotes": 343540,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Crime",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 7560,
+      "runtimeMinutes": 126,
+      "metascore": 59,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 25,
+      "titleId": "tt0425210",
+      "title": "Lucky Number Slevin",
+      "originalTitle": "Lucky Number Slevin",
+      "year": 2006,
+      "releaseDate": {
+        "day": 7,
+        "month": 4,
+        "year": 2006
+      },
+      "plot": "A case of mistaken identity lands Slevin into the middle of a war being plotted by two of the city's rival crime bosses. Under constant surveillance by Detective Brikowski and assassin Goodkat, he must get them before they get him.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzJkYjA4YjEtMTZlZi00NjFjLTgwNDMtN2VhYTY0MDU3ZjcwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Morgan Freeman, Bruce Willis, Josh Hartnett, and Lucy Liu in Lucky Number Slevin (2006)",
+        "width": 1519,
+        "height": 2250
+      },
+      "imdbRating": 7.7,
+      "numVotes": 337558,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6600,
+      "runtimeMinutes": 110,
+      "metascore": 53,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 26,
+      "titleId": "tt0463985",
+      "title": "The Fast and the Furious: Tokyo Drift",
+      "originalTitle": "The Fast and the Furious: Tokyo Drift",
+      "year": 2006,
+      "releaseDate": {
+        "day": 16,
+        "month": 6,
+        "year": 2006
+      },
+      "plot": "A teenager becomes a major competitor in the world of drift racing after moving in with his father in Tokyo to avoid a jail sentence in America.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTQ2NTMxODEyNV5BMl5BanBnXkFtZTcwMDgxMjA0MQ@@._V1_.jpg",
+        "caption": "Lucas Black, Zachery Ty Bryan, Trula M. Marcus, and Damien Marzette in The Fast and the Furious: Tokyo Drift (2006)",
+        "width": 1500,
+        "height": 2216
+      },
+      "imdbRating": 6.1,
+      "numVotes": 327837,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6240,
+      "runtimeMinutes": 104,
+      "metascore": 45,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 27,
+      "titleId": "tt0449467",
+      "title": "Babel",
+      "originalTitle": "Babel",
+      "year": 2006,
+      "releaseDate": {
+        "day": 10,
+        "month": 11,
+        "year": 2006
+      },
+      "plot": "Tragedy strikes a married couple on vacation in the Moroccan desert, which jump starts an interlocking story involving four different families.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDY3YjliMzgtMTkxYi00MmRkLWI1YTktNGQ3NGJhNzVhNzg5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Babel (2006)",
+        "width": 576,
+        "height": 864
+      },
+      "imdbRating": 7.4,
+      "numVotes": 327785,
+      "certificate": "R",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 8580,
+      "runtimeMinutes": 143,
+      "metascore": 69,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 28,
+      "titleId": "tt0438097",
+      "title": "Ice Age: The Meltdown",
+      "originalTitle": "Ice Age: The Meltdown",
+      "year": 2006,
+      "releaseDate": {
+        "day": 31,
+        "month": 3,
+        "year": 2006
+      },
+      "plot": "Manny, Sid and Diego discover that the ice age is coming to an end, and join everybody for a journey to higher ground. On the trip, they discover that Manny is not in fact the last of the woolly mammoths.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjAwODg3OTAxMl5BMl5BanBnXkFtZTcwMjg2NjYyMw@@._V1_.jpg",
+        "caption": "Chris Wedge in Ice Age: The Meltdown (2006)",
+        "width": 1383,
+        "height": 2048
+      },
+      "imdbRating": 6.8,
+      "numVotes": 315664,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 5460,
+      "runtimeMinutes": 91,
+      "metascore": 59,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 29,
+      "titleId": "tt0348150",
+      "title": "Superman Returns",
+      "originalTitle": "Superman Returns",
+      "year": 2006,
+      "releaseDate": {
+        "day": 30,
+        "month": 6,
+        "year": 2006
+      },
+      "plot": "Superman returns to Earth after spending five years in space examining his homeworld Krypton. But he finds things have changed while he was gone, and he must once again prove himself important to the world.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjg1ZGRiMTEtYmU4Zi00NTkwLWJmODQtMjU3MTAyMGQ2OGZlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Brandon Routh in Superman Returns (2006)",
+        "width": 1700,
+        "height": 2511
+      },
+      "imdbRating": 6.1,
+      "numVotes": 302052,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 9240,
+      "runtimeMinutes": 154,
+      "metascore": 72,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 30,
+      "titleId": "tt0396171",
+      "title": "Perfume: The Story of a Murderer",
+      "originalTitle": "Perfume: The Story of a Murderer",
+      "year": 2006,
+      "releaseDate": {
+        "day": 5,
+        "month": 1,
+        "year": 2007
+      },
+      "plot": "Jean-Baptiste Grenouille, born with a superior olfactory sense, creates the world's finest perfume. His work, however, takes a dark turn as he searches for the ultimate scent.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTg2Mzk2NjkzNl5BMl5BanBnXkFtZTYwMzIzOTc2._V1_.jpg",
+        "caption": "Perfume: The Story of a Murderer (2006)",
+        "width": 449,
+        "height": 666
+      },
+      "imdbRating": 7.5,
+      "numVotes": 277725,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 8820,
+      "runtimeMinutes": 147,
+      "metascore": 56,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 31,
+      "titleId": "tt0479884",
+      "title": "Crank",
+      "originalTitle": "Crank",
+      "year": 2006,
+      "releaseDate": {
+        "day": 1,
+        "month": 9,
+        "year": 2006
+      },
+      "plot": "Professional assassin Chev Chelios learns his rival has injected him with a poison that will kill him if his heart rate drops.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjg0NjAxNDY4MV5BMl5BanBnXkFtZTcwODA5MjMzMw@@._V1_.jpg",
+        "caption": "Jason Statham in Crank (2006)",
+        "width": 1373,
+        "height": 2048
+      },
+      "imdbRating": 6.9,
+      "numVotes": 275954,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5280,
+      "runtimeMinutes": 88,
+      "metascore": 57,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 32,
+      "titleId": "tt0384537",
+      "title": "Silent Hill",
+      "originalTitle": "Silent Hill",
+      "year": 2006,
+      "releaseDate": {
+        "day": 21,
+        "month": 4,
+        "year": 2006
+      },
+      "plot": "Rose Da Silva takes her adopted daughter, Sharon, to the town of Silent Hill in an attempt to cure her of her ailment. After a violent car crash, Sharon disappears and Rose begins a horrific journey to get her back.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTczZmZlZmEtODU4ZS00YzgzLThiMDUtMGE0ZmJhYzdhZGY5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Radha Mitchell in Silent Hill (2006)",
+        "width": 736,
+        "height": 1089
+      },
+      "imdbRating": 6.5,
+      "numVotes": 260098,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "runtimeSeconds": 7500,
+      "runtimeMinutes": 125,
+      "metascore": 31,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 33,
+      "titleId": "tt0414993",
+      "title": "The Fountain",
+      "originalTitle": "The Fountain",
+      "year": 2006,
+      "releaseDate": {
+        "day": 22,
+        "month": 11,
+        "year": 2006
+      },
+      "plot": "As a modern-day scientist, Tommy is struggling with mortality, desperately searching for the medical breakthrough that will save the life of his cancer-stricken wife, Izzi.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTU5OTczMTcxMV5BMl5BanBnXkFtZTcwNDg3MTEzMw@@._V1_.jpg",
+        "caption": "Rachel Weisz and Hugh Jackman in The Fountain (2006)",
+        "width": 1387,
+        "height": 2048
+      },
+      "imdbRating": 7.1,
+      "numVotes": 256981,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Romance"
+      ],
+      "runtimeSeconds": 5820,
+      "runtimeMinutes": 97,
+      "metascore": 51,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 34,
+      "titleId": "tt0420223",
+      "title": "Stranger Than Fiction",
+      "originalTitle": "Stranger Than Fiction",
+      "year": 2006,
+      "releaseDate": {
+        "day": 10,
+        "month": 11,
+        "year": 2006
+      },
+      "plot": "I.R.S. auditor Harold Crick suddenly finds his mundane Chicago life to be the subject of narration only he can hear: narration that begins to affect his entire existence, from his work to his love life to his death.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzFmZjZhOTktYWIxZS00YzM1LWEzNmQtMDM2YjlhYmI2MDVlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Will Ferrell in Stranger Than Fiction (2006)",
+        "width": 1378,
+        "height": 2048
+      },
+      "imdbRating": 7.5,
+      "numVotes": 244245,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 6780,
+      "runtimeMinutes": 113,
+      "metascore": 67,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 35,
+      "titleId": "tt0479143",
+      "title": "Rocky Balboa",
+      "originalTitle": "Rocky Balboa",
+      "year": 2006,
+      "releaseDate": {
+        "day": 20,
+        "month": 12,
+        "year": 2006
+      },
+      "plot": "Thirty years after the ring of the first bell, Rocky Balboa comes out of retirement and dons his gloves for his final fight against the reigning heavyweight champ Mason 'The Line' Dixon.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTM2OTUzNDE3NV5BMl5BanBnXkFtZTcwODczMzkzMQ@@._V1_.jpg",
+        "caption": "Sylvester Stallone in Rocky Balboa (2006)",
+        "width": 1360,
+        "height": 2010
+      },
+      "imdbRating": 7.1,
+      "numVotes": 241716,
+      "certificate": "PG",
+      "genres": [
+        "Drama",
+        "Sport"
+      ],
+      "runtimeSeconds": 6120,
+      "runtimeMinutes": 102,
+      "metascore": 63,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 36,
+      "titleId": "tt0489270",
+      "title": "Saw III",
+      "originalTitle": "Saw III",
+      "year": 2006,
+      "releaseDate": {
+        "day": 27,
+        "month": 10,
+        "year": 2006
+      },
+      "plot": "Jigsaw abducts a doctor in order to keep himself alive while he watches his new apprentice put an unlucky citizen named Jeff through a brutal test.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODQ4YTAwZTItZGFjZi00YjNiLTllYzUtYWY3OWM2OTQzODVkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Dina Meyer, David A. Armstrong, Angus Macfadyen, Donnie Wahlberg, Tobin Bell, Lyriq Bent, Shauna Black, Timothy Burd, Mark Burg, Mike Butters, Charlie Clouser, Darrell Dennis, Barry Flatman, Kevin Greutert, Paul Gutrecht, David Hackl, Zoe Heath, Kelly Jones, Sandy Kellerman, Oren Koules, J. LaRose, Jane Luk, Costas Mandylor, Christopher Marren, Billy Parrott, Brian Paul, Mark Poyser, Kim Roberts, Betsy Russell, Shawnee Smith, Sean Sullivan, Dylan Trowbridge, Alan Van Sprang, Larry Yachimec, Bill Vibert, Darren Lynn Bousman, Leigh Whannell, Debra McCabe, James Wan, Niamh Wilson, Bahar Soomekh, Vincent Rother, Dan Sudek, and Stefan Georgiou in Saw III (2006)",
+        "width": 1012,
+        "height": 1500
+      },
+      "imdbRating": 6.2,
+      "numVotes": 226436,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6480,
+      "runtimeMinutes": 108,
+      "metascore": 48,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 37,
+      "titleId": "tt0401855",
+      "title": "Underworld: Evolution",
+      "originalTitle": "Underworld: Evolution",
+      "year": 2006,
+      "releaseDate": {
+        "day": 20,
+        "month": 1,
+        "year": 2006
+      },
+      "plot": "Picking up directly from the previous movie, vampire warrior Selene and the half werewolf Michael hunt for clues to reveal the history of their races and the war between them.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjEzNDY1OTQwOV5BMl5BanBnXkFtZTcwNjcxMTIzMw@@._V1_.jpg",
+        "caption": "Kate Beckinsale in Underworld: Evolution (2006)",
+        "width": 1377,
+        "height": 2048
+      },
+      "imdbRating": 6.7,
+      "numVotes": 216943,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6360,
+      "runtimeMinutes": 106,
+      "metascore": 36,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 38,
+      "titleId": "tt0387808",
+      "title": "Idiocracy",
+      "originalTitle": "Idiocracy",
+      "year": 2006,
+      "releaseDate": {
+        "day": 25,
+        "month": 1,
+        "year": 2007
+      },
+      "plot": "Corporal Joe Bauers, a decidedly average American, is selected for a top-secret hibernation program but is forgotten and left to awaken to a future so incredibly moronic that he's easily the most intelligent person alive.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNmNhN2NiOGUtOGM0Yy00ZjA3LTljNjAtNGZjZDZlNzdlZDcxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Idiocracy (2006)",
+        "width": 1014,
+        "height": 1500
+      },
+      "imdbRating": 6.5,
+      "numVotes": 212504,
+      "certificate": "R",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 5040,
+      "runtimeMinutes": 84,
+      "metascore": 66,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 39,
+      "titleId": "tt0366548",
+      "title": "Happy Feet",
+      "originalTitle": "Happy Feet",
+      "year": 2006,
+      "releaseDate": {
+        "day": 17,
+        "month": 11,
+        "year": 2006
+      },
+      "plot": "Into the world of the Emperor Penguins, who find their soul mates through song, a penguin is born who cannot sing. But he can tap dance something fierce!",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjViZDZhNjctM2MwOS00MDdhLWIwMTYtNjNmNGY2OGMzZWZhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Nicole Kidman, Robin Williams, Elijah Wood, Brittany Murphy, Hugh Jackman, and Hugo Weaving in Happy Feet (2006)",
+        "width": 3000,
+        "height": 4431
+      },
+      "imdbRating": 6.4,
+      "numVotes": 212324,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 6480,
+      "runtimeMinutes": 108,
+      "metascore": 77,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 40,
+      "titleId": "tt0415306",
+      "title": "Talladega Nights: The Ballad of Ricky Bobby",
+      "originalTitle": "Talladega Nights: The Ballad of Ricky Bobby",
+      "year": 2006,
+      "releaseDate": {
+        "day": 4,
+        "month": 8,
+        "year": 2006
+      },
+      "plot": "Number one NASCAR driver Ricky Bobby stays atop the heap thanks to a pact with his best friend and teammate, Cal Naughton, Jr. But when a French Formula One driver, makes his way up the ladder, Ricky Bobby's talent and devotion are put to the test.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzAzOTk1OTIyM15BMl5BanBnXkFtZTcwNDIzNTQzMQ@@._V1_.jpg",
+        "caption": "John C. Reilly, Will Ferrell, Michael Clarke Duncan, Leslie Bibb, and Sacha Baron Cohen in Talladega Nights: The Ballad of Ricky Bobby (2006)",
+        "width": 2019,
+        "height": 3000
+      },
+      "imdbRating": 6.6,
+      "numVotes": 212304,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Sport"
+      ],
+      "runtimeSeconds": 6480,
+      "runtimeMinutes": 108,
+      "metascore": 66,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 41,
+      "titleId": "tt0455590",
+      "title": "The Last King of Scotland",
+      "originalTitle": "The Last King of Scotland",
+      "year": 2006,
+      "releaseDate": {
+        "day": 19,
+        "month": 1,
+        "year": 2007
+      },
+      "plot": "Based on the events of the brutal Ugandan dictator Idi Amin's regime as seen by his personal physician during the 1970s.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDg4NjA0YzctNWMzMi00NmY1LTkyMGYtZjI4ZjFmZjMzMGE0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Forest Whitaker in The Last King of Scotland (2006)",
+        "width": 1359,
+        "height": 2004
+      },
+      "imdbRating": 7.6,
+      "numVotes": 204764,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "runtimeSeconds": 7380,
+      "runtimeMinutes": 123,
+      "metascore": 74,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 42,
+      "titleId": "tt0327084",
+      "title": "Over the Hedge",
+      "originalTitle": "Over the Hedge",
+      "year": 2006,
+      "releaseDate": {
+        "day": 19,
+        "month": 5,
+        "year": 2006
+      },
+      "plot": "A scheming raccoon fools a mismatched family of forest creatures into helping him repay a debt of food, by invading the new suburban sprawl that popped up while they were hibernating...and learns a lesson about family himself.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BN2ZiYjQ2ZDctMDI3Yy00YmViLWEyMGYtZTYxMmE2MGM5Y2M5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Over the Hedge (2006)",
+        "width": 1316,
+        "height": 1950
+      },
+      "imdbRating": 6.7,
+      "numVotes": 201372,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 4980,
+      "runtimeMinutes": 83,
+      "metascore": 67,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 43,
+      "titleId": "tt0454841",
+      "title": "The Hills Have Eyes",
+      "originalTitle": "The Hills Have Eyes",
+      "year": 2006,
+      "releaseDate": {
+        "day": 10,
+        "month": 3,
+        "year": 2006
+      },
+      "plot": "A traveling family falls victim to a group of mutated cannibals in a desert far away from civilization.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzk0MTg5MzEyOF5BMl5BanBnXkFtZTcwNDUyMzIzMQ@@._V1_.jpg",
+        "caption": "Vinessa Shaw in The Hills Have Eyes (2006)",
+        "width": 1741,
+        "height": 2700
+      },
+      "imdbRating": 6.4,
+      "numVotes": 194462,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6420,
+      "runtimeMinutes": 107,
+      "metascore": 52,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 44,
+      "titleId": "tt0454945",
+      "title": "She's the Man",
+      "originalTitle": "She's the Man",
+      "year": 2006,
+      "releaseDate": {
+        "day": 17,
+        "month": 3,
+        "year": 2006
+      },
+      "plot": "When her brother decides to ditch for a couple weeks, Viola heads over to his elite boarding school, disguised as him, and proceeds to fall for his school's star soccer player, and soon learns she's not the only one with romantic troubles.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjVkM2VmZDYtM2E2OS00NTIwLThlZjctM2NkM2QwYmIxMTFiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "She's the Man (2006)",
+        "width": 800,
+        "height": 1178
+      },
+      "imdbRating": 6.4,
+      "numVotes": 190787,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Sport"
+      ],
+      "runtimeSeconds": 6300,
+      "runtimeMinutes": 105,
+      "metascore": 45,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 45,
+      "titleId": "tt0414982",
+      "title": "Final Destination 3",
+      "originalTitle": "Final Destination 3",
+      "year": 2006,
+      "releaseDate": {
+        "day": 10,
+        "month": 2,
+        "year": 2006
+      },
+      "plot": "Wendy Christensen and a group of teens who escaped a fatal roller-coaster crash face a bloody date with Death.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzI3NzE0MmEtYmFjZC00NTJhLWI4OWUtNGRmNDEwNGU3NzM0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Alexz Johnson, Kris Lemche, Yan-Kay Crystal Lowe, Ryan Merriman, Chelan Simmons, Mary Elizabeth Winstead, Gina Holden, Sam Easton, Jesse Moss, Texas Battle, Dylan Basu, and Alberto Ghisi in Final Destination 3 (2006)",
+        "width": 540,
+        "height": 800
+      },
+      "imdbRating": 5.9,
+      "numVotes": 182492,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5580,
+      "runtimeMinutes": 93,
+      "metascore": 43,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 46,
+      "titleId": "tt0498380",
+      "title": "Letters from Iwo Jima",
+      "originalTitle": "Letters from Iwo Jima",
+      "year": 2006,
+      "releaseDate": {
+        "day": 2,
+        "month": 2,
+        "year": 2007
+      },
+      "plot": "The story of the battle of Iwo Jima between the United States and Imperial Japan during World War II, as told from the perspective of the Japanese who fought it.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjE0NzgwODI4M15BMl5BanBnXkFtZTcwNjg3OTA0MQ@@._V1_.jpg",
+        "caption": "Letters from Iwo Jima (2006)",
+        "width": 511,
+        "height": 755
+      },
+      "imdbRating": 7.8,
+      "numVotes": 176306,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "runtimeSeconds": 8460,
+      "runtimeMinutes": 141,
+      "metascore": 89,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 47,
+      "titleId": "tt0410297",
+      "title": "The Lake House",
+      "originalTitle": "The Lake House",
+      "year": 2006,
+      "releaseDate": {
+        "day": 16,
+        "month": 6,
+        "year": 2006
+      },
+      "plot": "A lonely doctor who once occupied an unusual lakeside house begins to exchange love letters with its former resident, a frustrated architect. They must try to unravel the mystery behind their extraordinary romance before it's too late.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTYxMTgxNDI3MV5BMl5BanBnXkFtZTcwMzIxMTIzMw@@._V1_.jpg",
+        "caption": "Sandra Bullock and Keanu Reeves in The Lake House (2006)",
+        "width": 1385,
+        "height": 2048
+      },
+      "imdbRating": 6.8,
+      "numVotes": 164495,
+      "certificate": "PG",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "runtimeSeconds": 5940,
+      "runtimeMinutes": 99,
+      "metascore": 52,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 48,
+      "titleId": "tt0475394",
+      "title": "Smokin' Aces",
+      "originalTitle": "Smokin' Aces",
+      "year": 2006,
+      "releaseDate": {
+        "day": 26,
+        "month": 1,
+        "year": 2007
+      },
+      "plot": "When a Las Vegas performer-turned-snitch named Buddy Israel decides to turn state's evidence and testify against the mob, it seems that a whole lot of people would like to make sure he's no longer breathing.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzM4YmE2NWMtMjYxZS00OWU4LTk5NTctYzA4YTFlOTExNDM0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ben Affleck, Andy Garcia, Ray Liotta, Jeremy Piven, Ryan Reynolds, Alicia Keys, and Chris Pine in Smokin' Aces (2006)",
+        "width": 1012,
+        "height": 1500
+      },
+      "imdbRating": 6.6,
+      "numVotes": 157100,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 6480,
+      "runtimeMinutes": 108,
+      "metascore": 45,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 49,
+      "titleId": "tt0385880",
+      "title": "Monster House",
+      "originalTitle": "Monster House",
+      "year": 2006,
+      "releaseDate": {
+        "day": 21,
+        "month": 7,
+        "year": 2006
+      },
+      "plot": "Three teens discover that their neighbor's house is really a living, breathing, scary monster.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTIzNjE1NDg1N15BMl5BanBnXkFtZTcwOTg2NTMzMQ@@._V1_.jpg",
+        "caption": "Mitchel Musso, Sam Lerner, and Spencer Locke in Monster House (2006)",
+        "width": 1974,
+        "height": 2940
+      },
+      "imdbRating": 6.7,
+      "numVotes": 153706,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "runtimeSeconds": 5460,
+      "runtimeMinutes": 91,
+      "metascore": 68,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 50,
+      "titleId": "tt0417148",
+      "title": "Snakes on a Plane",
+      "originalTitle": "Snakes on a Plane",
+      "year": 2006,
+      "releaseDate": {
+        "day": 18,
+        "month": 8,
+        "year": 2006
+      },
+      "plot": "An FBI agent takes on a plane full of deadly venomous snakes, deliberately released to kill a witness being flown from Honolulu to Los Angeles to testify against a mob boss.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMThjYjk2MDItYTFiNS00N2I1LTgwYjktMWM4ODFjYTczYmUxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Samuel L. Jackson and Nathan Phillips in Snakes on a Plane (2006)",
+        "width": 550,
+        "height": 815
+      },
+      "imdbRating": 5.5,
+      "numVotes": 149068,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Crime"
+      ],
+      "runtimeSeconds": 6300,
+      "runtimeMinutes": 105,
+      "metascore": 58,
+      "credits": [],
+      "titleType": "movie"
+    }
+  ]
+}

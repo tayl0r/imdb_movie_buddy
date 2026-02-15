@@ -1,0 +1,101 @@
+year,rank,title,imdb_score,num_ratings
+2000,1,Gladiator,8.5,1830068
+2008,2,The Dark Knight,9.1,3133335
+2008,3,Slumdog Millionaire,8,906785
+2006,4,The Departed,8.5,1540193
+2003,5,The Lord of the Rings: The Return of the King,9,2144362
+2006,6,Pan's Labyrinth,8.2,742822
+2006,7,Blood Diamond,8,621814
+2002,8,City of God,8.6,864265
+2003,9,Finding Nemo,8.2,1197103
+2007,10,No Country for Old Men,8.2,1174441
+2005,11,Cinderella Man,8,208115
+2005,12,V for Vendetta,8.1,1239335
+2007,13,There Will Be Blood,8.2,700938
+2001,14,Donnie Darko,8,905086
+2005,15,Sin City,8,818215
+2003,16,Mystic River,7.9,518408
+2006,17,300,7.6,907384
+2008,18,Let the Right One In,7.8,238774
+2001,19,A Beautiful Mind,8.2,1047209
+2005,20,Munich,7.5,251989
+2009,21,Up,8.3,1223661
+2000,22,Memento,8.4,1423641
+2002,23,The Lord of the Rings: The Two Towers,8.8,1937865
+2006,24,The Prestige,8.5,1571659
+2008,25,WALL·E,8.4,1307125
+2000,26,Requiem for a Dream,8.3,966116
+2007,27,Into the Wild,8,692433
+2002,28,The Pianist,8.5,1003318
+2009,29,Inglourious Basterds,8.4,1760419
+2001,30,The Lord of the Rings: The Fellowship of the Ring,8.9,2185092
+2003,31,Lost in Translation,7.7,524606
+2008,32,The Hurt Locker,7.5,493910
+2004,33,Eternal Sunshine of the Spotless Mind,8.3,1172607
+2000,34,"Crouching Tiger, Hidden Dragon",7.9,292904
+2000,35,American Psycho,7.6,825143
+2003,36,Kill Bill: Vol. 1,8.2,1293948
+2002,37,Road to Perdition,7.6,299116
+2005,38,Walk the Line,7.8,279218
+2003,39,The Last Samurai,7.8,501372
+2004,40,Million Dollar Baby,8.1,761685
+2000,41,"O Brother, Where Art Thou?",7.7,349540
+2004,42,Downfall,8.2,397989
+2001,43,Black Hawk Down,7.7,451470
+2004,44,Hotel Rwanda,8.1,390253
+2008,45,The Curious Case of Benjamin Button,7.8,740227
+2007,46,Eastern Promises,7.6,276069
+2006,47,Little Miss Sunshine,7.8,553526
+2004,48,The Incredibles,8,890614
+2007,49,American Gangster,7.8,482444
+2008,50,Gran Torino,8.1,856950
+2009,51,Zombieland,7.5,662560
+2008,52,The Wrestler,7.9,330089
+2003,53,Big Fish,7.9,476669
+2009,54,Crazy Heart,7.2,98727
+2008,55,Doubt,7.5,145508
+2002,56,28 Days Later,7.5,538236
+2005,57,Thank You for Smoking,7.5,234940
+2007,58,The Assassination of Jesse James by the Coward Robert Ford,7.5,202962
+2002,59,The Bourne Identity,7.8,609610
+2008,60,Taken,7.7,668274
+2000,61,Snatch,8.2,970189
+2006,62,Casino Royale,8,738473
+2007,63,The Bourne Ultimatum,8,681224
+2000,64,Almost Famous,7.9,313145
+2006,65,Letters from Iwo Jima,7.8,176350
+2002,66,Gangs of New York,7.5,501648
+2006,67,Children of Men,7.9,562023
+2006,68,The Pursuit of Happyness,8,614001
+2003,69,Tears of the Sun,6.6,136924
+2009,70,Avatar,7.9,1485469
+2004,71,Collateral,7.5,464001
+2005,72,Batman Begins,8.2,1698280
+2004,73,Kill Bill: Vol. 2,8,862521
+2004,74,The Aviator,7.5,405049
+2004,75,Saw,7.6,505518
+2008,76,Kung Fu Panda,7.6,572678
+2001,77,Ocean's Eleven,7.7,667993
+2007,78,Superbad,7.6,686499
+2004,79,Man on Fire,7.7,416017
+2002,80,Minority Report,7.6,617349
+2008,81,Seven Pounds,7.6,324698
+2000,82,Traffic,7.5,229351
+2006,83,United 93,7.6,115136
+2004,84,The Bourne Supremacy,7.7,510202
+2001,85,"Monsters, Inc.",8.1,1064267
+2001,86,Shrek,7.9,802919
+2008,87,The Boy in the Striped Pajamas,7.7,271306
+2002,88,Catch Me If You Can,8.1,1219855
+2008,89,Iron Man,7.9,1212490
+2009,90,Cloudy with a Chance of Meatballs,6.9,282276
+2001,91,Training Day,7.8,512220
+2007,92,Sunshine,7.2,284362
+2003,93,21 Grams,7.6,252742
+2007,94,3:10 to Yuma,7.6,349426
+2009,95,District 9,7.9,748697
+2001,96,The Others,7.6,423869
+2004,97,Anchorman: The Legend of Ron Burgundy,7.1,398957
+2008,98,In Bruges,7.9,490011
+2004,99,Crash,7.7,460649
+2004,100,Shaun of the Dead,7.8,635151

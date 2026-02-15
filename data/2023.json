@@ -1,0 +1,1593 @@
+{
+  "year": 2023,
+  "movies": [
+    {
+      "rank": 1,
+      "titleId": "tt15398776",
+      "title": "Oppenheimer",
+      "originalTitle": "Oppenheimer",
+      "year": 2023,
+      "releaseDate": {
+        "day": 21,
+        "month": 7,
+        "year": 2023
+      },
+      "plot": "A dramatization of the life story of J. Robert Oppenheimer, the physicist who had a large hand in the development of the atomic bombs that brought an end to World War II.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BN2JkMDc5MGQtZjg3YS00NmFiLWIyZmQtZTJmNTM5MjVmYTQ4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Cillian Murphy in Oppenheimer (2023)",
+        "width": 2331,
+        "height": 3454
+      },
+      "imdbRating": 8.2,
+      "numVotes": 999813,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "runtimeSeconds": 10800,
+      "runtimeMinutes": 180,
+      "metascore": 90,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 2,
+      "titleId": "tt1517268",
+      "title": "Barbie",
+      "originalTitle": "Barbie",
+      "year": 2023,
+      "releaseDate": {
+        "day": 21,
+        "month": 7,
+        "year": 2023
+      },
+      "plot": "Barbie and Ken are having the time of their lives in the seemingly perfect world of Barbie Land. However, when they get a chance to go to the outside world, they soon discover the joys and perils of living among regular humans.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjI3NDU0ZGYtYjA2YS00Y2RlLTgwZDAtYTE2YTM5ZjE1M2JlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ryan Gosling and Margot Robbie in Barbie (2023)",
+        "width": 1900,
+        "height": 2814
+      },
+      "imdbRating": 6.8,
+      "numVotes": 657772,
+      "certificate": "PG-13",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 6840,
+      "runtimeMinutes": 114,
+      "metascore": 80,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 3,
+      "titleId": "tt9362722",
+      "title": "Spider-Man: Across the Spider-Verse",
+      "originalTitle": "Spider-Man: Across the Spider-Verse",
+      "year": 2023,
+      "releaseDate": {
+        "day": 2,
+        "month": 6,
+        "year": 2023
+      },
+      "plot": "Traveling across the multiverse, Miles Morales meets a new team of Spider-People, made up of heroes from different dimensions. But when the heroes clash over how to deal with a new threat, Miles finds himself at a crossroads.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNThiZjA3MjItZGY5Ni00ZmJhLWEwN2EtOTBlYTA4Y2E0M2ZmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tobey Maguire, Elizabeth Perkins, Josh Keaton, Ziggy Marley, Jason Schwartzman, Rachel Dratch, Taran Killam, Yuri Lowenthal, Peggy Lu, Cliff Robertson, J.K. Simmons, Peter Sohn, Luna Lauren Velez, Shea Whigham, Mahershala Ali, Kathryn Hahn, Lorraine Velez, Oscar Isaac, Jorma Taccone, Andy Samberg, Andrew Garfield, Nic Novicki, Jake Johnson, Donald Glover, Daniel Kaluuya, Greta Lee, Hailee Steinfeld, Brian Tyree Henry, Atsuko Okatsuka, Melissa Sturm, Nicole Delaney, Amandla Stenberg, Karan Soni, Shameik Moore, Jack Quaid, Kimiko Glenn, Issa Rae, Sofia Barclay, Nina Lentini, Danielle Perez, Jharrel Jerome, Ayo Edebiri, and Metro Boomin in Spider-Man: Across the Spider-Verse (2023)",
+        "width": 1299,
+        "height": 1929
+      },
+      "imdbRating": 8.5,
+      "numVotes": 507607,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "runtimeSeconds": 8400,
+      "runtimeMinutes": 140,
+      "metascore": 86,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 4,
+      "titleId": "tt6791350",
+      "title": "Guardians of the Galaxy Vol. 3",
+      "originalTitle": "Guardians of the Galaxy Vol. 3",
+      "year": 2023,
+      "releaseDate": {
+        "day": 5,
+        "month": 5,
+        "year": 2023
+      },
+      "plot": "Still reeling from the loss of Gamora, Peter Quill rallies his team to defend the universe and one of their own - a mission that could mean the end of the Guardians if not successful.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTJhOTMxMmItZmE0Ny00MDc3LWEzOGEtOGFkMzY4MWYyZDQ0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Vin Diesel, Bradley Cooper, Sean Gunn, Chris Pratt, Zoe Salda\u00f1a, Dave Bautista, Karen Gillan, Pom Klementieff, and Maria Bakalova in Guardians of the Galaxy Vol. 3 (2023)",
+        "width": 886,
+        "height": 1312
+      },
+      "imdbRating": 7.9,
+      "numVotes": 462063,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 9000,
+      "runtimeMinutes": 150,
+      "metascore": 64,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 5,
+      "titleId": "tt10366206",
+      "title": "John Wick: Chapter 4",
+      "originalTitle": "John Wick: Chapter 4",
+      "year": 2023,
+      "releaseDate": {
+        "day": 24,
+        "month": 3,
+        "year": 2023
+      },
+      "plot": "John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2Q2ZmI5ZjUtNWVhMC00YzJkLTlmYjMtY2RmZDhkNzEzYjZhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Keanu Reeves in John Wick: Chapter 4 (2023)",
+        "width": 4051,
+        "height": 6001
+      },
+      "imdbRating": 7.6,
+      "numVotes": 404704,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "runtimeSeconds": 10140,
+      "runtimeMinutes": 169,
+      "metascore": 78,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 6,
+      "titleId": "tt14230458",
+      "title": "Poor Things",
+      "originalTitle": "Poor Things",
+      "year": 2023,
+      "releaseDate": {
+        "day": 22,
+        "month": 12,
+        "year": 2023
+      },
+      "plot": "An account of the fantastical evolution of Bella Baxter, a young woman brought back to life by the brilliant and unorthodox scientist Dr. Godwin Baxter.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYWU2MjRjZTYtMjVkMS00MTBjLWFiMTAtYmZlYTk1YjkyMWFkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Willem Dafoe, Mark Ruffalo, Emma Stone, Christopher Abbott, Ramy Youssef, and Jerrod Carmichael in Poor Things (2023)",
+        "width": 1350,
+        "height": 2000
+      },
+      "imdbRating": 7.8,
+      "numVotes": 385002,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 8460,
+      "runtimeMinutes": 141,
+      "metascore": 88,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 7,
+      "titleId": "tt9603212",
+      "title": "Mission: Impossible - Dead Reckoning Part One",
+      "originalTitle": "Mission: Impossible - Dead Reckoning Part One",
+      "year": 2023,
+      "releaseDate": {
+        "day": 12,
+        "month": 7,
+        "year": 2023
+      },
+      "plot": "Ethan Hunt and his IMF team must track down a terrifying new weapon that threatens all of humanity.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BN2U4OTdmM2QtZTkxYy00ZmQyLTg2N2UtMDdmMGJmNDhlZDU1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tom Cruise, Ving Rhames, Esai Morales, Rebecca Ferguson, Simon Pegg, Hayley Atwell, Pom Klementieff, and Vanessa Kirby in Mission: Impossible - Dead Reckoning Part One (2023)",
+        "width": 2037,
+        "height": 3000
+      },
+      "imdbRating": 7.6,
+      "numVotes": 322433,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "runtimeSeconds": 9780,
+      "runtimeMinutes": 163,
+      "metascore": 81,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 8,
+      "titleId": "tt5537002",
+      "title": "Killers of the Flower Moon",
+      "originalTitle": "Killers of the Flower Moon",
+      "year": 2023,
+      "releaseDate": {
+        "day": 20,
+        "month": 10,
+        "year": 2023
+      },
+      "plot": "When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage people are murdered one by one - until the FBI steps in to unravel the mystery.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWY5ZDVjNTUtODI5Yy00MjFhLWEyM2EtYzZjM2VjZTI0MTBjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Robert De Niro, Leonardo DiCaprio, and Lily Gladstone in Killers of the Flower Moon (2023)",
+        "width": 2000,
+        "height": 3000
+      },
+      "imdbRating": 7.5,
+      "numVotes": 301858,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "History"
+      ],
+      "runtimeSeconds": 12360,
+      "runtimeMinutes": 206,
+      "metascore": 89,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 9,
+      "titleId": "tt6718170",
+      "title": "The Super Mario Bros. Movie",
+      "originalTitle": "The Super Mario Bros. Movie",
+      "year": 2023,
+      "releaseDate": {
+        "day": 5,
+        "month": 4,
+        "year": 2023
+      },
+      "plot": "Brooklyn plumbers Mario and Luigi are warped to the magical Mushroom Kingdom, and Mario must team up with Princess Peach, Toad, and Donkey Kong to save Luigi from the evil Bowser.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOGZlN2EzOTYtMzUzOS00NTM3LTg0MTQtZDVjZGM4YmJlNWNhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jack Black, Charlie Day, Scott Menville, Chris Pratt, Kevin Michael Richardson, Seth Rogen, Keegan-Michael Key, and Anya Taylor-Joy in The Super Mario Bros. Movie (2023)",
+        "width": 700,
+        "height": 1034
+      },
+      "imdbRating": 7,
+      "numVotes": 283241,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 5520,
+      "runtimeMinutes": 92,
+      "metascore": 46,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 10,
+      "titleId": "tt2906216",
+      "title": "Dungeons & Dragons: Honor Among Thieves",
+      "originalTitle": "Dungeons & Dragons: Honor Among Thieves",
+      "year": 2023,
+      "releaseDate": {
+        "day": 31,
+        "month": 3,
+        "year": 2023
+      },
+      "plot": "A charming thief and a band of unlikely adventurers embark on an epic quest to retrieve a lost relic, but things go dangerously awry when they run afoul of the wrong people.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOGRjMjQ0ZDAtODc0OS00MGY1LTkxMTMtODhhNjY5NTM4N2IwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Hugh Grant, Michelle Rodriguez, Chris Pine, Daisy Head, Reg\u00e9-Jean Page, Sophia Lillis, and Justice Smith in Dungeons & Dragons: Honor Among Thieves (2023)",
+        "width": 2025,
+        "height": 3000
+      },
+      "imdbRating": 7.2,
+      "numVotes": 270848,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 8040,
+      "runtimeMinutes": 134,
+      "metascore": 72,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 11,
+      "titleId": "tt10954600",
+      "title": "Ant-Man and the Wasp: Quantumania",
+      "originalTitle": "Ant-Man and the Wasp: Quantumania",
+      "year": 2023,
+      "releaseDate": {
+        "day": 17,
+        "month": 2,
+        "year": 2023
+      },
+      "plot": "Scott Lang and Hope Van Dyne are dragged into the Quantum Realm, along with Hope's parents and Scott's daughter Cassie. Together they must find a way to escape, but what secrets is Hope's mother hiding? And who is the mysterious Kang?",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMThkYWY5ZjQtYjJlMS00MDFmLWFkYzEtODEzZjg5YWFmMGY4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Michael Douglas, Michelle Pfeiffer, Paul Rudd, Kathryn Newton, Evangeline Lilly, Jonathan Majors, and Jamie Andrew Cutler in Ant-Man and the Wasp: Quantumania (2023)",
+        "width": 810,
+        "height": 1200
+      },
+      "imdbRating": 6,
+      "numVotes": 265473,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 7440,
+      "runtimeMinutes": 124,
+      "metascore": 48,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 12,
+      "titleId": "tt17351924",
+      "title": "Saltburn",
+      "originalTitle": "Saltburn",
+      "year": 2023,
+      "releaseDate": {
+        "day": 22,
+        "month": 12,
+        "year": 2023
+      },
+      "plot": "A student at Oxford University finds himself drawn into the world of a charming and aristocratic classmate, who invites him to his eccentric family's sprawling estate for a summer never to be forgotten.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjk4NGE3MWItMDRhMy00YzhiLTk0MGUtZDlkNmQxYWIxYzc2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Richard E. Grant, Rosamund Pike, Richie Cotterell, Alison Oliver, Barry Keoghan, Archie Madekwe, and Jacob Elordi in Saltburn (2023)",
+        "width": 1944,
+        "height": 2880
+      },
+      "imdbRating": 7,
+      "numVotes": 259043,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7860,
+      "runtimeMinutes": 131,
+      "metascore": 61,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 13,
+      "titleId": "tt0439572",
+      "title": "The Flash",
+      "originalTitle": "The Flash",
+      "year": 2023,
+      "releaseDate": {
+        "day": 16,
+        "month": 6,
+        "year": 2023
+      },
+      "plot": "Barry Allen uses his super speed to change the past, but his attempt to save his family creates a world without super heroes, forcing him to race for his life in order to save the future.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYmE2NzBjNGUtNTJiMy00N2UxLWEyYzMtYzFjODFhMGZlOTgzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Michael Keaton, Ezra Miller, and Sasha Calle in The Flash (2023)",
+        "width": 2024,
+        "height": 3000
+      },
+      "imdbRating": 6.6,
+      "numVotes": 245027,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 8640,
+      "runtimeMinutes": 144,
+      "metascore": 55,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 14,
+      "titleId": "tt14849194",
+      "title": "The Holdovers",
+      "originalTitle": "The Holdovers",
+      "year": 2023,
+      "releaseDate": {
+        "day": 10,
+        "month": 11,
+        "year": 2023
+      },
+      "plot": "In 1970, a curmudgeonly history teacher at a New England boarding school remains on campus during Christmas break to supervise held over students, and ends up forming an unlikely bond with a brainy but damaged troublemaker.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWY3MjUzZTctOTI5ZC00MDA5LTk4ZTMtZWJjNjRmMzE4ZmI2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Paul Giamatti, Dominic Sessa, and Da'Vine Joy Randolph in The Holdovers (2023)",
+        "width": 1080,
+        "height": 1600
+      },
+      "imdbRating": 7.9,
+      "numVotes": 243393,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 7980,
+      "runtimeMinutes": 133,
+      "metascore": 82,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 15,
+      "titleId": "tt12747748",
+      "title": "Leave the World Behind",
+      "originalTitle": "Leave the World Behind",
+      "year": 2023,
+      "releaseDate": {
+        "day": 8,
+        "month": 12,
+        "year": 2023
+      },
+      "plot": "A family's getaway to a luxurious rental home takes an ominous turn when a cyberattack knocks out their devices, and two strangers appear at their door.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjI0YzhjZjAtMzg3ZS00NTFhLWFkYjctMjE5ZGExNTk1MmJkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Leave the World Behind (2023)",
+        "width": 1482,
+        "height": 2222
+      },
+      "imdbRating": 6.4,
+      "numVotes": 239149,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 8280,
+      "runtimeMinutes": 138,
+      "metascore": 68,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 16,
+      "titleId": "tt1462764",
+      "title": "Indiana Jones and the Dial of Destiny",
+      "originalTitle": "Indiana Jones and the Dial of Destiny",
+      "year": 2023,
+      "releaseDate": {
+        "day": 30,
+        "month": 6,
+        "year": 2023
+      },
+      "plot": "Archaeologist Indiana Jones races against time to retrieve a legendary artifact that can change the course of history.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYWJlOWE2ZjEtZGRhOC00M2YzLWFkZGEtYzIzZWI2Zjg3NWYxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Antonio Banderas, Harrison Ford, Mads Mikkelsen, Ethann Isidore, Boyd Holbrook, Phoebe Waller-Bridge, and Shaunette Ren\u00e9e Wilson in Indiana Jones and the Dial of Destiny (2023)",
+        "width": 1215,
+        "height": 1800
+      },
+      "imdbRating": 6.5,
+      "numVotes": 230155,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 9240,
+      "runtimeMinutes": 154,
+      "metascore": 58,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 17,
+      "titleId": "tt1136617",
+      "title": "The Killer",
+      "originalTitle": "The Killer",
+      "year": 2023,
+      "releaseDate": {
+        "day": 10,
+        "month": 11,
+        "year": 2023
+      },
+      "plot": "Solitary, cold, methodical and unencumbered by scruples or regrets, a killer waits in the shadows, watching for his next target. Yet, the longer he waits, the more he thinks he's losing his mind, if not his cool.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzU2MTlkMTctNWI3MC00ODUzLTlmYzQtMzZjYjVmMmYwZGU0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Michael Fassbender in The Killer (2023)",
+        "width": 1013,
+        "height": 1500
+      },
+      "imdbRating": 6.7,
+      "numVotes": 220459,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Crime"
+      ],
+      "runtimeSeconds": 7080,
+      "runtimeMinutes": 118,
+      "metascore": 73,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 18,
+      "titleId": "tt15671028",
+      "title": "No Hard Feelings",
+      "originalTitle": "No Hard Feelings",
+      "year": 2023,
+      "releaseDate": {
+        "day": 23,
+        "month": 6,
+        "year": 2023
+      },
+      "plot": "On the brink of losing her home, Maddie finds an intriguing job listing: helicopter parents looking for someone to bring their introverted 19-year-old son out of his shell before college. She has one summer to make him a man or die trying.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjk1NmZiNzYtZGUyYi00YzEwLTgwNWQtM2VmOWFmMGIwZDM2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Andrew Barth Feldman and Jennifer Lawrence in No Hard Feelings (2023)",
+        "width": 3373,
+        "height": 5000
+      },
+      "imdbRating": 6.3,
+      "numVotes": 212184,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "runtimeSeconds": 6180,
+      "runtimeMinutes": 103,
+      "metascore": 59,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 19,
+      "titleId": "tt17009710",
+      "title": "Anatomy of a Fall",
+      "originalTitle": "Anatomie d'une chute",
+      "year": 2023,
+      "releaseDate": {
+        "day": 22,
+        "month": 3,
+        "year": 2024
+      },
+      "plot": "A woman is suspected of murder after her husband's death; their half-blind son faces a moral dilemma as the main witness.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTk3MjFkZmQtMThiYi00N2JhLTk2YzItZTE5ZGUxZTIyZDVkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Sandra H\u00fcller, Milo Machado-Graner, and Samuel Theis in Anatomy of a Fall (2023)",
+        "width": 6116,
+        "height": 8974
+      },
+      "imdbRating": 7.6,
+      "numVotes": 205461,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "runtimeSeconds": 9060,
+      "runtimeMinutes": 151,
+      "metascore": 86,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 20,
+      "titleId": "tt4873118",
+      "title": "The Covenant",
+      "originalTitle": "The Covenant",
+      "year": 2023,
+      "releaseDate": {
+        "day": 21,
+        "month": 4,
+        "year": 2023
+      },
+      "plot": "During the war in Afghanistan, a local interpreter risks his own life to carry an injured sergeant across miles of grueling terrain.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDY2NmI1YzAtYmE2OS00NTY4LWJjM2UtNjQzMDliYzc5MzUyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jake Gyllenhaal and Dar Salim in The Covenant (2023)",
+        "width": 2765,
+        "height": 4096
+      },
+      "imdbRating": 7.5,
+      "numVotes": 205269,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7380,
+      "runtimeMinutes": 123,
+      "metascore": 63,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 21,
+      "titleId": "tt23289160",
+      "title": "Godzilla Minus One",
+      "originalTitle": "Gojira Mainasu Wan",
+      "year": 2023,
+      "releaseDate": {
+        "day": 1,
+        "month": 12,
+        "year": 2023
+      },
+      "plot": "A kamikaze pilot plagued by survivor's guilt seeks redemption when a giant monster he failed to kill is transformed by radiation from atomic bomb tests and lays siege to post-war Japan.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjc5MjllMGUtMDIwMS00ZDVkLWEzODQtM2NlMTMwMTZhNThmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Terry Chen, Richard T. Jones, Eric Keenleyside, Sally Hawkins, and CJ Adams in Godzilla Minus One (2023)",
+        "width": 1168,
+        "height": 1731
+      },
+      "imdbRating": 7.7,
+      "numVotes": 199919,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "runtimeSeconds": 7440,
+      "runtimeMinutes": 124,
+      "metascore": 81,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 22,
+      "titleId": "tt11858890",
+      "title": "The Creator",
+      "originalTitle": "The Creator",
+      "year": 2023,
+      "releaseDate": {
+        "day": 29,
+        "month": 9,
+        "year": 2023
+      },
+      "plot": "Against the backdrop of a war between humans and robots with artificial intelligence, a former soldier finds the robots' secret weapon to end the conflict, an AI in the form of a child.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDkxMTUxOTQtYzM4Yi00YzA2LTgzOTYtNDg2NTliODE0ZTRjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "John David Washington and Madeleine Yuna Voyles in The Creator (2023)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 6.7,
+      "numVotes": 194038,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "runtimeSeconds": 7980,
+      "runtimeMinutes": 133,
+      "metascore": 63,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 23,
+      "titleId": "tt16419074",
+      "title": "Air",
+      "originalTitle": "Air",
+      "year": 2023,
+      "releaseDate": {
+        "day": 5,
+        "month": 4,
+        "year": 2023
+      },
+      "plot": "The history of the game-changing partnership between a then undiscovered Michael Jordan and Nike's fledgling basketball division which revolutionized the world of sports and culture with the Air Jordan brand.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjdjYzJkZmUtZDNiMC00MzQ0LWE2MGEtYTk4ZGM4NzFkMzM3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ben Affleck, Matt Damon, Chris Tucker, Jason Bateman, and Viola Davis in Air (2023)",
+        "width": 1944,
+        "height": 2880
+      },
+      "imdbRating": 7.4,
+      "numVotes": 192629,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Sport"
+      ],
+      "runtimeSeconds": 6660,
+      "runtimeMinutes": 111,
+      "metascore": 73,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 24,
+      "titleId": "tt6166392",
+      "title": "Wonka",
+      "originalTitle": "Wonka",
+      "year": 2023,
+      "releaseDate": {
+        "day": 15,
+        "month": 12,
+        "year": 2023
+      },
+      "plot": "With dreams of opening a shop in a city renowned for its chocolate, a young and poor Willy Wonka discovers that the industry is run by a cartel of greedy chocolatiers.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BM2Y1N2ZhNjctYjVhZC00MDg2LWFhNTItMzI3ZjAwZDhjYmFiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Hugh Grant, Paterson Joseph, Matt Lucas, Mathew Baynton, Timoth\u00e9e Chalamet, and Calah Lane in Wonka (2023)",
+        "width": 1638,
+        "height": 2048
+      },
+      "imdbRating": 6.9,
+      "numVotes": 190192,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family"
+      ],
+      "runtimeSeconds": 6960,
+      "runtimeMinutes": 116,
+      "metascore": 66,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 25,
+      "titleId": "tt13287846",
+      "title": "Napoleon",
+      "originalTitle": "Napoleon",
+      "year": 2023,
+      "releaseDate": {
+        "day": 22,
+        "month": 11,
+        "year": 2023
+      },
+      "plot": "An epic that details the chequered rise and fall of French Emperor Napoleon Bonaparte and his relentless journey to power through the prism of his addictive, volatile relationship with his wife, Josephine.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZGQ1NGUxNDUtNjg3Yi00ZTZjLWIwOTUtNDBjYWY5ZjVmZGI4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Joaquin Phoenix in Napoleon (2023)",
+        "width": 6072,
+        "height": 9000
+      },
+      "imdbRating": 6.3,
+      "numVotes": 183465,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Biography"
+      ],
+      "runtimeSeconds": 9480,
+      "runtimeMinutes": 158,
+      "metascore": 64,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 26,
+      "titleId": "tt10545296",
+      "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+      "originalTitle": "The Hunger Games: The Ballad of Songbirds & Snakes",
+      "year": 2023,
+      "releaseDate": {
+        "day": 17,
+        "month": 11,
+        "year": 2023
+      },
+      "plot": "Coriolanus Snow mentors and develops feelings for the female District 12 tribute during the 10th Hunger Games.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDk2YjNhYzEtYzg2ZC00OWEwLWJhYzgtMGUzMWVjNDFmYzI5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jason Schwartzman, Viola Davis, Peter Dinklage, Rachel Zegler, Josh Rivera, Tom Blyth, and Hunter Schafer in The Hunger Games: The Ballad of Songbirds & Snakes (2023)",
+        "width": 1728,
+        "height": 2664
+      },
+      "imdbRating": 6.6,
+      "numVotes": 178088,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "runtimeSeconds": 9420,
+      "runtimeMinutes": 157,
+      "metascore": 54,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 27,
+      "titleId": "tt5971474",
+      "title": "The Little Mermaid",
+      "originalTitle": "The Little Mermaid",
+      "year": 2023,
+      "releaseDate": {
+        "day": 26,
+        "month": 5,
+        "year": 2023
+      },
+      "plot": "A young mermaid makes a deal with a sea witch to trade her beautiful voice for human legs so she can discover the world above water and impress a prince.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTM4MWY0OTEtY2E4ZC00NDdhLThkY2ItYTlmNWQxNTNkZTRmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Javier Bardem, Melissa McCarthy, Halle Bailey, Daveed Diggs, Jacob Tremblay, Awkwafina, and Jonah Hauer-King in The Little Mermaid (2023)",
+        "width": 1688,
+        "height": 2500
+      },
+      "imdbRating": 7.2,
+      "numVotes": 177301,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 8100,
+      "runtimeMinutes": 135,
+      "metascore": 59,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 28,
+      "titleId": "tt16277242",
+      "title": "Society of the Snow",
+      "originalTitle": "La sociedad de la nieve",
+      "year": 2023,
+      "releaseDate": {
+        "day": 4,
+        "month": 1,
+        "year": 2024
+      },
+      "plot": "The flight of a rugby team crashes on a glacier in the Andes. The few passengers who survive the crash find themselves in one of the world's toughest environments to survive.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODM1MWQ1MWUtMDM1ZS00ZjI3LTg4ZTMtNmI1ZDAwNmE4MTNiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Enzo Vogrincic in Society of the Snow (2023)",
+        "width": 1500,
+        "height": 2222
+      },
+      "imdbRating": 7.8,
+      "numVotes": 171209,
+      "certificate": "R",
+      "genres": [
+        "Adventure",
+        "Biography",
+        "Drama"
+      ],
+      "runtimeSeconds": 8640,
+      "runtimeMinutes": 144,
+      "metascore": 72,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 29,
+      "titleId": "tt12263384",
+      "title": "Extraction II",
+      "originalTitle": "Extraction 2",
+      "year": 2023,
+      "releaseDate": {
+        "day": 16,
+        "month": 6,
+        "year": 2023
+      },
+      "plot": "After barely surviving his grievous wounds from his mission in Dhaka, Bangladesh, Tyler Rake is back, and his team is ready to take on their next mission.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZGQwNDdhODAtY2Y0Ni00YzFhLTk1OGUtY2RkMDAzNzBmZjAxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Chris Hemsworth, Mariami Kovziashvili, and Marta Kovziashvili in Extraction II (2023)",
+        "width": 1013,
+        "height": 1500
+      },
+      "imdbRating": 7,
+      "numVotes": 170823,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7320,
+      "runtimeMinutes": 122,
+      "metascore": 57,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 30,
+      "titleId": "tt13238346",
+      "title": "Past Lives",
+      "originalTitle": "Past Lives",
+      "year": 2023,
+      "releaseDate": {
+        "day": 23,
+        "month": 6,
+        "year": 2023
+      },
+      "plot": "Nora and Hae Sung, two deeply connected childhood friends, are wrested apart after Nora's family emigrates from South Korea. Twenty years later, they are reunited for one fateful week as they confront notions of love and destiny.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjQyMTNhNjUtN2VmYy00NWRhLTkwOTctMGVmNTBmNDIxYjZhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Teo Yoo and Greta Lee in Past Lives (2023)",
+        "width": 972,
+        "height": 1440
+      },
+      "imdbRating": 7.8,
+      "numVotes": 168305,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 6300,
+      "runtimeMinutes": 105,
+      "metascore": 94,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 31,
+      "titleId": "tt23849204",
+      "title": "12th Fail",
+      "originalTitle": "12th Fail",
+      "year": 2023,
+      "releaseDate": {
+        "day": 27,
+        "month": 10,
+        "year": 2023
+      },
+      "plot": "The real-life story of IPS Officer Manoj Kumar Sharma and IRS Officer Shraddha Joshi.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTE3OTIxZDYtNjA0NC00N2YxLTg1NGQtOTYxNmZkMDkwOWNjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Vikrant Massey in 12th Fail (2023)",
+        "width": 1500,
+        "height": 1973
+      },
+      "imdbRating": 8.7,
+      "numVotes": 167272,
+      "certificate": "",
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "runtimeSeconds": 8820,
+      "runtimeMinutes": 147,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 32,
+      "titleId": "tt26047818",
+      "title": "Anyone But You",
+      "originalTitle": "Anyone But You",
+      "year": 2023,
+      "releaseDate": {
+        "day": 22,
+        "month": 12,
+        "year": 2023
+      },
+      "plot": "After an amazing first date, Bea and Ben's fiery attraction turns ice-cold--until they find themselves unexpectedly reunited at a wedding in Australia. So they do what any two mature adults would do: pretend to be a couple.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWUxYTFhMzItMmE0ZC00ODgzLTkwZWItOGUwMTI1YjQwMDJjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Glen Powell and Sydney Sweeney in Anyone But You (2023)",
+        "width": 2024,
+        "height": 3000
+      },
+      "imdbRating": 6.1,
+      "numVotes": 167265,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "runtimeSeconds": 6180,
+      "runtimeMinutes": 103,
+      "metascore": 52,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 33,
+      "titleId": "tt12844910",
+      "title": "Pathaan",
+      "originalTitle": "Pathaan",
+      "year": 2023,
+      "releaseDate": {
+        "day": 25,
+        "month": 1,
+        "year": 2023
+      },
+      "plot": "An Indian agent races against a doomsday clock as a ruthless mercenary, with a bitter vendetta, mounts an apocalyptic attack against the country.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDdkNTY1MDQtY2I5MC00OTFlLTg5OWQtZWE2YzE5NWFiMDgzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Shah Rukh Khan, John Abraham, and Deepika Padukone in Pathaan (2023)",
+        "width": 300,
+        "height": 400
+      },
+      "imdbRating": 5.8,
+      "numVotes": 165463,
+      "certificate": "Not Rated",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "runtimeSeconds": 8760,
+      "runtimeMinutes": 146,
+      "metascore": 47,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 34,
+      "titleId": "tt13345606",
+      "title": "Evil Dead Rise",
+      "originalTitle": "Evil Dead Rise",
+      "year": 2023,
+      "releaseDate": {
+        "day": 21,
+        "month": 4,
+        "year": 2023
+      },
+      "plot": "A twisted tale of two estranged sisters whose reunion is cut short by the rise of flesh-possessing demons, thrusting them into a primal battle for survival as they face the most nightmarish version of family imaginable.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjM1ZmViMmYtOGYzZC00YzhmLWE0MTMtMzNjYzcyNjEwYWRkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Nell Fisher, Gabrielle Echols, Alyssa Sutherland, and Morgan Davies in Evil Dead Rise (2023)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 6.5,
+      "numVotes": 165102,
+      "certificate": "R",
+      "genres": [
+        "Horror"
+      ],
+      "runtimeSeconds": 5760,
+      "runtimeMinutes": 96,
+      "metascore": 69,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 35,
+      "titleId": "tt7160372",
+      "title": "The Zone of Interest",
+      "originalTitle": "The Zone of Interest",
+      "year": 2023,
+      "releaseDate": {
+        "day": 20,
+        "month": 2,
+        "year": 2024
+      },
+      "plot": "The commandant of Auschwitz and his wife strive to build a dream life for their family in a house next to the camp.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjk4MTQ3MGEtZmI4OS00N2NhLWI5ZjgtYWE5ZWVkZGExYTQ1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "The Zone of Interest (2023)",
+        "width": 1500,
+        "height": 2250
+      },
+      "imdbRating": 7.3,
+      "numVotes": 163006,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama",
+        "History",
+        "War"
+      ],
+      "runtimeSeconds": 6300,
+      "runtimeMinutes": 105,
+      "metascore": 92,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 36,
+      "titleId": "tt10676048",
+      "title": "The Marvels",
+      "originalTitle": "The Marvels",
+      "year": 2023,
+      "releaseDate": {
+        "day": 10,
+        "month": 11,
+        "year": 2023
+      },
+      "plot": "Carol Danvers gets her powers entangled with those of Kamala Khan and Monica Rambeau, forcing them to work together to save the universe.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzczOWM4MzItMWMyOS00ZDczLWIxMzctNzBmYTgzOTI1MzI3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Samuel L. Jackson, Brie Larson, Iman Vellani, and Teyonah Parris in The Marvels (2023)",
+        "width": 1688,
+        "height": 2500
+      },
+      "imdbRating": 5.5,
+      "numVotes": 161149,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6300,
+      "runtimeMinutes": 105,
+      "metascore": 50,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 37,
+      "titleId": "tt15789038",
+      "title": "Elemental",
+      "originalTitle": "Elemental",
+      "year": 2023,
+      "releaseDate": {
+        "day": 16,
+        "month": 6,
+        "year": 2023
+      },
+      "plot": "Follow Ember and Wade, in a city where fire, water, earth and air live together.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjU2MjE1OGItZjdmYS00ZmIyLTljNjYtOWI5ZGRkZjM4NDEwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Catherine O'Hara, Thomas Newman, Jonathan Adams, Wilma Bonet, P.L. Brown, Ronnie Del Carmen, John Hoberg, Alex Kapp, Jean-Claude Kalache, Matthew Yang King, Ronobir Lahiri, Denise Ream, Stephen Schaffer, Don Shank, Peter Sohn, Kat Likkel, Wendi McLendon-Covey, Jeff LaPensee, Innocent Ekakitie, Mason Wertheimer, Clara Lin Ding, Brenda Hsueh, Shila Ommi, Leah Lewis, David Juan Bianchi, Ben Morris, Joe Pera, Mamoudou Athie, and Reagan To in Elemental (2023)",
+        "width": 2025,
+        "height": 3000
+      },
+      "imdbRating": 7,
+      "numVotes": 161131,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 6060,
+      "runtimeMinutes": 101,
+      "metascore": 58,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 38,
+      "titleId": "tt17024450",
+      "title": "The Equalizer 3",
+      "originalTitle": "The Equalizer 3",
+      "year": 2023,
+      "releaseDate": {
+        "day": 1,
+        "month": 9,
+        "year": 2023
+      },
+      "plot": "Robert McCall finds himself at home in Southern Italy but he discovers his friends are under the control of local crime bosses. As events turn deadly, McCall knows what he has to do: become his friends' protector by taking on the mafia.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTM1OTAyYmQtY2ZiZS00NTRlLWEyZDYtZWMyYjMyOTE2YWE4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Denzel Washington in The Equalizer 3 (2023)",
+        "width": 2024,
+        "height": 3000
+      },
+      "imdbRating": 6.8,
+      "numVotes": 158473,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6540,
+      "runtimeMinutes": 109,
+      "metascore": 58,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 39,
+      "titleId": "tt17663992",
+      "title": "Scream VI",
+      "originalTitle": "Scream VI",
+      "year": 2023,
+      "releaseDate": {
+        "day": 10,
+        "month": 3,
+        "year": 2023
+      },
+      "plot": "After surviving the latest Woodsboro murders, a group of teens move to New York City, hoping for a fresh start, only to find a new killer picking up where the last Ghostface killer left off.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDZkYzk3YTEtYTQ5MS00MzQ5LTg0NjUtOTgzODA5N2EyYTQ1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Dermot Mulroney, Courteney Cox, Hayden Panettiere, Tony Revolori, Liana Liberato, Josh Segarra, Mason Gooding, Samara Weaving, Melissa Barrera, Jenna Ortega, Jasmin Savoy Brown, Jack Champion, and Devyn Nekoda in Scream VI (2023)",
+        "width": 2765,
+        "height": 4096
+      },
+      "imdbRating": 6.4,
+      "numVotes": 146785,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7320,
+      "runtimeMinutes": 122,
+      "metascore": 61,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 40,
+      "titleId": "tt10151854",
+      "title": "Shazam! Fury of the Gods",
+      "originalTitle": "Shazam! Fury of the Gods",
+      "year": 2023,
+      "releaseDate": {
+        "day": 17,
+        "month": 3,
+        "year": 2023
+      },
+      "plot": "The film continues the story of teenage Billy Batson who, upon reciting the magic word \"SHAZAM!\", is transformed into his adult superhero alter ego, Shazam.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjdlYzAwYTMtMWJlOC00OTQ5LWJhMmYtMDhjNGY4M2RhMGU4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Helen Mirren, Djimon Hounsou, Lucy Liu, Adam Brody, Meagan Good, Rachel Zegler, Zachary Levi, D.J. Cotrona, Grace Caroline Currey, and Ross Butler in Shazam! Fury of the Gods (2023)",
+        "width": 2764,
+        "height": 4096
+      },
+      "imdbRating": 5.9,
+      "numVotes": 143682,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 7800,
+      "runtimeMinutes": 130,
+      "metascore": 47,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 41,
+      "titleId": "tt5433140",
+      "title": "Fast X",
+      "originalTitle": "Fast X",
+      "year": 2023,
+      "releaseDate": {
+        "day": 19,
+        "month": 5,
+        "year": 2023
+      },
+      "plot": "Dom Toretto and his family are targeted by the vengeful son of drug kingpin Hernan Reyes.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzEwZjczOTktYzU1OS00YjJlLTgyY2UtNWEzODBlN2RjZDEwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Charlize Theron, Vin Diesel, Jason Statham, Jordana Brewster, Sung Kang, Brie Larson, Ludacris, Jason Momoa, Michelle Rodriguez, Tyrese Gibson, John Cena, Alan Ritchson, Nathalie Emmanuel, and Daniela Melchior in Fast X (2023)",
+        "width": 3158,
+        "height": 5000
+      },
+      "imdbRating": 5.7,
+      "numVotes": 143636,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Crime"
+      ],
+      "runtimeSeconds": 8460,
+      "runtimeMinutes": 141,
+      "metascore": 56,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 42,
+      "titleId": "tt14966898",
+      "title": "Late Night with the Devil",
+      "originalTitle": "Late Night with the Devil",
+      "year": 2023,
+      "releaseDate": {
+        "day": 22,
+        "month": 3,
+        "year": 2024
+      },
+      "plot": "A live television broadcast in 1977 goes horribly wrong, unleashing evil into the nation's living rooms.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTRiNWZlNGMtOTUwZi00ZjE4LWE1ZjEtNWE4MGQ2ZGU5NDliXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Late Night with the Devil (2023)",
+        "width": 8100,
+        "height": 12000
+      },
+      "imdbRating": 7,
+      "numVotes": 143408,
+      "certificate": "R",
+      "genres": [
+        "Horror"
+      ],
+      "runtimeSeconds": 5580,
+      "runtimeMinutes": 93,
+      "metascore": 72,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 43,
+      "titleId": "tt14230388",
+      "title": "Asteroid City",
+      "originalTitle": "Asteroid City",
+      "year": 2023,
+      "releaseDate": {
+        "day": 23,
+        "month": 6,
+        "year": 2023
+      },
+      "plot": "World-changing events spectacularly disrupt the annual Asteroid Day celebration in an American desert town.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjY2YjYxNjEtNDJkYi00ZmJjLWIwYTEtNjEyZDgzY2M5ZDc3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tom Hanks, Liev Schreiber, Edward Norton, Jason Schwartzman, Bryan Cranston, Hope Davis, Scarlett Johansson, Steve Park, Aristou Meehan, Maya Hawke, Rupert Friend, Jake Ryan, Ethan Josh Lee, and Sophia Lillis in Asteroid City (2023)",
+        "width": 1080,
+        "height": 1600
+      },
+      "imdbRating": 6.4,
+      "numVotes": 142641,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 6300,
+      "runtimeMinutes": 105,
+      "metascore": 76,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 44,
+      "titleId": "tt15679400",
+      "title": "Knock at the Cabin",
+      "originalTitle": "Knock at the Cabin",
+      "year": 2023,
+      "releaseDate": {
+        "day": 3,
+        "month": 2,
+        "year": 2023
+      },
+      "plot": "While vacationing, a girl and her parents are taken hostage by armed strangers who demand that the family make a choice to avert the apocalypse.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzU1ODIzYjAtNjUzNi00YmNjLWI5ZDAtNDgzOWY3MDU1OThlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Nikki Amuka-Bird, Rupert Grint, Dave Bautista, and Abby Quinn in Knock at the Cabin (2023)",
+        "width": 1000,
+        "height": 1500
+      },
+      "imdbRating": 6.1,
+      "numVotes": 140188,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6000,
+      "runtimeMinutes": 100,
+      "metascore": 63,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 45,
+      "titleId": "tt22687790",
+      "title": "A Haunting in Venice",
+      "originalTitle": "A Haunting in Venice",
+      "year": 2023,
+      "releaseDate": {
+        "day": 15,
+        "month": 9,
+        "year": 2023
+      },
+      "plot": "In post-World War II Venice, Poirot, now retired and living in his own exile, reluctantly attends a seance. But when one of the guests is murdered, it is up to the former detective to once again uncover the killer.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTgwODdhZTMtYTFiNy00NzI1LTkwZWEtNjI2NWZiMzFmMjJlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Kenneth Branagh, Michelle Yeoh, Tina Fey, Kelly Reilly, Emma Laird, Jude Hill, Riccardo Scamarcio, Camille Cottin, Jamie Dornan, Kyle Allen, and Ali Khan in A Haunting in Venice (2023)",
+        "width": 1179,
+        "height": 1484
+      },
+      "imdbRating": 6.5,
+      "numVotes": 139608,
+      "certificate": "PG-13",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Horror"
+      ],
+      "runtimeSeconds": 6180,
+      "runtimeMinutes": 103,
+      "metascore": 63,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 46,
+      "titleId": "tt14998742",
+      "title": "Rebel Moon - Part One: A Child of Fire",
+      "originalTitle": "Rebel Moon - Part One: A Child of Fire",
+      "year": 2023,
+      "releaseDate": {
+        "day": 21,
+        "month": 12,
+        "year": 2023
+      },
+      "plot": "When a peaceful settlement on the edge of a distant moon finds itself threatened by a tyrannical ruling force, a stranger living among its villagers becomes their best hope for survival.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTRmOTk2ZDYtY2Q3Mi00MGYwLWFjNDQtYTliODc3NzM1ZjBlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Anthony Hopkins, Djimon Hounsou, Bae Doona, Michiel Huisman, Charlie Hunnam, Sofia Boutella, and Staz Nair in Rebel Moon - Part One: A Child of Fire (2023)",
+        "width": 1013,
+        "height": 1500
+      },
+      "imdbRating": 5.6,
+      "numVotes": 139428,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "runtimeSeconds": 7980,
+      "runtimeMinutes": 133,
+      "metascore": 31,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 47,
+      "titleId": "tt12915716",
+      "title": "Adipurush",
+      "originalTitle": "Adipurush",
+      "year": 2023,
+      "releaseDate": {
+        "day": 16,
+        "month": 6,
+        "year": 2023
+      },
+      "plot": "A modern adaptation of the Indian epic Ramayana which follows the exiled prince Raghav's journey to rescue his wife Janaki from the demon king Lankesh.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjA2ODRkMGUtNzUxNC00MmM5LTk3YjQtNTkxNTFlNzFiMjNiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Prabhas in Adipurush (2023)",
+        "width": 1080,
+        "height": 1350
+      },
+      "imdbRating": 2.6,
+      "numVotes": 137045,
+      "certificate": "",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "runtimeSeconds": 10740,
+      "runtimeMinutes": 179,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 48,
+      "titleId": "tt7599146",
+      "title": "Sound of Freedom",
+      "originalTitle": "Sound of Freedom",
+      "year": 2023,
+      "releaseDate": {
+        "day": 4,
+        "month": 7,
+        "year": 2023
+      },
+      "plot": "The incredible true story of a former government agent turned vigilante who embarks on a dangerous mission to rescue hundreds of children from traffickers.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzU5MmVkODQtZWM5ZC00MjRiLWIwOTMtN2ViZGM5MjU5Nzc1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Mira Sorvino, Jim Caviezel, Bill Camp, and Justin Jesso in Sound of Freedom (2023)",
+        "width": 1080,
+        "height": 1600
+      },
+      "imdbRating": 7.6,
+      "numVotes": 135557,
+      "certificate": "PG-13",
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 7860,
+      "runtimeMinutes": 131,
+      "metascore": 36,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 49,
+      "titleId": "tt4589218",
+      "title": "Five Nights at Freddy's",
+      "originalTitle": "Five Nights at Freddy's",
+      "year": 2023,
+      "releaseDate": {
+        "day": 27,
+        "month": 10,
+        "year": 2023
+      },
+      "plot": "A troubled security guard begins working at Freddy Fazbear's Pizza. During his five nights on the job, he realizes that something is wrong with the pizzeria and pretty soon finds the truth about its animatronics.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzFkMDE2ZmEtOWMwNy00MWM2LThlNjMtZWQzNWY5MTJjZjcxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Five Nights at Freddy's (2023)",
+        "width": 3158,
+        "height": 5000
+      },
+      "imdbRating": 5.4,
+      "numVotes": 134837,
+      "certificate": "PG-13",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6540,
+      "runtimeMinutes": 109,
+      "metascore": 33,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 50,
+      "titleId": "tt4495098",
+      "title": "Gran Turismo",
+      "originalTitle": "Gran Turismo",
+      "year": 2023,
+      "releaseDate": {
+        "day": 25,
+        "month": 8,
+        "year": 2023
+      },
+      "plot": "Based on the unbelievable, inspiring true story of a team of underdogs - a struggling, working-class gamer, a failed former race car driver, and an idealistic motorsport exec - who risk it all to take on the most elite sport in the world.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjA0N2YyNmYtZDk4Ny00ODE2LThmZWQtNGJiMDk0YzhiNzE5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Orlando Bloom, David Harbour, and Archie Madekwe in Gran Turismo (2023)",
+        "width": 6072,
+        "height": 9000
+      },
+      "imdbRating": 7.1,
+      "numVotes": 132632,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "runtimeSeconds": 8040,
+      "runtimeMinutes": 134,
+      "metascore": 48,
+      "credits": [],
+      "titleType": "movie"
+    }
+  ]
+}

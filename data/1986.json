@@ -1,0 +1,1582 @@
+{
+  "year": 1986,
+  "movies": [
+    {
+      "rank": 1,
+      "titleId": "tt0090605",
+      "title": "Aliens",
+      "originalTitle": "Aliens",
+      "year": 1986,
+      "releaseDate": {
+        "day": 18,
+        "month": 7,
+        "year": 1986
+      },
+      "plot": "Decades after surviving the Nostromo incident, Ellen Ripley is sent out to re-establish contact with a terraforming colony but finds herself battling the Alien Queen and her offspring.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjIyNGJhYzYtN2I1My00OTVhLWEyMzItZTVjNDMzOTVkYWViXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Sigourney Weaver and Carrie Henn in Aliens (1986)",
+        "width": 1495,
+        "height": 2260
+      },
+      "imdbRating": 8.4,
+      "numVotes": 834723,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Horror"
+      ],
+      "runtimeSeconds": 8220,
+      "runtimeMinutes": 137,
+      "metascore": 84,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 2,
+      "titleId": "tt0092099",
+      "title": "Top Gun",
+      "originalTitle": "Top Gun",
+      "year": 1986,
+      "releaseDate": {
+        "day": 16,
+        "month": 5,
+        "year": 1986
+      },
+      "plot": "The Top Gun Naval Fighter Weapons School is where the best of the best train to refine their elite flying skills. When hotshot fighter pilot Maverick is sent to the school, his reckless attitude and cocky demeanor put him at odds with the other pilots, especially the cool and collected Iceman.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZmVjNzQ3MjYtYTZiNC00Y2YzLWExZTEtMTM2ZDllNDI0MzgyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tom Cruise and Kelly McGillis in Top Gun (1986)",
+        "width": 1035,
+        "height": 1600
+      },
+      "imdbRating": 7,
+      "numVotes": 545656,
+      "certificate": "PG",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "runtimeSeconds": 6600,
+      "runtimeMinutes": 110,
+      "metascore": 50,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 3,
+      "titleId": "tt0092005",
+      "title": "Stand by Me",
+      "originalTitle": "Stand by Me",
+      "year": 1986,
+      "releaseDate": {
+        "day": 22,
+        "month": 8,
+        "year": 1986
+      },
+      "plot": "A writer recounts a childhood journey with his friends to find the body of a missing boy.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGJkNTUwM2MtZWE2MS00YjNkLWE3MjktNWQwZDQxMDIyZWVmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "River Phoenix, Corey Feldman, Wil Wheaton, and Jerry O'Connell in Stand by Me (1986)",
+        "width": 962,
+        "height": 1515
+      },
+      "imdbRating": 8.1,
+      "numVotes": 481969,
+      "certificate": "R",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 5340,
+      "runtimeMinutes": 89,
+      "metascore": 75,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 4,
+      "titleId": "tt0091763",
+      "title": "Platoon",
+      "originalTitle": "Platoon",
+      "year": 1986,
+      "releaseDate": {
+        "day": 19,
+        "month": 12,
+        "year": 1986
+      },
+      "plot": "Chris Taylor, a neophyte recruit in Vietnam, finds himself caught in a battle of wills between two sergeants, one good and the other evil. A shrewd examination of the brutality of war and the duality of man in conflict.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjE4YjllODAtZGMxZS00Mjg2LThkOWUtZjNkMjQ5YThiNDU4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Charlie Sheen, Willem Dafoe, John C. McGinley, and Kevin Eshelman in Platoon (1986)",
+        "width": 909,
+        "height": 1422
+      },
+      "imdbRating": 8.1,
+      "numVotes": 468730,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "runtimeSeconds": 7200,
+      "runtimeMinutes": 120,
+      "metascore": 92,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 5,
+      "titleId": "tt0091042",
+      "title": "Ferris Bueller's Day Off",
+      "originalTitle": "Ferris Bueller's Day Off",
+      "year": 1986,
+      "releaseDate": {
+        "day": 11,
+        "month": 6,
+        "year": 1986
+      },
+      "plot": "A brash, cocky high school senior, tired of skipping school to spend a boring day at home, is determined to enjoy an epic day roaring around his favorite Chicago sites, enlisting his best friend and girlfriend to join him on the adventure.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWYwMjUxNjMtMzE0MC00NDM3LWIxMmQtYmEyNWVjNjdlZGZjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Matthew Broderick in Ferris Bueller's Day Off (1986)",
+        "width": 520,
+        "height": 804
+      },
+      "imdbRating": 7.8,
+      "numVotes": 412672,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy"
+      ],
+      "runtimeSeconds": 6180,
+      "runtimeMinutes": 103,
+      "metascore": 61,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 6,
+      "titleId": "tt0090756",
+      "title": "Blue Velvet",
+      "originalTitle": "Blue Velvet",
+      "year": 1986,
+      "releaseDate": {
+        "day": 23,
+        "month": 10,
+        "year": 1986
+      },
+      "plot": "The discovery of a severed human ear found in a field leads a young man on an investigation related to a beautiful, mysterious nightclub singer and a group of psychopathic criminals who have kidnapped her child.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzkwZGUyYjQtM2QyOC00MTBjLWE0NGYtMTZmOGM5MjI0Mzg0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Isabella Rossellini and Kyle MacLachlan in Blue Velvet (1986)",
+        "width": 2745,
+        "height": 4035
+      },
+      "imdbRating": 7.7,
+      "numVotes": 242064,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "runtimeSeconds": 7200,
+      "runtimeMinutes": 120,
+      "metascore": 75,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 7,
+      "titleId": "tt0091064",
+      "title": "The Fly",
+      "originalTitle": "The Fly",
+      "year": 1986,
+      "releaseDate": {
+        "day": 15,
+        "month": 8,
+        "year": 1986
+      },
+      "plot": "A botched experiment transmutes a man into a monstrous insect.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTBlNTliNTItY2VhNS00MjA5LTllYzItMmQyNGRjYTAyZWQxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jeff Goldblum in The Fly (1986)",
+        "width": 1600,
+        "height": 2400
+      },
+      "imdbRating": 7.6,
+      "numVotes": 222091,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 5760,
+      "runtimeMinutes": 96,
+      "metascore": 81,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 8,
+      "titleId": "tt0092067",
+      "title": "Castle in the Sky",
+      "originalTitle": "Tenk\u00fb no shiro Rapyuta",
+      "year": 1986,
+      "releaseDate": {
+        "day": 19,
+        "month": 7,
+        "year": 1991
+      },
+      "plot": "Pazu's life changes when he meets Sheeta, a girl whom pirates are chasing for her crystal amulet, which has the potential to locate Laputa, a legendary castle floating in the sky.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjcyMjg2MzktNjg4YS00MjQzLTg0YWQtMjUyZDk2Y2Y0YzZjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Castle in the Sky (1986)",
+        "width": 1000,
+        "height": 1480
+      },
+      "imdbRating": 8,
+      "numVotes": 196340,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ],
+      "runtimeSeconds": 7440,
+      "runtimeMinutes": 124,
+      "metascore": 78,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 9,
+      "titleId": "tt0090728",
+      "title": "Big Trouble in Little China",
+      "originalTitle": "Big Trouble in Little China",
+      "year": 1986,
+      "releaseDate": {
+        "day": 2,
+        "month": 7,
+        "year": 1986
+      },
+      "plot": "A rough-and-tumble trucker and his sidekick face off with an ancient sorcerer in a supernatural battle beneath Chinatown.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYWNjZDQyMjUtZDEzZC00OThhLTg1NWItOTQ1MWI3ODBlODcyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Kim Cattrall, Kurt Russell, and James Hong in Big Trouble in Little China (1986)",
+        "width": 1832,
+        "height": 2840
+      },
+      "imdbRating": 7.2,
+      "numVotes": 165504,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 5940,
+      "runtimeMinutes": 99,
+      "metascore": 53,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 10,
+      "titleId": "tt0091369",
+      "title": "Labyrinth",
+      "originalTitle": "Labyrinth",
+      "year": 1986,
+      "releaseDate": {
+        "day": 27,
+        "month": 6,
+        "year": 1986
+      },
+      "plot": "Teenage Sarah journeys through a maze to save her baby brother from the Goblin King.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjM2MDE4OTQwOV5BMl5BanBnXkFtZTgwNjgxMTg2NzE@._V1_.jpg",
+        "caption": "Jennifer Connelly, David Bowie, Frank Oz, Brian Henson, Marc Antona, Michael Attwell, David Alan Barclay, Sean Barrett, Timothy Bateson, Denise Bryer, Kevin Clash, Dave Goelz, Michael Hordern, Peter Marinker, Rob Mills, Ron Mueck, Toby Philpott, Karen Prell, David Shaughnessy, and Shari Weiser in Labyrinth (1986)",
+        "width": 1038,
+        "height": 1600
+      },
+      "imdbRating": 7.3,
+      "numVotes": 162887,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 6060,
+      "runtimeMinutes": 101,
+      "metascore": 50,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 11,
+      "titleId": "tt0091203",
+      "title": "Highlander",
+      "originalTitle": "Highlander",
+      "year": 1986,
+      "releaseDate": {
+        "day": 7,
+        "month": 3,
+        "year": 1986
+      },
+      "plot": "An immortal Scottish swordsman must confront the last of his immortal opponents, a murderously brutal barbarian who lusts for the fabled \"Prize\".",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDUzODA3ZDctODM1MS00YzY0LWI1MzUtZTU0N2UzYjRhY2M3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Christopher Lambert in Highlander (1986)",
+        "width": 1486,
+        "height": 2260
+      },
+      "imdbRating": 7,
+      "numVotes": 157249,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 6600,
+      "runtimeMinutes": 110,
+      "metascore": 24,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 12,
+      "titleId": "tt0091605",
+      "title": "The Name of the Rose",
+      "originalTitle": "The Name of the Rose",
+      "year": 1986,
+      "releaseDate": {
+        "day": 24,
+        "month": 9,
+        "year": 1986
+      },
+      "plot": "An intellectually nonconformist friar investigates a series of mysterious deaths in an isolated abbey.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODcwODk2NmQtMjg0My00NzcxLWFhNTYtNjM4ODUxM2VjNTI2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Sean Connery, Christian Slater, Ron Perlman, F. Murray Abraham, and Valentina Vargas in The Name of the Rose (1986)",
+        "width": 666,
+        "height": 1000
+      },
+      "imdbRating": 7.7,
+      "numVotes": 126132,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7800,
+      "runtimeMinutes": 130,
+      "metascore": 54,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 13,
+      "titleId": "tt0090555",
+      "title": "Crocodile Dundee",
+      "originalTitle": "Crocodile Dundee",
+      "year": 1986,
+      "releaseDate": {
+        "day": 26,
+        "month": 9,
+        "year": 1986
+      },
+      "plot": "An American reporter travels to the Australian outback to meet eccentric poacher Mick \"Crocodile\" Dundee and invites him to New York City, where he comes face-to-face with the complexities of modern life.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDFkMTYyNWUtOGNjMy00MTMyLWFkMTQtYzZiMmY1NzBhN2I3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Paul Hogan in Crocodile Dundee (1986)",
+        "width": 984,
+        "height": 1500
+      },
+      "imdbRating": 6.7,
+      "numVotes": 123460,
+      "certificate": "PG-13",
+      "genres": [
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 5820,
+      "runtimeMinutes": 97,
+      "metascore": 62,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 14,
+      "titleId": "tt0091326",
+      "title": "The Karate Kid Part II",
+      "originalTitle": "The Karate Kid Part II",
+      "year": 1986,
+      "releaseDate": {
+        "day": 20,
+        "month": 6,
+        "year": 1986
+      },
+      "plot": "Daniel accompanies his mentor, Mr. Miyagi, to Miyagi's childhood home in Okinawa. Miyagi visits his dying father and confronts his old rival, while Daniel falls in love and inadvertently makes a new rival of his own.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzEyYjlhNWMtNTdmOC00N2M4LWI0OWEtZGE3NTJkOWJhYTYyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ralph Macchio and Pat Morita in The Karate Kid Part II (1986)",
+        "width": 1489,
+        "height": 2260
+      },
+      "imdbRating": 6.2,
+      "numVotes": 108558,
+      "certificate": "PG",
+      "genres": [
+        "Action",
+        "Family",
+        "Sport"
+      ],
+      "runtimeSeconds": 6780,
+      "runtimeMinutes": 113,
+      "metascore": 55,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 15,
+      "titleId": "tt0090863",
+      "title": "The Color of Money",
+      "originalTitle": "The Color of Money",
+      "year": 1986,
+      "releaseDate": {
+        "day": 17,
+        "month": 10,
+        "year": 1986
+      },
+      "plot": "Fast Eddie Felson teaches a cocky but immensely talented prot\u00e9g\u00e9 the ropes of pool hustling, which in turn inspires him to make an unlikely comeback.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTRiNDAxNTgtNzJkMy00Y2RmLThkMmItYzQ5YTU2ZmVhNTg4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Paul Newman, Tom Cruise, and Mary Elizabeth Mastrantonio in The Color of Money (1986)",
+        "width": 1974,
+        "height": 2924
+      },
+      "imdbRating": 7,
+      "numVotes": 100265,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Sport"
+      ],
+      "runtimeSeconds": 7140,
+      "runtimeMinutes": 119,
+      "metascore": 77,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 16,
+      "titleId": "tt0092007",
+      "title": "Star Trek IV: The Voyage Home",
+      "originalTitle": "Star Trek IV: The Voyage Home",
+      "year": 1986,
+      "releaseDate": {
+        "day": 26,
+        "month": 11,
+        "year": 1986
+      },
+      "plot": "To save Earth from an alien probe, Admiral James T. Kirk and his fugitive crew go back in time to San Francisco in 1986 to retrieve the only beings who can communicate with it: humpback whales.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYmZlYWYwMzUtMjYzMy00MWI1LTg3MDctOTdjYjA2MDkwNGU5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Walter Koenig, Leonard Nimoy, William Shatner, James Doohan, DeForest Kelley, George Takei, and Nichelle Nichols in Star Trek IV: The Voyage Home (1986)",
+        "width": 979,
+        "height": 1454
+      },
+      "imdbRating": 7.3,
+      "numVotes": 96093,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 7140,
+      "runtimeMinutes": 119,
+      "metascore": 71,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 17,
+      "titleId": "tt0091790",
+      "title": "Pretty in Pink",
+      "originalTitle": "Pretty in Pink",
+      "year": 1986,
+      "releaseDate": {
+        "day": 28,
+        "month": 2,
+        "year": 1986
+      },
+      "plot": "A poor girl must choose between the affections of dating her childhood sweetheart or a rich but sensitive playboy.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWMxMTk4YTAtMzEzNS00OTA0LTk2NWMtZjhjYmQwNDUyMzkzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Molly Ringwald, Andrew McCarthy, and Jon Cryer in Pretty in Pink (1986)",
+        "width": 580,
+        "height": 904
+      },
+      "imdbRating": 6.7,
+      "numVotes": 94512,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 5820,
+      "runtimeMinutes": 97,
+      "metascore": 56,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 18,
+      "titleId": "tt0091419",
+      "title": "Little Shop of Horrors",
+      "originalTitle": "Little Shop of Horrors",
+      "year": 1986,
+      "releaseDate": {
+        "day": 19,
+        "month": 12,
+        "year": 1986
+      },
+      "plot": "A nerdy florist finds his chance for success and romance with the help of a giant man-eating plant who demands to be fed.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTJjM2VhMDctMTIxYi00MzY3LWI5ZDgtZjFiNzg0M2QxNzI5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Steve Martin, Rick Moranis, Tichina Arnold, Tisha Campbell, Vincent Gardenia, Ellen Greene, Levi Stubbs, and Michelle Weeks in Little Shop of Horrors (1986)",
+        "width": 915,
+        "height": 1425
+      },
+      "imdbRating": 7.1,
+      "numVotes": 93857,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Horror",
+        "Musical"
+      ],
+      "runtimeSeconds": 5640,
+      "runtimeMinutes": 94,
+      "metascore": 81,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 19,
+      "titleId": "tt0092086",
+      "title": "Three Amigos!",
+      "originalTitle": "Three Amigos!",
+      "year": 1986,
+      "releaseDate": {
+        "day": 12,
+        "month": 12,
+        "year": 1986
+      },
+      "plot": "Three actors accept an invitation to a Mexican village to perform their onscreen bandit fighter roles, unaware that it is the real thing.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTE5NDQ1NTMyNl5BMl5BanBnXkFtZTcwNjY5MDQ3NA@@._V1_.jpg",
+        "caption": "Steve Martin, Chevy Chase, and Martin Short in Three Amigos! (1986)",
+        "width": 687,
+        "height": 1023
+      },
+      "imdbRating": 6.5,
+      "numVotes": 91500,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Western"
+      ],
+      "runtimeSeconds": 6240,
+      "runtimeMinutes": 104,
+      "metascore": 52,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 20,
+      "titleId": "tt0091474",
+      "title": "Manhunter",
+      "originalTitle": "Manhunter",
+      "year": 1986,
+      "releaseDate": {
+        "day": 15,
+        "month": 8,
+        "year": 1986
+      },
+      "plot": "Former FBI profiler Will Graham returns to service to pursue a deranged serial killer dubbed \"the Tooth Fairy\" by the media.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTVlMDQ5MmYtYmFhMi00OTE1LThmNTEtZTgyMzg5Njk2OWM2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "William Petersen in Manhunter (1986)",
+        "width": 957,
+        "height": 1500
+      },
+      "imdbRating": 7.2,
+      "numVotes": 90465,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7200,
+      "runtimeMinutes": 120,
+      "metascore": 75,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 21,
+      "titleId": "tt0090859",
+      "title": "Cobra",
+      "originalTitle": "Cobra",
+      "year": 1986,
+      "releaseDate": {
+        "day": 23,
+        "month": 5,
+        "year": 1986
+      },
+      "plot": "A tough-on-crime street cop must protect the only surviving witness to a strange murderous cult with far-reaching plans.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODczYzNiMjgtZGU4Yi00ZmM2LWFiNzMtMjcyMTA1YzMwNTk3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Sylvester Stallone in Cobra (1986)",
+        "width": 1073,
+        "height": 1600
+      },
+      "imdbRating": 5.8,
+      "numVotes": 85135,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5220,
+      "runtimeMinutes": 87,
+      "metascore": 25,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 22,
+      "titleId": "tt0091167",
+      "title": "Hannah and Her Sisters",
+      "originalTitle": "Hannah and Her Sisters",
+      "year": 1986,
+      "releaseDate": {
+        "day": 14,
+        "month": 3,
+        "year": 1986
+      },
+      "plot": "Between two Thanksgivings two years apart, Hannah's husband falls in love with her sister Lee, while her hypochondriac ex-husband rekindles his relationship with her sister Holly.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTdmOWViYWMtMjVjNC00MDI5LTk3ZmEtM2MxMzFkMzQ5NzNjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Mia Farrow, Barbara Hershey, and Dianne Wiest in Hannah and Her Sisters (1986)",
+        "width": 960,
+        "height": 1466
+      },
+      "imdbRating": 7.8,
+      "numVotes": 81081,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 6420,
+      "runtimeMinutes": 107,
+      "metascore": 90,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 23,
+      "titleId": "tt0091530",
+      "title": "The Mission",
+      "originalTitle": "The Mission",
+      "year": 1986,
+      "releaseDate": {
+        "day": 31,
+        "month": 10,
+        "year": 1986
+      },
+      "plot": "Eighteenth-century Spanish Jesuits try to protect a remote South American tribe in danger of falling under the rule of pro-slavery Portugal.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODcxMDJiMzQtNzVkYS00ZDI3LWEzYmEtY2NiYTIzZWQzYzRlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Robert De Niro and Jeremy Irons in The Mission (1986)",
+        "width": 1469,
+        "height": 2208
+      },
+      "imdbRating": 7.4,
+      "numVotes": 70387,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "History"
+      ],
+      "runtimeSeconds": 7500,
+      "runtimeMinutes": 125,
+      "metascore": 55,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 24,
+      "titleId": "tt0091949",
+      "title": "Short Circuit",
+      "originalTitle": "Short Circuit",
+      "year": 1986,
+      "releaseDate": {
+        "day": 9,
+        "month": 5,
+        "year": 1986
+      },
+      "plot": "Number 5 of a group of experimental robots in a lab is electrocuted, suddenly becomes intelligent, and escapes.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDFiYmMyNmEtM2Q1Ni00OTE1LWI4OTItMmU3NWMzNWYyZTg0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Short Circuit (1986)",
+        "width": 1530,
+        "height": 2265
+      },
+      "imdbRating": 6.6,
+      "numVotes": 70094,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 5880,
+      "runtimeMinutes": 98,
+      "metascore": 50,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 25,
+      "titleId": "tt0091541",
+      "title": "The Money Pit",
+      "originalTitle": "The Money Pit",
+      "year": 1986,
+      "releaseDate": {
+        "day": 26,
+        "month": 3,
+        "year": 1986
+      },
+      "plot": "A young couple struggles to repair a hopelessly dilapidated house.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNWMyMzliNDgtNDJiYy00ZDg2LTkwZGEtYjVmYmEyNTk2ZTFlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tom Hanks and Shelley Long in The Money Pit (1986)",
+        "width": 1495,
+        "height": 2265
+      },
+      "imdbRating": 6.4,
+      "numVotes": 66465,
+      "certificate": "PG",
+      "genres": [
+        "Comedy"
+      ],
+      "runtimeSeconds": 5400,
+      "runtimeMinutes": 90,
+      "metascore": 49,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 26,
+      "titleId": "tt0091129",
+      "title": "The Golden Child",
+      "originalTitle": "The Golden Child",
+      "year": 1986,
+      "releaseDate": {
+        "day": 12,
+        "month": 12,
+        "year": 1986
+      },
+      "plot": "A private detective specializing in missing children is charged with the task of finding a special child whom dark forces want to eliminate.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDc1ODAwZjItMjE1Yy00ZTczLWI4ODUtYTNlN2ViNWI4MGI0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Eddie Murphy in The Golden Child (1986)",
+        "width": 1973,
+        "height": 2900
+      },
+      "imdbRating": 6,
+      "numVotes": 63066,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 5640,
+      "runtimeMinutes": 94,
+      "metascore": 37,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 27,
+      "titleId": "tt0090633",
+      "title": "An American Tail",
+      "originalTitle": "An American Tail",
+      "year": 1986,
+      "releaseDate": {
+        "day": 21,
+        "month": 11,
+        "year": 1986
+      },
+      "plot": "While emigrating to the United States, a young Russian mouse gets separated from his family and must locate them while trying to survive in a new country.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BM2Q4YTcyOTItNjE3OC00MjFkLTk0YjktNmYxNGI0OTI0OTI1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "An American Tail (1986)",
+        "width": 1937,
+        "height": 2870
+      },
+      "imdbRating": 6.9,
+      "numVotes": 61206,
+      "certificate": "G",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 4800,
+      "runtimeMinutes": 80,
+      "metascore": 38,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 28,
+      "titleId": "tt0091149",
+      "title": "The Great Mouse Detective",
+      "originalTitle": "The Great Mouse Detective",
+      "year": 1986,
+      "releaseDate": {
+        "day": 2,
+        "month": 7,
+        "year": 1986
+      },
+      "plot": "Basil, the rodent Sherlock Holmes, investigates the kidnapping of a toy maker and uncovers its link to his archenemy, Professor Ratigan.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMGZmNDU5OTMtYmRkNC00NDgxLTllNDAtNzFmZDEzNWIzNTViXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Vincent Price, Val Bettin, Eve Brenner, Candy Candido, Diana Chesney, Barrie Ingham, Melissa Manchester, Susanne Pollatschek, Frank Welker, and Alan Young in The Great Mouse Detective (1986)",
+        "width": 667,
+        "height": 1015
+      },
+      "imdbRating": 7.1,
+      "numVotes": 58379,
+      "certificate": "G",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ],
+      "runtimeSeconds": 4440,
+      "runtimeMinutes": 74,
+      "metascore": 73,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 29,
+      "titleId": "tt0090967",
+      "title": "Down by Law",
+      "originalTitle": "Down by Law",
+      "year": 1986,
+      "releaseDate": {
+        "day": 25,
+        "month": 9,
+        "year": 1986
+      },
+      "plot": "Two men are framed and sent to jail, where they meet a murderer who helps them escape and leave the state.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjAxNDRhM2UtYTRkNS00YzlkLTkxZDMtYzg4MDAyZGQwM2Q4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Roberto Benigni, Tom Waits, and John Lurie in Down by Law (1986)",
+        "width": 1863,
+        "height": 2846
+      },
+      "imdbRating": 7.6,
+      "numVotes": 58305,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 6420,
+      "runtimeMinutes": 107,
+      "metascore": 75,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 30,
+      "titleId": "tt0091209",
+      "title": "The Hitcher",
+      "originalTitle": "The Hitcher",
+      "year": 1986,
+      "releaseDate": {
+        "day": 21,
+        "month": 2,
+        "year": 1986
+      },
+      "plot": "A young man who escapes the clutches of a murderous hitchhiker is subsequently stalked by the hitcher and framed for his crimes.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTk0ZmM5YTAtNGE3OC00YjI2LTg4MzItODUyYzhkMjMxODA5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Rutger Hauer and C. Thomas Howell in The Hitcher (1986)",
+        "width": 1495,
+        "height": 2265
+      },
+      "imdbRating": 7.2,
+      "numVotes": 58266,
+      "certificate": "R",
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5820,
+      "runtimeMinutes": 97,
+      "metascore": 32,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 31,
+      "titleId": "tt0091080",
+      "title": "Friday the 13th Part VI: Jason Lives",
+      "originalTitle": "Jason Lives: Friday the 13th Part VI",
+      "year": 1986,
+      "releaseDate": {
+        "day": 1,
+        "month": 8,
+        "year": 1986
+      },
+      "plot": "Tommy Jarvis exhumes Jason Voorhees to cremate his corpse, but inadvertently brings him back to life instead. The newly revived killer seeks revenge, and Tommy may be the only one who can stop him.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjhmNDkwZTItNDFhZi00YWMyLWJjNTctNGE3M2MxNGRmMDMyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Friday the 13th Part VI: Jason Lives (1986)",
+        "width": 877,
+        "height": 1367
+      },
+      "imdbRating": 6,
+      "numVotes": 56673,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5160,
+      "runtimeMinutes": 86,
+      "metascore": 30,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 32,
+      "titleId": "tt0091217",
+      "title": "Hoosiers",
+      "originalTitle": "Hoosiers",
+      "year": 1986,
+      "releaseDate": {
+        "day": 27,
+        "month": 2,
+        "year": 1987
+      },
+      "plot": "A coach with a checkered past and a local drunk train a small-town high school basketball team to become a top contender for the state championship in 1950s Indiana.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOGFlMjJkNzYtMTMwYS00OWE0LWFkNzYtMGMzODIzOWM0ZDM2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Hoosiers (1986)",
+        "width": 960,
+        "height": 1438
+      },
+      "imdbRating": 7.4,
+      "numVotes": 56531,
+      "certificate": "PG",
+      "genres": [
+        "Drama",
+        "Sport"
+      ],
+      "runtimeSeconds": 6840,
+      "runtimeMinutes": 114,
+      "metascore": 77,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 33,
+      "titleId": "tt0091059",
+      "title": "Flight of the Navigator",
+      "originalTitle": "Flight of the Navigator",
+      "year": 1986,
+      "releaseDate": {
+        "day": 1,
+        "month": 8,
+        "year": 1986
+      },
+      "plot": "In 1978, a boy travels eight years into the future and has an adventure with an intelligent, wisecracking alien ship.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTJhYTMyNDMtMjAyYy00YTRkLWJmZGMtMDZlODc0NWZmZDRhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Joey Cramer in Flight of the Navigator (1986)",
+        "width": 1000,
+        "height": 1500
+      },
+      "imdbRating": 6.9,
+      "numVotes": 54895,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family"
+      ],
+      "runtimeSeconds": 5400,
+      "runtimeMinutes": 90,
+      "metascore": 64,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 34,
+      "titleId": "tt0091225",
+      "title": "Howard the Duck",
+      "originalTitle": "Howard the Duck",
+      "year": 1986,
+      "releaseDate": {
+        "day": 1,
+        "month": 8,
+        "year": 1986
+      },
+      "plot": "A sarcastic humanoid duck is pulled from his homeworld to Earth where he must stop an alien invasion with the help of a nerdy scientist and a struggling female rock singer.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTA4ZjJkZjQtNzMwMy00YjJjLTkwYzgtZDY0YmNhZjYzMGExXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Howard the Duck (1986)",
+        "width": 2610,
+        "height": 3915
+      },
+      "imdbRating": 4.8,
+      "numVotes": 54197,
+      "certificate": "PG",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 6600,
+      "runtimeMinutes": 110,
+      "metascore": 28,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 35,
+      "titleId": "tt0091187",
+      "title": "Heartbreak Ridge",
+      "originalTitle": "Heartbreak Ridge",
+      "year": 1986,
+      "releaseDate": {
+        "day": 5,
+        "month": 12,
+        "year": 1986
+      },
+      "plot": "Hard-nosed, hard-living Marine Gunnery Sergeant Tom Highway clashes with his superiors and his ex-wife as he takes command of a spoiled recon platoon with a bad attitude.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzg2MTVjMTgtZTc0Zi00NmJlLWIwMTItMzk1YzA3ZmE1OWJjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Clint Eastwood in Heartbreak Ridge (1986)",
+        "width": 1495,
+        "height": 2240
+      },
+      "imdbRating": 6.8,
+      "numVotes": 51856,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "runtimeSeconds": 7800,
+      "runtimeMinutes": 130,
+      "metascore": 53,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 36,
+      "titleId": "tt0091777",
+      "title": "Police Academy 3: Back in Training",
+      "originalTitle": "Police Academy 3: Back in Training",
+      "year": 1986,
+      "releaseDate": {
+        "day": 21,
+        "month": 3,
+        "year": 1986
+      },
+      "plot": "After it's announced that one of the two police academies in the state will be closed down, Lassard's alumni return to the school to train new recruits and compete against the other academy.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDUyOTAwZDgtOTIwZC00NGVhLTg1ZGYtYmVhYTNjMjIyYmE4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Police Academy 3: Back in Training (1986)",
+        "width": 580,
+        "height": 863
+      },
+      "imdbRating": 5.4,
+      "numVotes": 51582,
+      "certificate": "PG",
+      "genres": [
+        "Comedy"
+      ],
+      "runtimeSeconds": 4980,
+      "runtimeMinutes": 83,
+      "metascore": 33,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 37,
+      "titleId": "tt0091635",
+      "title": "9\u00bd Weeks",
+      "originalTitle": "Nine 1/2 Weeks",
+      "year": 1986,
+      "releaseDate": {
+        "day": 21,
+        "month": 2,
+        "year": 1986
+      },
+      "plot": "A New York art gallery curator starts a torrid love affair with a suave stranger who keeps pushing her boundaries.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjZlNmM1ODQtMjRlMC00NDQ2LTgwNWMtNDM3MzA3ZDdhZjRiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Kim Basinger and Mickey Rourke in 9\u00bd Weeks (1986)",
+        "width": 1489,
+        "height": 2260
+      },
+      "imdbRating": 5.9,
+      "numVotes": 46604,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 7020,
+      "runtimeMinutes": 117,
+      "metascore": 50,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 38,
+      "titleId": "tt0092106",
+      "title": "The Transformers: The Movie",
+      "originalTitle": "The Transformers: The Movie",
+      "year": 1986,
+      "releaseDate": {
+        "day": 8,
+        "month": 8,
+        "year": 1986
+      },
+      "plot": "The Autobots must stop a colossal planet-consuming robot who goes after the Autobot Matrix of Leadership. At the same time, they must defend themselves against an all-out attack from the Decepticons.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2NlOGYxYmYtODVkYS00MzM0LTg3YjYtNjRkYTY0N2FhMzk4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "The Transformers: The Movie (1986)",
+        "width": 1963,
+        "height": 2908
+      },
+      "imdbRating": 7.2,
+      "numVotes": 44374,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "runtimeSeconds": 5040,
+      "runtimeMinutes": 84,
+      "metascore": 43,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 39,
+      "titleId": "tt0099763",
+      "title": "Henry: Portrait of a Serial Killer",
+      "originalTitle": "Henry: Portrait of a Serial Killer",
+      "year": 1986,
+      "releaseDate": {
+        "day": 6,
+        "month": 2,
+        "year": 1991
+      },
+      "plot": "Arriving in Chicago, Henry moves in with ex-con acquaintance Otis and starts schooling him in the ways of the serial killer.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOGJjMzI2MmQtZTJmYS00OGI0LWE2MDktYWJmNmU0NTMxMjJkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Michael Rooker in Henry: Portrait of a Serial Killer (1986)",
+        "width": 1162,
+        "height": 1711
+      },
+      "imdbRating": 7,
+      "numVotes": 43962,
+      "certificate": "Unrated",
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 4980,
+      "runtimeMinutes": 83,
+      "metascore": 80,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 40,
+      "titleId": "tt0091738",
+      "title": "Peggy Sue Got Married",
+      "originalTitle": "Peggy Sue Got Married",
+      "year": 1986,
+      "releaseDate": {
+        "day": 10,
+        "month": 10,
+        "year": 1986
+      },
+      "plot": "Peggy Sue, on the verge of a divorce, faints at her 25th high school reunion, and wakes up to find herself back in 1960, leading her to try to spot and correct the mistakes that led to disappointments and an unhappy marriage.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDJjZjM5MDEtMjM3My00ODgwLWE5YTItMGZlMGQ1N2ZjNDc1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Kathleen Turner in Peggy Sue Got Married (1986)",
+        "width": 990,
+        "height": 1500
+      },
+      "imdbRating": 6.4,
+      "numVotes": 43684,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 6180,
+      "runtimeMinutes": 103,
+      "metascore": 75,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 41,
+      "titleId": "tt0092076",
+      "title": "The Texas Chainsaw Massacre 2",
+      "originalTitle": "The Texas Chainsaw Massacre 2",
+      "year": 1986,
+      "releaseDate": {
+        "day": 22,
+        "month": 8,
+        "year": 1986
+      },
+      "plot": "A radio host is victimized by the cannibal family as a former Texas marshal hunts them.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzU0YTNkYTktYjhiMS00NWI2LTg2NmUtYTdmN2IwN2IyNmFiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ken Evert, Bill Johnson, Bill Moseley, and Jim Siedow in The Texas Chainsaw Massacre 2 (1986)",
+        "width": 1493,
+        "height": 2265
+      },
+      "imdbRating": 5.6,
+      "numVotes": 43089,
+      "certificate": "Unrated",
+      "genres": [
+        "Comedy",
+        "Horror"
+      ],
+      "runtimeSeconds": 6060,
+      "runtimeMinutes": 101,
+      "metascore": 42,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 42,
+      "titleId": "tt0090887",
+      "title": "Critters",
+      "originalTitle": "Critters",
+      "year": 1986,
+      "releaseDate": {
+        "day": 11,
+        "month": 4,
+        "year": 1986
+      },
+      "plot": "A group of small but vicious alien creatures called Crites escape from an alien prison transport vessel and land near a small farm town on earth, pursued by two shape-shifting bounty hunters.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNWI0NzI3MTItNDBhMS00OTllLTgxYWQtZDg3MzY4NWNmNjIxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Critters (1986)",
+        "width": 1025,
+        "height": 1500
+      },
+      "imdbRating": 6.1,
+      "numVotes": 42357,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 5160,
+      "runtimeMinutes": 86,
+      "metascore": 52,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 43,
+      "titleId": "tt0091828",
+      "title": "Raw Deal",
+      "originalTitle": "Raw Deal",
+      "year": 1986,
+      "releaseDate": {
+        "day": 6,
+        "month": 6,
+        "year": 1986
+      },
+      "plot": "A former FBI agent turned small-town sheriff agrees to help the FBI chief infiltrate the Chicago mafia when the FBI chief's son is killed by them.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTZkMTdmZjYtMDc3ZC00NWFjLWJjNWUtYWEwODc3Yjk1ODEwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Arnold Schwarzenegger in Raw Deal (1986)",
+        "width": 1945,
+        "height": 2898
+      },
+      "imdbRating": 5.6,
+      "numVotes": 40694,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6360,
+      "runtimeMinutes": 106,
+      "metascore": 44,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 44,
+      "titleId": "tt0091499",
+      "title": "Maximum Overdrive",
+      "originalTitle": "Maximum Overdrive",
+      "year": 1986,
+      "releaseDate": {
+        "day": 25,
+        "month": 7,
+        "year": 1986
+      },
+      "plot": "A group of people try to survive when machines start to come alive and become homicidal.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BN2UzZDlhN2MtNjVhMi00MWZhLThjNTEtZTg0NDc1NjVkZDQ1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Stephen King, Emilio Estevez, and Laura Harrington in Maximum Overdrive (1986)",
+        "width": 1800,
+        "height": 2700
+      },
+      "imdbRating": 5.4,
+      "numVotes": 39500,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Horror"
+      ],
+      "runtimeSeconds": 5880,
+      "runtimeMinutes": 98,
+      "metascore": 24,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 45,
+      "titleId": "tt0090685",
+      "title": "Back to School",
+      "originalTitle": "Back to School",
+      "year": 1986,
+      "releaseDate": {
+        "day": 13,
+        "month": 6,
+        "year": 1986
+      },
+      "plot": "To encourage his uninspired son to get through college, a wealthy and fun loving, but somewhat obnoxious, businessman decides to enter the school as a student himself.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMGFhMzM3MDYtNzU2Mi00MTczLWIzOGMtNzU0NjZiYjQ3NWU5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Back to School (1986)",
+        "width": 1594,
+        "height": 2429
+      },
+      "imdbRating": 6.7,
+      "numVotes": 39136,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Sport"
+      ],
+      "runtimeSeconds": 5760,
+      "runtimeMinutes": 96,
+      "metascore": 68,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 46,
+      "titleId": "tt0091954",
+      "title": "Sid and Nancy",
+      "originalTitle": "Sid and Nancy",
+      "year": 1986,
+      "releaseDate": {
+        "day": 7,
+        "month": 11,
+        "year": 1986
+      },
+      "plot": "The relationship between Sid Vicious, bassist for British punk group Sex Pistols, and his girlfriend Nancy Spungen is portrayed.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOGY1NTc0M2MtY2UxOS00OTllLTk1NjItZWIwOWE2OTUzYjdiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Gary Oldman and Chloe Webb in Sid and Nancy (1986)",
+        "width": 580,
+        "height": 859
+      },
+      "imdbRating": 7,
+      "numVotes": 36676,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Music"
+      ],
+      "runtimeSeconds": 6720,
+      "runtimeMinutes": 112,
+      "metascore": 76,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 47,
+      "titleId": "tt0091083",
+      "title": "From Beyond",
+      "originalTitle": "From Beyond",
+      "year": 1986,
+      "releaseDate": {
+        "day": 24,
+        "month": 10,
+        "year": 1986
+      },
+      "plot": "A group of scientists have developed the Resonator, a machine which allows whoever is within range to see beyond normal perceptible reality. But when the experiment succeeds, they are immediately attacked by terrible life forms.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNThkYjI1MDUtMWY1Ny00ZTIwLTk2NDktMDllYzMwYjVkNzEyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "From Beyond (1986)",
+        "width": 838,
+        "height": 1307
+      },
+      "imdbRating": 6.6,
+      "numVotes": 34855,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 5100,
+      "runtimeMinutes": 85,
+      "metascore": 60,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 48,
+      "titleId": "tt0091670",
+      "title": "The Sacrifice",
+      "originalTitle": "Offret",
+      "year": 1986,
+      "releaseDate": {
+        "day": 9,
+        "month": 5,
+        "year": 1986
+      },
+      "plot": "At the dawn of World War III, a man searches for a way to restore peace to the world and finds he must give something in return.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYWQ5ODRjNzktOTI2OC00ZGFhLWE1MGMtYjEyNTNjODA3NmNlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "The Sacrifice (1986)",
+        "width": 2025,
+        "height": 3000
+      },
+      "imdbRating": 7.9,
+      "numVotes": 34624,
+      "certificate": "PG",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 8940,
+      "runtimeMinutes": 149,
+      "metascore": 85,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 49,
+      "titleId": "tt0091557",
+      "title": "The Mosquito Coast",
+      "originalTitle": "The Mosquito Coast",
+      "year": 1986,
+      "releaseDate": {
+        "day": 26,
+        "month": 11,
+        "year": 1986
+      },
+      "plot": "An inventor spurns his city life and moves his family into the jungles of Central America to make a utopia.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjMzZjQwZTctOTQ1Ny00NmVjLWJjNzYtM2EzMzQyYWQ5ODU4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Harrison Ford in The Mosquito Coast (1986)",
+        "width": 1002,
+        "height": 1500
+      },
+      "imdbRating": 6.6,
+      "numVotes": 33222,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7020,
+      "runtimeMinutes": 117,
+      "metascore": 51,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 50,
+      "titleId": "tt0091778",
+      "title": "Poltergeist II: The Other Side",
+      "originalTitle": "Poltergeist II: The Other Side",
+      "year": 1986,
+      "releaseDate": {
+        "day": 23,
+        "month": 5,
+        "year": 1986
+      },
+      "plot": "The Freeling family have a new house, but their troubles with supernatural forces don't seem to be over.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjVhOTgxYjgtNTdjYS00ZTg4LTlmMzQtMTIxZDQ5OGMzZjIwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Heather O'Rourke in Poltergeist II: The Other Side (1986)",
+        "width": 1930,
+        "height": 2858
+      },
+      "imdbRating": 5.7,
+      "numVotes": 32539,
+      "certificate": "PG-13",
+      "genres": [
+        "Horror"
+      ],
+      "runtimeSeconds": 5460,
+      "runtimeMinutes": 91,
+      "metascore": 49,
+      "credits": [],
+      "titleType": "movie"
+    }
+  ]
+}

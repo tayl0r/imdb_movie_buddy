@@ -1,0 +1,1586 @@
+{
+  "year": 1996,
+  "movies": [
+    {
+      "rank": 1,
+      "titleId": "tt0116282",
+      "title": "Fargo",
+      "originalTitle": "Fargo",
+      "year": 1996,
+      "releaseDate": {
+        "day": 5,
+        "month": 4,
+        "year": 1996
+      },
+      "plot": "Minnesota car salesman Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjg4MWE0MjEtODFhNy00MjA5LTg5ODktMzgwNWFmZTAwNjBlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Fargo (1996)",
+        "width": 1313,
+        "height": 1938
+      },
+      "imdbRating": 8.1,
+      "numVotes": 779324,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5880,
+      "runtimeMinutes": 98,
+      "metascore": 88,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 2,
+      "titleId": "tt0117951",
+      "title": "Trainspotting",
+      "originalTitle": "Trainspotting",
+      "year": 1996,
+      "releaseDate": {
+        "day": 9,
+        "month": 8,
+        "year": 1996
+      },
+      "plot": "Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out despite the allure of drugs and the influence of friends.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYmVkNGJkMzQtYWQwOS00OTZmLThjODQtZjNjNzllYzRiNTE0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ewan McGregor, Robert Carlyle, Jonny Lee Miller, Ewen Bremner, and Kelly Macdonald in Trainspotting (1996)",
+        "width": 2025,
+        "height": 3000
+      },
+      "imdbRating": 8.1,
+      "numVotes": 764560,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 5580,
+      "runtimeMinutes": 93,
+      "metascore": 83,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 3,
+      "titleId": "tt0116629",
+      "title": "Independence Day",
+      "originalTitle": "Independence Day",
+      "year": 1996,
+      "releaseDate": {
+        "day": 3,
+        "month": 7,
+        "year": 1996
+      },
+      "plot": "The aliens are coming and their goal is to invade and destroy Earth. Fighting superior technology, mankind's best weapon is the will to survive.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOGMwN2UwZjEtYjFjMi00ZDA1LWJlYTQtMjA1MTYxMzIyNTdiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Independence Day (1996)",
+        "width": 768,
+        "height": 1152
+      },
+      "imdbRating": 7,
+      "numVotes": 642162,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 8700,
+      "runtimeMinutes": 145,
+      "metascore": 59,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 4,
+      "titleId": "tt0117060",
+      "title": "Mission: Impossible",
+      "originalTitle": "Mission: Impossible",
+      "year": 1996,
+      "releaseDate": {
+        "day": 22,
+        "month": 5,
+        "year": 1996
+      },
+      "plot": "An American agent, under false suspicion of disloyalty, must discover and expose the real spy without the help of his organization.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOGZjNDlkMTYtMTJkZi00OTkzLWI4NDEtYTA2ODQyMjcwYTdlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tom Cruise in Mission: Impossible (1996)",
+        "width": 1525,
+        "height": 2265
+      },
+      "imdbRating": 7.2,
+      "numVotes": 513729,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6600,
+      "runtimeMinutes": 110,
+      "metascore": 59,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 5,
+      "titleId": "tt0117571",
+      "title": "Scream",
+      "originalTitle": "Scream",
+      "year": 1996,
+      "releaseDate": {
+        "day": 20,
+        "month": 12,
+        "year": 1996
+      },
+      "plot": "In the small town of Woodsboro, California, a masked killer known as Ghostface begins murdering high school students, and a group of friends must use their knowledge of horror movies to unmask the killer.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjA2NjU5MTg5OF5BMl5BanBnXkFtZTgwOTkyMzQxMDE@._V1_.jpg",
+        "caption": "Drew Barrymore in Scream (1996)",
+        "width": 904,
+        "height": 1342
+      },
+      "imdbRating": 7.4,
+      "numVotes": 437542,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "runtimeSeconds": 6660,
+      "runtimeMinutes": 111,
+      "metascore": 66,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 6,
+      "titleId": "tt0117500",
+      "title": "The Rock",
+      "originalTitle": "The Rock",
+      "year": 1996,
+      "releaseDate": {
+        "day": 7,
+        "month": 6,
+        "year": 1996
+      },
+      "plot": "An FBI chemical weapons expert, and a former SAS soldier turned political prisoner, must break into Alcatraz prison when a rogue military group, led by a renegade general, take it over and threaten a nerve gas attack on San Francisco.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDhkYjRiZWEtZTE0Ny00ZjA1LThmNjgtM2UyYTQzODA4MjdhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Nicolas Cage, Sean Connery, and Ed Harris in The Rock (1996)",
+        "width": 1013,
+        "height": 1500
+      },
+      "imdbRating": 7.4,
+      "numVotes": 377809,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "runtimeSeconds": 8160,
+      "runtimeMinutes": 136,
+      "metascore": 58,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 7,
+      "titleId": "tt0116367",
+      "title": "From Dusk Till Dawn",
+      "originalTitle": "From Dusk Till Dawn",
+      "year": 1996,
+      "releaseDate": {
+        "day": 19,
+        "month": 1,
+        "year": 1996
+      },
+      "plot": "Two criminals and their hostages unknowingly seek temporary refuge in a truck stop populated by vampires, with chaotic results.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZGNjMWMwNWEtYTQ2YS00N2E5LTg5ZWYtMDgzM2UxMTE1ZTE4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "George Clooney and Quentin Tarantino in From Dusk Till Dawn (1996)",
+        "width": 2100,
+        "height": 3156
+      },
+      "imdbRating": 7.2,
+      "numVotes": 366856,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Horror"
+      ],
+      "runtimeSeconds": 6480,
+      "runtimeMinutes": 108,
+      "metascore": 48,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 8,
+      "titleId": "tt0116695",
+      "title": "Jerry Maguire",
+      "originalTitle": "Jerry Maguire",
+      "year": 1996,
+      "releaseDate": {
+        "day": 13,
+        "month": 12,
+        "year": 1996
+      },
+      "plot": "When a sports agent has a moral epiphany and is fired for expressing it, he decides to put his new philosophy to the test as an independent agent with the only athlete who stays with him and his former colleague.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BM2E1ZjU1MjctZjU2Yi00MGE1LWI1MDEtYzBlMWJlNDc1NTQxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tom Cruise in Jerry Maguire (1996)",
+        "width": 1971,
+        "height": 2922
+      },
+      "imdbRating": 7.3,
+      "numVotes": 307917,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 8340,
+      "runtimeMinutes": 139,
+      "metascore": 77,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 9,
+      "titleId": "tt0116483",
+      "title": "Happy Gilmore",
+      "originalTitle": "Happy Gilmore",
+      "year": 1996,
+      "releaseDate": {
+        "day": 16,
+        "month": 2,
+        "year": 1996
+      },
+      "plot": "After his grandmother's house is repossessed by the IRS, a bad tempered hockey player takes his talents to golf to earn the big bucks and get his grandmothers house back.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzMyZTM1MTMtNDdjOS00NzIzLTkxY2QtZTU4OGYxOTUwNDMxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Adam Sandler in Happy Gilmore (1996)",
+        "width": 1010,
+        "height": 1500
+      },
+      "imdbRating": 7,
+      "numVotes": 303466,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Sport"
+      ],
+      "runtimeSeconds": 5520,
+      "runtimeMinutes": 92,
+      "metascore": 31,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 10,
+      "titleId": "tt0117381",
+      "title": "Primal Fear",
+      "originalTitle": "Primal Fear",
+      "year": 1996,
+      "releaseDate": {
+        "day": 3,
+        "month": 4,
+        "year": 1996
+      },
+      "plot": "A high-profile murder intrigues a publicity hungry lawyer.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTJlYjM5MTYtZWU3YS00ZDRhLTk1MWEtZGQyODc1ZDU2MWEwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Richard Gere in Primal Fear (1996)",
+        "width": 970,
+        "height": 1450
+      },
+      "imdbRating": 7.7,
+      "numVotes": 278900,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "runtimeSeconds": 7740,
+      "runtimeMinutes": 129,
+      "metascore": 47,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 11,
+      "titleId": "tt0117509",
+      "title": "Romeo + Juliet",
+      "originalTitle": "Romeo + Juliet",
+      "year": 1996,
+      "releaseDate": {
+        "day": 1,
+        "month": 11,
+        "year": 1996
+      },
+      "plot": "Shakespeare's famous play is updated to the hip modern suburb of Verona still retaining its original dialogue.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjBhYjkxN2EtNDc1Yy00NTViLTkxMjQtMDYxMzM0MzA3NGQ4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Claire Danes, Leonardo DiCaprio, John Leguizamo, Jamie Kennedy, Dash Mihok, and Harold Perrineau in Romeo + Juliet (1996)",
+        "width": 1080,
+        "height": 1600
+      },
+      "imdbRating": 6.7,
+      "numVotes": 258245,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 7200,
+      "runtimeMinutes": 120,
+      "metascore": 60,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 12,
+      "titleId": "tt0116996",
+      "title": "Mars Attacks!",
+      "originalTitle": "Mars Attacks!",
+      "year": 1996,
+      "releaseDate": {
+        "day": 13,
+        "month": 12,
+        "year": 1996
+      },
+      "plot": "Earth is invaded by Martians with unbeatable weapons and a cruel sense of humor.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjJhNTIxZmQtZjQ3ZC00MTZkLWI2YTItY2Y0ZTdiMmNiNGIyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Pierce Brosnan, Jack Nicholson, Glenn Close, Danny DeVito, and Annette Bening in Mars Attacks! (1996)",
+        "width": 800,
+        "height": 1209
+      },
+      "imdbRating": 6.4,
+      "numVotes": 257062,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6360,
+      "runtimeMinutes": 106,
+      "metascore": 52,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 13,
+      "titleId": "tt0117665",
+      "title": "Sleepers",
+      "originalTitle": "Sleepers",
+      "year": 1996,
+      "releaseDate": {
+        "day": 18,
+        "month": 10,
+        "year": 1996
+      },
+      "plot": "A reporter and a District Attorney help childhood friends who killed a sadistic guard.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjBhMWRmZTAtOGRlNC00YWYxLTlmZWUtYTY4YThlZGNhYmM2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Brad Pitt, Robert De Niro, Dustin Hoffman, and Jason Patric in Sleepers (1996)",
+        "width": 1061,
+        "height": 1500
+      },
+      "imdbRating": 7.5,
+      "numVotes": 250223,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 8820,
+      "runtimeMinutes": 147,
+      "metascore": 49,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 14,
+      "titleId": "tt0117998",
+      "title": "Twister",
+      "originalTitle": "Twister",
+      "year": 1996,
+      "releaseDate": {
+        "day": 10,
+        "month": 5,
+        "year": 1996
+      },
+      "plot": "Two storm chasers on the brink of divorce must work together to create an advanced weather alert system by putting themselves in the cross-hairs of extremely violent tornadoes.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGVhY2JjYzgtYjAyOC00ODg0LTliYWEtMzliZWYzMjA2NjYyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Helen Hunt and Bill Paxton in Twister (1996)",
+        "width": 1890,
+        "height": 2835
+      },
+      "imdbRating": 6.6,
+      "numVotes": 250092,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6780,
+      "runtimeMinutes": 113,
+      "metascore": 68,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 15,
+      "titleId": "tt0117705",
+      "title": "Space Jam",
+      "originalTitle": "Space Jam",
+      "year": 1996,
+      "releaseDate": {
+        "day": 15,
+        "month": 11,
+        "year": 1996
+      },
+      "plot": "In a desperate attempt to win a basketball match and earn their freedom, the Looney Tunes seek the aid of retired basketball champion, Michael Jordan.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZGQ3ZDk0M2MtZDNmNi00OWE3LThiODUtMTU3NmVjMTA0ZGQyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Michael Jordan and Billy West in Space Jam (1996)",
+        "width": 1936,
+        "height": 2875
+      },
+      "imdbRating": 6.5,
+      "numVotes": 228172,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 5280,
+      "runtimeMinutes": 88,
+      "metascore": 57,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 16,
+      "titleId": "tt0116209",
+      "title": "The English Patient",
+      "originalTitle": "The English Patient",
+      "year": 1996,
+      "releaseDate": {
+        "day": 6,
+        "month": 12,
+        "year": 1996
+      },
+      "plot": "At the close of World War II, a young nurse tends to a badly burned plane crash victim. His past is shown in flashbacks, revealing an involvement in a fateful love affair.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODg0NjdiN2UtZWY3MS00M2JmLTg1MDAtY2ZiNzNiMzAzYWFmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ralph Fiennes and Kristin Scott Thomas in The English Patient (1996)",
+        "width": 838,
+        "height": 1243
+      },
+      "imdbRating": 7.4,
+      "numVotes": 212469,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Romance",
+        "War"
+      ],
+      "runtimeSeconds": 9720,
+      "runtimeMinutes": 162,
+      "metascore": 86,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 17,
+      "titleId": "tt0117913",
+      "title": "A Time to Kill",
+      "originalTitle": "A Time to Kill",
+      "year": 1996,
+      "releaseDate": {
+        "day": 24,
+        "month": 7,
+        "year": 1996
+      },
+      "plot": "A young Mississippi lawyer defends a black man who killed the two white men that raped his preteen daughter.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYmNiYzY1N2ItZDZiNC00ZGMyLWJlZjktZDE1MDI3NDBlYjE5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Sandra Bullock, Samuel L. Jackson, and Matthew McConaughey in A Time to Kill (1996)",
+        "width": 1519,
+        "height": 2260
+      },
+      "imdbRating": 7.5,
+      "numVotes": 203005,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 8940,
+      "runtimeMinutes": 149,
+      "metascore": 53,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 18,
+      "titleId": "tt0117008",
+      "title": "Matilda",
+      "originalTitle": "Matilda",
+      "year": 1996,
+      "releaseDate": {
+        "day": 2,
+        "month": 8,
+        "year": 1996
+      },
+      "plot": "A girl gifted with a keen intellect and psychic powers uses both to get even with her callous family and free her kindly schoolteacher from the tyrannical grip of a sadistic headmistress.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYWE3ZDMzMmEtODgwNi00NzMxLThkYWItMTAzMWUyMzI1NDQ1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Danny DeVito, Embeth Davidtz, Kiami Davael, Pam Ferris, Rhea Perlman, Jacqueline Steiger, Michael Valentine, and Mara Wilson in Matilda (1996)",
+        "width": 1325,
+        "height": 1964
+      },
+      "imdbRating": 7,
+      "numVotes": 193299,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 5880,
+      "runtimeMinutes": 98,
+      "metascore": 72,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 19,
+      "titleId": "tt0115798",
+      "title": "The Cable Guy",
+      "originalTitle": "The Cable Guy",
+      "year": 1996,
+      "releaseDate": {
+        "day": 14,
+        "month": 6,
+        "year": 1996
+      },
+      "plot": "A designer makes a grievous mistake when he rejects the friendship of a borderline cable guy.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjZiODE3ZTUtYTA0Yi00YjVmLTlhYTEtMzc3MDU1YmZjMWYxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jim Carrey in The Cable Guy (1996)",
+        "width": 1980,
+        "height": 2925
+      },
+      "imdbRating": 6.1,
+      "numVotes": 188498,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5760,
+      "runtimeMinutes": 96,
+      "metascore": 56,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 20,
+      "titleId": "tt0116583",
+      "title": "The Hunchback of Notre Dame",
+      "originalTitle": "The Hunchback of Notre Dame",
+      "year": 1996,
+      "releaseDate": {
+        "day": 21,
+        "month": 6,
+        "year": 1996
+      },
+      "plot": "A deformed bell-ringer must assert his independence from a vicious government minister in order to help his friend, a gypsy dancer.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2QzMGEzNGMtMDQyNC00YTlmLWEwYjMtOGI1NWYxMTM4NjA2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Kevin Kline, Demi Moore, Tom Hulce, Jason Alexander, Tony Jay, Paul Kandel, Charles Kimbrough, Frank Welker, and Mary Wickes in The Hunchback of Notre Dame (1996)",
+        "width": 1938,
+        "height": 2880
+      },
+      "imdbRating": 7,
+      "numVotes": 182873,
+      "certificate": "G",
+      "genres": [
+        "Animation",
+        "Drama",
+        "Family"
+      ],
+      "runtimeSeconds": 5460,
+      "runtimeMinutes": 91,
+      "metascore": 74,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 21,
+      "titleId": "tt0117438",
+      "title": "Ransom",
+      "originalTitle": "Ransom",
+      "year": 1996,
+      "releaseDate": {
+        "day": 8,
+        "month": 11,
+        "year": 1996
+      },
+      "plot": "Multi-millionaire Tom Mullen's son is kidnapped, but after initially agreeing to pay the ransom Mullen then decides to use the ransom money as a bounty.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjIxODEwMzgtNmEwNS00NzEzLTk1YTQtNzQzOGE2ZTIzZjk5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Mel Gibson in Ransom (1996)",
+        "width": 1000,
+        "height": 1330
+      },
+      "imdbRating": 6.7,
+      "numVotes": 143050,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 7260,
+      "runtimeMinutes": 121,
+      "metascore": 61,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 22,
+      "titleId": "tt0117731",
+      "title": "Star Trek: First Contact",
+      "originalTitle": "Star Trek: First Contact",
+      "year": 1996,
+      "releaseDate": {
+        "day": 22,
+        "month": 11,
+        "year": 1996
+      },
+      "plot": "The Borg travel back in time intent on preventing Earth's first contact with an alien species. Captain Picard and his crew pursue them to ensure that Zefram Cochrane makes his maiden flight reaching warp speed.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjc0OWE1NDMtNjRmMi00ZDc2LWI2ZmQtNzEwNWU4Nzg4NDA5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Alice Krige, Brent Spiner, and Patrick Stewart in Star Trek: First Contact (1996)",
+        "width": 1974,
+        "height": 2915
+      },
+      "imdbRating": 7.6,
+      "numVotes": 137144,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "runtimeSeconds": 6660,
+      "runtimeMinutes": 111,
+      "metascore": 70,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 23,
+      "titleId": "tt0117218",
+      "title": "The Nutty Professor",
+      "originalTitle": "The Nutty Professor",
+      "year": 1996,
+      "releaseDate": {
+        "day": 28,
+        "month": 6,
+        "year": 1996
+      },
+      "plot": "Grossly overweight yet good-hearted professor Sherman Klump takes a special chemical that turns him into the slim but obnoxious Buddy Love.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjE0NjI1YTMtYWFiZi00Zjc1LWE5NzgtMTdlMWMwOTczZWJkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Eddie Murphy in The Nutty Professor (1996)",
+        "width": 800,
+        "height": 1207
+      },
+      "imdbRating": 5.7,
+      "numVotes": 130244,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 5700,
+      "runtimeMinutes": 95,
+      "metascore": 64,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 24,
+      "titleId": "tt0116705",
+      "title": "Jingle All the Way",
+      "originalTitle": "Jingle All the Way",
+      "year": 1996,
+      "releaseDate": {
+        "day": 22,
+        "month": 11,
+        "year": 1996
+      },
+      "plot": "A father vows to get his son a Turbo Man action figure for Christmas. However, every store is sold out, and he must travel all over town and compete with everybody else in order to find one.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDgzMjQ0YTctZGJhNy00ZjJjLTk5YWMtZmI2YTgwOTJmYWJkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Arnold Schwarzenegger and Sinbad in Jingle All the Way (1996)",
+        "width": 932,
+        "height": 1419
+      },
+      "imdbRating": 5.8,
+      "numVotes": 129373,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family"
+      ],
+      "runtimeSeconds": 5340,
+      "runtimeMinutes": 89,
+      "metascore": 34,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 25,
+      "titleId": "tt0115433",
+      "title": "101 Dalmatians",
+      "originalTitle": "101 Dalmatians",
+      "year": 1996,
+      "releaseDate": {
+        "day": 27,
+        "month": 11,
+        "year": 1996
+      },
+      "plot": "An evil high-fashion designer plots to steal dalmatian puppies in order to make an extravagant fur coat but creates an extravagant mess instead.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTA5MjAzZWYtZmQxMC00NWE0LWJkNWMtMzczNjg3ZTM1ZGRiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Glenn Close in 101 Dalmatians (1996)",
+        "width": 1013,
+        "height": 1500
+      },
+      "imdbRating": 5.8,
+      "numVotes": 123735,
+      "certificate": "G",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 6180,
+      "runtimeMinutes": 103,
+      "metascore": 50,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 26,
+      "titleId": "tt0116213",
+      "title": "Eraser",
+      "originalTitle": "Eraser",
+      "year": 1996,
+      "releaseDate": {
+        "day": 21,
+        "month": 6,
+        "year": 1996
+      },
+      "plot": "A Witness Protection specialist becomes suspicious of his co-workers when dealing with a case involving high-tech weapons.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMmNkMjg3NWMtY2RhMC00MDRlLWI4MzktNjEzNGFjYTMwYjQ3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Arnold Schwarzenegger and Vanessa Williams in Eraser (1996)",
+        "width": 1456,
+        "height": 2174
+      },
+      "imdbRating": 6.2,
+      "numVotes": 123503,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6900,
+      "runtimeMinutes": 115,
+      "metascore": 56,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 27,
+      "titleId": "tt0115963",
+      "title": "The Craft",
+      "originalTitle": "The Craft",
+      "year": 1996,
+      "releaseDate": {
+        "day": 3,
+        "month": 5,
+        "year": 1996
+      },
+      "plot": "A young girl new to a Catholic school befriends a coven of witches whom the other students either shun or fear. But when a powerful invocation goes wrong, the consequences could endanger their lives.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTU4ZjkwMzctY2RmYy00OWQ5LWJhMDItM2FjZDg3ZTAzMWI1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Fairuza Balk, Neve Campbell, Robin Tunney, and Rachel True in The Craft (1996)",
+        "width": 1075,
+        "height": 1600
+      },
+      "imdbRating": 6.5,
+      "numVotes": 119064,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Horror"
+      ],
+      "runtimeSeconds": 6060,
+      "runtimeMinutes": 101,
+      "metascore": 55,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 28,
+      "titleId": "tt0115685",
+      "title": "The Birdcage",
+      "originalTitle": "The Birdcage",
+      "year": 1996,
+      "releaseDate": {
+        "day": 8,
+        "month": 3,
+        "year": 1996
+      },
+      "plot": "A gay cabaret owner and his drag queen companion agree to put up a false straight front so that their son can introduce them to his fianc\u00e9e's right-wing, conservative parents.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTM2NjExODYyOF5BMl5BanBnXkFtZTcwNTc0NjgyNA@@._V1_.jpg",
+        "caption": "Robin Williams, Gene Hackman, Nathan Lane, and Dianne Wiest in The Birdcage (1996)",
+        "width": 682,
+        "height": 1023
+      },
+      "imdbRating": 7.3,
+      "numVotes": 114264,
+      "certificate": "R",
+      "genres": [
+        "Comedy"
+      ],
+      "runtimeSeconds": 7020,
+      "runtimeMinutes": 117,
+      "metascore": 71,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 29,
+      "titleId": "tt0115759",
+      "title": "Broken Arrow",
+      "originalTitle": "Broken Arrow",
+      "year": 1996,
+      "releaseDate": {
+        "day": 9,
+        "month": 2,
+        "year": 1996
+      },
+      "plot": "Terrorists steal nuclear warheads from the U.S. military but don't count on a pilot and park ranger spoiling their plans.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjkxMzA5ZWMtZWU0MS00MTBhLWFjNzItYWI2ZGU4YjE2MTc4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Christian Slater and John Travolta in Broken Arrow (1996)",
+        "width": 580,
+        "height": 858
+      },
+      "imdbRating": 6.1,
+      "numVotes": 109864,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6480,
+      "runtimeMinutes": 108,
+      "metascore": 61,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 30,
+      "titleId": "tt0116136",
+      "title": "DragonHeart",
+      "originalTitle": "Dragonheart",
+      "year": 1996,
+      "releaseDate": {
+        "day": 31,
+        "month": 5,
+        "year": 1996
+      },
+      "plot": "The last dragon and a disillusioned dragon-slaying knight must unite to stop an evil king, who was granted partial immortality.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDViYjIxNjgtMmEyNS00MmVlLTllOWMtMGU0NzEwZjU2ZTYzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "DragonHeart (1996)",
+        "width": 1351,
+        "height": 2000
+      },
+      "imdbRating": 6.4,
+      "numVotes": 105398,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 6180,
+      "runtimeMinutes": 103,
+      "metascore": 49,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 31,
+      "titleId": "tt0117318",
+      "title": "The People vs. Larry Flynt",
+      "originalTitle": "The People vs. Larry Flynt",
+      "year": 1996,
+      "releaseDate": {
+        "day": 10,
+        "month": 1,
+        "year": 1997
+      },
+      "plot": "The story of controversial pornography publisher Larry Flynt, and how he became a defender of free speech.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDU2ZTYxMDItNzRjNy00YWNkLTg1YTAtYmZlYTQxMzA3NjFmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Woody Harrelson in The People vs. Larry Flynt (1996)",
+        "width": 1500,
+        "height": 2325
+      },
+      "imdbRating": 7.3,
+      "numVotes": 105234,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "runtimeSeconds": 7800,
+      "runtimeMinutes": 130,
+      "metascore": 79,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 32,
+      "titleId": "tt0117666",
+      "title": "Sling Blade",
+      "originalTitle": "Sling Blade",
+      "year": 1996,
+      "releaseDate": {
+        "day": 14,
+        "month": 3,
+        "year": 1997
+      },
+      "plot": "Karl Childers, a simple man hospitalized since his childhood murder of his mother and her lover, is released to start a new life in a small town.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDM5MjhhMDgtMmVmYy00ODNlLWI1OGMtMzAzNmY5OGRmNjk0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Sling Blade (1996)",
+        "width": 1462,
+        "height": 2165
+      },
+      "imdbRating": 8,
+      "numVotes": 104243,
+      "certificate": "R",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 8100,
+      "runtimeMinutes": 135,
+      "metascore": 85,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 33,
+      "titleId": "tt0116365",
+      "title": "The Frighteners",
+      "originalTitle": "The Frighteners",
+      "year": 1996,
+      "releaseDate": {
+        "day": 19,
+        "month": 7,
+        "year": 1996
+      },
+      "plot": "After a tragic car accident that kills his wife, a man discovers he can communicate with the dead, and he uses that gift to con people. However, when a demonic spirit appears, he may be the only one who can stop it from killing the living and the dead.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODg1MzlmMmMtYzg2Zi00N2Y5LTk2YzMtMWM5N2UxZDY1YjI3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "The Frighteners (1996)",
+        "width": 1523,
+        "height": 2265
+      },
+      "imdbRating": 7.1,
+      "numVotes": 101858,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 6600,
+      "runtimeMinutes": 110,
+      "metascore": 52,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 34,
+      "titleId": "tt0116778",
+      "title": "Kingpin",
+      "originalTitle": "Kingpin",
+      "year": 1996,
+      "releaseDate": {
+        "day": 26,
+        "month": 7,
+        "year": 1996
+      },
+      "plot": "An amateur state bowling champion whose professional aspirations are prematurely dashed when he gets \"Munsoned\" hopes to ride a new bowling prodigy to success and riches by becoming his manager.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODAzODIyMDYwMV5BMl5BanBnXkFtZTcwMTUyNTEzNA@@._V1_.jpg",
+        "caption": "Woody Harrelson, Randy Quaid, and Vanessa Angel in Kingpin (1996)",
+        "width": 682,
+        "height": 1023
+      },
+      "imdbRating": 6.9,
+      "numVotes": 96045,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Sport"
+      ],
+      "runtimeSeconds": 6840,
+      "runtimeMinutes": 114,
+      "metascore": 43,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 35,
+      "titleId": "tt0116908",
+      "title": "The Long Kiss Goodnight",
+      "originalTitle": "The Long Kiss Goodnight",
+      "year": 1996,
+      "releaseDate": {
+        "day": 11,
+        "month": 10,
+        "year": 1996
+      },
+      "plot": "Government agents come after an amnesiac woman, who gradually remembers her past.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNWFmM2EwYmItZDA2Mi00MDM2LTkxM2YtMWU0ODhiOTg1NWY3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Geena Davis and Samuel L. Jackson in The Long Kiss Goodnight (1996)",
+        "width": 1956,
+        "height": 2898
+      },
+      "imdbRating": 6.8,
+      "numVotes": 91958,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 7260,
+      "runtimeMinutes": 121,
+      "metascore": 43,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 36,
+      "titleId": "tt0117802",
+      "title": "Swingers",
+      "originalTitle": "Swingers",
+      "year": 1996,
+      "releaseDate": {
+        "day": 1,
+        "month": 10,
+        "year": 2025
+      },
+      "plot": "A wannabe actor has a hard time moving on from a break-up, but he is lucky to have supportive friends.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMWMyNzc3NGEtMzdlMy00OGFjLWIwN2ItYmUxNmVhN2Y0ODYyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Vince Vaughn in Swingers (1996)",
+        "width": 800,
+        "height": 1182
+      },
+      "imdbRating": 7.2,
+      "numVotes": 91954,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 5760,
+      "runtimeMinutes": 96,
+      "metascore": 71,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 37,
+      "titleId": "tt0117333",
+      "title": "Phenomenon",
+      "originalTitle": "Phenomenon",
+      "year": 1996,
+      "releaseDate": {
+        "day": 3,
+        "month": 7,
+        "year": 1996
+      },
+      "plot": "A small-town Everyman becomes a telekinetic genius.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjAwMDA2NzEyMl5BMl5BanBnXkFtZTgwNTA2MjgxMTE@._V1_.jpg",
+        "caption": "John Travolta and Kyra Sedgwick in Phenomenon (1996)",
+        "width": 336,
+        "height": 500
+      },
+      "imdbRating": 6.5,
+      "numVotes": 88488,
+      "certificate": "PG",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "runtimeSeconds": 7380,
+      "runtimeMinutes": 123,
+      "metascore": 42,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 38,
+      "titleId": "tt0115734",
+      "title": "Bottle Rocket",
+      "originalTitle": "Bottle Rocket",
+      "year": 1996,
+      "releaseDate": {
+        "day": 21,
+        "month": 2,
+        "year": 1996
+      },
+      "plot": "Three friends plan to pull off a simple robbery and go on the run.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDlmNWY5NmMtZDNiMS00YjQ1LTg5NmItZmE5ZWEwNDg2MzhjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Luke Wilson, Owen Wilson, and Robert Musgrave in Bottle Rocket (1996)",
+        "width": 1988,
+        "height": 2925
+      },
+      "imdbRating": 6.9,
+      "numVotes": 87918,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 5460,
+      "runtimeMinutes": 91,
+      "metascore": 67,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 39,
+      "titleId": "tt0116225",
+      "title": "Escape from L.A.",
+      "originalTitle": "Escape from L.A.",
+      "year": 1996,
+      "releaseDate": {
+        "day": 9,
+        "month": 8,
+        "year": 1996
+      },
+      "plot": "In 2013, Snake Plissken is tasked by a despotic U.S. President with entering Los Angeles - now an autonomous island prison - and recovering a doomsday device stolen by his renegade daughter.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzM0NjI1MjItYzYwNS00YTQzLThlOGMtMmFkZTIyN2MxNGUyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Kurt Russell in Escape from L.A. (1996)",
+        "width": 580,
+        "height": 871
+      },
+      "imdbRating": 5.7,
+      "numVotes": 85274,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6060,
+      "runtimeMinutes": 101,
+      "metascore": 54,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 40,
+      "titleId": "tt0116040",
+      "title": "Daylight",
+      "originalTitle": "Daylight",
+      "year": 1996,
+      "releaseDate": {
+        "day": 6,
+        "month": 12,
+        "year": 1996
+      },
+      "plot": "Disaster in a New York tunnel as explosions collapse both ends of it. One hero tries to help the people inside find their way to safety.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTM2YTg0OWUtODc5ZC00ZGU2LWFkZGYtMDFmZGE3NzFhYjM4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Daylight (1996)",
+        "width": 1979,
+        "height": 2930
+      },
+      "imdbRating": 6,
+      "numVotes": 80898,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "runtimeSeconds": 6840,
+      "runtimeMinutes": 114,
+      "metascore": 47,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 41,
+      "titleId": "tt0116683",
+      "title": "James and the Giant Peach",
+      "originalTitle": "James and the Giant Peach",
+      "year": 1996,
+      "releaseDate": {
+        "day": 12,
+        "month": 4,
+        "year": 1996
+      },
+      "plot": "An orphan who lives with his two cruel aunts befriends anthropomorphic bugs who live inside a giant peach, and they embark on a journey to New York City.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMmQwNDEyNjItYmExOC00MGU4LWE2MDEtOTFlZTM5MzA1OTY1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Paul Terry in James and the Giant Peach (1996)",
+        "width": 580,
+        "height": 851
+      },
+      "imdbRating": 6.7,
+      "numVotes": 78185,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ],
+      "runtimeSeconds": 4740,
+      "runtimeMinutes": 79,
+      "metascore": 78,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 42,
+      "titleId": "tt0117887",
+      "title": "That Thing You Do!",
+      "originalTitle": "That Thing You Do!",
+      "year": 1996,
+      "releaseDate": {
+        "day": 4,
+        "month": 10,
+        "year": 1996
+      },
+      "plot": "A local Pennsylvania band scores a one-hit wonder in 1964 and rides the star-making machinery as long as they can, with lots of help from their manager.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTk4MmU0NTMtYzFiYi00NWRiLTkzYWEtNWM2Mzk5YTMwNThjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tom Hanks, Liv Tyler, Johnathon Schaech, Steve Zahn, Ethan Embry, and Tom Everett Scott in That Thing You Do! (1996)",
+        "width": 580,
+        "height": 859
+      },
+      "imdbRating": 7,
+      "numVotes": 77740,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Music"
+      ],
+      "runtimeSeconds": 6480,
+      "runtimeMinutes": 108,
+      "metascore": 71,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 43,
+      "titleId": "tt0115751",
+      "title": "Breaking the Waves",
+      "originalTitle": "Breaking the Waves",
+      "year": 1996,
+      "releaseDate": {
+        "day": 13,
+        "month": 11,
+        "year": 1996
+      },
+      "plot": "Oilman Jan is paralyzed in an accident. His wife, who prayed for his return, feels guilty; even more, when Jan urges her to have sex with another.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTdjYjg4MTAtMzU4Ny00ODVkLTlhZDItOThiMDBhODI4MTVhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Emily Watson in Breaking the Waves (1996)",
+        "width": 580,
+        "height": 864
+      },
+      "imdbRating": 7.8,
+      "numVotes": 75469,
+      "certificate": "R",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 9180,
+      "runtimeMinutes": 153,
+      "metascore": 82,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 44,
+      "titleId": "tt0116231",
+      "title": "The Bandit",
+      "originalTitle": "Eskiya",
+      "year": 1996,
+      "releaseDate": {
+        "day": 29,
+        "month": 11,
+        "year": 1996
+      },
+      "plot": "Baran the Bandit, released from prison after 35 years, searches for vengeance and his lover.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjAxM2YxNGItNzYwNy00Y2I2LTg1YzEtOWY4ZmU5Njk5ZDQzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Yesim Salkim, Sener Sen, and Ugur Y\u00fccel in The Bandit (1996)",
+        "width": 566,
+        "height": 800
+      },
+      "imdbRating": 8.1,
+      "numVotes": 75030,
+      "certificate": "Not Rated",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 7680,
+      "runtimeMinutes": 128,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 45,
+      "titleId": "tt0115964",
+      "title": "Crash",
+      "originalTitle": "Crash",
+      "year": 1996,
+      "releaseDate": {
+        "day": 21,
+        "month": 3,
+        "year": 1997
+      },
+      "plot": "A car crash victim suddenly finds himself turned on by car accidents and becomes involved with an underground sub-culture of like-minded souls.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMWQyNTUwNGMtOWUwZi00ODdjLWE3MDQtYzc0NjYzNjk2YWY4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Rosanna Arquette, Elias Koteas, James Spader, and Deborah Kara Unger in Crash (1996)",
+        "width": 1490,
+        "height": 2272
+      },
+      "imdbRating": 6.4,
+      "numVotes": 71961,
+      "certificate": "NC-17",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 6000,
+      "runtimeMinutes": 100,
+      "metascore": 53,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 46,
+      "titleId": "tt0116409",
+      "title": "The Ghost and the Darkness",
+      "originalTitle": "The Ghost and the Darkness",
+      "year": 1996,
+      "releaseDate": {
+        "day": 11,
+        "month": 10,
+        "year": 1996
+      },
+      "plot": "A bridge engineer and an experienced old hunter begin a hunt for two lions after they start attacking local construction workers.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BN2RmY2IyNGMtMTE1Yi00ZmQ2LTllM2YtYzZmYzIzZmQ1ZTIxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Michael Douglas and Val Kilmer in The Ghost and the Darkness (1996)",
+        "width": 1531,
+        "height": 2265
+      },
+      "imdbRating": 6.8,
+      "numVotes": 70002,
+      "certificate": "R",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6600,
+      "runtimeMinutes": 110,
+      "metascore": 46,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 47,
+      "titleId": "tt0116126",
+      "title": "Don't Be a Menace to South Central While Drinking Your Juice in the Hood",
+      "originalTitle": "Don't Be a Menace to South Central While Drinking Your Juice in the Hood",
+      "year": 1996,
+      "releaseDate": {
+        "day": 12,
+        "month": 1,
+        "year": 1996
+      },
+      "plot": "A parody of several U.S. films about being in the \"'hood\", for instance Boyz n the Hood (1991), South Central (1992), Menace II Society (1993), Higher Learning (1995), and Juice (1992).",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZGM0NTAyMWEtNDBjNi00MjkwLWFhM2UtNDExNmVmMzEzNzExXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Marlon Wayans and Shawn Wayans in Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996)",
+        "width": 495,
+        "height": 738
+      },
+      "imdbRating": 6.5,
+      "numVotes": 67091,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 5340,
+      "runtimeMinutes": 89,
+      "metascore": 53,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 48,
+      "titleId": "tt0116669",
+      "title": "Jack",
+      "originalTitle": "Jack",
+      "year": 1996,
+      "releaseDate": {
+        "day": 9,
+        "month": 8,
+        "year": 1996
+      },
+      "plot": "Because of an unusual disorder that has aged him four times faster than a typical human being, a boy looks like a 40-year-old man as he starts fifth grade at public school after being homeschooled.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjk5OGJmODYtNjA3ZS00MjA5LWEyZmQtMDdiYTc5ZDM5NTk2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Robin Williams in Jack (1996)",
+        "width": 657,
+        "height": 936
+      },
+      "imdbRating": 5.8,
+      "numVotes": 66809,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 6780,
+      "runtimeMinutes": 113,
+      "metascore": 31,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 49,
+      "titleId": "tt0115736",
+      "title": "Bound",
+      "originalTitle": "Bound",
+      "year": 1996,
+      "releaseDate": {
+        "day": 4,
+        "month": 10,
+        "year": 1996
+      },
+      "plot": "Tough ex-con Corky and her lover Violet concoct a scheme to steal millions of stashed mob money and pin the blame on Violet's crooked boyfriend Caesar.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjY0OWFmODctNmEwNy00Njc2LWFkYTAtNmI4OWIzY2ZkYjJlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Gina Gershon and Jennifer Tilly in Bound (1996)",
+        "width": 580,
+        "height": 872
+      },
+      "imdbRating": 7.3,
+      "numVotes": 66421,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6540,
+      "runtimeMinutes": 109,
+      "metascore": 64,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 50,
+      "titleId": "tt0116253",
+      "title": "Executive Decision",
+      "originalTitle": "Executive Decision",
+      "year": 1996,
+      "releaseDate": {
+        "day": 15,
+        "month": 3,
+        "year": 1996
+      },
+      "plot": "When terrorists seize control of an airliner, an intelligence analyst accompanies a commando unit for a midair boarding operation.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTExYWQzMWMtZjdjYy00OWQ3LWJjY2ItYjU4YWQ4M2NmMTJlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Kurt Russell in Executive Decision (1996)",
+        "width": 797,
+        "height": 1183
+      },
+      "imdbRating": 6.5,
+      "numVotes": 64938,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7980,
+      "runtimeMinutes": 133,
+      "metascore": 62,
+      "credits": [],
+      "titleType": "movie"
+    }
+  ]
+}

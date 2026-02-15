@@ -1,0 +1,1589 @@
+{
+  "year": 1990,
+  "movies": [
+    {
+      "rank": 1,
+      "titleId": "tt0099685",
+      "title": "Goodfellas",
+      "originalTitle": "GoodFellas",
+      "year": 1990,
+      "releaseDate": {
+        "day": 21,
+        "month": 9,
+        "year": 1990
+      },
+      "plot": "The story of Henry Hill and his life in the mafia, covering his relationship with his wife Karen and his mob partners Jimmy Conway and Tommy DeVito.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BN2E5NzI2ZGMtY2VjNi00YTRjLWI1MDUtZGY5OWU1MWJjZjRjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Robert De Niro, Ray Liotta, and Joe Pesci in Goodfellas (1990)",
+        "width": 1984,
+        "height": 2972
+      },
+      "imdbRating": 8.7,
+      "numVotes": 1376591,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 8700,
+      "runtimeMinutes": 145,
+      "metascore": 92,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 2,
+      "titleId": "tt0099785",
+      "title": "Home Alone",
+      "originalTitle": "Home Alone",
+      "year": 1990,
+      "releaseDate": {
+        "day": 16,
+        "month": 11,
+        "year": 1990
+      },
+      "plot": "An eight-year-old troublemaker, mistakenly left home alone, must defend his home against a pair of burglars on Christmas Eve.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzNmNmQ2ZDEtMTc1MS00NjNiLThlMGUtZmQxNTg1Nzg5NWMzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Macaulay Culkin, Joe Pesci, and Daniel Stern in Home Alone (1990)",
+        "width": 1335,
+        "height": 1985
+      },
+      "imdbRating": 7.8,
+      "numVotes": 736998,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Family"
+      ],
+      "runtimeSeconds": 6180,
+      "runtimeMinutes": 103,
+      "metascore": 63,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 3,
+      "titleId": "tt0099487",
+      "title": "Edward Scissorhands",
+      "originalTitle": "Edward Scissorhands",
+      "year": 1990,
+      "releaseDate": {
+        "day": 14,
+        "month": 12,
+        "year": 1990
+      },
+      "plot": "The solitary life of an artificial man with scissors for hands is upended when he is taken in by a suburban family.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODJhODczYjUtYzdkMy00Yjc4LTllNWMtZTQ3MDZlYWZjYWEzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Johnny Depp in Edward Scissorhands (1990)",
+        "width": 1969,
+        "height": 2915
+      },
+      "imdbRating": 7.8,
+      "numVotes": 561379,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "runtimeSeconds": 6300,
+      "runtimeMinutes": 105,
+      "metascore": 74,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 4,
+      "titleId": "tt0099088",
+      "title": "Back to the Future Part III",
+      "originalTitle": "Back to the Future Part III",
+      "year": 1990,
+      "releaseDate": {
+        "day": 25,
+        "month": 5,
+        "year": 1990
+      },
+      "plot": "Stranded in 1955, Marty McFly learns about the death of Doc Brown in 1885 and must travel back in time to save him. With no fuel readily available for the DeLorean, the two must figure how to escape the Old West before Emmett is murdered.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTNkNzJmY2MtOGNjYi00NDJmLWIyZTQtNmFmMGQ5M2VlOTI0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Michael J. Fox, Christopher Lloyd, and Mary Steenburgen in Back to the Future Part III (1990)",
+        "width": 1015,
+        "height": 1500
+      },
+      "imdbRating": 7.5,
+      "numVotes": 515518,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 7080,
+      "runtimeMinutes": 118,
+      "metascore": 55,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 5,
+      "titleId": "tt0099674",
+      "title": "The Godfather Part III",
+      "originalTitle": "The Godfather Part III",
+      "year": 1990,
+      "releaseDate": {
+        "day": 25,
+        "month": 12,
+        "year": 1990
+      },
+      "plot": "Follows Michael Corleone, now in his 60s, as he seeks to free his family from crime and find a suitable successor to his empire.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDVjODgzNTEtNjBiNS00ODBjLWEwZjUtMDljZTFhOTA4M2MxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Al Pacino, Andy Garcia, Sofia Coppola, and Talia Shire in The Godfather Part III (1990)",
+        "width": 4050,
+        "height": 6000
+      },
+      "imdbRating": 7.5,
+      "numVotes": 451272,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 9720,
+      "runtimeMinutes": 162,
+      "metascore": 60,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 6,
+      "titleId": "tt0099423",
+      "title": "Die Hard 2",
+      "originalTitle": "Die Hard 2",
+      "year": 1990,
+      "releaseDate": {
+        "day": 3,
+        "month": 7,
+        "year": 1990
+      },
+      "plot": "One year after the Nakatomi Plaza incident, John McClane faces off against terrorists who seize control of Washington Dulles Airport's systems on Christmas Eve, endangering multiple incoming flights, including one carrying his wife, Holly.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTA1OGFlZWUtZjE4Yy00MzFmLTlhYjctOGY5ZmZjOWFlOWUwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Bruce Willis in Die Hard 2 (1990)",
+        "width": 1013,
+        "height": 1500
+      },
+      "imdbRating": 7.2,
+      "numVotes": 405251,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7440,
+      "runtimeMinutes": 124,
+      "metascore": 67,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 7,
+      "titleId": "tt0100405",
+      "title": "Pretty Woman",
+      "originalTitle": "Pretty Woman",
+      "year": 1990,
+      "releaseDate": {
+        "day": 23,
+        "month": 3,
+        "year": 1990
+      },
+      "plot": "A corporate raider hires a hooker to act as a business escort in Beverly Hills, California.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjk2ODQzNDYxNV5BMl5BanBnXkFtZTgwMTcyNDg4NjE@._V1_.jpg",
+        "caption": "Richard Gere and Julia Roberts in Pretty Woman (1990)",
+        "width": 991,
+        "height": 1500
+      },
+      "imdbRating": 7.1,
+      "numVotes": 400284,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "runtimeSeconds": 7140,
+      "runtimeMinutes": 119,
+      "metascore": 51,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 8,
+      "titleId": "tt0100802",
+      "title": "Total Recall",
+      "originalTitle": "Total Recall",
+      "year": 1990,
+      "releaseDate": {
+        "day": 1,
+        "month": 6,
+        "year": 1990
+      },
+      "plot": "When a man goes in to have virtual vacation memories of the planet Mars implanted in his mind, an unexpected and harrowing series of events forces him to go to the planet for real - or is he?",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjRlMzBkOGMtMTA1Ny00ZWI4LTkzMDItOGVkNWJkN2E4ZTkwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Arnold Schwarzenegger in Total Recall (1990)",
+        "width": 1010,
+        "height": 1500
+      },
+      "imdbRating": 7.5,
+      "numVotes": 378312,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6780,
+      "runtimeMinutes": 113,
+      "metascore": 60,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 9,
+      "titleId": "tt0099348",
+      "title": "Dances with Wolves",
+      "originalTitle": "Dances with Wolves",
+      "year": 1990,
+      "releaseDate": {
+        "day": 21,
+        "month": 11,
+        "year": 1990
+      },
+      "plot": "A lieutenant assigned to a remote Civil War outpost starts questioning his purpose after making contact with a neighboring Sioux settlement.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTY3OTI5NDczN15BMl5BanBnXkFtZTcwNDA0NDY3Mw@@._V1_.jpg",
+        "caption": "Kevin Costner in Dances with Wolves (1990)",
+        "width": 682,
+        "height": 1023
+      },
+      "imdbRating": 8,
+      "numVotes": 307744,
+      "certificate": "PG-13",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Western"
+      ],
+      "runtimeSeconds": 10860,
+      "runtimeMinutes": 181,
+      "metascore": 72,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 10,
+      "titleId": "tt0100157",
+      "title": "Misery",
+      "originalTitle": "Misery",
+      "year": 1990,
+      "releaseDate": {
+        "day": 30,
+        "month": 11,
+        "year": 1990
+      },
+      "plot": "After a famous author is rescued from a car crash by a fan of his novels, he comes to realize that the care he is receiving is only the beginning of a nightmare of captivity and abuse.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzY0ODQ3MTMxN15BMl5BanBnXkFtZTgwMDkwNTg4NjE@._V1_.jpg",
+        "caption": "Misery (1990)",
+        "width": 936,
+        "height": 1402
+      },
+      "imdbRating": 7.8,
+      "numVotes": 262848,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6420,
+      "runtimeMinutes": 107,
+      "metascore": 75,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 11,
+      "titleId": "tt0099653",
+      "title": "Ghost",
+      "originalTitle": "Ghost",
+      "year": 1990,
+      "releaseDate": {
+        "day": 13,
+        "month": 7,
+        "year": 1990
+      },
+      "plot": "A slain Manhattan banker reaches out to his lover with a psychic's help.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjkwOWM2MWMtMWE1YS00MTBlLTg1ODctYTI3M2I0NGIxMGYyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Demi Moore and Patrick Swayze in Ghost (1990)",
+        "width": 810,
+        "height": 1200
+      },
+      "imdbRating": 7.1,
+      "numVotes": 254382,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "runtimeSeconds": 7560,
+      "runtimeMinutes": 126,
+      "metascore": 52,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 12,
+      "titleId": "tt0099810",
+      "title": "The Hunt for Red October",
+      "originalTitle": "The Hunt for Red October",
+      "year": 1990,
+      "releaseDate": {
+        "day": 2,
+        "month": 3,
+        "year": 1990
+      },
+      "plot": "Moscow, Washington D.C. and a CIA Analyst track a rogue Soviet Captain and his new submarine.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMmNhYWJmN2EtZDYwNC00NzE0LWE5N2UtZTUyMDM4YjZmYWE3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Sean Connery in The Hunt for Red October (1990)",
+        "width": 1994,
+        "height": 2946
+      },
+      "imdbRating": 7.5,
+      "numVotes": 229271,
+      "certificate": "PG",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "runtimeSeconds": 8100,
+      "runtimeMinutes": 135,
+      "metascore": 58,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 13,
+      "titleId": "tt0100403",
+      "title": "Predator 2",
+      "originalTitle": "Predator 2",
+      "year": 1990,
+      "releaseDate": {
+        "day": 21,
+        "month": 11,
+        "year": 1990
+      },
+      "plot": "Los Angeles police hunt an alien creature in 1997.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjFjMjRkYWUtNmI4YS00ZmMwLWFiMmYtNWViY2RjZjMyODQ4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Predator 2 (1990)",
+        "width": 1958,
+        "height": 2910
+      },
+      "imdbRating": 6.3,
+      "numVotes": 199844,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6480,
+      "runtimeMinutes": 108,
+      "metascore": 46,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 14,
+      "titleId": "tt0099077",
+      "title": "Awakenings",
+      "originalTitle": "Awakenings",
+      "year": 1990,
+      "releaseDate": {
+        "day": 11,
+        "month": 1,
+        "year": 1991
+      },
+      "plot": "Dr. Sayer is a pioneering neurologist who wants to take a risk and give his patients who suffer from encephalitis a drug used for Parkinson's Disease. He tries it out on one man who miraculously wakes from his perpetual catatonic state.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDUzOGQ4YTctNTY1OS00M2UzLWFjNzYtMGNlN2E5NDA2MGVkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Robert De Niro and Robin Williams in Awakenings (1990)",
+        "width": 800,
+        "height": 1191
+      },
+      "imdbRating": 7.8,
+      "numVotes": 175330,
+      "certificate": "PG-13",
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "runtimeSeconds": 7260,
+      "runtimeMinutes": 121,
+      "metascore": 74,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 15,
+      "titleId": "tt0099938",
+      "title": "Kindergarten Cop",
+      "originalTitle": "Kindergarten Cop",
+      "year": 1990,
+      "releaseDate": {
+        "day": 21,
+        "month": 12,
+        "year": 1990
+      },
+      "plot": "A tough cop must pose as a kindergarten teacher in order to locate a dangerous criminal's ex-wife, who may hold the key to putting him behind bars.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjMyMTIyOTc0N15BMl5BanBnXkFtZTgwODY1NTk4NjE@._V1_.jpg",
+        "caption": "Arnold Schwarzenegger, Robert Cave, Christian Cousins, Joseph Cousins, Ben Diskin, Miko Hughes, Sarah Rose Karr, Tom Kurlander, Ross Malinger, Marissa Rosen, and Tameka Runnels in Kindergarten Cop (1990)",
+        "width": 1003,
+        "height": 1500
+      },
+      "imdbRating": 6.3,
+      "numVotes": 174069,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 6660,
+      "runtimeMinutes": 111,
+      "metascore": 61,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 16,
+      "titleId": "tt0100814",
+      "title": "Tremors",
+      "originalTitle": "Tremors",
+      "year": 1990,
+      "releaseDate": {
+        "day": 19,
+        "month": 1,
+        "year": 1990
+      },
+      "plot": "Natives of a small isolated town defend themselves against strange underground creatures which are killing them one by one.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTEzNjkwMzIyMjZeQTJeQWpwZ15BbWU4MDI2NTU5ODYx._V1_.jpg",
+        "caption": "Kevin Bacon, Finn Carter, and Fred Ward in Tremors (1990)",
+        "width": 1005,
+        "height": 1500
+      },
+      "imdbRating": 7.2,
+      "numVotes": 164481,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Horror"
+      ],
+      "runtimeSeconds": 5760,
+      "runtimeMinutes": 96,
+      "metascore": 65,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 17,
+      "titleId": "tt0100507",
+      "title": "Rocky V",
+      "originalTitle": "Rocky V",
+      "year": 1990,
+      "releaseDate": {
+        "day": 16,
+        "month": 11,
+        "year": 1990
+      },
+      "plot": "Reluctantly retired from fighting, Rocky takes charge of Mickey's gym and agrees to train a young prot\u00e9g\u00e9 who's hungry for success.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTM2Mzc4MTYxM15BMl5BanBnXkFtZTcwODY5NTk1NA@@._V1_.jpg",
+        "caption": "Sylvester Stallone in Rocky V (1990)",
+        "width": 682,
+        "height": 1023
+      },
+      "imdbRating": 5.4,
+      "numVotes": 160170,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama",
+        "Sport"
+      ],
+      "runtimeSeconds": 6240,
+      "runtimeMinutes": 104,
+      "metascore": 55,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 18,
+      "titleId": "tt0100150",
+      "title": "Miller's Crossing",
+      "originalTitle": "Miller's Crossing",
+      "year": 1990,
+      "releaseDate": {
+        "day": 5,
+        "month": 10,
+        "year": 1990
+      },
+      "plot": "Tom Reagan, an advisor to a Prohibition-era crime boss, tries to keep the peace between warring mobs but gets caught in divided loyalties.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTY2Njk3MTAzM15BMl5BanBnXkFtZTgwMTY5Mzk4NjE@._V1_.jpg",
+        "caption": "Gabriel Byrne and John Turturro in Miller's Crossing (1990)",
+        "width": 1004,
+        "height": 1500
+      },
+      "imdbRating": 7.7,
+      "numVotes": 148628,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6900,
+      "runtimeMinutes": 115,
+      "metascore": 66,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 19,
+      "titleId": "tt0099871",
+      "title": "Jacob's Ladder",
+      "originalTitle": "Jacob's Ladder",
+      "year": 1990,
+      "releaseDate": {
+        "day": 2,
+        "month": 11,
+        "year": 1990
+      },
+      "plot": "Reminiscing about his dead son, a Vietnam War veteran attempts to uncover his past while suffering from a severe case of dissociation. To do so, he must decipher reality and life from his own dreams, delusions, and perceptions of death.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjUwMTU2ODgxOF5BMl5BanBnXkFtZTgwMjU1NTk4NjE@._V1_.jpg",
+        "caption": "Tim Robbins in Jacob's Ladder (1990)",
+        "width": 1017,
+        "height": 1500
+      },
+      "imdbRating": 7.4,
+      "numVotes": 127819,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Mystery"
+      ],
+      "runtimeSeconds": 6780,
+      "runtimeMinutes": 113,
+      "metascore": 62,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 20,
+      "titleId": "tt0099700",
+      "title": "Gremlins 2: The New Batch",
+      "originalTitle": "Gremlins 2: The New Batch",
+      "year": 1990,
+      "releaseDate": {
+        "day": 15,
+        "month": 6,
+        "year": 1990
+      },
+      "plot": "The Gremlins are back, and this time, they've taken control of a New York City media mogul's high-tech skyscraper.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWI2ZTI2ZjAtOWYyZS00ZmY2LWE4ZDYtNTdmNWMwZTFjNzZhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Howie Mandel and Tony Randall in Gremlins 2: The New Batch (1990)",
+        "width": 1000,
+        "height": 1500
+      },
+      "imdbRating": 6.5,
+      "numVotes": 119934,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Horror"
+      ],
+      "runtimeSeconds": 6360,
+      "runtimeMinutes": 106,
+      "metascore": 69,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 21,
+      "titleId": "tt0100758",
+      "title": "Teenage Mutant Ninja Turtles",
+      "originalTitle": "Teenage Mutant Ninja Turtles",
+      "year": 1990,
+      "releaseDate": {
+        "day": 30,
+        "month": 3,
+        "year": 1990
+      },
+      "plot": "Four teenage mutant ninja turtles emerge from the shadows to protect New York City from a gang of criminal ninjas.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzg3NTQ4NDk5NV5BMl5BanBnXkFtZTgwNzMzNDg4NjE@._V1_.jpg",
+        "caption": "Corey Feldman, David Forman, Josh Pais, Robbie Rist, Michelan Sisti, Leif Tilden, and Brian Tochi in Teenage Mutant Ninja Turtles (1990)",
+        "width": 1010,
+        "height": 1500
+      },
+      "imdbRating": 6.8,
+      "numVotes": 111654,
+      "certificate": "PG",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 5580,
+      "runtimeMinutes": 93,
+      "metascore": 51,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 22,
+      "titleId": "tt0100935",
+      "title": "Wild at Heart",
+      "originalTitle": "Wild at Heart",
+      "year": 1990,
+      "releaseDate": {
+        "day": 17,
+        "month": 8,
+        "year": 1990
+      },
+      "plot": "Young lovers Sailor and Lula run from the variety of weirdos that Lula's mom has hired to kill Sailor.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMmUyNjMzMjEtMGFkNy00MDA1LWI0NGEtMDY5OGU1N2NmNDg1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Nicolas Cage and Laura Dern in Wild at Heart (1990)",
+        "width": 1588,
+        "height": 2413
+      },
+      "imdbRating": 7.2,
+      "numVotes": 111517,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7500,
+      "runtimeMinutes": 125,
+      "metascore": 52,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 23,
+      "titleId": "tt0099371",
+      "title": "Days of Thunder",
+      "originalTitle": "Days of Thunder",
+      "year": 1990,
+      "releaseDate": {
+        "day": 27,
+        "month": 6,
+        "year": 1990
+      },
+      "plot": "A young hot-shot stock car driver gets his chance to compete at the top level.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjM0NjgwYjAtMjQ3Mi00NDY1LTgwMDktZGJkOGRkMTBkMDA2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Days of Thunder (1990)",
+        "width": 1967,
+        "height": 2918
+      },
+      "imdbRating": 6.1,
+      "numVotes": 104332,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Drama",
+        "Sport"
+      ],
+      "runtimeSeconds": 6420,
+      "runtimeMinutes": 107,
+      "metascore": 60,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 24,
+      "titleId": "tt0100502",
+      "title": "RoboCop 2",
+      "originalTitle": "RoboCop 2",
+      "year": 1990,
+      "releaseDate": {
+        "day": 22,
+        "month": 6,
+        "year": 1990
+      },
+      "plot": "RoboCop returns to protect the citizens of old Detroit but faces a deadly challenge when a rogue OCP member secretly creates a new, evil RoboCop 2.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzFiZDU1ODktYTljOS00YWU3LThiYTYtNWRmMTdhMDg3OGE4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Peter Weller in RoboCop 2 (1990)",
+        "width": 1813,
+        "height": 2686
+      },
+      "imdbRating": 5.8,
+      "numVotes": 99180,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 7020,
+      "runtimeMinutes": 117,
+      "metascore": 42,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 25,
+      "titleId": "tt0099582",
+      "title": "Flatliners",
+      "originalTitle": "Flatliners",
+      "year": 1990,
+      "releaseDate": {
+        "day": 10,
+        "month": 8,
+        "year": 1990
+      },
+      "plot": "Five medical students experiment with \"near death\" experiences, until the dark consequences of past tragedies begin to jeopardize their lives.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOGU2YWM2MDctNWU5My00ZDIxLWFkM2YtNzQwNTQ4OWUxYmUxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Kevin Bacon, Julia Roberts, William Baldwin, Kiefer Sutherland, and Oliver Platt in Flatliners (1990)",
+        "width": 1000,
+        "height": 1500
+      },
+      "imdbRating": 6.6,
+      "numVotes": 98167,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6900,
+      "runtimeMinutes": 115,
+      "metascore": 55,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 26,
+      "titleId": "tt0100263",
+      "title": "La Femme Nikita",
+      "originalTitle": "Nikita",
+      "year": 1990,
+      "releaseDate": {
+        "day": null,
+        "month": 4,
+        "year": 1991
+      },
+      "plot": "Convicted felon Nikita isn't going to jail; she's given a new identity and trained, stylishly, as a top secret spy/assassin.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDgyZjNhNGYtYjNhZC00YTEyLTljYzgtZDM1MTk5ZTI5ODBkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Anne Parillaud in La Femme Nikita (1990)",
+        "width": 1014,
+        "height": 1500
+      },
+      "imdbRating": 7.2,
+      "numVotes": 81034,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 7020,
+      "runtimeMinutes": 117,
+      "metascore": 65,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 27,
+      "titleId": "tt0099052",
+      "title": "Arachnophobia",
+      "originalTitle": "Arachnophobia",
+      "year": 1990,
+      "releaseDate": {
+        "day": 18,
+        "month": 7,
+        "year": 1990
+      },
+      "plot": "A new species of South American killer spider hitches a lift to a California town in a coffin and starts to breed, leaving a trail of deaths that puzzle and terrify young Dr. Ross Jennings, who is newly arrived in town with his family.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjExNTcyMjI2Ml5BMl5BanBnXkFtZTgwMDgwNTg4NjE@._V1_.jpg",
+        "caption": "Arachnophobia (1990)",
+        "width": 1012,
+        "height": 1500
+      },
+      "imdbRating": 6.5,
+      "numVotes": 80235,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Horror",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6540,
+      "runtimeMinutes": 109,
+      "metascore": 67,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 28,
+      "titleId": "tt0099365",
+      "title": "Darkman",
+      "originalTitle": "Darkman",
+      "year": 1990,
+      "releaseDate": {
+        "day": 24,
+        "month": 8,
+        "year": 1990
+      },
+      "plot": "A brilliant scientist left for dead returns to exact revenge on the people who burned him alive.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTc5MzUxMjk4NF5BMl5BanBnXkFtZTgwNTEzNDk4NjE@._V1_.jpg",
+        "caption": "Liam Neeson in Darkman (1990)",
+        "width": 1018,
+        "height": 1500
+      },
+      "imdbRating": 6.4,
+      "numVotes": 74221,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5760,
+      "runtimeMinutes": 96,
+      "metascore": 65,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 29,
+      "titleId": "tt0099422",
+      "title": "Dick Tracy",
+      "originalTitle": "Dick Tracy",
+      "year": 1990,
+      "releaseDate": {
+        "day": 15,
+        "month": 6,
+        "year": 1990
+      },
+      "plot": "The comic strip detective finds his life vastly complicated when Breathless Mahoney makes advances towards him while he is trying to battle Big Boy Caprice's united mob.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDRmNmU2OGUtOWVjNC00NTI5LTg4ODQtNmY0NTNkY2ZhM2RkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Warren Beatty in Dick Tracy (1990)",
+        "width": 907,
+        "height": 1344
+      },
+      "imdbRating": 6.2,
+      "numVotes": 69557,
+      "certificate": "PG",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 6300,
+      "runtimeMinutes": 105,
+      "metascore": 68,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 30,
+      "titleId": "tt0099329",
+      "title": "Cry-Baby",
+      "originalTitle": "Cry-Baby",
+      "year": 1990,
+      "releaseDate": {
+        "day": 6,
+        "month": 4,
+        "year": 1990
+      },
+      "plot": "In 1950s Baltimore, a bad boy with a heart of gold wins the love of a good girl, whose boyfriend sets out for revenge.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTQ4ZWM2NzQtOTM0MC00ZTIyLWI3MTEtZWZjN2U5ZDBhOGU1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Johnny Depp and Amy Locane in Cry-Baby (1990)",
+        "width": 1947,
+        "height": 2946
+      },
+      "imdbRating": 6.5,
+      "numVotes": 68345,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Musical"
+      ],
+      "runtimeSeconds": 5100,
+      "runtimeMinutes": 85,
+      "metascore": 63,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 31,
+      "titleId": "tt0099253",
+      "title": "Child's Play 2",
+      "originalTitle": "Child's Play 2",
+      "year": 1990,
+      "releaseDate": {
+        "day": 9,
+        "month": 11,
+        "year": 1990
+      },
+      "plot": "While Andy's mother is admitted to a psychiatric hospital, the young boy is placed in foster care, and Chucky, determined to claim Andy's soul, is not far behind.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNmQ5ZWRhZmMtOWI0OC00OWMzLWIwNzgtMzYzNjNhZDEwNTE1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Brad Dourif in Child's Play 2 (1990)",
+        "width": 1008,
+        "height": 1500
+      },
+      "imdbRating": 6,
+      "numVotes": 63698,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5040,
+      "runtimeMinutes": 84,
+      "metascore": 37,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 32,
+      "titleId": "tt0100944",
+      "title": "The Witches",
+      "originalTitle": "The Witches",
+      "year": 1990,
+      "releaseDate": {
+        "day": 24,
+        "month": 8,
+        "year": 1990
+      },
+      "plot": "A young boy stumbles onto a witch convention and must stop them, even after he has been turned into a mouse.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjI1MDg5NzAyMV5BMl5BanBnXkFtZTgwNzU5Mzk4NjE@._V1_.jpg",
+        "caption": "Anjelica Huston, Jasen Fisher, and Mai Zetterling in The Witches (1990)",
+        "width": 987,
+        "height": 1500
+      },
+      "imdbRating": 6.8,
+      "numVotes": 58913,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family"
+      ],
+      "runtimeSeconds": 5460,
+      "runtimeMinutes": 91,
+      "metascore": 78,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 33,
+      "titleId": "tt0100404",
+      "title": "Presumed Innocent",
+      "originalTitle": "Presumed Innocent",
+      "year": 1990,
+      "releaseDate": {
+        "day": 27,
+        "month": 7,
+        "year": 1990
+      },
+      "plot": "As a lawyer investigates the murder of a colleague, he finds himself more connected to the crime than anyone else.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjMyODU4NjQwMV5BMl5BanBnXkFtZTgwMTkwNTg4NjE@._V1_.jpg",
+        "caption": "Harrison Ford and Greta Scacchi in Presumed Innocent (1990)",
+        "width": 511,
+        "height": 755
+      },
+      "imdbRating": 6.9,
+      "numVotes": 52155,
+      "certificate": "R",
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7620,
+      "runtimeMinutes": 127,
+      "metascore": 72,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 34,
+      "titleId": "tt0100050",
+      "title": "Look Who's Talking Too",
+      "originalTitle": "Look Who's Talking Too",
+      "year": 1990,
+      "releaseDate": {
+        "day": 14,
+        "month": 12,
+        "year": 1990
+      },
+      "plot": "This time, a new baby is on the way, and it's a girl. Wrapped together with the standard conflict between mother and father, Mikey engages in a bit of sibling rivalry with his new sister.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjBkZWViODktNGNhMy00MmJjLWE0ZDUtNDcwOWMzMTFjZDU5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Bruce Willis, Roseanne Barr, Megan Milner, and Lorne Sussman in Look Who's Talking Too (1990)",
+        "width": 550,
+        "height": 800
+      },
+      "imdbRating": 4.7,
+      "numVotes": 50811,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Romance"
+      ],
+      "runtimeSeconds": 4860,
+      "runtimeMinutes": 81,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 35,
+      "titleId": "tt0100477",
+      "title": "The Rescuers Down Under",
+      "originalTitle": "The Rescuers Down Under",
+      "year": 1990,
+      "releaseDate": {
+        "day": 16,
+        "month": 11,
+        "year": 1990
+      },
+      "plot": "R.A.S. agents Miss Bianca and Bernard race to Australia to save a little boy and a rare golden eagle from a murderous poacher.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjIyYWVhYWUtZTdjYy00NTUxLWExY2YtYjljNWExYjYyMDUxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Eva Gabor, Bob Newhart, Tristan Rogers, Adam Ryen, and Frank Welker in The Prince and the Pauper (1990)",
+        "width": 909,
+        "height": 1416
+      },
+      "imdbRating": 6.8,
+      "numVotes": 50744,
+      "certificate": "G",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 4620,
+      "runtimeMinutes": 77,
+      "metascore": 68,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 36,
+      "titleId": "tt0099141",
+      "title": "Bird on a Wire",
+      "originalTitle": "Bird on a Wire",
+      "year": 1990,
+      "releaseDate": {
+        "day": 18,
+        "month": 5,
+        "year": 1990
+      },
+      "plot": "An old flame discovers her ex-boyfriend from the past is a relocated FBI informant out to stop the bad guys.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzU5MTQyNzEwNV5BMl5BanBnXkFtZTgwMTgwNTg4NjE@._V1_.jpg",
+        "caption": "Mel Gibson and Goldie Hawn in Bird on a Wire (1990)",
+        "width": 1009,
+        "height": 1500
+      },
+      "imdbRating": 6,
+      "numVotes": 50522,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 6600,
+      "runtimeMinutes": 110,
+      "metascore": 36,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 37,
+      "titleId": "tt0100258",
+      "title": "Night of the Living Dead",
+      "originalTitle": "Night of the Living Dead",
+      "year": 1990,
+      "releaseDate": {
+        "day": 19,
+        "month": 10,
+        "year": 1990
+      },
+      "plot": "When the unburied dead return to life and seek human victims, seven refugees shelter in a house in the Pennsylvanian countryside.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTNjZWQwNDEtNjg3Ny00Y2MwLWI2ZmEtMzkyMTFlZGJkNTkyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Night of the Living Dead (1990)",
+        "width": 1972,
+        "height": 2936
+      },
+      "imdbRating": 6.8,
+      "numVotes": 48754,
+      "certificate": "R",
+      "genres": [
+        "Horror"
+      ],
+      "runtimeSeconds": 5520,
+      "runtimeMinutes": 92,
+      "metascore": 54,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 38,
+      "titleId": "tt0099939",
+      "title": "King of New York",
+      "originalTitle": "King of New York",
+      "year": 1990,
+      "releaseDate": {
+        "day": 29,
+        "month": 8,
+        "year": 1991
+      },
+      "plot": "A drug kingpin is released from prison and seeks to take total control of the criminal underworld in order to give back to the community.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTE2NDcxNzE4N15BMl5BanBnXkFtZTgwMDc1NTk4NjE@._V1_.jpg",
+        "caption": "Christopher Walken and Theresa Randle in King of New York (1990)",
+        "width": 1010,
+        "height": 1500
+      },
+      "imdbRating": 6.9,
+      "numVotes": 47596,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6180,
+      "runtimeMinutes": 103,
+      "metascore": 66,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 39,
+      "titleId": "tt0099044",
+      "title": "Another 48 Hrs.",
+      "originalTitle": "Another 48 Hrs.",
+      "year": 1990,
+      "releaseDate": {
+        "day": 8,
+        "month": 6,
+        "year": 1990
+      },
+      "plot": "Jack Cates once again enlists the aid of ex-con Reggie Hammond - this time to take down The Iceman, a ruthless drug lord operating in the San Francisco bay area.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTAzOTE4MzgwNV5BMl5BanBnXkFtZTgwNDgwNTg4NjE@._V1_.jpg",
+        "caption": "Eddie Murphy and Nick Nolte in Another 48 Hrs. (1990)",
+        "width": 1013,
+        "height": 1500
+      },
+      "imdbRating": 5.9,
+      "numVotes": 47372,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 5700,
+      "runtimeMinutes": 95,
+      "metascore": 23,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 40,
+      "titleId": "tt0099528",
+      "title": "The Exorcist III",
+      "originalTitle": "The Exorcist III",
+      "year": 1990,
+      "releaseDate": {
+        "day": 17,
+        "month": 8,
+        "year": 1990
+      },
+      "plot": "A police lieutenant uncovers more than he bargained for as his investigation of a series of murders, which have all the hallmarks of the deceased Gemini serial killer, leads him to question the patients of a psychiatric ward.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjRiZDQxNTAtNDg4Yy00OTc1LWI5NmQtODM5ODgzMzJmNDI3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "The Exorcist III (1990)",
+        "width": 1957,
+        "height": 2910
+      },
+      "imdbRating": 6.5,
+      "numVotes": 42877,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Mystery"
+      ],
+      "runtimeSeconds": 6600,
+      "runtimeMinutes": 110,
+      "metascore": 48,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 41,
+      "titleId": "tt0100029",
+      "title": "Lionheart",
+      "originalTitle": "Lionheart",
+      "year": 1990,
+      "releaseDate": {
+        "day": 11,
+        "month": 1,
+        "year": 1991
+      },
+      "plot": "An Ex-French Soldier begins participating in underground street fights in order to make money for his brother's family.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDQwNjgxNmYtN2M3NS00YzhmLThiNjgtZDMzNmE4MTExNDBhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jean-Claude Van Damme in Lionheart (1990)",
+        "width": 1448,
+        "height": 2172
+      },
+      "imdbRating": 6.2,
+      "numVotes": 42747,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 6480,
+      "runtimeMinutes": 108,
+      "metascore": 41,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 42,
+      "titleId": "tt0099892",
+      "title": "Joe Versus the Volcano",
+      "originalTitle": "Joe Versus the Volcano",
+      "year": 1990,
+      "releaseDate": {
+        "day": 9,
+        "month": 3,
+        "year": 1990
+      },
+      "plot": "When a hypochondriac learns that he is dying, he accepts an offer to throw himself in a volcano at a tropical island, and along the way there, learns to truly live.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTVjMThjOWMtODQzYS00MzFmLTg1OWEtZTQzYTQ0YzA0N2Q1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tom Hanks and Meg Ryan in Joe Versus the Volcano (1990)",
+        "width": 1000,
+        "height": 1500
+      },
+      "imdbRating": 5.9,
+      "numVotes": 41819,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "runtimeSeconds": 6120,
+      "runtimeMinutes": 102,
+      "metascore": 45,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 43,
+      "titleId": "tt0100994",
+      "title": "Young Guns II",
+      "originalTitle": "Young Guns II",
+      "year": 1990,
+      "releaseDate": {
+        "day": 1,
+        "month": 8,
+        "year": 1990
+      },
+      "plot": "Billy the Kid and his band of outlaws are pursued across New Mexico territory by Sheriff Pat Garrett, who the young gunslingers must face-off with if they are to reach the safety of the border.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNmQxZDExMWUtMTcwNi00OGIwLWI0MzktOGU4MDZhZmFmYzdkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Christian Slater, Emilio Estevez, Kiefer Sutherland, Balthazar Getty, Lou Diamond Phillips, and Alan Ruck in Young Guns II (1990)",
+        "width": 792,
+        "height": 1173
+      },
+      "imdbRating": 6.5,
+      "numVotes": 41488,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Drama",
+        "Western"
+      ],
+      "runtimeSeconds": 6240,
+      "runtimeMinutes": 104,
+      "metascore": 47,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 44,
+      "titleId": "tt0100140",
+      "title": "Mermaids",
+      "originalTitle": "Mermaids",
+      "year": 1990,
+      "releaseDate": {
+        "day": 14,
+        "month": 12,
+        "year": 1990
+      },
+      "plot": "An unconventional single mother relocates with her two daughters to a small Massachusetts town in 1963, where a number of events and relationships both challenge and strengthen their familial bonds.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZmU1NTk4ZTItMzgwNS00ZjUyLWFiNGItZGYxMDMwYmMyYzYwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Christina Ricci, Winona Ryder, Cher, and Bob Hoskins in Mermaids (1990)",
+        "width": 800,
+        "height": 1219
+      },
+      "imdbRating": 6.7,
+      "numVotes": 40353,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 6600,
+      "runtimeMinutes": 110,
+      "metascore": 56,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 45,
+      "titleId": "tt0105643",
+      "title": "Troll 2",
+      "originalTitle": "Troll 2",
+      "year": 1990,
+      "releaseDate": {
+        "day": null,
+        "month": null,
+        "year": 1990
+      },
+      "plot": "A vacationing family discovers that the entire town they're visiting is inhabited by goblins, disguised as humans, who plan to eat them.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzJkY2E0ZjEtYjQ4Yy00MmI3LWFhMGItZjllNmJhM2Y5NTBkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Troll 2 (1990)",
+        "width": 500,
+        "height": 741
+      },
+      "imdbRating": 3,
+      "numVotes": 36279,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Horror"
+      ],
+      "runtimeSeconds": 5700,
+      "runtimeMinutes": 95,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 46,
+      "titleId": "tt0100054",
+      "title": "Lord of the Flies",
+      "originalTitle": "Lord of the Flies",
+      "year": 1990,
+      "releaseDate": {
+        "day": 16,
+        "month": 3,
+        "year": 1990
+      },
+      "plot": "Stranded on an island, a group of schoolboys degenerate into savagery.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMGFmNWUwMTItMmM1Mi00YmFmLWE3Y2YtNjIyYTcxN2M5MjY3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Balthazar Getty in Lord of the Flies (1990)",
+        "width": 800,
+        "height": 1192
+      },
+      "imdbRating": 6.4,
+      "numVotes": 36192,
+      "certificate": "R",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5400,
+      "runtimeMinutes": 90,
+      "metascore": 49,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 47,
+      "titleId": "tt0100419",
+      "title": "Problem Child",
+      "originalTitle": "Problem Child",
+      "year": 1990,
+      "releaseDate": {
+        "day": 27,
+        "month": 7,
+        "year": 1990
+      },
+      "plot": "A young boy just short of a monster is adopted by a loving man and his wacky wife. The laughs keep coming as he pushes them to the limits.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDllZDU1NzctM2I3NC00MDBmLTg4NGYtNmIzOTU1NTc3ZDFjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "John Ritter, Amy Yasbeck, and Michael Oliver in Problem Child (1990)",
+        "width": 905,
+        "height": 1415
+      },
+      "imdbRating": 5.5,
+      "numVotes": 35229,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Family"
+      ],
+      "runtimeSeconds": 4860,
+      "runtimeMinutes": 81,
+      "metascore": 27,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 48,
+      "titleId": "tt0099739",
+      "title": "Hard to Kill",
+      "originalTitle": "Hard to Kill",
+      "year": 1990,
+      "releaseDate": {
+        "day": 9,
+        "month": 2,
+        "year": 1990
+      },
+      "plot": "Targeted by the mob and its political supporters, hired assassins leave LAPD Detective Mason Storm for dead. Seven years later, he recovers from a deep coma, demanding justice and the opportunity to get even.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODI3ZTNmNzktNDBmNy00OWI4LTk3MGYtYWVjODVjY2UyNDVjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Steven Seagal and Kelly LeBrock in Hard to Kill (1990)",
+        "width": 1516,
+        "height": 2260
+      },
+      "imdbRating": 5.8,
+      "numVotes": 34318,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 5760,
+      "runtimeMinutes": 96,
+      "metascore": 41,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 49,
+      "titleId": "tt0100436",
+      "title": "Pump Up the Volume",
+      "originalTitle": "Pump Up the Volume",
+      "year": 1990,
+      "releaseDate": {
+        "day": 22,
+        "month": 8,
+        "year": 1990
+      },
+      "plot": "Mark runs a pirate radio station and causes an uproar when he speaks his mind and enthralls fellow teens.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzg0ZjRhNWQtYWEyNy00YTgxLThkZWItOWU0MTdkNmI2YWFmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Christian Slater in Pump Up the Volume (1990)",
+        "width": 1527,
+        "height": 2260
+      },
+      "imdbRating": 7.2,
+      "numVotes": 33231,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Music"
+      ],
+      "runtimeSeconds": 6120,
+      "runtimeMinutes": 102,
+      "metascore": 77,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 50,
+      "titleId": "tt0099703",
+      "title": "The Grifters",
+      "originalTitle": "The Grifters",
+      "year": 1990,
+      "releaseDate": {
+        "day": 25,
+        "month": 1,
+        "year": 1991
+      },
+      "plot": "A conman makes a no-win triangle with his mom and his girlfriend.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTcyNDA4Y2ItZGJiNy00YWJjLWFhNDgtMzM4M2NkNWQ1NDVmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "John Cusack, Annette Bening, and Anjelica Huston in The Grifters (1990)",
+        "width": 1290,
+        "height": 2048
+      },
+      "imdbRating": 6.8,
+      "numVotes": 33111,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6600,
+      "runtimeMinutes": 110,
+      "metascore": 86,
+      "credits": [],
+      "titleType": "movie"
+    }
+  ]
+}

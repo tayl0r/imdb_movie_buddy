@@ -1,0 +1,568 @@
+{
+  "source": "100 Greatest Movies of the 2000s.csv",
+  "movies": [
+    {
+      "rank": 1,
+      "titleId": "tt0401383",
+      "title": "The Diving Bell and the Butterfly",
+      "originalTitle": "Le scaphandre et le papillon",
+      "year": 2007,
+      "releaseDate": {
+        "day": 1,
+        "month": 2,
+        "year": 2008
+      },
+      "plot": "The true story of Elle editor Jean-Dominique Bauby who suffers a stroke and has to live with an almost totally paralyzed body; only his left eye isn't paralyzed.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMGNhOTgwZmMtYjcyNy00MWQ1LTg1NWYtZmQzODY2MjI2ZWQzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "The Diving Bell and the Butterfly (2007)",
+        "width": 960,
+        "height": 1440
+      },
+      "imdbRating": 8,
+      "numVotes": 112650,
+      "certificate": "PG-13",
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "runtimeSeconds": 6720,
+      "runtimeMinutes": 112,
+      "metascore": 92,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0244316",
+      "title": "Yi Yi",
+      "originalTitle": "Yi yi",
+      "year": 2000,
+      "releaseDate": {
+        "day": 16,
+        "month": 12,
+        "year": 2000
+      },
+      "plot": "Portrait of a middle-class family in Taipei. A man in his forties, his teenage daughter and his eight-year-old son experience life, navigating between remorse, hope and disappointment.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTAyMDQ5Y2MtZDk0NC00N2IyLWE5OTgtZjJkZWNlMDBhMDhlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Yi Yi (2000)",
+        "width": 650,
+        "height": 918
+      },
+      "imdbRating": 8.1,
+      "numVotes": 33389,
+      "certificate": "Not Rated",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 10380,
+      "runtimeMinutes": 173,
+      "metascore": 94,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0375063",
+      "title": "Sideways",
+      "originalTitle": "Sideways",
+      "year": 2004,
+      "releaseDate": {
+        "day": 22,
+        "month": 10,
+        "year": 2004
+      },
+      "plot": "Two men reaching middle age with not much to show but disappointment embark on a week-long road trip through California's wine country, just as one is about to take a trip down the aisle.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTU0Mjg3MzkxOV5BMl5BanBnXkFtZTYwNDU1OTY3._V1_.jpg",
+        "caption": "Thomas Haden Church and Paul Giamatti in Sideways (2004)",
+        "width": 450,
+        "height": 695
+      },
+      "imdbRating": 7.5,
+      "numVotes": 216051,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 7620,
+      "runtimeMinutes": 127,
+      "metascore": 94,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0929632",
+      "title": "Precious",
+      "originalTitle": "Precious",
+      "year": 2009,
+      "releaseDate": {
+        "day": 20,
+        "month": 11,
+        "year": 2009
+      },
+      "plot": "In New York City's Harlem circa 1987, an overweight, abused, illiterate teen who is pregnant with her second child is invited to enroll in an alternative school in hopes that she can re-route her life in a better direction.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDVkZDYzOTktMDI0Yy00YjE5LWIxMGEtOGZlNjllOTdhZjQ3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Gabourey Sidibe in Precious (2009)",
+        "width": 1012,
+        "height": 1500
+      },
+      "imdbRating": 7.3,
+      "numVotes": 120518,
+      "certificate": "Not Rated",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 6600,
+      "runtimeMinutes": 110,
+      "metascore": 78,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0350258",
+      "title": "Ray",
+      "originalTitle": "Ray",
+      "year": 2004,
+      "releaseDate": {
+        "day": 29,
+        "month": 10,
+        "year": 2004
+      },
+      "plot": "The story of the life and career of the legendary rhythm and blues musician Ray Charles, from his humble beginnings in the South, where he went blind at age seven, to his meteoric rise to stardom during the 1950s and 1960s.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTQxNDQwNjQzOV5BMl5BanBnXkFtZTcwNTQxNDYyMQ@@._V1_.jpg",
+        "caption": "Jamie Foxx in Ray (2004)",
+        "width": 510,
+        "height": 755
+      },
+      "imdbRating": 7.7,
+      "numVotes": 164501,
+      "certificate": "PG-13",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Music"
+      ],
+      "runtimeSeconds": 9120,
+      "runtimeMinutes": 152,
+      "metascore": 73,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0287467",
+      "title": "Talk to Her",
+      "originalTitle": "Hable con ella",
+      "year": 2002,
+      "releaseDate": {
+        "day": 14,
+        "month": 2,
+        "year": 2003
+      },
+      "plot": "Two men share an odd friendship while they care for two women who are both in deep comas.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BM2NjMmQyYmQtMjRjMi00OGVjLWFlMDAtNDYzNDE0MmY4YjE1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Rosario Flores and Leonor Watling in Talk to Her (2002)",
+        "width": 797,
+        "height": 1100
+      },
+      "imdbRating": 7.9,
+      "numVotes": 121322,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Romance"
+      ],
+      "runtimeSeconds": 6720,
+      "runtimeMinutes": 112,
+      "metascore": 86,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0280707",
+      "title": "Gosford Park",
+      "originalTitle": "Gosford Park",
+      "year": 2001,
+      "releaseDate": {
+        "day": 18,
+        "month": 1,
+        "year": 2002
+      },
+      "plot": "Set in the 1930s, a group of pretentious rich and famous get together for a weekend of relaxation at a hunting resort. But when a murder occurs, each one of these interesting characters becomes a suspect.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGRjODg5ZTEtYzZjMC00NmQ3LWFiNjUtYjhhODIxNTYyZDk2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Gosford Park (2001)",
+        "width": 720,
+        "height": 1123
+      },
+      "imdbRating": 7.2,
+      "numVotes": 101478,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Mystery"
+      ],
+      "runtimeSeconds": 8220,
+      "runtimeMinutes": 137,
+      "metascore": 90,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0433383",
+      "title": "Good Night, and Good Luck.",
+      "originalTitle": "Good Night, and Good Luck.",
+      "year": 2005,
+      "releaseDate": {
+        "day": 4,
+        "month": 11,
+        "year": 2005
+      },
+      "plot": "Broadcast journalist Edward R. Murrow looks to bring down Senator Joseph McCarthy.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTJhMmY5OGMtNDZhNS00ZjAyLWFmODQtOTA0NWM5NjMyOTk5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "David Strathairn in Good Night, and Good Luck. (2005)",
+        "width": 960,
+        "height": 1440
+      },
+      "imdbRating": 7.4,
+      "numVotes": 104819,
+      "certificate": "PG",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "runtimeSeconds": 5580,
+      "runtimeMinutes": 93,
+      "metascore": 80,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0329575",
+      "title": "Seabiscuit",
+      "originalTitle": "Seabiscuit",
+      "year": 2003,
+      "releaseDate": {
+        "day": 25,
+        "month": 7,
+        "year": 2003
+      },
+      "plot": "True story of the undersized Depression-era racehorse whose victories lifted not only the spirits of the team behind it but also those of their nation.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMWExOWJjNmEtMjk3Ny00YjM5LWEwYTctY2ViMTgwMTZkNGM4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Seabiscuit (2003)",
+        "width": 963,
+        "height": 1500
+      },
+      "imdbRating": 7.3,
+      "numVotes": 79752,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama",
+        "History",
+        "Sport"
+      ],
+      "runtimeSeconds": 8400,
+      "runtimeMinutes": 140,
+      "metascore": 72,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt1068646",
+      "title": "The Class",
+      "originalTitle": "Entre les murs",
+      "year": 2008,
+      "releaseDate": {
+        "day": 13,
+        "month": 3,
+        "year": 2009
+      },
+      "plot": "Teacher and novelist Fran\u00e7ois B\u00e9gaudeau plays a version of himself as he negotiates a year with his racially mixed students from a tough Parisian neighborhood.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTc4NjUzNDYxM15BMl5BanBnXkFtZTcwNjExNzMwMg@@._V1_.jpg",
+        "caption": "The Class (2008)",
+        "width": 972,
+        "height": 1438
+      },
+      "imdbRating": 7.5,
+      "numVotes": 37415,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 7680,
+      "runtimeMinutes": 128,
+      "metascore": 92,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt1032846",
+      "title": "4 Months, 3 Weeks and 2 Days",
+      "originalTitle": "4 luni, 3 saptam\u00e2ni si 2 zile",
+      "year": 2007,
+      "releaseDate": {
+        "day": 14,
+        "month": 9,
+        "year": 2007
+      },
+      "plot": "A woman assists her friend in arranging an illegal abortion in 1980s Romania.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTk3NDY2MDg0MF5BMl5BanBnXkFtZTYwODcwODc4._V1_.jpg",
+        "caption": "Anamaria Marinca and Laura Vasiliu in 4 Months, 3 Weeks and 2 Days (2007)",
+        "width": 450,
+        "height": 664
+      },
+      "imdbRating": 7.9,
+      "numVotes": 65509,
+      "certificate": "Not Rated",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 6780,
+      "runtimeMinutes": 113,
+      "metascore": 97,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt1263670",
+      "title": "Crazy Heart",
+      "originalTitle": "Crazy Heart",
+      "year": 2009,
+      "releaseDate": {
+        "day": 5,
+        "month": 2,
+        "year": 2010
+      },
+      "plot": "A faded country music musician is forced to reassess his dysfunctional life during a doomed romance that also inspires him.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTU0NDc5NjgzNl5BMl5BanBnXkFtZTcwNzc0NDIzMw@@._V1_.jpg",
+        "caption": "Jeff Bridges in Crazy Heart (2009)",
+        "width": 1387,
+        "height": 2048
+      },
+      "imdbRating": 7.2,
+      "numVotes": 98727,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Music",
+        "Romance"
+      ],
+      "runtimeSeconds": 6720,
+      "runtimeMinutes": 112,
+      "metascore": 83,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0247196",
+      "title": "Before Night Falls",
+      "originalTitle": "Before Night Falls",
+      "year": 2000,
+      "releaseDate": {
+        "day": 23,
+        "month": 2,
+        "year": 2001
+      },
+      "plot": "The life of Cuban poet and novelist, Reinaldo Arenas.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTI2ODRiYjEtY2JkMC00ZDM0LWIzYzQtNzllNzEzYjkwZTM5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Javier Bardem in Before Night Falls (2000)",
+        "width": 750,
+        "height": 1079
+      },
+      "imdbRating": 7.1,
+      "numVotes": 27160,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 7980,
+      "runtimeMinutes": 133,
+      "metascore": 85,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0870111",
+      "title": "Frost/Nixon",
+      "originalTitle": "Frost/Nixon",
+      "year": 2008,
+      "releaseDate": {
+        "day": 23,
+        "month": 1,
+        "year": 2009
+      },
+      "plot": "A dramatic retelling of the post-Watergate television interviews between British talk-show host David Frost and former president Richard Nixon.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTU2NDU2NDQtMTlhNC00ZGI3LWIzOGItNzQ3OTk0MjgyMGYzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Frank Langella and Michael Sheen in Frost/Nixon (2008)",
+        "width": 1634,
+        "height": 2426
+      },
+      "imdbRating": 7.6,
+      "numVotes": 115670,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "runtimeSeconds": 7320,
+      "runtimeMinutes": 122,
+      "metascore": 80,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0285742",
+      "title": "Monster's Ball",
+      "originalTitle": "Monster's Ball",
+      "year": 2001,
+      "releaseDate": {
+        "day": 1,
+        "month": 3,
+        "year": 2002
+      },
+      "plot": "After a family tragedy, a racist prison guard re-examines his attitudes while falling in love with the African-American wife of the last prisoner he executed.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjYxMTQxMzgtN2UyYS00Y2JkLTg1MmYtOTYwMGI4YWQxZDhmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Billy Bob Thornton and Halle Berry in Monster's Ball (2001)",
+        "width": 580,
+        "height": 863
+      },
+      "imdbRating": 7,
+      "numVotes": 98017,
+      "certificate": "",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 6660,
+      "runtimeMinutes": 111,
+      "metascore": 69,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0247425",
+      "title": "In the Bedroom",
+      "originalTitle": "In the Bedroom",
+      "year": 2001,
+      "releaseDate": {
+        "day": 8,
+        "month": 2,
+        "year": 2002
+      },
+      "plot": "A New England couple's college-aged son dates an older woman who has two small children and an unwelcome ex-husband.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTFmY2U1N2QtZWE5Mi00MjBjLTkyNjgtZmNkZTk2MTJlMTcxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Sissy Spacek, Marisa Tomei, Nick Stahl, and Tom Wilkinson in In the Bedroom (2001)",
+        "width": 569,
+        "height": 841
+      },
+      "imdbRating": 7.4,
+      "numVotes": 44202,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 7860,
+      "runtimeMinutes": 131,
+      "metascore": 86,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt1174732",
+      "title": "An Education",
+      "originalTitle": "An Education",
+      "year": 2009,
+      "releaseDate": {
+        "day": 5,
+        "month": 2,
+        "year": 2010
+      },
+      "plot": "A coming-of-age story about a teenage girl in 1960s suburban London, and how her life changes with the arrival of a playboy nearly twice her age.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTg4NjgzOTc0MF5BMl5BanBnXkFtZTcwOTc2OTE3Mg@@._V1_.jpg",
+        "caption": "Peter Sarsgaard and Carey Mulligan in An Education (2009)",
+        "width": 969,
+        "height": 1437
+      },
+      "imdbRating": 7.2,
+      "numVotes": 140784,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 6000,
+      "runtimeMinutes": 100,
+      "metascore": 85,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0308644",
+      "title": "Finding Neverland",
+      "originalTitle": "Finding Neverland",
+      "year": 2004,
+      "releaseDate": {
+        "day": 17,
+        "month": 12,
+        "year": 2004
+      },
+      "plot": "The story of Sir J.M. Barrie's friendship with a family who inspired him to create Peter Pan.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWIyODcyYzYtNTNhMy00MThjLTkxZDgtMTBiOWY3ODkxNzQ1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Johnny Depp and Kate Winslet in Finding Neverland (2004)",
+        "width": 1536,
+        "height": 2048
+      },
+      "imdbRating": 7.6,
+      "numVotes": 216804,
+      "certificate": "PG",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Family"
+      ],
+      "runtimeSeconds": 6360,
+      "runtimeMinutes": 106,
+      "metascore": 67,
+      "credits": [],
+      "titleType": "movie"
+    }
+  ]
+}

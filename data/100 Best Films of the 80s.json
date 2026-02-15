@@ -1,0 +1,711 @@
+{
+  "source": "100 Best Films of the 80s.csv",
+  "movies": [
+    {
+      "rank": 1,
+      "titleId": "tt0092593",
+      "title": "Au Revoir Les Enfants",
+      "originalTitle": "Au revoir les enfants",
+      "year": 1987,
+      "releaseDate": {
+        "day": 12,
+        "month": 2,
+        "year": 1988
+      },
+      "plot": "A French boarding school run by priests seems to be a haven from World War II until a new student arrives. Occupying the next bed in the dormitory to the top student in his class, the two young boys begin to form a bond.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzY4NmI0OTUtOTQ2Zi00MDAxLTljYTAtNTc4MGRiYzI3ZDYxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Raphael Fejt\u00f6 and Gaspard Manesse in Au Revoir Les Enfants (1987)",
+        "width": 1080,
+        "height": 1644
+      },
+      "imdbRating": 8,
+      "numVotes": 38290,
+      "certificate": "PG",
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "runtimeSeconds": 6240,
+      "runtimeMinutes": 104,
+      "metascore": 88,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0089276",
+      "title": "The Official Story",
+      "originalTitle": "La historia oficial",
+      "year": 1985,
+      "releaseDate": {
+        "day": 8,
+        "month": 11,
+        "year": 1985
+      },
+      "plot": "During the final months of Argentinian Military Dictatorship in 1983, a high school teacher sets out to find out who the mother of her adopted daughter is.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZmFiZDE4YWQtNDBmNi00YThlLWJjMGYtYmM4MjBhOWI3NTQ3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Norma Aleandro, H\u00e9ctor Alterio, and Analia Castro in The Official Story (1985)",
+        "width": 1143,
+        "height": 1600
+      },
+      "imdbRating": 7.7,
+      "numVotes": 11658,
+      "certificate": "Not Rated",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "runtimeSeconds": 6720,
+      "runtimeMinutes": 112,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0093713",
+      "title": "Pelle the Conqueror",
+      "originalTitle": "Pelle erobreren",
+      "year": 1987,
+      "releaseDate": {
+        "day": 21,
+        "month": 12,
+        "year": 1988
+      },
+      "plot": "When his wife dies, Lasse takes his 12-year-old son, Pelle, from their home in Sweden to Denmark in search of a better life.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjhiNjk5YTUtMTYzMS00YWFhLWI1ZmYtOTNhNWViZjI3NzNiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Pelle the Conqueror (1987)",
+        "width": 924,
+        "height": 1365
+      },
+      "imdbRating": 7.7,
+      "numVotes": 12582,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 9420,
+      "runtimeMinutes": 157,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0090257",
+      "title": "My Sweet Little Village",
+      "originalTitle": "Vesnicko m\u00e1 strediskov\u00e1",
+      "year": 1985,
+      "releaseDate": {
+        "day": 9,
+        "month": 1,
+        "year": 1987
+      },
+      "plot": "The life of a small village runs on its own.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BM2RiYmQ3YTEtOGZiOS00ODQ4LTg0ZDEtYmI4ODcwMTk2ZmE1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "My Sweet Little Village (1985)",
+        "width": 960,
+        "height": 1357
+      },
+      "imdbRating": 7.8,
+      "numVotes": 5170,
+      "certificate": "PG",
+      "genres": [
+        "Comedy"
+      ],
+      "runtimeSeconds": 5880,
+      "runtimeMinutes": 98,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0093603",
+      "title": "Nayakan",
+      "originalTitle": "Nayakan",
+      "year": 1987,
+      "releaseDate": {
+        "day": 21,
+        "month": 10,
+        "year": 1987
+      },
+      "plot": "A common man's struggles against a corrupt police force put him on the wrong side of the law. He becomes a don, who is loved and respected by many, but his growing power and influence exact a heavy toll.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDgyNDFhMTgtM2Y5YS00MTczLWJmODktNTAzZGIyYWNjYmFjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Kamal Haasan in Nayakan (1987)",
+        "width": 1200,
+        "height": 1800
+      },
+      "imdbRating": 8.6,
+      "numVotes": 27637,
+      "certificate": "Not Rated",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 8700,
+      "runtimeMinutes": 145,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0092603",
+      "title": "Babette's Feast",
+      "originalTitle": "Babettes g\u00e6stebud",
+      "year": 1987,
+      "releaseDate": {
+        "day": 4,
+        "month": 3,
+        "year": 1988
+      },
+      "plot": "During the late 19th century, a strict religious community in a Danish village takes in a French refugee from the Franco-Prussian War as a servant to the late pastor's daughters.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNWY2Yzc0OGItM2FjYi00MDU2LTgwNmYtZGYzZmI1NTc0Y2NmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "St\u00e9phane Audran in Babette's Feast (1987)",
+        "width": 800,
+        "height": 1200
+      },
+      "imdbRating": 7.8,
+      "numVotes": 23736,
+      "certificate": "G",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 6180,
+      "runtimeMinutes": 103,
+      "metascore": 78,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0096028",
+      "title": "Salaam Bombay!",
+      "originalTitle": "Salaam Bombay!",
+      "year": 1988,
+      "releaseDate": {
+        "day": 7,
+        "month": 10,
+        "year": 1988
+      },
+      "plot": "Young Krishna struggles to survive among the drug dealers, pimps, and prostitutes in the back alleys and gutters of India.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODM1OTM2ZjUtMmQ3ZS00MmYwLWJiMTgtODY0Mjg5ZjgzYjJlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Shafiq Syed in Salaam Bombay! (1988)",
+        "width": 432,
+        "height": 648
+      },
+      "imdbRating": 7.9,
+      "numVotes": 11026,
+      "certificate": "Not Rated",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 6780,
+      "runtimeMinutes": 113,
+      "metascore": 79,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0082736",
+      "title": "Mephisto",
+      "originalTitle": "Mephisto",
+      "year": 1981,
+      "releaseDate": {
+        "day": 22,
+        "month": 3,
+        "year": 1982
+      },
+      "plot": "In early-1930s Germany, a passionate stage actor faces a dilemma: renounce his apolitical stance and comply with the Reich's doctrine, or face oblivion. But, Faustian bargains never end well. What is the price of success?",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNmFmYmIyOGQtZGVkYS00MmJkLWI5ZWYtNDQ2ZjRhYWIwYjZkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Mephisto (1981)",
+        "width": 1478,
+        "height": 2220
+      },
+      "imdbRating": 7.7,
+      "numVotes": 12440,
+      "certificate": "Not Rated",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 8760,
+      "runtimeMinutes": 146,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0095467",
+      "title": "A Short Film About Love",
+      "originalTitle": "Kr\u00f3tki film o milosci",
+      "year": 1988,
+      "releaseDate": {
+        "day": 4,
+        "month": 8,
+        "year": 1995
+      },
+      "plot": "A naive inexperienced young man spies on a woman who lives across the courtyard, and falls in love with her. He starts using tricks which he hopes will lead to them meeting.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzkwYjBlMzktNGJiNi00OTk4LTlkMDYtOGQ5MjBkNmFhMzY4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "A Short Film About Love (1988)",
+        "width": 960,
+        "height": 1409
+      },
+      "imdbRating": 8.1,
+      "numVotes": 27973,
+      "certificate": "Not Rated",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 5220,
+      "runtimeMinutes": 87,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0080310",
+      "title": "Breaker Morant",
+      "originalTitle": "'Breaker' Morant",
+      "year": 1980,
+      "releaseDate": {
+        "day": 3,
+        "month": 7,
+        "year": 1980
+      },
+      "plot": "Three Australian lieutenants are court martialed for executing prisoners as a way of deflecting attention from war crimes committed by their superior officers.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOGI3MDEyNWUtMTVhNC00MmY2LTgyZGQtZDY2NDNhMmI0YWU2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Edward Woodward in Breaker Morant (1980)",
+        "width": 1121,
+        "height": 1681
+      },
+      "imdbRating": 7.8,
+      "numVotes": 15333,
+      "certificate": "PG",
+      "genres": [
+        "Drama",
+        "History",
+        "War"
+      ],
+      "runtimeSeconds": 6420,
+      "runtimeMinutes": 107,
+      "metascore": 73,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0096908",
+      "title": "A City of Sadness",
+      "originalTitle": "Beiqing chengshi",
+      "year": 1989,
+      "releaseDate": {
+        "day": 21,
+        "month": 10,
+        "year": 1989
+      },
+      "plot": "The story of a family embroiled in the \"White Terror\" that was wrought on the Taiwanese people by the Kuomintang government after their arrival from mainland China in the late 1940s.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNWM2MGZmODUtOGJmNi00NTVhLTg2MDktNDdlMWM3YmNjNGZlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "A City of Sadness (1989)",
+        "width": 1435,
+        "height": 2048
+      },
+      "imdbRating": 7.8,
+      "numVotes": 6905,
+      "certificate": "",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "runtimeSeconds": 9420,
+      "runtimeMinutes": 157,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0084821",
+      "title": "La Traviata",
+      "originalTitle": "La traviata",
+      "year": 1982,
+      "releaseDate": {
+        "day": 18,
+        "month": 2,
+        "year": 1983
+      },
+      "plot": "Violetta meets Alfredo and quickly falls for him. After the lovers run away together, they live in bliss for a short time. However, Alfredo's father, Giorgio, starts to interfere, concerned that Violetta's bad reputation will affect the marriage prospects of Alfredo's sister. Violetta reluctantly leaves Alfredo, but his love is so strong that it leads him to actions that have tragic consequences.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMWFkZmJlMjItNDc2NC00NmMyLTg3NDUtY2M5YTM1ZjM0YzM1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Pl\u00e1cido Domingo and Teresa Stratas in La Traviata (1982)",
+        "width": 568,
+        "height": 870
+      },
+      "imdbRating": 7.6,
+      "numVotes": 1589,
+      "certificate": "G",
+      "genres": [
+        "Drama",
+        "Music"
+      ],
+      "runtimeSeconds": 6540,
+      "runtimeMinutes": 109,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0095468",
+      "title": "A Short Film About Killing",
+      "originalTitle": "Kr\u00f3tki film o zabijaniu",
+      "year": 1988,
+      "releaseDate": {
+        "day": 11,
+        "month": 8,
+        "year": 1995
+      },
+      "plot": "A soon-to-be lawyer crosses his path with a taxi driver and a young sinister man.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BM2YwNzQyMWItZjliNC00YmQzLWFkZjktYWY5ODExMGNkOTEzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "A Short Film About Killing (1988)",
+        "width": 1600,
+        "height": 2222
+      },
+      "imdbRating": 7.9,
+      "numVotes": 24075,
+      "certificate": "Not Rated",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 5040,
+      "runtimeMinutes": 84,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0084740",
+      "title": "El Sur",
+      "originalTitle": "El sur",
+      "year": 1983,
+      "releaseDate": {
+        "day": 20,
+        "month": 1,
+        "year": 1988
+      },
+      "plot": "A woman reflects on her childhood relationship with her father, attempting to understand the depths of his despair and the truth of his myths.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzlkZmIyMmEtM2JjYy00ZDU4LWI0NjctM2MzNTAzYTBmYTVkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "El Sur (1983)",
+        "width": 848,
+        "height": 1200
+      },
+      "imdbRating": 7.8,
+      "numVotes": 7245,
+      "certificate": "Not Rated",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Romance"
+      ],
+      "runtimeSeconds": 5700,
+      "runtimeMinutes": 95,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0084934",
+      "title": "Yol",
+      "originalTitle": "Yol",
+      "year": 1982,
+      "releaseDate": {
+        "day": 12,
+        "month": 2,
+        "year": 1999
+      },
+      "plot": "The difficulties experienced by five prisoners who took a week's leave from prison.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTcxODI2OTUtZjkzYS00MDk4LTk5Y2QtMTY4YmJlMzQ4MmE1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tarik Akan and Serif Sezer in Yol (1982)",
+        "width": 1916,
+        "height": 2907
+      },
+      "imdbRating": 7.9,
+      "numVotes": 15352,
+      "certificate": "PG",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 6420,
+      "runtimeMinutes": 107,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0097223",
+      "title": "Time of the Gypsies",
+      "originalTitle": "Dom za vesanje",
+      "year": 1988,
+      "releaseDate": {
+        "day": 9,
+        "month": 2,
+        "year": 1990
+      },
+      "plot": "In this luminous tale set in the area around Sarajevo and in Italy, Perhan, an engaging young Romany (gypsy) with telekinetic powers, is seduced by the quick-cash world of petty crime, which threatens to destroy him and those he loves.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTRkOTAzMzQtN2JjYi00YmQzLTg1YTYtMzk0ZWQ5N2Q3MDIzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Time of the Gypsies (1988)",
+        "width": 1517,
+        "height": 2260
+      },
+      "imdbRating": 8.1,
+      "numVotes": 34322,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 8520,
+      "runtimeMinutes": 142,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0085461",
+      "title": "The Dresser",
+      "originalTitle": "The Dresser",
+      "year": 1983,
+      "releaseDate": {
+        "day": 6,
+        "month": 12,
+        "year": 1983
+      },
+      "plot": "Personal assistant Norman struggles to get deteriorating veteran actor Sir through a difficult performance of King Lear.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNmJhMmE3OGUtODJlNS00NWVhLWJiMTgtZmEyOGM2Nzg2MWE4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "The Dresser (1983)",
+        "width": 800,
+        "height": 1214
+      },
+      "imdbRating": 7.4,
+      "numVotes": 6300,
+      "certificate": "PG",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 7080,
+      "runtimeMinutes": 118,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0096288",
+      "title": "Landscape in the Mist",
+      "originalTitle": "Topio stin omihli",
+      "year": 1988,
+      "releaseDate": {
+        "day": 10,
+        "month": 9,
+        "year": 1988
+      },
+      "plot": "Two children journey the long road to Germany to find the man they believe to be their father.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTNiN2QyY2MtNWMyYi00NjIzLTg4ODUtOTE0ZDZkODRiNmE1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Landscape in the Mist (1988)",
+        "width": 640,
+        "height": 960
+      },
+      "imdbRating": 7.9,
+      "numVotes": 10922,
+      "certificate": "TV-MA",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 7620,
+      "runtimeMinutes": 127,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0091480",
+      "title": "Manon of the Spring",
+      "originalTitle": "Manon des sources",
+      "year": 1986,
+      "releaseDate": {
+        "day": 4,
+        "month": 12,
+        "year": 1987
+      },
+      "plot": "A beautiful but shy shepherdess plots vengeance on the men whose greedy conspiracy to acquire her father's land caused his death years earlier.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTQwZWUyNTgtYTU5My00YjdiLTg5NGQtN2JhMjE4MzY4NjAzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Emmanuelle B\u00e9art, Daniel Auteuil, and Yves Montand in Manon of the Spring (1986)",
+        "width": 1411,
+        "height": 2183
+      },
+      "imdbRating": 8,
+      "numVotes": 25546,
+      "certificate": "PG",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 6780,
+      "runtimeMinutes": 113,
+      "metascore": 70,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0089748",
+      "title": "When Father Was Away on Business",
+      "originalTitle": "Otac na sluzbenom putu",
+      "year": 1985,
+      "releaseDate": {
+        "day": 11,
+        "month": 10,
+        "year": 1985
+      },
+      "plot": "A family is deeply affected by the father's extramarital affairs and the turbulent consequences of the Tito-Stalin split.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTc2ODg1NTUtM2QyNy00MGFhLTg4ODItY2RmMDJhZjg4NjYyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "When Father Was Away on Business (1985)",
+        "width": 1012,
+        "height": 1500
+      },
+      "imdbRating": 7.7,
+      "numVotes": 10715,
+      "certificate": "R",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 8160,
+      "runtimeMinutes": 136,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0085482",
+      "title": "El Norte",
+      "originalTitle": "El Norte",
+      "year": 1983,
+      "releaseDate": {
+        "day": 27,
+        "month": 1,
+        "year": 1984
+      },
+      "plot": "After their family is killed in a government massacre, siblings Enrique and Rosa flee Guatemala and embark on a perilous journey to \"El Norte\": the United States.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjRkNDM1YWQtNTZlZi00MzI3LTgxZjktMzZhMDA1YTUzY2I4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "El Norte (1983)",
+        "width": 900,
+        "height": 1381
+      },
+      "imdbRating": 7.7,
+      "numVotes": 6009,
+      "certificate": "R",
+      "genres": [
+        "Adventure",
+        "Drama"
+      ],
+      "runtimeSeconds": 8460,
+      "runtimeMinutes": 141,
+      "metascore": 75,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0087644",
+      "title": "Love Streams",
+      "originalTitle": "Love Streams",
+      "year": 1984,
+      "releaseDate": {
+        "day": 24,
+        "month": 8,
+        "year": 1984
+      },
+      "plot": "Two closely bound, emotionally wounded souls reunite after years apart.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYmMxYzJmOTQtMTc2NS00Njg2LTk5OTItNDUxNWMzMjQyODhhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "John Cassavetes and Gena Rowlands in Love Streams (1984)",
+        "width": 780,
+        "height": 1170
+      },
+      "imdbRating": 7.6,
+      "numVotes": 7339,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 8460,
+      "runtimeMinutes": 141,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0087164",
+      "title": "A Summer at Grandpa's",
+      "originalTitle": "Dong dong de ji\u00e0qi",
+      "year": 1984,
+      "releaseDate": {
+        "day": null,
+        "month": null,
+        "year": 1984
+      },
+      "plot": "A coming-of-age story about a young brother and sister who spend a pivotal summer in the country with their grandparents.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYThmNDc5ZTktMWNlMS00NTA3LTkwMGMtNzUwMDQxNzUyMDhiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "A Summer at Grandpa's (1984)",
+        "width": 640,
+        "height": 960
+      },
+      "imdbRating": 7.6,
+      "numVotes": 2039,
+      "certificate": "",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 5580,
+      "runtimeMinutes": 93,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    }
+  ]
+}

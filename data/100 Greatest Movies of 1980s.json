@@ -1,0 +1,69 @@
+{
+  "source": "100 Greatest Movies of 1980s.csv",
+  "movies": [
+    {
+      "rank": 1,
+      "titleId": "tt0095082",
+      "title": "Eight Men Out",
+      "originalTitle": "Eight Men Out",
+      "year": 1988,
+      "releaseDate": {
+        "day": 29,
+        "month": 6,
+        "year": 1989
+      },
+      "plot": "A dramatization of the Black Sox scandal when the underpaid Chicago White Sox accepted bribes to deliberately lose the 1919 World Series.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTUxMTIzNTY4N15BMl5BanBnXkFtZTcwMDQ4NjYzNA@@._V1_.jpg",
+        "caption": "John Cusack, Charlie Sheen, David Strathairn, D.B. Sweeney, Don Harvey, James Read, Perry Lang, and Michael Rooker in Eight Men Out (1988)",
+        "width": 682,
+        "height": 1023
+      },
+      "imdbRating": 7.2,
+      "numVotes": 23799,
+      "certificate": "PG",
+      "genres": [
+        "Drama",
+        "History",
+        "Sport"
+      ],
+      "runtimeSeconds": 7140,
+      "runtimeMinutes": 119,
+      "metascore": 71,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0097322",
+      "title": "The Fabulous Baker Boys",
+      "originalTitle": "The Fabulous Baker Boys",
+      "year": 1989,
+      "releaseDate": {
+        "day": 13,
+        "month": 10,
+        "year": 1989
+      },
+      "plot": "The lives of two struggling musicians, who happen to be brothers, inevitably change when they team up with a beautiful, up-and-coming singer.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDFlYjBkOTMtM2I4Yi00ZmUyLTg0YjctY2RhZmI0NTk0ZmE0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Michelle Pfeiffer, Jeff Bridges, and Beau Bridges in The Fabulous Baker Boys (1989)",
+        "width": 1501,
+        "height": 2265
+      },
+      "imdbRating": 6.9,
+      "numVotes": 27489,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Music"
+      ],
+      "runtimeSeconds": 6840,
+      "runtimeMinutes": 114,
+      "metascore": 85,
+      "credits": [],
+      "titleType": "movie"
+    }
+  ]
+}

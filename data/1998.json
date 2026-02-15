@@ -1,0 +1,1596 @@
+{
+  "year": 1998,
+  "movies": [
+    {
+      "rank": 1,
+      "titleId": "tt0120815",
+      "title": "Saving Private Ryan",
+      "originalTitle": "Saving Private Ryan",
+      "year": 1998,
+      "releaseDate": {
+        "day": 24,
+        "month": 7,
+        "year": 1998
+      },
+      "plot": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose comrades have been killed in action.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZGZhZGQ1ZWUtZTZjYS00MDJhLWFkYjctN2ZlYjE5NWYwZDM2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tom Hanks, Matt Damon, Tom Sizemore, and Edward Burns in Saving Private Ryan (1998)",
+        "width": 800,
+        "height": 1177
+      },
+      "imdbRating": 8.6,
+      "numVotes": 1622425,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "runtimeSeconds": 10140,
+      "runtimeMinutes": 169,
+      "metascore": 91,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 2,
+      "titleId": "tt0120382",
+      "title": "The Truman Show",
+      "originalTitle": "The Truman Show",
+      "year": 1998,
+      "releaseDate": {
+        "day": 5,
+        "month": 6,
+        "year": 1998
+      },
+      "plot": "An insurance salesman begins to suspect that his whole life is actually some sort of reality TV show.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzA3ZjZlNzYtMTdjMy00NjMzLTk5ZGYtMTkyYzNiOGM1YmM3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jim Carrey in The Truman Show (1998)",
+        "width": 1685,
+        "height": 2500
+      },
+      "imdbRating": 8.2,
+      "numVotes": 1351456,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 6180,
+      "runtimeMinutes": 103,
+      "metascore": 90,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 3,
+      "titleId": "tt0120586",
+      "title": "American History X",
+      "originalTitle": "American History X",
+      "year": 1998,
+      "releaseDate": {
+        "day": 20,
+        "month": 11,
+        "year": 1998
+      },
+      "plot": "A white supremacist is released from prison a changed man and hopes to prevent his younger brother from following in his footsteps.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzhiOTQ0NDItOTg0Zi00OGVmLWE0OGEtMTI4NDM0NWMxZWU4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Edward Norton in American History X (1998)",
+        "width": 960,
+        "height": 1425
+      },
+      "imdbRating": 8.5,
+      "numVotes": 1264143,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 7140,
+      "runtimeMinutes": 119,
+      "metascore": 62,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 4,
+      "titleId": "tt0118715",
+      "title": "The Big Lebowski",
+      "originalTitle": "The Big Lebowski",
+      "year": 1998,
+      "releaseDate": {
+        "day": 6,
+        "month": 3,
+        "year": 1998
+      },
+      "plot": "Jeff \"The Dude\" Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2E3OWQ5OWYtYTRkMC00NjVjLWIzZDQtNmRmM2ZiYTIyYmYxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Julianne Moore and Jeff Bridges in The Big Lebowski (1998)",
+        "width": 1017,
+        "height": 1500
+      },
+      "imdbRating": 8.1,
+      "numVotes": 911111,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 7020,
+      "runtimeMinutes": 117,
+      "metascore": 71,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 5,
+      "titleId": "tt0120735",
+      "title": "Lock, Stock and Two Smoking Barrels",
+      "originalTitle": "Lock, Stock and Two Smoking Barrels",
+      "year": 1998,
+      "releaseDate": {
+        "day": 28,
+        "month": 8,
+        "year": 1998
+      },
+      "plot": "When four small-time criminals lose a rigged poker game against a London kingpin, he gives them one week to settle their enormous debt.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMmY1M2M5ZmMtYzllZC00YzAxLTk4MjktZDJkNjA1MTUwMGQ4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jason Flemyng, Dexter Fletcher, Vinnie Jones, Jason Statham, and Nick Moran in Lock, Stock and Two Smoking Barrels (1998)",
+        "width": 1600,
+        "height": 2400
+      },
+      "imdbRating": 8.1,
+      "numVotes": 646837,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 6420,
+      "runtimeMinutes": 107,
+      "metascore": 67,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 6,
+      "titleId": "tt0120591",
+      "title": "Armageddon",
+      "originalTitle": "Armageddon",
+      "year": 1998,
+      "releaseDate": {
+        "day": 1,
+        "month": 7,
+        "year": 1998
+      },
+      "plot": "After discovering that an asteroid the size of Texas will impact Earth in less than a month, NASA recruits a misfit team of deep-core drillers to save the planet.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzQ3MzJmZjUtNTc0OC00ZWRiLWJkMTYtMTZkMDVhMDQ4OGU4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Liv Tyler, Bruce Willis, and Ben Affleck in Armageddon (1998)",
+        "width": 667,
+        "height": 962
+      },
+      "imdbRating": 6.7,
+      "numVotes": 475997,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 9060,
+      "runtimeMinutes": 151,
+      "metascore": 42,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 7,
+      "titleId": "tt0129387",
+      "title": "There's Something About Mary",
+      "originalTitle": "There's Something About Mary",
+      "year": 1998,
+      "releaseDate": {
+        "day": 15,
+        "month": 7,
+        "year": 1998
+      },
+      "plot": "A man gets a chance to meet up with his dream girl from high school, even though his date with her back then was a complete disaster.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNWZjMDhkZGItOGE4OS00YjUyLTlmOTUtMjE0ZDVmM2I2YmU0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Cameron Diaz in There's Something About Mary (1998)",
+        "width": 800,
+        "height": 1200
+      },
+      "imdbRating": 7.1,
+      "numVotes": 346314,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "runtimeSeconds": 7140,
+      "runtimeMinutes": 119,
+      "metascore": 69,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 8,
+      "titleId": "tt0120762",
+      "title": "Mulan",
+      "originalTitle": "Mulan",
+      "year": 1998,
+      "releaseDate": {
+        "day": 19,
+        "month": 6,
+        "year": 1998
+      },
+      "plot": "To save her father from death in the army, a young maiden secretly goes in his place and becomes one of China's greatest heroines in the process.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzU0ZTQxZDktOGY0Yy00NjdiLTllNDItMTMzMjI1YjMyYjRhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ming-Na Wen, Lea Salonga, and Frank Welker in Mulan (1998)",
+        "width": 2000,
+        "height": 2970
+      },
+      "imdbRating": 7.7,
+      "numVotes": 342713,
+      "certificate": "G",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 5220,
+      "runtimeMinutes": 87,
+      "metascore": 72,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 9,
+      "titleId": "tt0120623",
+      "title": "A Bug's Life",
+      "originalTitle": "A Bug's Life",
+      "year": 1998,
+      "releaseDate": {
+        "day": 25,
+        "month": 11,
+        "year": 1998
+      },
+      "plot": "A misfit ant, looking for \"warriors\" to save his colony from greedy grasshoppers, recruits a group of bugs that turn out to be an inept circus troupe.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGI3Mjc1ZjUtYTJhYS00NjBiLTgyYjctODU5NTNlMWJiYjYzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Denis Leary, Dave Foley, Hayden Panettiere, and Joe Ranft in A Bug's Life (1998)",
+        "width": 517,
+        "height": 800
+      },
+      "imdbRating": 7.2,
+      "numVotes": 335291,
+      "certificate": "G",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 5700,
+      "runtimeMinutes": 95,
+      "metascore": 78,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 10,
+      "titleId": "tt0120611",
+      "title": "Blade",
+      "originalTitle": "Blade",
+      "year": 1998,
+      "releaseDate": {
+        "day": 21,
+        "month": 8,
+        "year": 1998
+      },
+      "plot": "A half-vampire, half-mortal man becomes a protector of the mortal race, while slaying evil vampires.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzAzMmY3OWMtNDgyMS00Y2U4LTlmM2UtY2YwMmM0MDI5ODJmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Wesley Snipes in Blade (1998)",
+        "width": 1982,
+        "height": 2973
+      },
+      "imdbRating": 7.1,
+      "numVotes": 327462,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 7200,
+      "runtimeMinutes": 120,
+      "metascore": 47,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 11,
+      "titleId": "tt0120812",
+      "title": "Rush Hour",
+      "originalTitle": "Rush Hour",
+      "year": 1998,
+      "releaseDate": {
+        "day": 18,
+        "month": 9,
+        "year": 1998
+      },
+      "plot": "A loyal and dedicated Hong Kong Inspector teams up with a reckless and loudmouthed L.A.P.D. detective to rescue the Chinese Consul's kidnapped daughter, while trying to arrest a dangerous crime lord along the way.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMGZiMzViNmEtNTNlZi00MzFmLTk5NTEtNDE2OTUzNmNlMTY4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jackie Chan and Chris Tucker in Rush Hour (1998)",
+        "width": 850,
+        "height": 1252
+      },
+      "imdbRating": 7.1,
+      "numVotes": 324806,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 5880,
+      "runtimeMinutes": 98,
+      "metascore": 61,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 12,
+      "titleId": "tt0120669",
+      "title": "Fear and Loathing in Las Vegas",
+      "originalTitle": "Fear and Loathing in Las Vegas",
+      "year": 1998,
+      "releaseDate": {
+        "day": 22,
+        "month": 5,
+        "year": 1998
+      },
+      "plot": "An oddball journalist and his psychopathic lawyer travel to Las Vegas for a series of psychedelic escapades.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjFkNjdiZjUtNzUzNy00NWM5LWFlNDUtNTRiYmJiZWNiYjkwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Johnny Depp in Fear and Loathing in Las Vegas (1998)",
+        "width": 677,
+        "height": 1000
+      },
+      "imdbRating": 7.4,
+      "numVotes": 317454,
+      "certificate": "R",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 7080,
+      "runtimeMinutes": 118,
+      "metascore": 41,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 13,
+      "titleId": "tt0119643",
+      "title": "Meet Joe Black",
+      "originalTitle": "Meet Joe Black",
+      "year": 1998,
+      "releaseDate": {
+        "day": 13,
+        "month": 11,
+        "year": 1998
+      },
+      "plot": "Death makes a deal with a principled widower.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjVjNjAwYWItMDc0ZC00MTEwLWJiN2MtM2U4YThjNWE5YTZmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Meet Joe Black (1998)",
+        "width": 1542,
+        "height": 2265
+      },
+      "imdbRating": 7.2,
+      "numVotes": 296773,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "runtimeSeconds": 10680,
+      "runtimeMinutes": 178,
+      "metascore": 43,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 14,
+      "titleId": "tt0120660",
+      "title": "Enemy of the State",
+      "originalTitle": "Enemy of the State",
+      "year": 1998,
+      "releaseDate": {
+        "day": 20,
+        "month": 11,
+        "year": 1998
+      },
+      "plot": "A lawyer becomes targeted by a corrupt politician and his N.S.A. goons when he accidentally receives key evidence to a politically motivated crime.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWVhZmRiODktNzM0Zi00YmVlLWI3MGQtY2M0NmYzN2Q4Yzg4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Will Smith and Gene Hackman in Enemy of the State (1998)",
+        "width": 1340,
+        "height": 2010
+      },
+      "imdbRating": 7.3,
+      "numVotes": 273210,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7920,
+      "runtimeMinutes": 132,
+      "metascore": 67,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 15,
+      "titleId": "tt0128853",
+      "title": "You've Got Mail",
+      "originalTitle": "You've Got Mail",
+      "year": 1998,
+      "releaseDate": {
+        "day": 18,
+        "month": 12,
+        "year": 1998
+      },
+      "plot": "Book superstore magnate Joe Fox and independent book shop owner Kathleen Kelly fall in love in the anonymity of the Internet, both blissfully unaware that he's trying to put her out of business.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BN2FhMWRiODYtMTQwMy00OTE2LTlhZjMtNWRmYmIyZjYwYTk1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tom Hanks and Meg Ryan in You've Got Mail (1998)",
+        "width": 1012,
+        "height": 1500
+      },
+      "imdbRating": 6.7,
+      "numVotes": 243766,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 7140,
+      "runtimeMinutes": 119,
+      "metascore": 58,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 16,
+      "titleId": "tt0138097",
+      "title": "Shakespeare in Love",
+      "originalTitle": "Shakespeare in Love",
+      "year": 1998,
+      "releaseDate": {
+        "day": 8,
+        "month": 1,
+        "year": 1999
+      },
+      "plot": "History's greatest playwright is young, out of ideas and short of cash, but meets his ideal woman and is inspired to write one of his most famous plays.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYmM3MTllNzYtN2MzNS00NWQwLTk0NTEtNjY1MmMwYjNkNTE5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Gwyneth Paltrow and Joseph Fiennes in Shakespeare in Love (1998)",
+        "width": 1000,
+        "height": 1422
+      },
+      "imdbRating": 7.1,
+      "numVotes": 241882,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "History"
+      ],
+      "runtimeSeconds": 7380,
+      "runtimeMinutes": 123,
+      "metascore": 87,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 17,
+      "titleId": "tt0118929",
+      "title": "Dark City",
+      "originalTitle": "Dark City",
+      "year": 1998,
+      "releaseDate": {
+        "day": 27,
+        "month": 2,
+        "year": 1998
+      },
+      "plot": "A man struggles with memories of his past, which include a wife he cannot remember and a nightmarish world no one else ever seems to wake up from.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTFhMmE1YzgtNTFhYS00MTRlLWI3ZDMtMWJkMTBmOWMzOTk5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Rufus Sewell in Dark City (1998)",
+        "width": 916,
+        "height": 1430
+      },
+      "imdbRating": 7.5,
+      "numVotes": 224742,
+      "certificate": "R",
+      "genres": [
+        "Fantasy",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6000,
+      "runtimeMinutes": 100,
+      "metascore": 66,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 18,
+      "titleId": "tt0130827",
+      "title": "Run Lola Run",
+      "originalTitle": "Lola rennt",
+      "year": 1998,
+      "releaseDate": {
+        "day": 18,
+        "month": 6,
+        "year": 1999
+      },
+      "plot": "After a botched money delivery, Lola has 20 minutes to come up with 100,000 Deutschmarks.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzA0NDdiNDgtNjI4Ny00OTc0LTg3NGMtZDBlNmI1ZGUxYTg2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Franka Potente in Run Lola Run (1998)",
+        "width": 1934,
+        "height": 2866
+      },
+      "imdbRating": 7.6,
+      "numVotes": 216853,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "runtimeSeconds": 4800,
+      "runtimeMinutes": 80,
+      "metascore": 79,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 19,
+      "titleId": "tt0120685",
+      "title": "Godzilla",
+      "originalTitle": "Godzilla",
+      "year": 1998,
+      "releaseDate": {
+        "day": 20,
+        "month": 5,
+        "year": 1998
+      },
+      "plot": "French nuclear tests irradiate an iguana into a giant monster that heads off to New York City. The American military must chase the monster across the city to stop it before it reproduces.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzdmYmUzYjAtMmJhNi00NGU3LWJiODYtM2I5MGFhZjBhM2NhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Godzilla (1998)",
+        "width": 1011,
+        "height": 1500
+      },
+      "imdbRating": 5.5,
+      "numVotes": 212088,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "runtimeSeconds": 8340,
+      "runtimeMinutes": 139,
+      "metascore": 32,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 20,
+      "titleId": "tt0120863",
+      "title": "The Thin Red Line",
+      "originalTitle": "The Thin Red Line",
+      "year": 1998,
+      "releaseDate": {
+        "day": 15,
+        "month": 1,
+        "year": 1999
+      },
+      "plot": "Adaptation of James Jones' autobiographical 1962 novel, focusing on the conflict at Guadalcanal during the second World War.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzQ5NmViMDUtMjI1NC00ZWJkLTkwNzctMmIxZWY2MzQyZDc2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "The Thin Red Line (1998)",
+        "width": 1329,
+        "height": 1972
+      },
+      "imdbRating": 7.6,
+      "numVotes": 211512,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "History",
+        "War"
+      ],
+      "runtimeSeconds": 10200,
+      "runtimeMinutes": 170,
+      "metascore": 78,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 21,
+      "titleId": "tt0120746",
+      "title": "The Mask of Zorro",
+      "originalTitle": "The Mask of Zorro",
+      "year": 1998,
+      "releaseDate": {
+        "day": 17,
+        "month": 7,
+        "year": 1998
+      },
+      "plot": "A young thief seeking revenge for his brother's death is trained by the once-great, aging Zorro, who is pursuing his own vengeance.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzA2MDgyYzMtNjc4OC00YjU0LWEzMWEtOTRhMTViODY0Mjk0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Antonio Banderas in The Mask of Zorro (1998)",
+        "width": 1004,
+        "height": 1500
+      },
+      "imdbRating": 6.8,
+      "numVotes": 208760,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 8160,
+      "runtimeMinutes": 136,
+      "metascore": 62,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 22,
+      "titleId": "tt0128445",
+      "title": "Rushmore",
+      "originalTitle": "Rushmore",
+      "year": 1998,
+      "releaseDate": {
+        "day": 19,
+        "month": 2,
+        "year": 1999
+      },
+      "plot": "A teenager at Rushmore Academy falls for a much older teacher and befriends a middle-aged industrialist. Later, he finds out that his love interest and his friend are having an affair, which prompts him to begin a vendetta.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZmM2MTNhYWItMDc4Yi00MTM3LWI3YTctYjE1NWRjNTczYjI5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Bill Murray, Jason Schwartzman, and Olivia Williams in Rushmore (1998)",
+        "width": 1169,
+        "height": 1730
+      },
+      "imdbRating": 7.6,
+      "numVotes": 207225,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 5580,
+      "runtimeMinutes": 93,
+      "metascore": 87,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 23,
+      "titleId": "tt0122690",
+      "title": "Ronin",
+      "originalTitle": "Ronin",
+      "year": 1998,
+      "releaseDate": {
+        "day": 25,
+        "month": 9,
+        "year": 1998
+      },
+      "plot": "A freelancing former U.S. intelligence agent tries to track down a mysterious package that's wanted by both the Irish and the Russian governments.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzU0MDEwOGMtZWFlMy00ZjllLWFmMWQtYWIxN2M1YmU5ZWQwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Robert De Niro in Ronin (1998)",
+        "width": 800,
+        "height": 1182
+      },
+      "imdbRating": 7.2,
+      "numVotes": 206605,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7320,
+      "runtimeMinutes": 122,
+      "metascore": 67,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 24,
+      "titleId": "tt0120647",
+      "title": "Deep Impact",
+      "originalTitle": "Deep Impact",
+      "year": 1998,
+      "releaseDate": {
+        "day": 8,
+        "month": 5,
+        "year": 1998
+      },
+      "plot": "A comet is discovered to be on a collision course with Earth. As doomsday nears, the human race prepares for the worst.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BN2EwNjMxOWYtYWE5Zi00MWEyLWJlMGMtYzA1NDQyZGE5YWZjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Elijah Wood and Leelee Sobieski in Deep Impact (1998)",
+        "width": 999,
+        "height": 1500
+      },
+      "imdbRating": 6.3,
+      "numVotes": 203734,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 7200,
+      "runtimeMinutes": 120,
+      "metascore": 40,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 25,
+      "titleId": "tt0138704",
+      "title": "Pi",
+      "originalTitle": "Pi",
+      "year": 1998,
+      "releaseDate": {
+        "day": 10,
+        "month": 7,
+        "year": 1998
+      },
+      "plot": "A paranoid mathematician searches for a key number that will unlock the universal patterns found in nature.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNWExNjZlZGQtYjIxMS00ZTAyLTkzMjktOWVlMDg0NTM2OTUxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Pi (1998)",
+        "width": 1958,
+        "height": 2904
+      },
+      "imdbRating": 7.3,
+      "numVotes": 192115,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Mystery"
+      ],
+      "runtimeSeconds": 5040,
+      "runtimeMinutes": 84,
+      "metascore": 72,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 26,
+      "titleId": "tt0120484",
+      "title": "The Waterboy",
+      "originalTitle": "The Waterboy",
+      "year": 1998,
+      "releaseDate": {
+        "day": 6,
+        "month": 11,
+        "year": 1998
+      },
+      "plot": "A waterboy for a college football team discovers he has a unique tackling ability and becomes a member of the team.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTQxMWE5ZTEtYzI1OC00NDdkLWI0YjUtMTk4NjU0YWI4YjY0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Adam Sandler in The Waterboy (1998)",
+        "width": 960,
+        "height": 1440
+      },
+      "imdbRating": 6.2,
+      "numVotes": 190672,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Sport"
+      ],
+      "runtimeSeconds": 5400,
+      "runtimeMinutes": 90,
+      "metascore": 41,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 27,
+      "titleId": "tt0120744",
+      "title": "The Man in the Iron Mask",
+      "originalTitle": "The Man in the Iron Mask",
+      "year": 1998,
+      "releaseDate": {
+        "day": 13,
+        "month": 3,
+        "year": 1998
+      },
+      "plot": "The cruel King Louis XIV of France has a secret twin brother whom he keeps imprisoned. Can the twin be substituted for the real king?",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDc4YWYzNzEtNWMwMC00Y2ZlLWEzZWEtZDcwYjcwYTE3Y2ZlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Leonardo DiCaprio, Gabriel Byrne, G\u00e9rard Depardieu, Jeremy Irons, and John Malkovich in The Man in the Iron Mask (1998)",
+        "width": 1024,
+        "height": 1536
+      },
+      "imdbRating": 6.5,
+      "numVotes": 189060,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "runtimeSeconds": 7920,
+      "runtimeMinutes": 132,
+      "metascore": 49,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 28,
+      "titleId": "tt0122151",
+      "title": "Lethal Weapon 4",
+      "originalTitle": "Lethal Weapon 4",
+      "year": 1998,
+      "releaseDate": {
+        "day": 10,
+        "month": 7,
+        "year": 1998
+      },
+      "plot": "With personal crises and age weighing in on them, LAPD officers Riggs and Murtaugh must contend with deadly Chinese triads that are trying to free their former leaders out of prison and onto American soil.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDU4MDIyMzEtZjEwZi00NmFjLTljMzQtNDgzNDE5ZDhlMTZmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Mel Gibson, Danny Glover, Joe Pesci, Rene Russo, and Chris Rock in Lethal Weapon 4 (1998)",
+        "width": 1521,
+        "height": 2260
+      },
+      "imdbRating": 6.6,
+      "numVotes": 179715,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7620,
+      "runtimeMinutes": 127,
+      "metascore": 39,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 29,
+      "titleId": "tt0120888",
+      "title": "The Wedding Singer",
+      "originalTitle": "The Wedding Singer",
+      "year": 1998,
+      "releaseDate": {
+        "day": 13,
+        "month": 2,
+        "year": 1998
+      },
+      "plot": "Robbie, a singer, and Julia, a waitress, are both engaged, but to the wrong people. Fortune intervenes to help them discover each other.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjU5MGYxNGMtMWZjNC00ZGYxLWIzY2YtNWExNDFlNmQwYzU0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Drew Barrymore and Adam Sandler in The Wedding Singer (1998)",
+        "width": 460,
+        "height": 720
+      },
+      "imdbRating": 6.9,
+      "numVotes": 172232,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Music",
+        "Romance"
+      ],
+      "runtimeSeconds": 5820,
+      "runtimeMinutes": 97,
+      "metascore": 60,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 30,
+      "titleId": "tt0120783",
+      "title": "The Parent Trap",
+      "originalTitle": "The Parent Trap",
+      "year": 1998,
+      "releaseDate": {
+        "day": 29,
+        "month": 7,
+        "year": 1998
+      },
+      "plot": "Identical twins Annie and Hallie, separated at birth and each raised by one of their biological parents, discover each other for the first time at summer camp and make a plan to bring their wayward parents back together.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTRkYmY3Y2QtMGM2Ny00MTNmLTk4NjYtNjMwNTNmMGY5ZDllXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Dennis Quaid, Natasha Richardson, and Lindsay Lohan in The Parent Trap (1998)",
+        "width": 1011,
+        "height": 1500
+      },
+      "imdbRating": 6.7,
+      "numVotes": 171708,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 7680,
+      "runtimeMinutes": 128,
+      "metascore": 63,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 31,
+      "titleId": "tt0120587",
+      "title": "Antz",
+      "originalTitle": "Antz",
+      "year": 1998,
+      "releaseDate": {
+        "day": 2,
+        "month": 10,
+        "year": 1998
+      },
+      "plot": "A rather neurotic ant tries to break from his totalitarian society while trying to win the affection of the princess he loves.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzdlMzZhZjctY2JjYy00OGRiLThjMTEtODRmZTg2ZjI5MjEzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Woody Allen, Sylvester Stallone, and Sharon Stone in Antz (1998)",
+        "width": 1454,
+        "height": 2176
+      },
+      "imdbRating": 6.5,
+      "numVotes": 170487,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 4980,
+      "runtimeMinutes": 83,
+      "metascore": 73,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 32,
+      "titleId": "tt0128442",
+      "title": "Rounders",
+      "originalTitle": "Rounders",
+      "year": 1998,
+      "releaseDate": {
+        "day": 11,
+        "month": 9,
+        "year": 1998
+      },
+      "plot": "A law student and his pal gamble for high stakes.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMWQ1NTVjZjYtNzlhYi00YmQ2LWFhM2EtMWY4MGE3NzVmZGQzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Matt Damon, Gretchen Mol, and Edward Norton in Rounders (1998)",
+        "width": 1520,
+        "height": 2250
+      },
+      "imdbRating": 7.3,
+      "numVotes": 167649,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 7260,
+      "runtimeMinutes": 121,
+      "metascore": 53,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 33,
+      "titleId": "tt0120768",
+      "title": "The Negotiator",
+      "originalTitle": "The Negotiator",
+      "year": 1998,
+      "releaseDate": {
+        "day": 29,
+        "month": 7,
+        "year": 1998
+      },
+      "plot": "A police negotiator confronts a framed counterpart.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTBjZDM3NzctOGE2YS00NDZiLTk4ZWMtY2IwOWI5ZTE4ZDc0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Samuel L. Jackson and Kevin Spacey in The Negotiator (1998)",
+        "width": 1000,
+        "height": 1500
+      },
+      "imdbRating": 7.3,
+      "numVotes": 166630,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 8400,
+      "runtimeMinutes": 140,
+      "metascore": 62,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 34,
+      "titleId": "tt0120794",
+      "title": "The Prince of Egypt",
+      "originalTitle": "The Prince of Egypt",
+      "year": 1998,
+      "releaseDate": {
+        "day": 18,
+        "month": 12,
+        "year": 1998
+      },
+      "plot": "Egyptian Prince Moses learns of his identity as a Hebrew and his destiny to become the chosen deliverer of his people.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjc4NzU5MDUtNmFkNi00NzI5LWE3NjQtNjJlZDRlNjdhZWYwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Val Kilmer in The Prince of Egypt (1998)",
+        "width": 576,
+        "height": 858
+      },
+      "imdbRating": 7.2,
+      "numVotes": 160138,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Drama"
+      ],
+      "runtimeSeconds": 5940,
+      "runtimeMinutes": 99,
+      "metascore": 64,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 35,
+      "titleId": "tt0133751",
+      "title": "The Faculty",
+      "originalTitle": "The Faculty",
+      "year": 1998,
+      "releaseDate": {
+        "day": 25,
+        "month": 12,
+        "year": 1998
+      },
+      "plot": "When Casey Connor, Herrington High School's newspaper photographer, witnesses the murder of a nurse and sees her alive again, he decides to investigate the bizarre happenings.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYWQ5Njk0MzUtZTliZC00ODgzLTlmZTEtZGY0NDgyMTM0NGJmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Elijah Wood, Josh Hartnett, Jordana Brewster, Clea DuVall, Laura Harris, and Usher in The Faculty (1998)",
+        "width": 2005,
+        "height": 2970
+      },
+      "imdbRating": 6.6,
+      "numVotes": 146221,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6240,
+      "runtimeMinutes": 104,
+      "metascore": 61,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 36,
+      "titleId": "tt0120789",
+      "title": "Pleasantville",
+      "originalTitle": "Pleasantville",
+      "year": 1998,
+      "releaseDate": {
+        "day": 23,
+        "month": 10,
+        "year": 1998
+      },
+      "plot": "Two 1990s teenage siblings find themselves transported to a 1950s sitcom where their influence begins to profoundly change that colorless, complacent world.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYmM4ZThmNzAtYzRmNi00ZjZmLThhYjAtYjU2YTcwMmY3MzRmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Pleasantville (1998)",
+        "width": 600,
+        "height": 886
+      },
+      "imdbRating": 7.5,
+      "numVotes": 142561,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 7440,
+      "runtimeMinutes": 124,
+      "metascore": 71,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 37,
+      "titleId": "tt0120890",
+      "title": "Wild Things",
+      "originalTitle": "Wild Things",
+      "year": 1998,
+      "releaseDate": {
+        "day": 20,
+        "month": 3,
+        "year": 1998
+      },
+      "plot": "A police detective uncovers a conspiracy behind a case involving a high-school guidance counselor when accusations of rape are made against him by two female students.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDRiYjFlNjgtNWJkMS00YjAzLTg1OTItZTkxOTFlZDA1N2U4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Kevin Bacon, Neve Campbell, Matt Dillon, and Denise Richards in Wild Things (1998)",
+        "width": 800,
+        "height": 1183
+      },
+      "imdbRating": 6.6,
+      "numVotes": 140060,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "runtimeSeconds": 6480,
+      "runtimeMinutes": 108,
+      "metascore": 51,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 38,
+      "titleId": "tt0120632",
+      "title": "City of Angels",
+      "originalTitle": "City of Angels",
+      "year": 1998,
+      "releaseDate": {
+        "day": 10,
+        "month": 4,
+        "year": 1998
+      },
+      "plot": "An angel considers becoming human after falling in love with a Los Angeles surgeon.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODYwMzM3ODEtZWZjOS00NWZhLWE2MWUtMDFlMWNiNGEwOWNlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Nicolas Cage and Meg Ryan in City of Angels (1998)",
+        "width": 1008,
+        "height": 1500
+      },
+      "imdbRating": 6.7,
+      "numVotes": 134009,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "runtimeSeconds": 6840,
+      "runtimeMinutes": 114,
+      "metascore": 54,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 39,
+      "titleId": "tt0129290",
+      "title": "Patch Adams",
+      "originalTitle": "Patch Adams",
+      "year": 1998,
+      "releaseDate": {
+        "day": 25,
+        "month": 12,
+        "year": 1998
+      },
+      "plot": "The true story of the heroic Hunter \"Patch\" Adams who's determined to become a medical doctor because of his desire to help other people. He ventures where no doctor ever ventured before utilizing humor and pathos.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjEwMTJhMDktZDFjZi00MzQ5LTg0NWMtMDlhNmNiYWRkMDk1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Robin Williams in Patch Adams (1998)",
+        "width": 600,
+        "height": 895
+      },
+      "imdbRating": 6.9,
+      "numVotes": 129134,
+      "certificate": "PG-13",
+      "genres": [
+        "Biography",
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 6900,
+      "runtimeMinutes": 115,
+      "metascore": 26,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 40,
+      "titleId": "tt0120873",
+      "title": "U.S. Marshals",
+      "originalTitle": "U.S. Marshals",
+      "year": 1998,
+      "releaseDate": {
+        "day": 6,
+        "month": 3,
+        "year": 1998
+      },
+      "plot": "U.S. Marshal Samuel Gerard and his team of Marshals are assigned to track down Sheridan, who has been accused of a double-murder.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTdlYTU2OGYtZjljOS00ZjFhLTk5NjAtZDQwZmNkYzk4YWQ5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tommy Lee Jones, Robert Downey Jr., and Wesley Snipes in U.S. Marshals (1998)",
+        "width": 675,
+        "height": 1000
+      },
+      "imdbRating": 6.6,
+      "numVotes": 119940,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7860,
+      "runtimeMinutes": 131,
+      "metascore": 47,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 41,
+      "titleId": "tt0120889",
+      "title": "What Dreams May Come",
+      "originalTitle": "What Dreams May Come",
+      "year": 1998,
+      "releaseDate": {
+        "day": 2,
+        "month": 10,
+        "year": 1998
+      },
+      "plot": "Chris Nielsen dies in an accident, and enters Heaven. But when he discovers that his beloved wife Annie has killed herself out of grief over the loss, he embarks on an afterlife adventure to reunite with her.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWVmNzA5NDQtYTNiYy00YjI0LWJjMWItZjEyNmI5YjRlZTI5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Robin Williams in What Dreams May Come (1998)",
+        "width": 1013,
+        "height": 1500
+      },
+      "imdbRating": 7,
+      "numVotes": 119898,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "runtimeSeconds": 6780,
+      "runtimeMinutes": 113,
+      "metascore": 44,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 42,
+      "titleId": "tt0120184",
+      "title": "Sphere",
+      "originalTitle": "Sphere",
+      "year": 1998,
+      "releaseDate": {
+        "day": 13,
+        "month": 2,
+        "year": 1998
+      },
+      "plot": "A spaceship is discovered under three hundred years' worth of coral growth at the bottom of the ocean.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNmJiZDZiMGQtYzU3My00ZGEyLThiNDctMTA0MDFmYjAzNmUzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Dustin Hoffman, Samuel L. Jackson, and Sharon Stone in Sphere (1998)",
+        "width": 1000,
+        "height": 1500
+      },
+      "imdbRating": 6.1,
+      "numVotes": 117938,
+      "certificate": "PG-13",
+      "genres": [
+        "Mystery",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "runtimeSeconds": 8040,
+      "runtimeMinutes": 134,
+      "metascore": 35,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 43,
+      "titleId": "tt0120902",
+      "title": "The X Files",
+      "originalTitle": "The X Files",
+      "year": 1998,
+      "releaseDate": {
+        "day": 19,
+        "month": 6,
+        "year": 1998
+      },
+      "plot": "Mulder and Scully must fight the government in a conspiracy and find the truth about an alien colonization of Earth.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTYwN2VlYWMtMzM4My00OWY4LWE4ZGQtMWExNWM1ZTEwMTMxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Gillian Anderson and David Duchovny in The X Files (1998)",
+        "width": 1000,
+        "height": 1500
+      },
+      "imdbRating": 7,
+      "numVotes": 114185,
+      "certificate": "PG-13",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Mystery"
+      ],
+      "runtimeSeconds": 7260,
+      "runtimeMinutes": 121,
+      "metascore": 60,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 44,
+      "titleId": "tt0122718",
+      "title": "Small Soldiers",
+      "originalTitle": "Small Soldiers",
+      "year": 1998,
+      "releaseDate": {
+        "day": 10,
+        "month": 7,
+        "year": 1998
+      },
+      "plot": "When missile technology is used to enhance toy action figures, the toys soon begin to take their battle programming too seriously.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjM3NjczNTUtOTYxZi00NWEyLTk4YmEtZTA0NWY0YzU4NDhkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tommy Lee Jones, Ernest Borgnine, Jim Brown, George Kennedy, Frank Langella, and Clint Walker in Small Soldiers (1998)",
+        "width": 1505,
+        "height": 2260
+      },
+      "imdbRating": 6.3,
+      "numVotes": 110999,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 6600,
+      "runtimeMinutes": 110,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 45,
+      "titleId": "tt0127536",
+      "title": "Elizabeth",
+      "originalTitle": "Elizabeth",
+      "year": 1998,
+      "releaseDate": {
+        "day": 19,
+        "month": 2,
+        "year": 1999
+      },
+      "plot": "The early years of the reign of Elizabeth I of England and her difficult task of learning what is necessary to be a monarch.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNWRjZjJjNDUtOTgzMi00YjBlLTg5ODQtMjQxOTAyMzM2ZWJiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Cate Blanchett in Elizabeth (1998)",
+        "width": 800,
+        "height": 1188
+      },
+      "imdbRating": 7.4,
+      "numVotes": 109704,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "runtimeSeconds": 7440,
+      "runtimeMinutes": 124,
+      "metascore": 75,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 46,
+      "titleId": "tt0154506",
+      "title": "Following",
+      "originalTitle": "Following",
+      "year": 1998,
+      "releaseDate": {
+        "day": 5,
+        "month": 11,
+        "year": 1999
+      },
+      "plot": "A young writer who follows strangers for material meets a thief who takes him under his wing.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTQxYzIwMTAtYjZlNi00YzkwLWI4ZGYtNzNlZjU3N2MyNzI4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Following (1998)",
+        "width": 1800,
+        "height": 2667
+      },
+      "imdbRating": 7.4,
+      "numVotes": 109220,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 4140,
+      "runtimeMinutes": 69,
+      "metascore": 60,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 47,
+      "titleId": "tt0118998",
+      "title": "Doctor Dolittle",
+      "originalTitle": "Doctor Dolittle",
+      "year": 1998,
+      "releaseDate": {
+        "day": 26,
+        "month": 6,
+        "year": 1998
+      },
+      "plot": "A doctor discovers that he can communicate with animals.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTI2NThkYjYtMWZjNi00ZGEwLTgyNjEtOTlhZTA3MmEzYzVhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Eddie Murphy, Chris Rock, Norm MacDonald, and Reni Santoni in Doctor Dolittle (1998)",
+        "width": 500,
+        "height": 741
+      },
+      "imdbRating": 5.4,
+      "numVotes": 107168,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 5100,
+      "runtimeMinutes": 85,
+      "metascore": 46,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 48,
+      "titleId": "tt0120791",
+      "title": "Practical Magic",
+      "originalTitle": "Practical Magic",
+      "year": 1998,
+      "releaseDate": {
+        "day": 16,
+        "month": 10,
+        "year": 1998
+      },
+      "plot": "Two witch sisters, raised by their eccentric aunts in a small town, face closed-minded prejudice and a curse which threatens to prevent them ever finding lasting love.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOGM3ZjFhZjAtOTdlMS00MTY2LThjYmYtMTA2ZWM3YjdiM2E4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Sandra Bullock and Nicole Kidman in Practical Magic (1998)",
+        "width": 1011,
+        "height": 1500
+      },
+      "imdbRating": 6.4,
+      "numVotes": 105773,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 6240,
+      "runtimeMinutes": 104,
+      "metascore": 47,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 49,
+      "titleId": "tt0120780",
+      "title": "Out of Sight",
+      "originalTitle": "Out of Sight",
+      "year": 1998,
+      "releaseDate": {
+        "day": 26,
+        "month": 6,
+        "year": 1998
+      },
+      "plot": "A career bank robber breaks out of jail, and shares a moment of mutual attraction with a U.S. Marshal he has kidnapped.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BM2U3OGQ0NTMtNmQxYS00MmRiLTg2OTctZDI3ZjNjZjM5N2NlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "George Clooney and Jennifer Lopez in Out of Sight (1998)",
+        "width": 1330,
+        "height": 2000
+      },
+      "imdbRating": 7,
+      "numVotes": 105102,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 7380,
+      "runtimeMinutes": 123,
+      "metascore": 84,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 50,
+      "titleId": "tt0119099",
+      "title": "Fallen",
+      "originalTitle": "Fallen",
+      "year": 1998,
+      "releaseDate": {
+        "day": 16,
+        "month": 1,
+        "year": 1998
+      },
+      "plot": "Homicide detective John Hobbes witnesses the execution of serial killer Edgar Reese. Soon after the execution, the killings start again, and they are very similar to Reese's style.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNWQ5Zjg2ZjMtYThjMC00YmU5LWIxNGYtM2Y3MTg5OGRiNDkwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Denzel Washington in Fallen (1998)",
+        "width": 960,
+        "height": 1440
+      },
+      "imdbRating": 7,
+      "numVotes": 101219,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 7440,
+      "runtimeMinutes": 124,
+      "metascore": 52,
+      "credits": [],
+      "titleType": "movie"
+    }
+  ]
+}

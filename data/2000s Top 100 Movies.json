@@ -1,0 +1,100 @@
+{
+  "source": "2000s Top 100 Movies.csv",
+  "movies": [
+    {
+      "rank": 1,
+      "titleId": "tt0918927",
+      "title": "Doubt",
+      "originalTitle": "Doubt",
+      "year": 2008,
+      "releaseDate": {
+        "day": 25,
+        "month": 12,
+        "year": 2008
+      },
+      "plot": "A Catholic school principal questions a priest's ambiguous relationship with a troubled young student.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWZmNDMyY2UtOWIwMC00MjE5LTkwNmUtYjRiMThkNjI0OGEwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Philip Seymour Hoffman, Meryl Streep, and Amy Adams in Doubt (2008)",
+        "width": 980,
+        "height": 1400
+      },
+      "imdbRating": 7.5,
+      "numVotes": 145508,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "runtimeSeconds": 6240,
+      "runtimeMinutes": 104,
+      "metascore": 68,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0314353",
+      "title": "Tears of the Sun",
+      "originalTitle": "Tears of the Sun",
+      "year": 2003,
+      "releaseDate": {
+        "day": 7,
+        "month": 3,
+        "year": 2003
+      },
+      "plot": "A Special-Ops commander leads his team into the Nigerian jungle in order to rescue a doctor who will only join them if they agree to save 70 refugees too.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzk1NmE2YWItMmNkZi00OTEzLWJkMzctNjFlOWE3Njg2OGI0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Bruce Willis and Monica Bellucci in Tears of the Sun (2003)",
+        "width": 580,
+        "height": 867
+      },
+      "imdbRating": 6.6,
+      "numVotes": 136924,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7260,
+      "runtimeMinutes": 121,
+      "metascore": 48,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0475276",
+      "title": "United 93",
+      "originalTitle": "United 93",
+      "year": 2006,
+      "releaseDate": {
+        "day": 28,
+        "month": 4,
+        "year": 2006
+      },
+      "plot": "A real-time account of the events on United Flight 93, one of the planes hijacked on September 11th, 2001 that crashed near Shanksville, Pennsylvania when passengers foiled the terrorist plot.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTI1Nzc3NjAwOF5BMl5BanBnXkFtZTcwNzYzMjYzMQ@@._V1_.jpg",
+        "caption": "United 93 (2006)",
+        "width": 600,
+        "height": 889
+      },
+      "imdbRating": 7.6,
+      "numVotes": 115136,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Drama",
+        "History"
+      ],
+      "runtimeSeconds": 6660,
+      "runtimeMinutes": 111,
+      "metascore": 90,
+      "credits": [],
+      "titleType": "movie"
+    }
+  ]
+}

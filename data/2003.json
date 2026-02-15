@@ -1,0 +1,1580 @@
+{
+  "year": 2003,
+  "movies": [
+    {
+      "rank": 1,
+      "titleId": "tt0167260",
+      "title": "The Lord of the Rings: The Return of the King",
+      "originalTitle": "The Lord of the Rings: The Return of the King",
+      "year": 2003,
+      "releaseDate": {
+        "day": 17,
+        "month": 12,
+        "year": 2003
+      },
+      "plot": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTZkMjBjNWMtZGI5OC00MGU0LTk4ZTItODg2NWM3NTVmNWQ4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Liv Tyler, Sean Astin, Elijah Wood, Viggo Mortensen, Ian McKellen, and Andy Serkis in The Lord of the Rings: The Return of the King (2003)",
+        "width": 800,
+        "height": 1185
+      },
+      "imdbRating": 9,
+      "numVotes": 2142943,
+      "certificate": "PG-13",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 12060,
+      "runtimeMinutes": 201,
+      "metascore": 94,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 2,
+      "titleId": "tt0325980",
+      "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "originalTitle": "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "year": 2003,
+      "releaseDate": {
+        "day": 9,
+        "month": 7,
+        "year": 2003
+      },
+      "plot": "Blacksmith Will Turner teams up with eccentric pirate \"Captain\" Jack Sparrow to save Elizabeth Swann, the governor's daughter and his love, from Jack's former pirate allies, who are now undead.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDhlMzEyNzItMTA5Mi00YWRhLThlNTktYTQyMTA0MDIyNDEyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Johnny Depp, Geoffrey Rush, Orlando Bloom, and Keira Knightley in Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
+        "width": 671,
+        "height": 1000
+      },
+      "imdbRating": 8.1,
+      "numVotes": 1310318,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 8580,
+      "runtimeMinutes": 143,
+      "metascore": 63,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 3,
+      "titleId": "tt0266697",
+      "title": "Kill Bill: Vol. 1",
+      "originalTitle": "Kill Bill: Vol. 1",
+      "year": 2003,
+      "releaseDate": {
+        "day": 10,
+        "month": 10,
+        "year": 2003
+      },
+      "plot": "After waking from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZmMyYzJlZmYtY2I3NC00NjAyLTkyZWItZjdjZDI1YTYyYTEwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Uma Thurman in Kill Bill: Vol. 1 (2003)",
+        "width": 554,
+        "height": 831
+      },
+      "imdbRating": 8.2,
+      "numVotes": 1293062,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6660,
+      "runtimeMinutes": 111,
+      "metascore": 69,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 4,
+      "titleId": "tt0266543",
+      "title": "Finding Nemo",
+      "originalTitle": "Finding Nemo",
+      "year": 2003,
+      "releaseDate": {
+        "day": 30,
+        "month": 5,
+        "year": 2003
+      },
+      "plot": "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTc5NjExNTA5OV5BMl5BanBnXkFtZTYwMTQ0ODY2._V1_.jpg",
+        "caption": "Albert Brooks, Ellen DeGeneres, and Barry Humphries in Finding Nemo (2003)",
+        "width": 485,
+        "height": 718
+      },
+      "imdbRating": 8.2,
+      "numVotes": 1196434,
+      "certificate": "G",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 6000,
+      "runtimeMinutes": 100,
+      "metascore": 90,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 5,
+      "titleId": "tt0364569",
+      "title": "Oldboy",
+      "originalTitle": "Oldeuboi",
+      "year": 2003,
+      "releaseDate": {
+        "day": 21,
+        "month": 11,
+        "year": 2003
+      },
+      "plot": "After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must track down his captor in five days.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTAwNzNjYWItZmI0Ni00ZTcyLWIwNWMtZjlmNGMxZTEyYTJmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Oldboy (2003)",
+        "width": 960,
+        "height": 1440
+      },
+      "imdbRating": 8.3,
+      "numVotes": 709322,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Drama",
+        "Mystery"
+      ],
+      "runtimeSeconds": 7200,
+      "runtimeMinutes": 120,
+      "metascore": 78,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 6,
+      "titleId": "tt0234215",
+      "title": "The Matrix Reloaded",
+      "originalTitle": "The Matrix Reloaded",
+      "year": 2003,
+      "releaseDate": {
+        "day": 15,
+        "month": 5,
+        "year": 2003
+      },
+      "plot": "Freedom fighters Neo, Trinity and Morpheus continue to lead the revolt against the Machine Army, unleashing their arsenal of extraordinary skills and weaponry against the systematic forces of repression and exploitation.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjAxYjkxNjktYTU0YS00NjFhLWIyMDEtMzEzMTJjMzRkMzQ1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Keanu Reeves, Laurence Fishburne, and Carrie-Anne Moss in The Matrix Reloaded (2003)",
+        "width": 800,
+        "height": 1200
+      },
+      "imdbRating": 7.2,
+      "numVotes": 666075,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 8280,
+      "runtimeMinutes": 138,
+      "metascore": 62,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 7,
+      "titleId": "tt0290334",
+      "title": "X2: X-Men United",
+      "originalTitle": "X2",
+      "year": 2003,
+      "releaseDate": {
+        "day": 2,
+        "month": 5,
+        "year": 2003
+      },
+      "plot": "When anti-mutant Colonel William Stryker kidnaps Professor X and attacks his school, the X-Men must ally with their archenemy Magneto to stop him.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDk0NjYxMzIzOF5BMl5BanBnXkFtZTYwMTc1MjU3._V1_.jpg",
+        "caption": "Famke Janssen, Halle Berry, Alan Cumming, Anna Paquin, Ian McKellen, Shawn Ashmore, Hugh Jackman, and Aaron Stanford in X2: X-Men United (2003)",
+        "width": 485,
+        "height": 716
+      },
+      "imdbRating": 7.4,
+      "numVotes": 608588,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "runtimeSeconds": 8040,
+      "runtimeMinutes": 134,
+      "metascore": 68,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 8,
+      "titleId": "tt0314331",
+      "title": "Love Actually",
+      "originalTitle": "Love Actually",
+      "year": 2003,
+      "releaseDate": {
+        "day": 14,
+        "month": 11,
+        "year": 2003
+      },
+      "plot": "Follows the lives of eight very different couples in dealing with their love lives in various loosely interrelated tales all set during a frantic month before Christmas in London, England.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYWRlZjcwYTgtYWJkOS00MGYwLTk3Y2ItNmU4NTg5Nzg2YTQ2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Rowan Atkinson, Colin Firth, Hugh Grant, Liam Neeson, Alan Rickman, Emma Thompson, Laura Linney, Keira Knightley, Martine McCutcheon, and Bill Nighy in Love Actually (2003)",
+        "width": 1215,
+        "height": 1725
+      },
+      "imdbRating": 7.5,
+      "numVotes": 577883,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 8100,
+      "runtimeMinutes": 135,
+      "metascore": 55,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 9,
+      "titleId": "tt0242653",
+      "title": "The Matrix Revolutions",
+      "originalTitle": "The Matrix Revolutions",
+      "year": 2003,
+      "releaseDate": {
+        "day": 5,
+        "month": 11,
+        "year": 2003
+      },
+      "plot": "The human city of Zion defends itself against the massive invasion of the machines as Neo fights to end the war at another front while also opposing the rogue Agent Smith.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMmNmMTEzODQtNmExMS00OGUxLWFkNTItMTM3NzBlNDk0YWU5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Keanu Reeves in The Matrix Revolutions (2003)",
+        "width": 2200,
+        "height": 3251
+      },
+      "imdbRating": 6.7,
+      "numVotes": 571990,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 7740,
+      "runtimeMinutes": 129,
+      "metascore": 47,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 10,
+      "titleId": "tt0335266",
+      "title": "Lost in Translation",
+      "originalTitle": "Lost in Translation",
+      "year": 2003,
+      "releaseDate": {
+        "day": 3,
+        "month": 10,
+        "year": 2003
+      },
+      "plot": "A fading movie star falls for a lonely young woman in Tokyo.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTUxMzk0NDg1MV5BMl5BanBnXkFtZTgwNDg0NjkxMDI@._V1_.jpg",
+        "caption": "Scarlett Johansson in Lost in Translation (2003)",
+        "width": 1980,
+        "height": 3052
+      },
+      "imdbRating": 7.7,
+      "numVotes": 524119,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 6120,
+      "runtimeMinutes": 102,
+      "metascore": 91,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 11,
+      "titleId": "tt0327056",
+      "title": "Mystic River",
+      "originalTitle": "Mystic River",
+      "year": 2003,
+      "releaseDate": {
+        "day": 15,
+        "month": 10,
+        "year": 2003
+      },
+      "plot": "The tragic murder of a 19-year-old girl reunites three childhood friends still living in Boston--the victim's gangster father, a detective, and the disturbed man they both suspect of killing her.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTIzNDUyMjA4MV5BMl5BanBnXkFtZTYwNDc4ODM3._V1_.jpg",
+        "caption": "Kevin Bacon, Tim Robbins, and Sean Penn in Mystic River (2003)",
+        "width": 485,
+        "height": 719
+      },
+      "imdbRating": 7.9,
+      "numVotes": 518122,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "runtimeSeconds": 8280,
+      "runtimeMinutes": 138,
+      "metascore": 84,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 12,
+      "titleId": "tt0325710",
+      "title": "The Last Samurai",
+      "originalTitle": "The Last Samurai",
+      "year": 2003,
+      "releaseDate": {
+        "day": 5,
+        "month": 12,
+        "year": 2003
+      },
+      "plot": "In 19th century Japan, Nathan Algren, a US army captain, is hired by the Japanese emperor to train his army in the modern warfare techniques. Captain Algren finds himself trapped in a struggle between two eras and two worlds.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzkyNzQ1Mzc0NV5BMl5BanBnXkFtZTcwODg3MzUzMw@@._V1_.jpg",
+        "caption": "Tom Cruise in The Last Samurai (2003)",
+        "width": 1383,
+        "height": 2048
+      },
+      "imdbRating": 7.8,
+      "numVotes": 501090,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "runtimeSeconds": 9240,
+      "runtimeMinutes": 154,
+      "metascore": 55,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 13,
+      "titleId": "tt0319061",
+      "title": "Big Fish",
+      "originalTitle": "Big Fish",
+      "year": 2003,
+      "releaseDate": {
+        "day": 9,
+        "month": 1,
+        "year": 2004
+      },
+      "plot": "A frustrated son tries to determine the fact from fiction in his dying father's life.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTVlNjc4ZmItMDZjYy00YWZjLTg1OWEtOTNlZjJlN2FlMjEwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Big Fish (2003)",
+        "width": 1952,
+        "height": 2903
+      },
+      "imdbRating": 7.9,
+      "numVotes": 476524,
+      "certificate": "PG-13",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 7500,
+      "runtimeMinutes": 125,
+      "metascore": 58,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 14,
+      "titleId": "tt0315327",
+      "title": "Bruce Almighty",
+      "originalTitle": "Bruce Almighty",
+      "year": 2003,
+      "releaseDate": {
+        "day": 23,
+        "month": 5,
+        "year": 2003
+      },
+      "plot": "A whiny news reporter is given the chance to step into God's shoes.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWM2ZjA2OTctZmRhMy00ZDIzLTkwZGQtYTRlNmQwZWZmMDBlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jim Carrey in Bruce Almighty (2003)",
+        "width": 1280,
+        "height": 1895
+      },
+      "imdbRating": 6.8,
+      "numVotes": 465887,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 6060,
+      "runtimeMinutes": 101,
+      "metascore": 46,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 15,
+      "titleId": "tt0181852",
+      "title": "Terminator 3: Rise of the Machines",
+      "originalTitle": "Terminator 3: Rise of the Machines",
+      "year": 2003,
+      "releaseDate": {
+        "day": 2,
+        "month": 7,
+        "year": 2003
+      },
+      "plot": "John Connor must face a female Terminator with power over all the machines. But a new Terminator unit, a T-850, is sent back through time to help guide him through the coming battle.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTk5NzM1ODgyN15BMl5BanBnXkFtZTcwMzA5MjAzMw@@._V1_.jpg",
+        "caption": "Arnold Schwarzenegger and Kristanna Loken in Terminator 3: Rise of the Machines (2003)",
+        "width": 1385,
+        "height": 2048
+      },
+      "imdbRating": 6.3,
+      "numVotes": 434857,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6540,
+      "runtimeMinutes": 109,
+      "metascore": 66,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 16,
+      "titleId": "tt0317740",
+      "title": "The Italian Job",
+      "originalTitle": "The Italian Job",
+      "year": 2003,
+      "releaseDate": {
+        "day": 30,
+        "month": 5,
+        "year": 2003
+      },
+      "plot": "After being betrayed and left for dead in Italy, Charlie Croker and his team plan an elaborate gold heist against their former ally.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjJjNzc5YjAtZjU2Ni00ZjVkLTkzYmItM2E2NDM0NWE1YmJhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Charlize Theron, Mark Wahlberg, Seth Green, Edward Norton, Jason Statham, Yasiin Bey, and Franky G in The Italian Job (2003)",
+        "width": 1600,
+        "height": 2400
+      },
+      "imdbRating": 7,
+      "numVotes": 405048,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6660,
+      "runtimeMinutes": 111,
+      "metascore": 68,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 17,
+      "titleId": "tt0332379",
+      "title": "School of Rock",
+      "originalTitle": "School of Rock",
+      "year": 2003,
+      "releaseDate": {
+        "day": 3,
+        "month": 10,
+        "year": 2003
+      },
+      "plot": "After being kicked out of his rock band, Dewey Finn becomes a substitute teacher of an uptight elementary private school, only to try and turn his class into a rock band.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTg2NDU4Mjg2NV5BMl5BanBnXkFtZTgwNjQ0MDIyMDI@._V1_.jpg",
+        "caption": "Jack Black in School of Rock (2003)",
+        "width": 2989,
+        "height": 4398
+      },
+      "imdbRating": 7.2,
+      "numVotes": 355345,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Music"
+      ],
+      "runtimeSeconds": 6540,
+      "runtimeMinutes": 109,
+      "metascore": 82,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 18,
+      "titleId": "tt0319343",
+      "title": "Elf",
+      "originalTitle": "Elf",
+      "year": 2003,
+      "releaseDate": {
+        "day": 7,
+        "month": 11,
+        "year": 2003
+      },
+      "plot": "A man raised by Santa's elves travels from the North Pole to New York City to meet his biological father, who doesn't know he exists and is in desperate need of some Christmas spirit.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDQ0ZWE2NzgtNGNhMC00MDIwLWI1MjUtYjYxZGRiM2UyYTQzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Will Ferrell in Elf (2003)",
+        "width": 620,
+        "height": 921
+      },
+      "imdbRating": 7.1,
+      "numVotes": 345022,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family"
+      ],
+      "runtimeSeconds": 5820,
+      "runtimeMinutes": 97,
+      "metascore": 66,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 19,
+      "titleId": "tt0322259",
+      "title": "2 Fast 2 Furious",
+      "originalTitle": "2 Fast 2 Furious",
+      "year": 2003,
+      "releaseDate": {
+        "day": 6,
+        "month": 6,
+        "year": 2003
+      },
+      "plot": "Former cop Brian O'Conner is called upon to bust a dangerous criminal and he recruits the help of a former childhood friend and street racer who has a chance to redeem himself.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTQzYzEwNWMtOTAwYy00YWYwLWE1NTEtZTkxOGQxZTM0M2VhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ludacris, Eva Mendes, Tyrese Gibson, Paul Walker, and Devon Aoki in 2 Fast 2 Furious (2003)",
+        "width": 1200,
+        "height": 1800
+      },
+      "imdbRating": 6,
+      "numVotes": 320681,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6420,
+      "runtimeMinutes": 107,
+      "metascore": 38,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 20,
+      "titleId": "tt0251127",
+      "title": "How to Lose a Guy in 10 Days",
+      "originalTitle": "How to Lose a Guy in 10 Days",
+      "year": 2003,
+      "releaseDate": {
+        "day": 7,
+        "month": 2,
+        "year": 2003
+      },
+      "plot": "An advertising executive and ladies' man, to win a big campaign, bets that he can make a woman fall in love with him in 10 days.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjE4NTA1NzExN15BMl5BanBnXkFtZTYwNjc3MjM3._V1_.jpg",
+        "caption": "Matthew McConaughey and Kate Hudson in How to Lose a Guy in 10 Days (2003)",
+        "width": 400,
+        "height": 591
+      },
+      "imdbRating": 6.5,
+      "numVotes": 315781,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "runtimeSeconds": 6960,
+      "runtimeMinutes": 116,
+      "metascore": 45,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 21,
+      "titleId": "tt0320691",
+      "title": "Underworld",
+      "originalTitle": "Underworld",
+      "year": 2003,
+      "releaseDate": {
+        "day": 19,
+        "month": 9,
+        "year": 2003
+      },
+      "plot": "Selene, a vampire warrior, is entrenched in a conflict between vampires and werewolves, while falling in love with Michael, a human who is sought by werewolves for unknown reasons.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWIwZjFkYjktZTI3My00YzhkLWI5NmUtZDYyMTg5ZWVmODZkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Kate Beckinsale in Underworld (2003)",
+        "width": 800,
+        "height": 1185
+      },
+      "imdbRating": 7,
+      "numVotes": 298996,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7260,
+      "runtimeMinutes": 121,
+      "metascore": 42,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 22,
+      "titleId": "tt0286716",
+      "title": "Hulk",
+      "originalTitle": "Hulk",
+      "year": 2003,
+      "releaseDate": {
+        "day": 20,
+        "month": 6,
+        "year": 2003
+      },
+      "plot": "Bruce Banner, a genetics researcher with a tragic past, suffers a lab accident that makes him transform into a raging, giant green monster when angered, making him a target of forces seeking to abuse his power.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTQxMmVlMTItMGFjYi00MTc2LWE5MzMtYjFhZWJmZGY0MTY5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ang Lee in Hulk (2003)",
+        "width": 590,
+        "height": 867
+      },
+      "imdbRating": 5.7,
+      "numVotes": 291086,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 8280,
+      "runtimeMinutes": 138,
+      "metascore": 54,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 23,
+      "titleId": "tt0309698",
+      "title": "Identity",
+      "originalTitle": "Identity",
+      "year": 2003,
+      "releaseDate": {
+        "day": 25,
+        "month": 4,
+        "year": 2003
+      },
+      "plot": "Stranded at a desolate Nevada motel during a nasty rain storm, ten strangers become acquainted with each other when they realize that they're being killed off one by one.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTg1YWUyODktMWY5MC00ZjliLTg3YmUtZDliMGZhZDZmMzU5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Identity (2003)",
+        "width": 2000,
+        "height": 3000
+      },
+      "imdbRating": 7.3,
+      "numVotes": 289708,
+      "certificate": "R",
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5400,
+      "runtimeMinutes": 90,
+      "metascore": 64,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 24,
+      "titleId": "tt0172156",
+      "title": "Bad Boys II",
+      "originalTitle": "Bad Boys II",
+      "year": 2003,
+      "releaseDate": {
+        "day": 18,
+        "month": 7,
+        "year": 2003
+      },
+      "plot": "Miami narcotics cops Mike Lowrey and Marcus Burnett investigate the flow of Ecstasy into Florida from a Cuban drug cartel.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTVkM2YxODItOGNlMy00NWExLWI2NTgtODEzMmM5NThiM2E2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Will Smith and Martin Lawrence in Bad Boys II (2003)",
+        "width": 620,
+        "height": 922
+      },
+      "imdbRating": 6.6,
+      "numVotes": 286551,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 8820,
+      "runtimeMinutes": 147,
+      "metascore": 38,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 25,
+      "titleId": "tt0353969",
+      "title": "Memories of Murder",
+      "originalTitle": "Salinui chueok",
+      "year": 2003,
+      "releaseDate": {
+        "day": 2,
+        "month": 5,
+        "year": 2003
+      },
+      "plot": "In a small Korean province in 1986, two detectives struggle with the case of multiple young women being found raped and murdered by an unknown culprit.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYmRjOWE5NmMtYTdkYS00ODFlLWJiMTMtYzE2NDZlZjlkZDQ0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Memories of Murder (2003)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 8.1,
+      "numVotes": 260861,
+      "certificate": "Not Rated",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "runtimeSeconds": 7860,
+      "runtimeMinutes": 131,
+      "metascore": 82,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 26,
+      "titleId": "tt0302886",
+      "title": "Old School",
+      "originalTitle": "Old School",
+      "year": 2003,
+      "releaseDate": {
+        "day": 21,
+        "month": 2,
+        "year": 2003
+      },
+      "plot": "Three friends attempt to recapture their glory days by opening up a fraternity near their alma mater.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZGZiNGEwNjQtNTMzOS00NDI3LWI2ZWQtMGQwMjEzNjExZjNlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Vince Vaughn, Will Ferrell, and Luke Wilson in Old School (2003)",
+        "width": 520,
+        "height": 804
+      },
+      "imdbRating": 7,
+      "numVotes": 255753,
+      "certificate": "R",
+      "genres": [
+        "Comedy"
+      ],
+      "runtimeSeconds": 5280,
+      "runtimeMinutes": 88,
+      "metascore": 54,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 27,
+      "titleId": "tt0311113",
+      "title": "Master and Commander: The Far Side of the World",
+      "originalTitle": "Master and Commander: The Far Side of the World",
+      "year": 2003,
+      "releaseDate": {
+        "day": 14,
+        "month": 11,
+        "year": 2003
+      },
+      "plot": "During the Napoleonic Wars, a brash British captain pushes his ship and crew to their limits in pursuit of a formidable French war vessel around South America.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDEzYmZmOTYtMzdlYS00MWNjLWE2YjEtMzkyZTMyOWZjMjkyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Russell Crowe in Master and Commander: The Far Side of the World (2003)",
+        "width": 999,
+        "height": 1500
+      },
+      "imdbRating": 7.5,
+      "numVotes": 253571,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "runtimeSeconds": 8280,
+      "runtimeMinutes": 138,
+      "metascore": 81,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 28,
+      "titleId": "tt0315733",
+      "title": "21 Grams",
+      "originalTitle": "21 Grams",
+      "year": 2003,
+      "releaseDate": {
+        "day": 16,
+        "month": 1,
+        "year": 2004
+      },
+      "plot": "A freak accident brings together a critically ill mathematician, a grieving mother, and a born-again ex-con.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjA4MjI2OTM5N15BMl5BanBnXkFtZTcwNDA1NjUzMw@@._V1_.jpg",
+        "caption": "21 Grams (2003)",
+        "width": 1381,
+        "height": 2048
+      },
+      "imdbRating": 7.6,
+      "numVotes": 252680,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7440,
+      "runtimeMinutes": 124,
+      "metascore": 70,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 29,
+      "titleId": "tt0305224",
+      "title": "Anger Management",
+      "originalTitle": "Anger Management",
+      "year": 2003,
+      "releaseDate": {
+        "day": 11,
+        "month": 4,
+        "year": 2003
+      },
+      "plot": "Dave Buznik is a businessman who is wrongly sentenced to an anger management program, where he meets an aggressive instructor.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjFmNjIyNmQtMDhmNS00NDNmLTk3YTQtM2YzMmJiMTI3MDMzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jack Nicholson and Adam Sandler in Anger Management (2003)",
+        "width": 669,
+        "height": 1000
+      },
+      "imdbRating": 6.3,
+      "numVotes": 240452,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy"
+      ],
+      "runtimeSeconds": 6360,
+      "runtimeMinutes": 106,
+      "metascore": 52,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 30,
+      "titleId": "tt0287978",
+      "title": "Daredevil",
+      "originalTitle": "Daredevil",
+      "year": 2003,
+      "releaseDate": {
+        "day": 14,
+        "month": 2,
+        "year": 2003
+      },
+      "plot": "A man blinded by toxic waste which also enhanced his remaining senses fights crime as an acrobatic martial arts superhero.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZGVjZjU3MmEtNDFjZS00N2ExLTk4YzktYjYzM2MzYTJjYmE0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ben Affleck, Michael Clarke Duncan, Jennifer Garner, and Colin Farrell in Daredevil (2003)",
+        "width": 1016,
+        "height": 1500
+      },
+      "imdbRating": 5.3,
+      "numVotes": 239775,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 6180,
+      "runtimeMinutes": 103,
+      "metascore": 42,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 31,
+      "titleId": "tt0328828",
+      "title": "American Wedding",
+      "originalTitle": "American Wedding",
+      "year": 2003,
+      "releaseDate": {
+        "day": 1,
+        "month": 8,
+        "year": 2003
+      },
+      "plot": "It's the wedding of Jim and Michelle and the gathering of their families and friends, including Jim's old friends from high school and Michelle's little sister.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWZjMjdhODAtMzc3NS00ZWRiLThjMDEtMzUwMTY2MTI4ZjNmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jason Biggs, Alyson Hannigan, Thomas Ian Nicholas, Seann William Scott, Eugene Levy, and Eddie Kaye Thomas in American Wedding (2003)",
+        "width": 1383,
+        "height": 2048
+      },
+      "imdbRating": 6.3,
+      "numVotes": 227772,
+      "certificate": "R",
+      "genres": [
+        "Comedy"
+      ],
+      "runtimeSeconds": 5760,
+      "runtimeMinutes": 96,
+      "metascore": 43,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 32,
+      "titleId": "tt0309593",
+      "title": "Final Destination 2",
+      "originalTitle": "Final Destination 2",
+      "year": 2003,
+      "releaseDate": {
+        "day": 31,
+        "month": 1,
+        "year": 2003
+      },
+      "plot": "Death is stalking Kimberly Corman and multiple survivors of a deadly highway accident.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjExMTMyODAzN15BMl5BanBnXkFtZTYwNjc5NDQ3._V1_.jpg",
+        "caption": "Ali Larter, Terrence 'T.C.' Carson, A.J. Cook, Michael Landes, Keegan Connor Tracy, and Jonathan Cherry in Final Destination 2 (2003)",
+        "width": 450,
+        "height": 665
+      },
+      "imdbRating": 6.2,
+      "numVotes": 215408,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5400,
+      "runtimeMinutes": 90,
+      "metascore": 38,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 33,
+      "titleId": "tt0311429",
+      "title": "The League of Extraordinary Gentlemen",
+      "originalTitle": "The League of Extraordinary Gentlemen",
+      "year": 2003,
+      "releaseDate": {
+        "day": 11,
+        "month": 7,
+        "year": 2003
+      },
+      "plot": "In an alternate Victorian Age world, a group of famous contemporary fantasy, science fiction, and adventure characters team up on a secret mission.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYWY3NjI0ODMtMGEwMy00NzVjLWJlMjYtNTc1YTJkNmY2NGRhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Sean Connery, Jason Flemyng, Tony Curran, Naseeruddin Shah, Stuart Townsend, Shane West, and Peta Wilson in The League of Extraordinary Gentlemen (2003)",
+        "width": 580,
+        "height": 863
+      },
+      "imdbRating": 5.8,
+      "numVotes": 191179,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 6600,
+      "runtimeMinutes": 110,
+      "metascore": 30,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 34,
+      "titleId": "tt0274166",
+      "title": "Johnny English",
+      "originalTitle": "Johnny English",
+      "year": 2003,
+      "releaseDate": {
+        "day": 18,
+        "month": 7,
+        "year": 2003
+      },
+      "plot": "After a sudden attack on MI7, Johnny English, Britain's most confident, yet unintelligent spy, becomes Britain's only spy.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTU0MGM4ZjQtNmQ3MC00NDE4LWEwYTItYWZiYzAxMGQwMDkzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Rowan Atkinson in Johnny English (2003)",
+        "width": 800,
+        "height": 1189
+      },
+      "imdbRating": 6.3,
+      "numVotes": 184237,
+      "certificate": "PG",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 5220,
+      "runtimeMinutes": 87,
+      "metascore": 51,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 35,
+      "titleId": "tt0285823",
+      "title": "Once Upon a Time in Mexico",
+      "originalTitle": "Once Upon a Time in Mexico",
+      "year": 2003,
+      "releaseDate": {
+        "day": 12,
+        "month": 9,
+        "year": 2003
+      },
+      "plot": "Hitman \"El Mariachi\" becomes involved in international espionage involving a psychotic CIA agent and a corrupt Mexican general.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTU5MDg5OTcwOV5BMl5BanBnXkFtZTcwMjI1MTIzMw@@._V1_.jpg",
+        "caption": "Antonio Banderas, Johnny Depp, and Salma Hayek in Once Upon a Time in Mexico (2003)",
+        "width": 1383,
+        "height": 2048
+      },
+      "imdbRating": 6.3,
+      "numVotes": 175859,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6120,
+      "runtimeMinutes": 102,
+      "metascore": 56,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 36,
+      "titleId": "tt0322330",
+      "title": "Freaky Friday",
+      "originalTitle": "Freaky Friday",
+      "year": 2003,
+      "releaseDate": {
+        "day": 6,
+        "month": 8,
+        "year": 2003
+      },
+      "plot": "Dr. Tess Coleman and her daughter, Anna, do not get along with each other. However, things take a turn when, in a freak accident, they switch bodies and are forced to live each other's lives.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWEyMzYyYWQtZjMxYS00MGY1LWFiYTQtN2FiOWY0ZTk2ODA5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jamie Lee Curtis and Lindsay Lohan in Freaky Friday (2003)",
+        "width": 770,
+        "height": 1143
+      },
+      "imdbRating": 6.4,
+      "numVotes": 175753,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 5820,
+      "runtimeMinutes": 97,
+      "metascore": 70,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 37,
+      "titleId": "tt0340855",
+      "title": "Monster",
+      "originalTitle": "Monster",
+      "year": 2003,
+      "releaseDate": {
+        "day": 30,
+        "month": 1,
+        "year": 2004
+      },
+      "plot": "Based on the life of Aileen Wuornos, a Daytona Beach prostitute who became a serial killer.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTI4NzI5NzEwNl5BMl5BanBnXkFtZTcwNjc1NjQyMQ@@._V1_.jpg",
+        "caption": "Christina Ricci and Charlize Theron in Monster (2003)",
+        "width": 809,
+        "height": 1200
+      },
+      "imdbRating": 7.3,
+      "numVotes": 171931,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 6540,
+      "runtimeMinutes": 109,
+      "metascore": 74,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 38,
+      "titleId": "tt0306047",
+      "title": "Scary Movie 3",
+      "originalTitle": "Scary Movie 3",
+      "year": 2003,
+      "releaseDate": {
+        "day": 24,
+        "month": 10,
+        "year": 2003
+      },
+      "plot": "Cindy must investigate mysterious crop circles and video tapes, and help the President in preventing an alien invasion.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDE2NTIyMjg2OF5BMl5BanBnXkFtZTYwNDEyMTg3._V1_.jpg",
+        "caption": "Charlie Sheen, Leslie Nielsen, Denise Richards, Queen Latifah, Simon Rex, Anthony Anderson, Anna Faris, and Eddie Griffin in Scary Movie 3 (2003)",
+        "width": 432,
+        "height": 647
+      },
+      "imdbRating": 5.6,
+      "numVotes": 169518,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy"
+      ],
+      "runtimeSeconds": 5040,
+      "runtimeMinutes": 84,
+      "metascore": 49,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 39,
+      "titleId": "tt0276919",
+      "title": "Dogville",
+      "originalTitle": "Dogville",
+      "year": 2003,
+      "releaseDate": {
+        "day": 23,
+        "month": 4,
+        "year": 2004
+      },
+      "plot": "A woman on the run from the mob is reluctantly accepted in a small Colorado community in exchange for labor, but when a search visits the town she finds out that their support has a price.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMThkZDEzYWEtMDZhMC00NWQwLTlmMWYtNTEwYjMzY2UxMDRjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Nicole Kidman in Dogville (2003)",
+        "width": 1918,
+        "height": 2846
+      },
+      "imdbRating": 8,
+      "numVotes": 167539,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 10260,
+      "runtimeMinutes": 171,
+      "metascore": 61,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 40,
+      "titleId": "tt0307987",
+      "title": "Bad Santa",
+      "originalTitle": "Bad Santa",
+      "year": 2003,
+      "releaseDate": {
+        "day": 26,
+        "month": 11,
+        "year": 2003
+      },
+      "plot": "A miserable conman and his partner pose as Santa and his Little Helper to rob department stores on Christmas Eve. But they run into problems when the conman befriends a troubled kid.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjA4Njg1MDcwN15BMl5BanBnXkFtZTYwMzAxNjM3._V1_.jpg",
+        "caption": "Billy Bob Thornton, Bernie Mac, Tony Cox, and Brett Kelly in Bad Santa (2003)",
+        "width": 485,
+        "height": 724
+      },
+      "imdbRating": 7,
+      "numVotes": 167045,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 5520,
+      "runtimeMinutes": 92,
+      "metascore": 70,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 41,
+      "titleId": "tt0159365",
+      "title": "Cold Mountain",
+      "originalTitle": "Cold Mountain",
+      "year": 2003,
+      "releaseDate": {
+        "day": 25,
+        "month": 12,
+        "year": 2003
+      },
+      "plot": "In the waning days of the American Civil War, a wounded soldier embarks on a perilous journey back home to Cold Mountain, North Carolina to reunite with his sweetheart.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTY3NTc5NzcyOF5BMl5BanBnXkFtZTcwMDM0NjQyMQ@@._V1_.jpg",
+        "caption": "Nicole Kidman, Jude Law, and Ren\u00e9e Zellweger in Cold Mountain (2003)",
+        "width": 513,
+        "height": 755
+      },
+      "imdbRating": 7.2,
+      "numVotes": 163433,
+      "certificate": "R",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 9240,
+      "runtimeMinutes": 154,
+      "metascore": 73,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 42,
+      "titleId": "tt0324216",
+      "title": "The Texas Chainsaw Massacre",
+      "originalTitle": "The Texas Chainsaw Massacre",
+      "year": 2003,
+      "releaseDate": {
+        "day": 17,
+        "month": 10,
+        "year": 2003
+      },
+      "plot": "After picking up a traumatized young hitchhiker, five friends find themselves stalked and hunted by a deformed chainsaw-wielding loon and his family of equally psychopathic killers.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzY0MDQwMTctYzQ1Mi00ODIwLThlMWQtODQ0NzA2ZTg3ZDFhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "The Texas Chainsaw Massacre (2003)",
+        "width": 2025,
+        "height": 3000
+      },
+      "imdbRating": 6.2,
+      "numVotes": 161158,
+      "certificate": "R",
+      "genres": [
+        "Horror"
+      ],
+      "runtimeSeconds": 5880,
+      "runtimeMinutes": 98,
+      "metascore": 38,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 43,
+      "titleId": "tt0257076",
+      "title": "S.W.A.T.",
+      "originalTitle": "S.W.A.T.",
+      "year": 2003,
+      "releaseDate": {
+        "day": 8,
+        "month": 8,
+        "year": 2003
+      },
+      "plot": "An imprisoned drug kingpin offers a huge cash reward to anyone that can break him out of police custody, and only the L.A.P.D.'s Special Weapons and Tactics team can prevent it.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNmMwYjNhYTEtNGM3ZS00ZTNjLWE1ZWItOWU0MGU4YTUwNjk0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "S.W.A.T. (2003)",
+        "width": 674,
+        "height": 1000
+      },
+      "imdbRating": 6.1,
+      "numVotes": 159345,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Crime"
+      ],
+      "runtimeSeconds": 7020,
+      "runtimeMinutes": 117,
+      "metascore": 45,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 44,
+      "titleId": "tt0301357",
+      "title": "Good Bye Lenin!",
+      "originalTitle": "Good Bye Lenin!",
+      "year": 2003,
+      "releaseDate": {
+        "day": 14,
+        "month": 5,
+        "year": 2004
+      },
+      "plot": "In 1990, to protect his fragile mother from a fatal shock after a long coma, a young man must keep her from learning that her beloved nation of East Germany as she knew it has disappeared.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjhlNTY2YzUtOWIwYS00MjIwLThjZGUtMDNiNTQzZmM1MTdjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Daniel Br\u00fchl and Chulpan Khamatova in Good Bye Lenin! (2003)",
+        "width": 1414,
+        "height": 2000
+      },
+      "imdbRating": 7.7,
+      "numVotes": 158944,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 7260,
+      "runtimeMinutes": 121,
+      "metascore": 68,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 45,
+      "titleId": "tt0325703",
+      "title": "Lara Croft: Tomb Raider - The Cradle of Life",
+      "originalTitle": "Lara Croft: Tomb Raider - The Cradle of Life",
+      "year": 2003,
+      "releaseDate": {
+        "day": 25,
+        "month": 7,
+        "year": 2003
+      },
+      "plot": "A globe-trotter must find Pandora's box before a maniacal scientist can harness its power for world domination.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjM4NzNiNDktOTlhMi00MjVkLTg0NGYtZTQ4MmVmMDNiY2ZlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Angelina Jolie in Lara Croft: Tomb Raider - The Cradle of Life (2003)",
+        "width": 580,
+        "height": 857
+      },
+      "imdbRating": 5.5,
+      "numVotes": 151008,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 7020,
+      "runtimeMinutes": 117,
+      "metascore": 43,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 46,
+      "titleId": "tt0327850",
+      "title": "The Rundown",
+      "originalTitle": "The Rundown",
+      "year": 2003,
+      "releaseDate": {
+        "day": 26,
+        "month": 9,
+        "year": 2003
+      },
+      "plot": "A tough aspiring chef is hired to bring home a mobster's son from the Amazon but becomes involved in the fight against an oppressive town operator and the search for a legendary treasure.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWI4ODc0M2MtOTIzYi00MmQ0LTg4NDMtMTZiMjQyZTNmYTNhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Christopher Walken, Seann William Scott, Rosario Dawson, and Dwayne Johnson in The Rundown (2003)",
+        "width": 800,
+        "height": 1185
+      },
+      "imdbRating": 6.6,
+      "numVotes": 147631,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 6240,
+      "runtimeMinutes": 104,
+      "metascore": 59,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 47,
+      "titleId": "tt0292506",
+      "title": "The Recruit",
+      "originalTitle": "The Recruit",
+      "year": 2003,
+      "releaseDate": {
+        "day": 31,
+        "month": 1,
+        "year": 2003
+      },
+      "plot": "A brilliant young CIA trainee is asked by his mentor to help find a mole in the Agency.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjE5MDMzOTk3MV5BMl5BanBnXkFtZTYwNTE0NTg2._V1_.jpg",
+        "caption": "Al Pacino and Colin Farrell in The Recruit (2003)",
+        "width": 321,
+        "height": 475
+      },
+      "imdbRating": 6.6,
+      "numVotes": 146875,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6900,
+      "runtimeMinutes": 115,
+      "metascore": 56,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 48,
+      "titleId": "tt0325805",
+      "title": "Matchstick Men",
+      "originalTitle": "Matchstick Men",
+      "year": 2003,
+      "releaseDate": {
+        "day": 12,
+        "month": 9,
+        "year": 2003
+      },
+      "plot": "A phobic con artist and his prot\u00e9g\u00e9 are on the verge of pulling off a lucrative swindle when the former's teenage daughter arrives unexpectedly.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjA3NjMyNjIyMF5BMl5BanBnXkFtZTYwOTgzMDI3._V1_.jpg",
+        "caption": "Nicolas Cage, Sam Rockwell, and Alison Lohman in Matchstick Men (2003)",
+        "width": 485,
+        "height": 719
+      },
+      "imdbRating": 7.3,
+      "numVotes": 144807,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 6960,
+      "runtimeMinutes": 116,
+      "metascore": 61,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 49,
+      "titleId": "tt0295700",
+      "title": "Wrong Turn",
+      "originalTitle": "Wrong Turn",
+      "year": 2003,
+      "releaseDate": {
+        "day": 30,
+        "month": 5,
+        "year": 2003
+      },
+      "plot": "Chris and a group of five friends are left stranded deep in the middle of the woods after their cars collide. As they venture deeper into the woods, they face an uncertain and bloodcurdling fate.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTdkNWM0OWQtYTdlMy00YmVkLWE4YTQtNDgwZDIwNjg4MzBkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Eliza Dushku and Julian Richings in Wrong Turn (2003)",
+        "width": 1067,
+        "height": 1600
+      },
+      "imdbRating": 6.1,
+      "numVotes": 144596,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5040,
+      "runtimeMinutes": 84,
+      "metascore": 32,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 50,
+      "titleId": "tt0309987",
+      "title": "The Dreamers",
+      "originalTitle": "The Dreamers",
+      "year": 2003,
+      "releaseDate": {
+        "day": 20,
+        "month": 2,
+        "year": 2004
+      },
+      "plot": "In 1968 Paris, film-loving twins Theo and Isabelle befriend American student Matthew during student protests. While their parents travel, they pull him into a month of sensual exploration, until reality intrudes.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZmY0Y2YwZTgtZDE2Ny00ZmYzLWFhOTItNDFhZjhjMjAzNWVhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Louis Garrel, Michael Pitt, and Eva Green in The Dreamers (2003)",
+        "width": 800,
+        "height": 1184
+      },
+      "imdbRating": 7.1,
+      "numVotes": 141228,
+      "certificate": "NC-17",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 6900,
+      "runtimeMinutes": 115,
+      "metascore": 63,
+      "credits": [],
+      "titleType": "movie"
+    }
+  ]
+}

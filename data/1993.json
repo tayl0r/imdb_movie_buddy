@@ -1,0 +1,1588 @@
+{
+  "year": 1993,
+  "movies": [
+    {
+      "rank": 1,
+      "titleId": "tt0108052",
+      "title": "Schindler's List",
+      "originalTitle": "Schindler's List",
+      "year": 1993,
+      "releaseDate": {
+        "day": 4,
+        "month": 2,
+        "year": 1994
+      },
+      "plot": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjM1ZDQxYWUtMzQyZS00MTE1LWJmZGYtNGUyNTdlYjM3ZmVmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Schindler's List (1993)",
+        "width": 1600,
+        "height": 2400
+      },
+      "imdbRating": 9,
+      "numVotes": 1572410,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "runtimeSeconds": 11700,
+      "runtimeMinutes": 195,
+      "metascore": 95,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 2,
+      "titleId": "tt0107290",
+      "title": "Jurassic Park",
+      "originalTitle": "Jurassic Park",
+      "year": 1993,
+      "releaseDate": {
+        "day": 11,
+        "month": 6,
+        "year": 1993
+      },
+      "plot": "An industrialist invites some experts to visit his theme park of cloned dinosaurs. After a power failure, the creatures run loose, putting everyone's lives, including his grandchildren's, in danger.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_.jpg",
+        "caption": "Jeff Goldblum, Richard Attenborough, Laura Dern, Sam Neill, Ariana Richards, BD Wong, Joseph Mazzello, Martin Ferrero, and Bob Peck in Jurassic Park (1993)",
+        "width": 667,
+        "height": 1000
+      },
+      "imdbRating": 8.2,
+      "numVotes": 1164630,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 7620,
+      "runtimeMinutes": 127,
+      "metascore": 68,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 3,
+      "titleId": "tt0107048",
+      "title": "Groundhog Day",
+      "originalTitle": "Groundhog Day",
+      "year": 1993,
+      "releaseDate": {
+        "day": 12,
+        "month": 2,
+        "year": 1993
+      },
+      "plot": "A narcissistic, self-centered weatherman finds himself in a time loop on Groundhog Day.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWE3MjQ3ZDAtNDQ2MC00YjBjLTk0ZWYtNjQ0YzQ4YWE3YTEyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Bill Murray and Andie MacDowell in Groundhog Day (1993)",
+        "width": 1700,
+        "height": 2530
+      },
+      "imdbRating": 8,
+      "numVotes": 733516,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 6060,
+      "runtimeMinutes": 101,
+      "metascore": 72,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 4,
+      "titleId": "tt0107688",
+      "title": "The Nightmare Before Christmas",
+      "originalTitle": "Tim Burton's the Nightmare Before Christmas",
+      "year": 1993,
+      "releaseDate": {
+        "day": 29,
+        "month": 10,
+        "year": 1993
+      },
+      "plot": "Jack Skellington, king of Halloween Town, discovers Christmas Town, but his attempts to bring Christmas to his home causes confusion.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNmYxOTAzZWYtOGI3Yi00ODc3LTk5ZjYtZTY0MzVkZTg3YmRiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Danny Elfman and Chris Sarandon in The Nightmare Before Christmas (1993)",
+        "width": 1000,
+        "height": 1500
+      },
+      "imdbRating": 7.9,
+      "numVotes": 409074,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ],
+      "runtimeSeconds": 4560,
+      "runtimeMinutes": 76,
+      "metascore": 82,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 5,
+      "titleId": "tt0106977",
+      "title": "The Fugitive",
+      "originalTitle": "The Fugitive",
+      "year": 1993,
+      "releaseDate": {
+        "day": 6,
+        "month": 8,
+        "year": 1993
+      },
+      "plot": "Dr. Richard Kimble, unjustly accused of murdering his wife, must find the real killer while being the target of a nationwide manhunt led by a seasoned U.S. Marshal.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BM2RjMjEwODUtYTE4OC00MzhkLThjMjItZjYyZjk3YzA4YWUxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Harrison Ford in The Fugitive (1993)",
+        "width": 624,
+        "height": 940
+      },
+      "imdbRating": 7.8,
+      "numVotes": 343414,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 7800,
+      "runtimeMinutes": 130,
+      "metascore": 87,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 6,
+      "titleId": "tt0107614",
+      "title": "Mrs. Doubtfire",
+      "originalTitle": "Mrs. Doubtfire",
+      "year": 1993,
+      "releaseDate": {
+        "day": 24,
+        "month": 11,
+        "year": 1993
+      },
+      "plot": "After a bitter divorce, an actor disguises himself as a female housekeeper to spend time with his children held in custody by his former wife.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2E2MDc5ZGEtOTNlZS00Mjg4LThlNzUtMDY2Zjc4ZTViNWY0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Robin Williams, Sally Field, Lisa Jakub, Matthew Lawrence, and Mara Wilson in Mrs. Doubtfire (1993)",
+        "width": 749,
+        "height": 1121
+      },
+      "imdbRating": 7.1,
+      "numVotes": 312956,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Family"
+      ],
+      "runtimeSeconds": 7500,
+      "runtimeMinutes": 125,
+      "metascore": 54,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 7,
+      "titleId": "tt0107818",
+      "title": "Philadelphia",
+      "originalTitle": "Philadelphia",
+      "year": 1993,
+      "releaseDate": {
+        "day": 14,
+        "month": 1,
+        "year": 1994
+      },
+      "plot": "When a man with HIV is fired by his law firm because of his condition, he hires a homophobic small-time lawyer as the only willing advocate for a wrongful dismissal suit.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzEzZmMwMmMtNDgxYi00YTAwLWFkMjQtOGQzNmUxMGU1YWYwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tom Hanks and Denzel Washington in Philadelphia (1993)",
+        "width": 1000,
+        "height": 1500
+      },
+      "imdbRating": 7.7,
+      "numVotes": 272208,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 7500,
+      "runtimeMinutes": 125,
+      "metascore": 66,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 8,
+      "titleId": "tt0108550",
+      "title": "What's Eating Gilbert Grape",
+      "originalTitle": "What's Eating Gilbert Grape",
+      "year": 1993,
+      "releaseDate": {
+        "day": 4,
+        "month": 3,
+        "year": 1994
+      },
+      "plot": "A young man in a small Midwestern town struggles to care for his mentally-disabled younger brother and morbidly obese mother while attempting to pursue his own happiness.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNWM5NWI1OTQtMTJiOS00ZDMxLWE1ODQtZjQ4MDc4OGE4ZjQyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Johnny Depp in What's Eating Gilbert Grape (1993)",
+        "width": 1011,
+        "height": 1500
+      },
+      "imdbRating": 7.7,
+      "numVotes": 267791,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 7080,
+      "runtimeMinutes": 118,
+      "metascore": 73,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 9,
+      "titleId": "tt0108399",
+      "title": "True Romance",
+      "originalTitle": "True Romance",
+      "year": 1993,
+      "releaseDate": {
+        "day": 10,
+        "month": 9,
+        "year": 1993
+      },
+      "plot": "In Detroit, a pop-culture enthusiast steals cocaine from his new wife's pimp and tries to sell it in Hollywood, prompting the mobsters who own the drugs to pursue the couple.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzQ5OGMwMDAtMzcyOS00YTA4LWEwM2MtOTA1MDZjZGEyYmI1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Brad Pitt, Patricia Arquette, Gary Oldman, Christian Slater, Dennis Hopper, and Christopher Walken in True Romance (1993)",
+        "width": 1989,
+        "height": 2966
+      },
+      "imdbRating": 7.9,
+      "numVotes": 258902,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 7140,
+      "runtimeMinutes": 119,
+      "metascore": 59,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 10,
+      "titleId": "tt0106519",
+      "title": "Carlito's Way",
+      "originalTitle": "Carlito's Way",
+      "year": 1993,
+      "releaseDate": {
+        "day": 12,
+        "month": 11,
+        "year": 1993
+      },
+      "plot": "A Puerto Rican former convict, just released from prison, pledges to stay away from drugs and violence despite the pressure around him and lead on to a better life outside of N.Y.C.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjMxOTgzNzMtZmZlNC00YTMyLThhZDEtZjc2MTY4ZDgxNjcwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Al Pacino in Carlito's Way (1993)",
+        "width": 1955,
+        "height": 2902
+      },
+      "imdbRating": 7.9,
+      "numVotes": 246004,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 8640,
+      "runtimeMinutes": 144,
+      "metascore": 66,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 11,
+      "titleId": "tt0106856",
+      "title": "Falling Down",
+      "originalTitle": "Falling Down",
+      "year": 1993,
+      "releaseDate": {
+        "day": 26,
+        "month": 2,
+        "year": 1993
+      },
+      "plot": "An ordinary man reaches his breaking point and starts lashing out against the various flaws he sees in society.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZmE2MGQ4OWEtMmUzYS00ZDBhLTg4ZDAtZGRhYWNkOTAzYWQyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Michael Douglas in Falling Down (1993)",
+        "width": 1536,
+        "height": 2260
+      },
+      "imdbRating": 7.5,
+      "numVotes": 223937,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6780,
+      "runtimeMinutes": 113,
+      "metascore": 56,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 12,
+      "titleId": "tt0106677",
+      "title": "Dazed and Confused",
+      "originalTitle": "Dazed and Confused",
+      "year": 1993,
+      "releaseDate": {
+        "day": 24,
+        "month": 9,
+        "year": 1993
+      },
+      "plot": "The adventures of high school and junior high students on the last day of school in May 1976.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTM5MDY5MDQyOV5BMl5BanBnXkFtZTgwMzM3NzMxMDE@._V1_.jpg",
+        "caption": "Milla Jovovich, Rory Cochrane, Sasha Jenson, and Jason London in Dazed and Confused (1993)",
+        "width": 675,
+        "height": 1000
+      },
+      "imdbRating": 7.6,
+      "numVotes": 214555,
+      "certificate": "R",
+      "genres": [
+        "Comedy"
+      ],
+      "runtimeSeconds": 6180,
+      "runtimeMinutes": 103,
+      "metascore": 82,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 13,
+      "titleId": "tt0106697",
+      "title": "Demolition Man",
+      "originalTitle": "Demolition Man",
+      "year": 1993,
+      "releaseDate": {
+        "day": 8,
+        "month": 10,
+        "year": 1993
+      },
+      "plot": "A police officer is brought out of suspended animation in prison to pursue an old ultra-violent nemesis who is loose in a non-violent future society.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNWY3ZThmN2QtMzVkNS00MjczLTllNDQtOGEwN2M0ZTFkMWMzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Sylvester Stallone and Wesley Snipes in Demolition Man (1993)",
+        "width": 540,
+        "height": 807
+      },
+      "imdbRating": 6.7,
+      "numVotes": 207431,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6900,
+      "runtimeMinutes": 115,
+      "metascore": 34,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 14,
+      "titleId": "tt0108160",
+      "title": "Sleepless in Seattle",
+      "originalTitle": "Sleepless in Seattle",
+      "year": 1993,
+      "releaseDate": {
+        "day": 25,
+        "month": 6,
+        "year": 1993
+      },
+      "plot": "A recently widowed man's son calls a radio talk-show in an attempt to find his father a partner.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzYwNzNlYWEtY2NiMC00Y2ZkLWFmYzUtYWU4ZTQ5YTAyNTZmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tom Hanks and Meg Ryan in Sleepless in Seattle (1993)",
+        "width": 968,
+        "height": 1431
+      },
+      "imdbRating": 6.8,
+      "numVotes": 205251,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 6300,
+      "runtimeMinutes": 105,
+      "metascore": 72,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 15,
+      "titleId": "tt0107207",
+      "title": "In the Name of the Father",
+      "originalTitle": "In the Name of the Father",
+      "year": 1993,
+      "releaseDate": {
+        "day": 25,
+        "month": 2,
+        "year": 1994
+      },
+      "plot": "An Irish man's coerced confession to an I.R.A. bombing he did not commit results in the imprisonment of his father as well. Meanwhile, a British lawyer fights to clear their names and free them.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMGZiZDVjNzYtZWM4ZC00MzVkLThhNDEtMDJlOTBhYzVjMmNhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Daniel Day-Lewis in In the Name of the Father (1993)",
+        "width": 1580,
+        "height": 2358
+      },
+      "imdbRating": 8.1,
+      "numVotes": 201401,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 7980,
+      "runtimeMinutes": 133,
+      "metascore": 84,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 16,
+      "titleId": "tt0108358",
+      "title": "Tombstone",
+      "originalTitle": "Tombstone",
+      "year": 1993,
+      "releaseDate": {
+        "day": 25,
+        "month": 12,
+        "year": 1993
+      },
+      "plot": "A successful lawman's plans to retire anonymously in Tombstone, Arizona, are disrupted by the kind of outlaws he was famous for eliminating.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNmQyMzlhNjUtMzRjYS00MWY4LWI5MDAtZGU1MWE2M2E0OGMxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Val Kilmer, Bill Paxton, Sam Elliott, and Kurt Russell in Tombstone (1993)",
+        "width": 1012,
+        "height": 1500
+      },
+      "imdbRating": 7.8,
+      "numVotes": 189491,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "runtimeSeconds": 7800,
+      "runtimeMinutes": 130,
+      "metascore": 50,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 17,
+      "titleId": "tt0106489",
+      "title": "A Bronx Tale",
+      "originalTitle": "A Bronx Tale",
+      "year": 1993,
+      "releaseDate": {
+        "day": 1,
+        "month": 10,
+        "year": 1993
+      },
+      "plot": "An intense drama about a boy torn between his tough, hard-working father and a violent yet charismatic crime boss.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTZiZWFjY2UtMDYzOS00N2JhLTk5YmYtMGQ1Yjk5ZWYzZjI4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Robert De Niro, Lillo Brancato, and Chazz Palminteri in A Bronx Tale (1993)",
+        "width": 1521,
+        "height": 2260
+      },
+      "imdbRating": 7.8,
+      "numVotes": 182074,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 7260,
+      "runtimeMinutes": 121,
+      "metascore": 80,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 18,
+      "titleId": "tt0107362",
+      "title": "Last Action Hero",
+      "originalTitle": "Last Action Hero",
+      "year": 1993,
+      "releaseDate": {
+        "day": 18,
+        "month": 6,
+        "year": 1993
+      },
+      "plot": "With the help of a magic ticket, a young movie fan is transported into the fictional world of his favorite action movie character.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZGU2NWQyY2ItY2JiZS00ZDJhLWI0NDQtNjMyNWU3MDA1NTgzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Anthony Quinn, Arnold Schwarzenegger, Danny DeVito, F. Murray Abraham, Charles Dance, Tom Noonan, Austin O'Brien, and Bridgette Wilson-Sampras in Last Action Hero (1993)",
+        "width": 2000,
+        "height": 3000
+      },
+      "imdbRating": 6.5,
+      "numVotes": 173420,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 7800,
+      "runtimeMinutes": 130,
+      "metascore": 44,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 19,
+      "titleId": "tt0107120",
+      "title": "Hocus Pocus",
+      "originalTitle": "Hocus Pocus",
+      "year": 1993,
+      "releaseDate": {
+        "day": 16,
+        "month": 7,
+        "year": 1993
+      },
+      "plot": "A teenage boy named Max and his little sister move to Salem, where he struggles to fit in before awakening a trio of diabolical witches that were executed in the 17th century.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYWRhOThjM2UtNmRhMi00YzFiLWI4MDYtOGQwNGY0ZjFlOGFkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Bette Midler, Sarah Jessica Parker, Kathy Najimy, and Jason Marsden in Hocus Pocus (1993)",
+        "width": 2187,
+        "height": 3252
+      },
+      "imdbRating": 6.9,
+      "numVotes": 171808,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 5760,
+      "runtimeMinutes": 96,
+      "metascore": 43,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 20,
+      "titleId": "tt0106918",
+      "title": "The Firm",
+      "originalTitle": "The Firm",
+      "year": 1993,
+      "releaseDate": {
+        "day": 30,
+        "month": 6,
+        "year": 1993
+      },
+      "plot": "A law school graduate uncovers a sinister secret about the Memphis firm that made him an offer he couldn't refuse.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjE3ZDZkMWMtY2RkMC00YzJjLWFhYTUtYmRjMzAyMzEwZDE5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tom Cruise in The Firm (1993)",
+        "width": 970,
+        "height": 1442
+      },
+      "imdbRating": 6.9,
+      "numVotes": 160077,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 9240,
+      "runtimeMinutes": 154,
+      "metascore": 58,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 21,
+      "titleId": "tt0106582",
+      "title": "Cliffhanger",
+      "originalTitle": "Cliffhanger",
+      "year": 1993,
+      "releaseDate": {
+        "day": 28,
+        "month": 5,
+        "year": 1993
+      },
+      "plot": "Two mountain rescuers are forced to guide a group of thieves to their missing loot.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGJkZmZlYTYtODQ1ZC00N2JiLWIxMWYtZTE4ZDMxZjQyZTAzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Sylvester Stallone in Cliffhanger (1993)",
+        "width": 1458,
+        "height": 2187
+      },
+      "imdbRating": 6.5,
+      "numVotes": 147468,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6780,
+      "runtimeMinutes": 113,
+      "metascore": 59,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 22,
+      "titleId": "tt0107977",
+      "title": "Robin Hood: Men in Tights",
+      "originalTitle": "Robin Hood: Men in Tights",
+      "year": 1993,
+      "releaseDate": {
+        "day": 28,
+        "month": 7,
+        "year": 1993
+      },
+      "plot": "A spoof of Robin Hood in general, and Robin Hood: Prince of Thieves (1991) in particular.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2ZkMGU1OGUtZTJlOS00MmE5LWIxZjQtYWRlZDljMGJkMTZmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Cary Elwes in Robin Hood: Men in Tights (1993)",
+        "width": 1078,
+        "height": 1589
+      },
+      "imdbRating": 6.7,
+      "numVotes": 144925,
+      "certificate": "PG-13",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Musical"
+      ],
+      "runtimeSeconds": 6240,
+      "runtimeMinutes": 104,
+      "metascore": 44,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 23,
+      "titleId": "tt0106220",
+      "title": "Addams Family Values",
+      "originalTitle": "Addams Family Values",
+      "year": 1993,
+      "releaseDate": {
+        "day": 19,
+        "month": 11,
+        "year": 1993
+      },
+      "plot": "The Addams Family try to rescue their beloved Uncle Fester from his gold-digging new love, a black widow named Debbie.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYWY3Y2ZkYjktZWYxMC00ZmZmLTgxNjYtYmMwYmU5OWJjMThjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Christina Ricci, Raul Julia, Christopher Lloyd, Ian Abercrombie, Anjelica Huston, Carol Kane, Matthew Beebe, Chris Ellis, Christopher Hart, Ryan Holihan, Kaitlyn Hooper, Kristen Hooper, Dana Ivey, and Jimmy Workman in Addams Family Values (1993)",
+        "width": 580,
+        "height": 867
+      },
+      "imdbRating": 6.9,
+      "numVotes": 122635,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 5640,
+      "runtimeMinutes": 94,
+      "metascore": 61,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 24,
+      "titleId": "tt0107206",
+      "title": "In the Line of Fire",
+      "originalTitle": "In the Line of Fire",
+      "year": 1993,
+      "releaseDate": {
+        "day": 9,
+        "month": 7,
+        "year": 1993
+      },
+      "plot": "Secret Service agent Frank Horrigan couldn't save Kennedy, but he's determined not to let a clever assassin take out this president.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYmNiNjNjYmQtZTQzNC00M2I1LThiMDgtNWNmM2VjY2Y3NzQxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Clint Eastwood in In the Line of Fire (1993)",
+        "width": 1000,
+        "height": 1492
+      },
+      "imdbRating": 7.2,
+      "numVotes": 122139,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 7680,
+      "runtimeMinutes": 128,
+      "metascore": 74,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 25,
+      "titleId": "tt0106611",
+      "title": "Cool Runnings",
+      "originalTitle": "Cool Runnings",
+      "year": 1993,
+      "releaseDate": {
+        "day": 1,
+        "month": 10,
+        "year": 1993
+      },
+      "plot": "When a Jamaican sprinter is disqualified from the Olympic Games, he enlists the help of a dishonored coach to start the first Jamaican Bobsled Team.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjBmZDM0OTQtMjJiMi00NTEwLWEzNTktMTY5NWFmMDcwZmNjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "John Candy, Doug E. Doug, Leon, Rawle D. Lewis, and Malik Yoba in Cool Runnings (1993)",
+        "width": 1000,
+        "height": 1500
+      },
+      "imdbRating": 7,
+      "numVotes": 121547,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family"
+      ],
+      "runtimeSeconds": 5880,
+      "runtimeMinutes": 98,
+      "metascore": 60,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 26,
+      "titleId": "tt0108394",
+      "title": "Three Colors: Blue",
+      "originalTitle": "Trois couleurs: Bleu",
+      "year": 1993,
+      "releaseDate": {
+        "day": 8,
+        "month": 9,
+        "year": 1993
+      },
+      "plot": "A woman struggles to find a way to live her life after the death of her husband and child.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNWMxNWE2NGYtMzYwOS00NmJhLTgwNjAtNGM3ODIwNjU5MTZiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Juliette Binoche in Three Colors: Blue (1993)",
+        "width": 1212,
+        "height": 1889
+      },
+      "imdbRating": 7.8,
+      "numVotes": 118038,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Music",
+        "Mystery"
+      ],
+      "runtimeSeconds": 5880,
+      "runtimeMinutes": 98,
+      "metascore": 87,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 27,
+      "titleId": "tt0108037",
+      "title": "The Sandlot",
+      "originalTitle": "The Sandlot",
+      "year": 1993,
+      "releaseDate": {
+        "day": 7,
+        "month": 4,
+        "year": 1993
+      },
+      "plot": "In the summer of 1962, a new kid in town is taken under the wing of a young baseball prodigy and his rowdy team, resulting in many adventures.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTc5YzE5OTAtMmY3YS00ODk4LTgzODItZGEzNmMxMDhhNWUwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "The Sandlot (1993)",
+        "width": 1013,
+        "height": 1500
+      },
+      "imdbRating": 7.8,
+      "numVotes": 113376,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Family"
+      ],
+      "runtimeSeconds": 6060,
+      "runtimeMinutes": 101,
+      "metascore": 55,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 28,
+      "titleId": "tt0107144",
+      "title": "Hot Shots! Part Deux",
+      "originalTitle": "Hot Shots! Part Deux",
+      "year": 1993,
+      "releaseDate": {
+        "day": 21,
+        "month": 5,
+        "year": 1993
+      },
+      "plot": "\"Rambo\" parody in which Topper Harley leads a rescue team into Iraq to save Iraqi war prisoners and all of their previous rescue teams.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGU5ZTUzMmQtZDI3Yy00Y2ZlLTg1MmMtYWZiNDYyYmI4YmE2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Charlie Sheen in Hot Shots! Part Deux (1993)",
+        "width": 580,
+        "height": 870
+      },
+      "imdbRating": 6.6,
+      "numVotes": 103280,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "runtimeSeconds": 5160,
+      "runtimeMinutes": 86,
+      "metascore": 64,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 29,
+      "titleId": "tt0107798",
+      "title": "The Pelican Brief",
+      "originalTitle": "The Pelican Brief",
+      "year": 1993,
+      "releaseDate": {
+        "day": 17,
+        "month": 12,
+        "year": 1993
+      },
+      "plot": "A law student uncovers a conspiracy, putting herself and others in danger.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjA2NmE4MjEtOTkxYy00YjhkLWI2YjgtODFmMGY0Zjc3YTdhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Julia Roberts and Denzel Washington in The Pelican Brief (1993)",
+        "width": 1508,
+        "height": 2260
+      },
+      "imdbRating": 6.6,
+      "numVotes": 102980,
+      "certificate": "PG-13",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "runtimeSeconds": 8460,
+      "runtimeMinutes": 141,
+      "metascore": 51,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 30,
+      "titleId": "tt0107822",
+      "title": "The Piano",
+      "originalTitle": "The Piano",
+      "year": 1993,
+      "releaseDate": {
+        "day": 11,
+        "month": 2,
+        "year": 1994
+      },
+      "plot": "In the mid-19th century a mute woman is sent to New Zealand along with her young daughter and prized piano for an arranged marriage to a farmer, but is soon lusted after by a farm worker.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZGZiYTQ0MmEtY2RmYy00ZjRkLWI3NTctYTRhMGJlMzA4ZDg0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Harvey Keitel and Holly Hunter in The Piano (1993)",
+        "width": 820,
+        "height": 1255
+      },
+      "imdbRating": 7.5,
+      "numVotes": 100575,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Music",
+        "Romance"
+      ],
+      "runtimeSeconds": 7260,
+      "runtimeMinutes": 121,
+      "metascore": 89,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 31,
+      "titleId": "tt0107808",
+      "title": "A Perfect World",
+      "originalTitle": "A Perfect World",
+      "year": 1993,
+      "releaseDate": {
+        "day": 24,
+        "month": 11,
+        "year": 1993
+      },
+      "plot": "A kidnapped boy strikes up a friendship with his captor, an escaped convict on the run from the law, while the search for him continues.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTNkOTE0NTctZGQ5Ni00MjhmLWIzYTItZDY1YWQxZTE0NzgzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Kevin Costner, Clint Eastwood, and T.J. Lowther in A Perfect World (1993)",
+        "width": 1000,
+        "height": 1500
+      },
+      "imdbRating": 7.5,
+      "numVotes": 92879,
+      "certificate": "PG-13",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 8280,
+      "runtimeMinutes": 138,
+      "metascore": 71,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 32,
+      "titleId": "tt0107943",
+      "title": "The Remains of the Day",
+      "originalTitle": "The Remains of the Day",
+      "year": 1993,
+      "releaseDate": {
+        "day": 19,
+        "month": 11,
+        "year": 1993
+      },
+      "plot": "A butler sacrifices love for duty in 1930s England.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWY5MTFkMmEtNDE2Zi00NzU4LWE2OWMtZGE4ZWY1NmIzN2I0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Anthony Hopkins and Emma Thompson in The Remains of the Day (1993)",
+        "width": 506,
+        "height": 755
+      },
+      "imdbRating": 7.8,
+      "numVotes": 91900,
+      "certificate": "PG",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 8040,
+      "runtimeMinutes": 134,
+      "metascore": 86,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 33,
+      "titleId": "tt0108525",
+      "title": "Wayne's World 2",
+      "originalTitle": "Wayne's World 2",
+      "year": 1993,
+      "releaseDate": {
+        "day": 10,
+        "month": 12,
+        "year": 1993
+      },
+      "plot": "The inseparable duo try to organize a rock concert while Wayne must fend off a record producer who has an eye for his girlfriend.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTBmNzQ0OGUtYWY5ZC00ZjBhLTkwMzQtNjUxZGVlYTczMjEwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Mike Myers and Dana Carvey in Wayne's World 2 (1993)",
+        "width": 486,
+        "height": 754
+      },
+      "imdbRating": 6.2,
+      "numVotes": 91698,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Music"
+      ],
+      "runtimeSeconds": 5700,
+      "runtimeMinutes": 95,
+      "metascore": 60,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 34,
+      "titleId": "tt0106965",
+      "title": "Free Willy",
+      "originalTitle": "Free Willy",
+      "year": 1993,
+      "releaseDate": {
+        "day": 16,
+        "month": 7,
+        "year": 1993
+      },
+      "plot": "When a boy learns that a beloved killer whale is to be killed by the aquarium owners, the boy risks everything to free the whale.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjY4NDJhOTMtZmVjMC00Njk5LThjOWItMjg4NDcxMmNkODM3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jason James Richter and Keiko in Free Willy (1993)",
+        "width": 600,
+        "height": 900
+      },
+      "imdbRating": 6.1,
+      "numVotes": 88563,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Family"
+      ],
+      "runtimeSeconds": 6720,
+      "runtimeMinutes": 112,
+      "metascore": 79,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 35,
+      "titleId": "tt0107211",
+      "title": "Indecent Proposal",
+      "originalTitle": "Indecent Proposal",
+      "year": 1993,
+      "releaseDate": {
+        "day": 7,
+        "month": 4,
+        "year": 1993
+      },
+      "plot": "A billionaire offers $1,000,000 to a young married couple for one night with the wife.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDEyN2UyYjItNjRjMy00YzM3LWEwNzktNDRjNjA5NmIzMmU1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Demi Moore, Woody Harrelson, and Robert Redford in Indecent Proposal (1993)",
+        "width": 1006,
+        "height": 1500
+      },
+      "imdbRating": 6,
+      "numVotes": 85798,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 7020,
+      "runtimeMinutes": 117,
+      "metascore": 45,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 36,
+      "titleId": "tt0106226",
+      "title": "The Age of Innocence",
+      "originalTitle": "The Age of Innocence",
+      "year": 1993,
+      "releaseDate": {
+        "day": 1,
+        "month": 10,
+        "year": 1993
+      },
+      "plot": "A tale of nineteenth-century New York high society in which a young lawyer falls in love with a woman separated from her husband, while he is engaged to the woman's cousin.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzFkYjQzZjUtY2NjNi00ZDFkLWI4M2MtN2RjODQ0NDJkMWM0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Michelle Pfeiffer, Winona Ryder, and Daniel Day-Lewis in The Age of Innocence (1993)",
+        "width": 999,
+        "height": 1500
+      },
+      "imdbRating": 7.2,
+      "numVotes": 73938,
+      "certificate": "PG",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 8340,
+      "runtimeMinutes": 139,
+      "metascore": 90,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 37,
+      "titleId": "tt0108002",
+      "title": "Rudy",
+      "originalTitle": "Rudy",
+      "year": 1993,
+      "releaseDate": {
+        "day": 22,
+        "month": 10,
+        "year": 1993
+      },
+      "plot": "Rudy has always been told that he was too small to play college football. But he is determined to overcome the odds and fulfill his dream of playing for Notre Dame.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjQ1MWQ4MWQtZWQzMy00NmU1LThmYzItNGU1OTc5MWJjNzQ1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Rudy (1993)",
+        "width": 1516,
+        "height": 2260
+      },
+      "imdbRating": 7.5,
+      "numVotes": 73817,
+      "certificate": "PG",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Sport"
+      ],
+      "runtimeSeconds": 6840,
+      "runtimeMinutes": 114,
+      "metascore": 71,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 38,
+      "titleId": "tt0107554",
+      "title": "Menace II Society",
+      "originalTitle": "Menace II Society",
+      "year": 1993,
+      "releaseDate": {
+        "day": 26,
+        "month": 5,
+        "year": 1993
+      },
+      "plot": "This urban nightmare chronicles several days after the graduation of young street hustler as he attempts to escape the rigors and temptations of the Watts, California ghetto in search of a better life.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzQ1MTNhZWEtM2FmZS00ZjkzLWJhZWEtNzA5ZDllZmYzNjQ1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Larenz Tate and Tyrin Turner in Menace II Society (1993)",
+        "width": 1600,
+        "height": 2400
+      },
+      "imdbRating": 7.5,
+      "numVotes": 69322,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5820,
+      "runtimeMinutes": 97,
+      "metascore": 76,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 39,
+      "titleId": "tt0106701",
+      "title": "Dennis the Menace",
+      "originalTitle": "Dennis the Menace",
+      "year": 1993,
+      "releaseDate": {
+        "day": 25,
+        "month": 6,
+        "year": 1993
+      },
+      "plot": "When his parents must go out of town on business, Dennis stays with Mr. and Mrs. Wilson. He is driving Mr. Wilson crazy, but he is just trying to be helpful, even to the thief who has arrived in town.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMWZhMTFmMjktNzdhYy00NmYxLWIzZDEtNzFjODIzZmM4Yjc5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Walter Matthau and Mason Gamble in Dennis the Menace (1993)",
+        "width": 997,
+        "height": 1500
+      },
+      "imdbRating": 5.7,
+      "numVotes": 68817,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Family"
+      ],
+      "runtimeSeconds": 5640,
+      "runtimeMinutes": 94,
+      "metascore": 49,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 40,
+      "titleId": "tt0106246",
+      "title": "Alive",
+      "originalTitle": "Alive",
+      "year": 1993,
+      "releaseDate": {
+        "day": 15,
+        "month": 1,
+        "year": 1993
+      },
+      "plot": "After crash-landing in the snowswept Andes, a Uruguayan rugby team has no choice but to turn to desperate measures in order to survive.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDY2YmFlMGEtNjZkNS00Y2RiLTllYTYtYzRiZDJkMzg1NDliXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Alive (1993)",
+        "width": 580,
+        "height": 875
+      },
+      "imdbRating": 7.1,
+      "numVotes": 68439,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7680,
+      "runtimeMinutes": 128,
+      "metascore": 56,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 41,
+      "titleId": "tt0108255",
+      "title": "Super Mario Bros.",
+      "originalTitle": "Super Mario Bros.",
+      "year": 1993,
+      "releaseDate": {
+        "day": 28,
+        "month": 5,
+        "year": 1993
+      },
+      "plot": "Two Brooklyn plumbers, Mario and Luigi, must travel to another dimension to rescue a princess from the evil dictator King Koopa and stop him from taking over the world.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYWUzYWIxMDUtYTdmYS00MjUxLWJjNDItYzcxOTY0N2M2YWE5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "John Leguizamo and Bob Hoskins in Super Mario Bros. (1993)",
+        "width": 1011,
+        "height": 1500
+      },
+      "imdbRating": 4.2,
+      "numVotes": 67307,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family"
+      ],
+      "runtimeSeconds": 6240,
+      "runtimeMinutes": 104,
+      "metascore": 35,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 42,
+      "titleId": "tt0106387",
+      "title": "Benny & Joon",
+      "originalTitle": "Benny & Joon",
+      "year": 1993,
+      "releaseDate": {
+        "day": 16,
+        "month": 4,
+        "year": 1993
+      },
+      "plot": "A mentally ill young woman finds her love in an eccentric man who models himself after Buster Keaton.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTUwMzkyNjIzMl5BMl5BanBnXkFtZTcwMDMyNDcyNA@@._V1_.jpg",
+        "caption": "Johnny Depp in Benny & Joon (1993)",
+        "width": 682,
+        "height": 1023
+      },
+      "imdbRating": 7.1,
+      "numVotes": 65029,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 5880,
+      "runtimeMinutes": 98,
+      "metascore": 57,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 43,
+      "titleId": "tt0108333",
+      "title": "The Three Musketeers",
+      "originalTitle": "The Three Musketeers",
+      "year": 1993,
+      "releaseDate": {
+        "day": 12,
+        "month": 11,
+        "year": 1993
+      },
+      "plot": "France, 1625. Young d'Artagnan heads to Paris to join the Musketeers, but the evil cardinal has disbanded them. d'Artagnan meets Athos, Porthos, and Aramis, three rogue musketeers, and joins them on their quest to save the king and country.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZGM2NThjMmEtY2I2OC00MDUzLTk4NGQtYjEwMmJkZmExMDJlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Charlie Sheen, Tim Curry, Rebecca De Mornay, Chris O'Donnell, Kiefer Sutherland, and Oliver Platt in The Three Musketeers (1993)",
+        "width": 800,
+        "height": 1179
+      },
+      "imdbRating": 6.4,
+      "numVotes": 63581,
+      "certificate": "PG",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Romance"
+      ],
+      "runtimeSeconds": 6300,
+      "runtimeMinutes": 105,
+      "metascore": 43,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 44,
+      "titleId": "tt0108147",
+      "title": "Sister Act 2: Back in the Habit",
+      "originalTitle": "Sister Act 2: Back in the Habit",
+      "year": 1993,
+      "releaseDate": {
+        "day": 10,
+        "month": 12,
+        "year": 1993
+      },
+      "plot": "Showgirl Deloris Van Cartier returns as Sister Mary Clarence to teach music to a group of Catholic students whose run-down school is slated for closure.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNWJhMGQyNDItZWNiMC00ODZiLWJmNmEtYmZlMDIyNjgxNjk5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Whoopi Goldberg in Sister Act 2: Back in the Habit (1993)",
+        "width": 3263,
+        "height": 4876
+      },
+      "imdbRating": 5.7,
+      "numVotes": 63227,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Music"
+      ],
+      "runtimeSeconds": 6420,
+      "runtimeMinutes": 107,
+      "metascore": 38,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 45,
+      "titleId": "tt0106364",
+      "title": "Batman: Mask of the Phantasm",
+      "originalTitle": "Batman: Mask of the Phantasm",
+      "year": 1993,
+      "releaseDate": {
+        "day": 25,
+        "month": 12,
+        "year": 1993
+      },
+      "plot": "Batman is wrongly implicated in a series of murders of mob bosses actually committed by a new vigilante assassin.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjYwN2ZmZWYtMTdlNC00ZDQxLWEyNmUtZDI5Yjk5MzQ2N2Y3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Stacy Keach and Kevin Conroy in Batman: Mask of the Phantasm (1993)",
+        "width": 600,
+        "height": 889
+      },
+      "imdbRating": 7.8,
+      "numVotes": 62951,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "runtimeSeconds": 4560,
+      "runtimeMinutes": 76,
+      "metascore": 65,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 46,
+      "titleId": "tt0108330",
+      "title": "This Boy's Life",
+      "originalTitle": "This Boy's Life",
+      "year": 1993,
+      "releaseDate": {
+        "day": 23,
+        "month": 4,
+        "year": 1993
+      },
+      "plot": "The story about the relationship between a rebellious 1950s teenager and his abusive stepfather, based on the memoirs of writer and literature Professor Tobias Wolff.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNWRiZTk5OGMtYzY3NC00ZWZiLWJiYjQtOGViNDdhY2U4M2MzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Robert De Niro, Leonardo DiCaprio, and Ellen Barkin in This Boy's Life (1993)",
+        "width": 1000,
+        "height": 1500
+      },
+      "imdbRating": 7.3,
+      "numVotes": 62596,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "runtimeSeconds": 6900,
+      "runtimeMinutes": 115,
+      "metascore": 60,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 47,
+      "titleId": "tt0107302",
+      "title": "Kalifornia",
+      "originalTitle": "Kalifornia",
+      "year": 1993,
+      "releaseDate": {
+        "day": 3,
+        "month": 9,
+        "year": 1993
+      },
+      "plot": "A journalist duo goes on a tour of serial-killer murder sites with two companions, unaware that one of them is a serial killer himself.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZGIyNmJiYmUtN2EzYS00NTU5LTllZmItMDA1YmFjNjM2ZjNjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Brad Pitt, David Duchovny, Michelle Forbes, and Juliette Lewis in Kalifornia (1993)",
+        "width": 1009,
+        "height": 1500
+      },
+      "imdbRating": 6.7,
+      "numVotes": 62079,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7020,
+      "runtimeMinutes": 117,
+      "metascore": 49,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 48,
+      "titleId": "tt0106598",
+      "title": "Coneheads",
+      "originalTitle": "Coneheads",
+      "year": 1993,
+      "releaseDate": {
+        "day": 23,
+        "month": 7,
+        "year": 1993
+      },
+      "plot": "Aliens with conical crania crash-land on Earth.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTE5NDNjOWUtMDhmZi00MTA2LWEzZWEtYjUxZWYxZGEzNjU4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Dan Aykroyd, Jane Curtin, and Michelle Burke in Coneheads (1993)",
+        "width": 590,
+        "height": 875
+      },
+      "imdbRating": 5.5,
+      "numVotes": 61652,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 5280,
+      "runtimeMinutes": 88,
+      "metascore": 49,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 49,
+      "titleId": "tt0107076",
+      "title": "Hard Target",
+      "originalTitle": "Hard Target",
+      "year": 1993,
+      "releaseDate": {
+        "day": 20,
+        "month": 8,
+        "year": 1993
+      },
+      "plot": "A woman hires a drifter as her guide through New Orleans in search of her missing father. In the process, they discover a deadly game of cat and mouse behind his disappearance.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTBkNzJmZTMtMTNlMy00ZTA0LTg1YzMtZGUyNWUwNTIxZDY2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jean-Claude Van Damme in Hard Target (1993)",
+        "width": 2009,
+        "height": 2980
+      },
+      "imdbRating": 6.2,
+      "numVotes": 60638,
+      "certificate": "NC-17",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5820,
+      "runtimeMinutes": 97,
+      "metascore": 63,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 50,
+      "titleId": "tt0106673",
+      "title": "Dave",
+      "originalTitle": "Dave",
+      "year": 1993,
+      "releaseDate": {
+        "day": 7,
+        "month": 5,
+        "year": 1993
+      },
+      "plot": "An uncanny Presidential lookalike named Dave is recruited by the Secret Service to become a momentary stand-in for the President of the United States.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODI4ZDFmOTYtOTk5Yy00NTY5LTk3OGUtNmJkODNlMzdkNThkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Kevin Kline and Sigourney Weaver in Dave (1993)",
+        "width": 1510,
+        "height": 2280
+      },
+      "imdbRating": 6.9,
+      "numVotes": 59889,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "runtimeSeconds": 6600,
+      "runtimeMinutes": 110,
+      "metascore": 76,
+      "credits": [],
+      "titleType": "movie"
+    }
+  ]
+}

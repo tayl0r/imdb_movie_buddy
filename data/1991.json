@@ -1,0 +1,1582 @@
+{
+  "year": 1991,
+  "movies": [
+    {
+      "rank": 1,
+      "titleId": "tt0102926",
+      "title": "The Silence of the Lambs",
+      "originalTitle": "The Silence of the Lambs",
+      "year": 1991,
+      "releaseDate": {
+        "day": 14,
+        "month": 2,
+        "year": 1991
+      },
+      "plot": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDdhOGJhYzctYzYwZC00YmI2LWI0MjctYjg4ODdlMDExYjBlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jodie Foster in The Silence of the Lambs (1991)",
+        "width": 2011,
+        "height": 2968
+      },
+      "imdbRating": 8.6,
+      "numVotes": 1702251,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Horror"
+      ],
+      "runtimeSeconds": 7080,
+      "runtimeMinutes": 118,
+      "metascore": 86,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 2,
+      "titleId": "tt0103064",
+      "title": "Terminator 2: Judgment Day",
+      "originalTitle": "Terminator 2: Judgment Day",
+      "year": 1991,
+      "releaseDate": {
+        "day": 3,
+        "month": 7,
+        "year": 1991
+      },
+      "plot": "A cyborg from the future, identical to the one who failed to kill Sarah Connor, must now protect her ten-year-old son John from an even more advanced and powerful cyborg.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGMyMGNkMDUtMjc2Ni00NWFlLTgyODEtZTY2MzBiZTg0OWZiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Arnold Schwarzenegger and John Pantellas in Terminator 2: Judgment Day (1991)",
+        "width": 2160,
+        "height": 3210
+      },
+      "imdbRating": 8.6,
+      "numVotes": 1273151,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 8220,
+      "runtimeMinutes": 137,
+      "metascore": 75,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 3,
+      "titleId": "tt0101414",
+      "title": "Beauty and the Beast",
+      "originalTitle": "Beauty and the Beast",
+      "year": 1991,
+      "releaseDate": {
+        "day": 22,
+        "month": 11,
+        "year": 1991
+      },
+      "plot": "A prince cursed to spend his days as a hideous monster sets out to regain his humanity by earning a young woman's love.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTY3NDg2YzktYWFjZC00MTExLTlmZDctMGY3MWYzZTlkYTNiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Robby Benson and Paige O'Hara in Beauty and the Beast (1991)",
+        "width": 1011,
+        "height": 1500
+      },
+      "imdbRating": 8,
+      "numVotes": 502494,
+      "certificate": "G",
+      "genres": [
+        "Animation",
+        "Family",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 5040,
+      "runtimeMinutes": 84,
+      "metascore": 95,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 4,
+      "titleId": "tt0102057",
+      "title": "Hook",
+      "originalTitle": "Hook",
+      "year": 1991,
+      "releaseDate": {
+        "day": 11,
+        "month": 12,
+        "year": 1991
+      },
+      "plot": "When Captain James Hook kidnaps his children, an adult Peter Pan must return to Neverland and reclaim his youthful spirit in order to challenge his old enemy.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTU0ZTU3MGUtOTQwNi00N2QzLWFmMDUtZDgxMGJlNGI5NDllXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Dustin Hoffman, Julia Roberts, Robin Williams, Bob Hoskins, Dante Basco, David Crosby, Robert Amico, Jasen Fisher, Stephanie Furst, Raushan Hammond, James Madio, Regina Russell Banali, Alex Zuckerman, and Paul Babb in Hook (1991)",
+        "width": 900,
+        "height": 1357
+      },
+      "imdbRating": 6.8,
+      "numVotes": 289062,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family"
+      ],
+      "runtimeSeconds": 8520,
+      "runtimeMinutes": 142,
+      "metascore": 52,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 5,
+      "titleId": "tt0101540",
+      "title": "Cape Fear",
+      "originalTitle": "Cape Fear",
+      "year": 1991,
+      "releaseDate": {
+        "day": 15,
+        "month": 11,
+        "year": 1991
+      },
+      "plot": "A convicted rapist, released from prison after serving a fourteen-year sentence, stalks the family of the lawyer who originally defended him.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTBkNTYwZTctOTgxYS00ZmIyLTgzNDAtODJhZjg2MDUwNmFlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Robert De Niro, Juliette Lewis, Nick Nolte, and Jessica Lange in Cape Fear (1991)",
+        "width": 988,
+        "height": 1500
+      },
+      "imdbRating": 7.3,
+      "numVotes": 240430,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7680,
+      "runtimeMinutes": 128,
+      "metascore": 73,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 6,
+      "titleId": "tt0102685",
+      "title": "Point Break",
+      "originalTitle": "Point Break",
+      "year": 1991,
+      "releaseDate": {
+        "day": 12,
+        "month": 7,
+        "year": 1991
+      },
+      "plot": "An F.B.I. Agent goes undercover to catch a gang of surfers who may be bank robbers.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTI3YzY3N2MtODI1OC00NmU0LThlMDYtNmFjMGFkNzhhNTRlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Keanu Reeves, Patrick Swayze, James Le Gros, and John Philbin in Point Break (1991)",
+        "width": 810,
+        "height": 1200
+      },
+      "imdbRating": 7.3,
+      "numVotes": 222343,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7320,
+      "runtimeMinutes": 122,
+      "metascore": 60,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 7,
+      "titleId": "tt0102798",
+      "title": "Robin Hood: Prince of Thieves",
+      "originalTitle": "Robin Hood: Prince of Thieves",
+      "year": 1991,
+      "releaseDate": {
+        "day": 14,
+        "month": 6,
+        "year": 1991
+      },
+      "plot": "Robin Hood decides to fight back as an outlaw when faced with the tyranny of the Sheriff of Nottingham.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTUyMjA5NDktNWY5Ny00ZWU4LWE4Y2ItMDYzZTk0NzU3ZWMyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Kevin Costner in Robin Hood: Prince of Thieves (1991)",
+        "width": 1988,
+        "height": 2969
+      },
+      "imdbRating": 6.9,
+      "numVotes": 220534,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "runtimeSeconds": 8580,
+      "runtimeMinutes": 143,
+      "metascore": 51,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 8,
+      "titleId": "tt0101272",
+      "title": "The Addams Family",
+      "originalTitle": "The Addams Family",
+      "year": 1991,
+      "releaseDate": {
+        "day": 22,
+        "month": 11,
+        "year": 1991
+      },
+      "plot": "Con artists plan to fleece an eccentric family using an accomplice who claims to be their long-lost uncle.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWY0MzVlNGEtYzM1MC00OTI4LWE3ZTQtNWJjYzk2Y2MyNjVkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Christina Ricci, Raul Julia, Christopher Lloyd, Anjelica Huston, Christopher Hart, Judith Malina, Carel Struycken, and Jimmy Workman in The Addams Family (1991)",
+        "width": 1979,
+        "height": 2931
+      },
+      "imdbRating": 7,
+      "numVotes": 199927,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 5940,
+      "runtimeMinutes": 99,
+      "metascore": 57,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 9,
+      "titleId": "tt0103074",
+      "title": "Thelma & Louise",
+      "originalTitle": "Thelma & Louise",
+      "year": 1991,
+      "releaseDate": {
+        "day": 24,
+        "month": 5,
+        "year": 1991
+      },
+      "plot": "An Arkansas waitress and a housewife shoot a rapist and take off in a '66 Thunderbird.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjIxNDgzMDE2MF5BMl5BanBnXkFtZTcwNzY5NTk1NA@@._V1_.jpg",
+        "caption": "Geena Davis and Susan Sarandon in Thelma & Louise (1991)",
+        "width": 687,
+        "height": 1023
+      },
+      "imdbRating": 7.6,
+      "numVotes": 190843,
+      "certificate": "R",
+      "genres": [
+        "Adventure",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 7800,
+      "runtimeMinutes": 130,
+      "metascore": 89,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 10,
+      "titleId": "tt0102138",
+      "title": "JFK",
+      "originalTitle": "JFK",
+      "year": 1991,
+      "releaseDate": {
+        "day": 20,
+        "month": 12,
+        "year": 1991
+      },
+      "plot": "New Orleans District Attorney Jim Garrison discovers there's more to the Kennedy assassination than the official story.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDhhZTc0MWUtZmVjOS00YTNkLTk0YzgtNTNlNzY5ZWU4MTMyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Kevin Costner in JFK (1991)",
+        "width": 1018,
+        "height": 1500
+      },
+      "imdbRating": 8,
+      "numVotes": 180784,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "History",
+        "Thriller"
+      ],
+      "runtimeSeconds": 11340,
+      "runtimeMinutes": 189,
+      "metascore": 72,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 11,
+      "titleId": "tt0101507",
+      "title": "Boyz n the Hood",
+      "originalTitle": "Boyz n the Hood",
+      "year": 1991,
+      "releaseDate": {
+        "day": 12,
+        "month": 7,
+        "year": 1991
+      },
+      "plot": "Follows the lives of three young males living in the Crenshaw ghetto of Los Angeles, dissecting questions of race, relationships, violence, and future prospects.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzZhNDcyYTctOWU1My00ZmUzLWFmNmItZTIwY2JkNjVkZTdmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Cuba Gooding Jr., Ice Cube, and Morris Chestnut in Boyz n the Hood (1991)",
+        "width": 1013,
+        "height": 1500
+      },
+      "imdbRating": 7.8,
+      "numVotes": 166843,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 6720,
+      "runtimeMinutes": 112,
+      "metascore": 76,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 12,
+      "titleId": "tt0102510",
+      "title": "The Naked Gun 2\u00bd: The Smell of Fear",
+      "originalTitle": "The Naked Gun 2\u00bd: The Smell of Fear",
+      "year": 1991,
+      "releaseDate": {
+        "day": 28,
+        "month": 6,
+        "year": 1991
+      },
+      "plot": "Lieutenant Frank Drebin discovers that his ex-girlfriend's new beau is involved in a plot to kidnap a scientist who advocates solar energy.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjcyNmNkMTItNzkzMi00NmY5LTg5MzQtMjg2YzRmOTY0ZmQ2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Leslie Nielsen in The Naked Gun 2\u00bd: The Smell of Fear (1991)",
+        "width": 580,
+        "height": 904
+      },
+      "imdbRating": 6.9,
+      "numVotes": 139860,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 5100,
+      "runtimeMinutes": 85,
+      "metascore": 65,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 13,
+      "titleId": "tt0101410",
+      "title": "Barton Fink",
+      "originalTitle": "Barton Fink",
+      "year": 1991,
+      "releaseDate": {
+        "day": 21,
+        "month": 8,
+        "year": 1991
+      },
+      "plot": "A renowned New York playwright is enticed to California to write for the movies and discovers the hellish truth of Hollywood.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDc1YWRjODItNGZjNS00MDI4LTliYWYtNDdjZjI3ZWYzNzM4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "John Turturro in Barton Fink (1991)",
+        "width": 580,
+        "height": 859
+      },
+      "imdbRating": 7.6,
+      "numVotes": 134959,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6960,
+      "runtimeMinutes": 116,
+      "metascore": 69,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 14,
+      "titleId": "tt0102059",
+      "title": "Hot Shots!",
+      "originalTitle": "Hot Shots!",
+      "year": 1991,
+      "releaseDate": {
+        "day": 31,
+        "month": 7,
+        "year": 1991
+      },
+      "plot": "A parody of Top Gun (1986) in which a talented but unstable fighter pilot must overcome the ghosts of his father and save a mission sabotaged by greedy weapons manufacturers.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzY1OGNkZTMtNjRjYy00MWRkLTkxM2ItMTU1OWZlZTBkZTYwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Charlie Sheen in Hot Shots! (1991)",
+        "width": 1507,
+        "height": 2240
+      },
+      "imdbRating": 6.7,
+      "numVotes": 124274,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "runtimeSeconds": 5100,
+      "runtimeMinutes": 85,
+      "metascore": 61,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 15,
+      "titleId": "tt0102266",
+      "title": "The Last Boy Scout",
+      "originalTitle": "The Last Boy Scout",
+      "year": 1991,
+      "releaseDate": {
+        "day": 13,
+        "month": 12,
+        "year": 1991
+      },
+      "plot": "A private detective's protected female witness is murdered, prompting him and the victim's boyfriend to investigate the crime that leads to a corrupt politician and a crooked football team owner.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTI4MDcyZTktNTVhMC00NmQ3LWJiN2UtMzZkNDgwMzRkMzIwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Bruce Willis and Damon Wayans in The Last Boy Scout (1991)",
+        "width": 1515,
+        "height": 2260
+      },
+      "imdbRating": 7,
+      "numVotes": 119660,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 6300,
+      "runtimeMinutes": 105,
+      "metascore": 52,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 16,
+      "titleId": "tt0101761",
+      "title": "The Doors",
+      "originalTitle": "The Doors",
+      "year": 1991,
+      "releaseDate": {
+        "day": 1,
+        "month": 3,
+        "year": 1991
+      },
+      "plot": "Jim Morrison's life, from his LA film student days to his death in Paris. Val Kilmer delivers an uncanny portrayal, with vocals indistinguishable from Morrison's originals. It depicts Morrison's journey as the iconic 60s rock frontman.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BM2JlMDYyYWEtMmY3Ny00ODgyLWFiMDMtZjFmNzQ3NzE3Njg5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Val Kilmer in The Doors (1991)",
+        "width": 2100,
+        "height": 3156
+      },
+      "imdbRating": 7.2,
+      "numVotes": 106397,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Music"
+      ],
+      "runtimeSeconds": 8400,
+      "runtimeMinutes": 140,
+      "metascore": 62,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 17,
+      "titleId": "tt0102492",
+      "title": "My Girl",
+      "originalTitle": "My Girl",
+      "year": 1991,
+      "releaseDate": {
+        "day": 27,
+        "month": 11,
+        "year": 1991
+      },
+      "plot": "Vada is obsessed with death. Her mother is dead, and her father runs a funeral parlor. When Vada's father hires Shelly, a makeup expert, and begins to fall in love, Vada is outraged and does everything in her power to split them up.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNmI5M2EzZDUtZTBkZS00YWFmLWFhZTMtNjc3YTllZDBhODQ4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Macaulay Culkin and Anna Chlumsky in My Girl (1991)",
+        "width": 1021,
+        "height": 1500
+      },
+      "imdbRating": 6.9,
+      "numVotes": 96747,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Family"
+      ],
+      "runtimeSeconds": 6120,
+      "runtimeMinutes": 102,
+      "metascore": 56,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 18,
+      "titleId": "tt0101889",
+      "title": "The Fisher King",
+      "originalTitle": "The Fisher King",
+      "year": 1991,
+      "releaseDate": {
+        "day": 27,
+        "month": 9,
+        "year": 1991
+      },
+      "plot": "A former radio DJ, suicidally despondent because of a terrible mistake he once made, finds redemption in helping a mentally unstable homeless man who was an innocent victim of that mistake.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTg2OGU4MmMtZThkZi00YjJjLTkwMjItMDMwYWE4NTA3NzRlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Robin Williams and Jeff Bridges in The Fisher King (1991)",
+        "width": 1000,
+        "height": 1500
+      },
+      "imdbRating": 7.5,
+      "numVotes": 96055,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 8220,
+      "runtimeMinutes": 137,
+      "metascore": 67,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 19,
+      "titleId": "tt0101700",
+      "title": "Delicatessen",
+      "originalTitle": "Delicatessen",
+      "year": 1991,
+      "releaseDate": {
+        "day": 3,
+        "month": 4,
+        "year": 1992
+      },
+      "plot": "Post-apocalyptic surrealist black comedy about the landlord of an apartment building who occasionally prepares a delicacy for his odd tenants.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMGM3ZjE4ZjMtOGIxNi00ODc3LWI2OGQtY2E5MDlkMjAwZWZjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Delicatessen (1991)",
+        "width": 2014,
+        "height": 2910
+      },
+      "imdbRating": 7.5,
+      "numVotes": 93814,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 5940,
+      "runtimeMinutes": 99,
+      "metascore": 66,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 20,
+      "titleId": "tt0101393",
+      "title": "Backdraft",
+      "originalTitle": "Backdraft",
+      "year": 1991,
+      "releaseDate": {
+        "day": 24,
+        "month": 5,
+        "year": 1991
+      },
+      "plot": "Two feuding siblings carrying on a heroic family tradition as Chicago firefighters. But when a puzzling series of arson attacks is reported, they are forced to set aside their differences to solve the mystery surrounding these crimes.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYWM0Nzk2NzctYjkwMS00YWU4LWI5MTEtMGI4ZGRkNmYxOTk2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Backdraft (1991)",
+        "width": 2022,
+        "height": 3000
+      },
+      "imdbRating": 6.7,
+      "numVotes": 92946,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Drama",
+        "Mystery"
+      ],
+      "runtimeSeconds": 8220,
+      "runtimeMinutes": 137,
+      "metascore": 39,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 21,
+      "titleId": "tt0101862",
+      "title": "Father of the Bride",
+      "originalTitle": "Father of the Bride",
+      "year": 1991,
+      "releaseDate": {
+        "day": 20,
+        "month": 12,
+        "year": 1991
+      },
+      "plot": "With his oldest daughter's wedding approaching, a father finds himself reluctant to let go.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOGRiZjliMTktMzhjMi00MjUyLWE0OTQtYjUzYzZmNzg2NjQ3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Steve Martin and Kimberly Williams-Paisley in Father of the Bride (1991)",
+        "width": 1448,
+        "height": 2176
+      },
+      "imdbRating": 6.6,
+      "numVotes": 91943,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Romance"
+      ],
+      "runtimeSeconds": 6300,
+      "runtimeMinutes": 105,
+      "metascore": 51,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 22,
+      "titleId": "tt0101921",
+      "title": "Fried Green Tomatoes",
+      "originalTitle": "Fried Green Tomatoes",
+      "year": 1991,
+      "releaseDate": {
+        "day": 24,
+        "month": 1,
+        "year": 1992
+      },
+      "plot": "Evelyn, an ordinary housewife, visits a nursing home and befriends the old lady Ninny. Together, they bond over stories from the past about two intrepid women of Whistle Stop Cafe.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzBhMzRkNGItNDFmMy00NjViLWFiYWYtMzAxMzI4YTZmZjRlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Fried Green Tomatoes (1991)",
+        "width": 1510,
+        "height": 2260
+      },
+      "imdbRating": 7.7,
+      "numVotes": 90147,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 7800,
+      "runtimeMinutes": 130,
+      "metascore": 64,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 23,
+      "titleId": "tt0102975",
+      "title": "Star Trek VI: The Undiscovered Country",
+      "originalTitle": "Star Trek VI: The Undiscovered Country",
+      "year": 1991,
+      "releaseDate": {
+        "day": 6,
+        "month": 12,
+        "year": 1991
+      },
+      "plot": "On the eve of retirement, Kirk and McCoy are charged with assassinating the Klingon High Chancellor and imprisoned. The Enterprise crew must help them escape to thwart a conspiracy aimed at sabotaging the last best hope for peace.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDgzYjM5MWQtYTkzNy00OWZlLWEzMDctYjA5MDUyNmJhZjM5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Leonard Nimoy, William Shatner, and DeForest Kelley in Star Trek VI: The Undiscovered Country (1991)",
+        "width": 1949,
+        "height": 2908
+      },
+      "imdbRating": 7.2,
+      "numVotes": 84664,
+      "certificate": "PG",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6600,
+      "runtimeMinutes": 110,
+      "metascore": 65,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 24,
+      "titleId": "tt0101452",
+      "title": "Bill & Ted's Bogus Journey",
+      "originalTitle": "Bill & Ted's Bogus Journey",
+      "year": 1991,
+      "releaseDate": {
+        "day": 19,
+        "month": 7,
+        "year": 1991
+      },
+      "plot": "A tyrant from the future creates evil android doubles of Bill and Ted and sends them back to eliminate the originals.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWQyNDNmZDYtZmMxYy00NWE1LTk2MzUtMzc1M2YyOTQ4ZjRmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Keanu Reeves, William Sadler, and Alex Winter in Bill & Ted's Bogus Journey (1991)",
+        "width": 1481,
+        "height": 2260
+      },
+      "imdbRating": 6.3,
+      "numVotes": 84615,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 5580,
+      "runtimeMinutes": 93,
+      "metascore": 61,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 25,
+      "titleId": "tt0103241",
+      "title": "What About Bob?",
+      "originalTitle": "What About Bob?",
+      "year": 1991,
+      "releaseDate": {
+        "day": 17,
+        "month": 5,
+        "year": 1991
+      },
+      "plot": "A successful psychotherapist loses his mind after one of his most dependent patients, an obsessive-compulsive neurotic, tracks him down during his family vacation.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTM2MzhhZmQtMzg3Zi00OTJkLTlkNjYtY2NkMDMyZmE3NGFlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Bill Murray and Richard Dreyfuss in What About Bob? (1991)",
+        "width": 580,
+        "height": 862
+      },
+      "imdbRating": 7,
+      "numVotes": 78409,
+      "certificate": "PG",
+      "genres": [
+        "Comedy"
+      ],
+      "runtimeSeconds": 5940,
+      "runtimeMinutes": 99,
+      "metascore": 60,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 26,
+      "titleId": "tt0102945",
+      "title": "Sleeping with the Enemy",
+      "originalTitle": "Sleeping with the Enemy",
+      "year": 1991,
+      "releaseDate": {
+        "day": 8,
+        "month": 2,
+        "year": 1991
+      },
+      "plot": "A librarian fakes her death to escape her abusive marriage and start a new life elsewhere, but her husband manages to track her down.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWE3MmRlZGYtNWNmZC00OGUyLTgyOGQtY2ZmMzJmZDRmNzFmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Sleeping with the Enemy (1991)",
+        "width": 1528,
+        "height": 2265
+      },
+      "imdbRating": 6.3,
+      "numVotes": 70746,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5940,
+      "runtimeMinutes": 99,
+      "metascore": 48,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 27,
+      "titleId": "tt0102536",
+      "title": "Night on Earth",
+      "originalTitle": "Night on Earth",
+      "year": 1991,
+      "releaseDate": {
+        "day": 12,
+        "month": 12,
+        "year": 1991
+      },
+      "plot": "An anthology of 5 different cab drivers in 5 American and European cities and their remarkable fares on the same eventful night.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYmEyYjE0NjgtNTFmMy00ZmY1LTg2MWUtYTU4MjdmYWJmYzMyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Night on Earth (1991)",
+        "width": 800,
+        "height": 1211
+      },
+      "imdbRating": 7.7,
+      "numVotes": 70543,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 7740,
+      "runtimeMinutes": 129,
+      "metascore": 68,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 28,
+      "titleId": "tt0101587",
+      "title": "City Slickers",
+      "originalTitle": "City Slickers",
+      "year": 1991,
+      "releaseDate": {
+        "day": 7,
+        "month": 6,
+        "year": 1991
+      },
+      "plot": "On the verge of turning 40, an unhappy Manhattan yuppie is roped into joining his two friends on a cattle drive in the southwest.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTkwNjM2MTc5NF5BMl5BanBnXkFtZTcwMzQ2NjEzNA@@._V1_.jpg",
+        "caption": "Billy Crystal, Bruno Kirby, and Daniel Stern in City Slickers (1991)",
+        "width": 682,
+        "height": 1023
+      },
+      "imdbRating": 6.8,
+      "numVotes": 67270,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Western"
+      ],
+      "runtimeSeconds": 6780,
+      "runtimeMinutes": 113,
+      "metascore": 70,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 29,
+      "titleId": "tt0102494",
+      "title": "My Own Private Idaho",
+      "originalTitle": "My Own Private Idaho",
+      "year": 1991,
+      "releaseDate": {
+        "day": 20,
+        "month": 7,
+        "year": 1991
+      },
+      "plot": "Two best friends living on the streets of Portland as hustlers embark on a journey of self discovery and find their relationship stumbling along the way.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjkxY2I1NGYtYThmNC00ODIyLWE1NTktMTcxMzQyOWI0ZjYxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "River Phoenix and Keanu Reeves in My Own Private Idaho (1991)",
+        "width": 919,
+        "height": 1370
+      },
+      "imdbRating": 6.9,
+      "numVotes": 66517,
+      "certificate": "R",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 6240,
+      "runtimeMinutes": 104,
+      "metascore": 77,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 30,
+      "titleId": "tt0102803",
+      "title": "The Rocketeer",
+      "originalTitle": "The Rocketeer",
+      "year": 1991,
+      "releaseDate": {
+        "day": 21,
+        "month": 6,
+        "year": 1991
+      },
+      "plot": "A young pilot stumbles onto a prototype jetpack that allows him to become a high-flying masked hero.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMmQyMzk5NTAtMmIzNy00MDVjLWExNWQtOWFmZmU0NGVmODEyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Billy Campbell in The Rocketeer (1991)",
+        "width": 765,
+        "height": 1134
+      },
+      "imdbRating": 6.6,
+      "numVotes": 65276,
+      "certificate": "PG",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Family"
+      ],
+      "runtimeSeconds": 6480,
+      "runtimeMinutes": 108,
+      "metascore": 58,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 31,
+      "titleId": "tt0103060",
+      "title": "Teenage Mutant Ninja Turtles II: The Secret of the Ooze",
+      "originalTitle": "Teenage Mutant Ninja Turtles II: The Secret of the Ooze",
+      "year": 1991,
+      "releaseDate": {
+        "day": 22,
+        "month": 3,
+        "year": 1991
+      },
+      "plot": "The Turtles discover their origins while they endeavour to save New York City from the evil Shredder and his Foot Clan.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzQwYzlhMjctMTcxYS00N2NmLTg4YzYtNjJjZjNhZTA0MzFlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Kenn Scott, Adam Carl, Michelan Sisti, and Leif Tilden in Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)",
+        "width": 1793,
+        "height": 2801
+      },
+      "imdbRating": 6,
+      "numVotes": 64043,
+      "certificate": "PG",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 5280,
+      "runtimeMinutes": 88,
+      "metascore": 45,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 32,
+      "titleId": "tt0102070",
+      "title": "Hudson Hawk",
+      "originalTitle": "Hudson Hawk",
+      "year": 1991,
+      "releaseDate": {
+        "day": 24,
+        "month": 5,
+        "year": 1991
+      },
+      "plot": "A cat burglar is forced to steal Leonardo works of art for a world domination plot.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjFjMDBkYzAtNWU4OS00YTVkLTlhYWQtYTRiZGM1MmEzMGY2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Bruce Willis in Hudson Hawk (1991)",
+        "width": 2000,
+        "height": 3000
+      },
+      "imdbRating": 5.7,
+      "numVotes": 64034,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 6000,
+      "runtimeMinutes": 100,
+      "metascore": 17,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 33,
+      "titleId": "tt0102511",
+      "title": "Naked Lunch",
+      "originalTitle": "Naked Lunch",
+      "year": 1991,
+      "releaseDate": {
+        "day": 24,
+        "month": 4,
+        "year": 1992
+      },
+      "plot": "After developing an addiction to the substance he uses to kill bugs, an exterminator accidentally kills his wife and becomes involved in a secret government plot being orchestrated by giant bugs in a port town in North Africa.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzBkOWM0MTYtN2QwYy00YTg3LWIwNmEtMGRlNDNhN2UyNjU3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Naked Lunch (1991)",
+        "width": 719,
+        "height": 1086
+      },
+      "imdbRating": 6.9,
+      "numVotes": 60428,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "runtimeSeconds": 6900,
+      "runtimeMinutes": 115,
+      "metascore": 67,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 34,
+      "titleId": "tt0101765",
+      "title": "The Double Life of V\u00e9ronique",
+      "originalTitle": "La double vie de V\u00e9ronique",
+      "year": 1991,
+      "releaseDate": {
+        "day": 22,
+        "month": 11,
+        "year": 1991
+      },
+      "plot": "Two parallel stories about two identical women; one living in Poland, the other in France. They don't know each other, but their lives are nevertheless profoundly connected.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjE1MjAxMjgtMTRjMC00YTFjLThhMzgtNzdlODZiZjA0MWMxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ir\u00e8ne Jacob and Guillaume de Tonqu\u00e9dec in The Double Life of V\u00e9ronique (1991)",
+        "width": 580,
+        "height": 859
+      },
+      "imdbRating": 7.6,
+      "numVotes": 56568,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Music"
+      ],
+      "runtimeSeconds": 5880,
+      "runtimeMinutes": 98,
+      "metascore": 86,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 35,
+      "titleId": "tt0101917",
+      "title": "Freddy's Dead: The Final Nightmare",
+      "originalTitle": "Freddy's Dead: The Final Nightmare",
+      "year": 1991,
+      "releaseDate": {
+        "day": 13,
+        "month": 9,
+        "year": 1991
+      },
+      "plot": "Dream-haunting Freddy Krueger returns once again to prowl the nightmares of Springwood's last surviving teenager, and of a woman whose personal connection to Krueger may mean his doom.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjNiMWEzNDMtZjQwZS00YTJiLTkyNzItNjkyY2Y4YjBiNmIzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Robert Englund in Freddy's Dead: The Final Nightmare (1991)",
+        "width": 1006,
+        "height": 1500
+      },
+      "imdbRating": 4.7,
+      "numVotes": 55386,
+      "certificate": "R",
+      "genres": [
+        "Fantasy",
+        "Horror"
+      ],
+      "runtimeSeconds": 5340,
+      "runtimeMinutes": 89,
+      "metascore": 39,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 36,
+      "titleId": "tt0103956",
+      "title": "Child's Play 3",
+      "originalTitle": "Child's Play 3",
+      "year": 1991,
+      "releaseDate": {
+        "day": 30,
+        "month": 8,
+        "year": 1991
+      },
+      "plot": "Chucky returns for revenge against Andy, the young boy who defeated him, and now a teenager living in a military academy.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzc0NjExMTgtYTA4ZS00NWRiLWE3MzUtNTUyNDFkNGY3ODRkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Child's Play 3 (1991)",
+        "width": 1004,
+        "height": 1500
+      },
+      "imdbRating": 5.2,
+      "numVotes": 50782,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5400,
+      "runtimeMinutes": 90,
+      "metascore": 27,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 37,
+      "titleId": "tt0102034",
+      "title": "Highlander II: The Quickening",
+      "originalTitle": "Highlander II: The Quickening",
+      "year": 1991,
+      "releaseDate": {
+        "day": 1,
+        "month": 11,
+        "year": 1991
+      },
+      "plot": "In the future, Highlander Connor MacLeod must prevent the destruction of Earth under an anti-ozone shield.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTE5NzVjMmMtNTVjYS00ZGQ4LWI3M2MtNzBlNGZiNjQyNzU4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Sean Connery and Christopher Lambert in Highlander II: The Quickening (1991)",
+        "width": 912,
+        "height": 1424
+      },
+      "imdbRating": 4.2,
+      "numVotes": 50188,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "runtimeSeconds": 5460,
+      "runtimeMinutes": 91,
+      "metascore": 31,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 38,
+      "titleId": "tt0101764",
+      "title": "Double Impact",
+      "originalTitle": "Double Impact",
+      "year": 1991,
+      "releaseDate": {
+        "day": 9,
+        "month": 8,
+        "year": 1991
+      },
+      "plot": "Twin brothers are separated when their parents are murdered but 25 years later they re-unite in order to avenge their parents' death.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTVkNTY3YWQtMzZhNC00MGFhLWFmMTUtNTcwYTVhNGJhNDQ2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jean-Claude Van Damme in Double Impact (1991)",
+        "width": 1980,
+        "height": 2970
+      },
+      "imdbRating": 5.7,
+      "numVotes": 47135,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime"
+      ],
+      "runtimeSeconds": 6600,
+      "runtimeMinutes": 110,
+      "metascore": 40,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 39,
+      "titleId": "tt0105121",
+      "title": "The People Under the Stairs",
+      "originalTitle": "The People Under the Stairs",
+      "year": 1991,
+      "releaseDate": {
+        "day": 1,
+        "month": 11,
+        "year": 1991
+      },
+      "plot": "When Fool breaks into the home of his family's landlords, he discovers that they have mutilated several boys and kept them imprisoned under stairs. As Fool attempts to flee, he meets their daughter, Alice. Can Fool and Alice escape?",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTc0MjgyOGEtNjM5ZS00MDM4LWJlNDEtN2JmNDY2NjRiZmY1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "The People Under the Stairs (1991)",
+        "width": 1926,
+        "height": 2899
+      },
+      "imdbRating": 6.4,
+      "numVotes": 43421,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Horror",
+        "Mystery"
+      ],
+      "runtimeSeconds": 6120,
+      "runtimeMinutes": 102,
+      "metascore": 57,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 40,
+      "titleId": "tt0101745",
+      "title": "Doc Hollywood",
+      "originalTitle": "Doc Hollywood",
+      "year": 1991,
+      "releaseDate": {
+        "day": 2,
+        "month": 8,
+        "year": 1991
+      },
+      "plot": "A young doctor on his way across the country to a job interview crashes his car in a small town and is sentenced to work for several days at the town hospital.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWQ2NDk0YWQtNGNkMy00Nzc4LTgwMGEtMmFlNDVhZTI2MTEzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Michael J. Fox, Woody Harrelson, and Julie Warner in Doc Hollywood (1991)",
+        "width": 504,
+        "height": 755
+      },
+      "imdbRating": 6.3,
+      "numVotes": 42468,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 6240,
+      "runtimeMinutes": 104,
+      "metascore": 56,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 41,
+      "titleId": "tt0101605",
+      "title": "The Commitments",
+      "originalTitle": "The Commitments",
+      "year": 1991,
+      "releaseDate": {
+        "day": 13,
+        "month": 9,
+        "year": 1991
+      },
+      "plot": "Jimmy Rabbitte, an unemployed Dublin boy, decides to put together a soul band made up entirely of the Irish working class.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BM2Y0NGI0NDctYTEwOS00OTliLThhNDktZGMyMDg4ZTI0NWI0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Michael Aherne, Robert Arkins, Angeline Ball, Dave Finnegan, Bronagh Gallagher, F\u00e9lim Gormley, Glen Hansard, Maria Doyle Kennedy, Dick Massey, Ken McCluskey, Johnny Murphy, and Andrew Strong in The Commitments (1991)",
+        "width": 673,
+        "height": 1000
+      },
+      "imdbRating": 7.6,
+      "numVotes": 42322,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Music"
+      ],
+      "runtimeSeconds": 7080,
+      "runtimeMinutes": 118,
+      "metascore": 73,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 42,
+      "titleId": "tt0102526",
+      "title": "New Jack City",
+      "originalTitle": "New Jack City",
+      "year": 1991,
+      "releaseDate": {
+        "day": 8,
+        "month": 3,
+        "year": 1991
+      },
+      "plot": "Two ex-policemen attempt to bring down a drug lord's ghetto empire in a drug-ravaged metropolis.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTFlNGE5NWUtNmNkNS00OGJkLWFhNTEtYzFlMWFmNGM1YmJhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Judd Nelson, Wesley Snipes, Ice-T, and Mario Van Peebles in New Jack City (1991)",
+        "width": 1002,
+        "height": 1500
+      },
+      "imdbRating": 6.7,
+      "numVotes": 41846,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 5820,
+      "runtimeMinutes": 97,
+      "metascore": 61,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 43,
+      "titleId": "tt0102587",
+      "title": "Only Yesterday",
+      "originalTitle": "Omohide poro poro",
+      "year": 1991,
+      "releaseDate": {
+        "day": 26,
+        "month": 2,
+        "year": 2016
+      },
+      "plot": "A twenty-seven-year-old office worker travels to the countryside while reminiscing about her childhood in Tokyo.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTY5NjI2MjQxMl5BMl5BanBnXkFtZTgwMDA2MzM2NzE@._V1_.jpg",
+        "caption": "Yoko Honna, Miki Imai, Alison Fernandez, and Daisy Ridley in Only Yesterday (1991)",
+        "width": 4065,
+        "height": 5940
+      },
+      "imdbRating": 7.6,
+      "numVotes": 41730,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 7140,
+      "runtimeMinutes": 119,
+      "metascore": 90,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 44,
+      "titleId": "tt0101757",
+      "title": "Don't Tell Mom the Babysitter's Dead",
+      "originalTitle": "Don't Tell Mom the Babysitter's Dead",
+      "year": 1991,
+      "releaseDate": {
+        "day": 7,
+        "month": 6,
+        "year": 1991
+      },
+      "plot": "Five siblings are left alone all summer when their mom leaves town and the evil babysitter bites the dust.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNWQ1YjVjMWMtYmIwNi00ZDkxLTg1NzYtN2JjODM2YjhmZGU4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Christina Applegate, Keith Coogan, Robert Hy Gorman, Danielle Harris, Eda Reiss Merin, and Christopher Pettiet in Don't Tell Mom the Babysitter's Dead (1991)",
+        "width": 580,
+        "height": 858
+      },
+      "imdbRating": 6.4,
+      "numVotes": 41053,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy"
+      ],
+      "runtimeSeconds": 6120,
+      "runtimeMinutes": 102,
+      "metascore": 35,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 45,
+      "titleId": "tt0101912",
+      "title": "Frankie and Johnny",
+      "originalTitle": "Frankie & Johnny",
+      "year": 1991,
+      "releaseDate": {
+        "day": 11,
+        "month": 10,
+        "year": 1991
+      },
+      "plot": "Johnny has just been released from prison, and gets a job in a caf\u00e9 beside waitress Frankie. Frankie is a bit of a loner, but Johnny is determined their romance will blossom.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODVkYWUxZmYtMjRhNS00ZmVkLThhMjQtNDcxYzg3YTJiMzUxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Al Pacino and Michelle Pfeiffer in Frankie and Johnny (1991)",
+        "width": 1340,
+        "height": 1971
+      },
+      "imdbRating": 6.8,
+      "numVotes": 37942,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 7080,
+      "runtimeMinutes": 118,
+      "metascore": 66,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 46,
+      "titleId": "tt0101640",
+      "title": "Raise the Red Lantern",
+      "originalTitle": "Da hong denglong gaogao gua",
+      "year": 1991,
+      "releaseDate": {
+        "day": 18,
+        "month": 12,
+        "year": 1991
+      },
+      "plot": "A young woman becomes the fourth concubine of a wealthy man and soon realizes there's fierce competition for his attention and the associated privileges.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjZlMThlZTktOGYxNS00NjY0LWFkMzAtMjNiOTYxYjYxZWFmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Gong Li in Raise the Red Lantern (1991)",
+        "width": 750,
+        "height": 1125
+      },
+      "imdbRating": 8.1,
+      "numVotes": 37614,
+      "certificate": "PG",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 7500,
+      "runtimeMinutes": 125,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 47,
+      "titleId": "tt0102603",
+      "title": "Oscar",
+      "originalTitle": "Oscar",
+      "year": 1991,
+      "releaseDate": {
+        "day": 26,
+        "month": 4,
+        "year": 1991
+      },
+      "plot": "A gangster attempts to keep the promise he made to his dying father: that he would give up his life of crime and \"go straight\".",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTcwZjUwYzUtMzZhMC00MzY5LWFkZjQtYjdlODA0MThjMDQ1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Sylvester Stallone in Oscar (1991)",
+        "width": 500,
+        "height": 749
+      },
+      "imdbRating": 6.5,
+      "numVotes": 36436,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 6540,
+      "runtimeMinutes": 109,
+      "metascore": 47,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 48,
+      "titleId": "tt0102768",
+      "title": "Regarding Henry",
+      "originalTitle": "Regarding Henry",
+      "year": 1991,
+      "releaseDate": {
+        "day": 10,
+        "month": 7,
+        "year": 1991
+      },
+      "plot": "After being shot, a lawyer loses his memory and must relearn speech and mobility, but he has a loving family to support him.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGFiYmVkMGMtZDI3Zi00YTU0LWFhYWQtZDc2ZGU0OGQ0YzkzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Harrison Ford and Annette Bening in Regarding Henry (1991)",
+        "width": 991,
+        "height": 1469
+      },
+      "imdbRating": 6.7,
+      "numVotes": 35997,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 6480,
+      "runtimeMinutes": 108,
+      "metascore": 47,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 49,
+      "titleId": "tt0102250",
+      "title": "L.A. Story",
+      "originalTitle": "L.A. Story",
+      "year": 1991,
+      "releaseDate": {
+        "day": 8,
+        "month": 2,
+        "year": 1991
+      },
+      "plot": "With the help of a talking freeway billboard, a wacky weatherman tries to win the heart of an English newspaper reporter, who is struggling to make sense of the strange world of early 1990s Los Angeles.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYmE2MWM5YTEtZmE5ZS00MzdjLWE2NjQtMmJjNGRiNjlhZjc2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Steve Martin in L.A. Story (1991)",
+        "width": 1998,
+        "height": 2975
+      },
+      "imdbRating": 6.7,
+      "numVotes": 35774,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 5700,
+      "runtimeMinutes": 95,
+      "metascore": 66,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 50,
+      "titleId": "tt0101775",
+      "title": "Drop Dead Fred",
+      "originalTitle": "Drop Dead Fred",
+      "year": 1991,
+      "releaseDate": {
+        "day": 24,
+        "month": 5,
+        "year": 1991
+      },
+      "plot": "A young woman finds her already unstable life rocked by the presence of a rambunctious imaginary friend from childhood.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOGZmZGE5YzQtOTFlOS00NmZiLWI3YTYtMjNiZmU4ZTM5MDY5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Phoebe Cates and Rik Mayall in Drop Dead Fred (1991)",
+        "width": 1929,
+        "height": 2889
+      },
+      "imdbRating": 6,
+      "numVotes": 33534,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 6180,
+      "runtimeMinutes": 103,
+      "metascore": 25,
+      "credits": [],
+      "titleType": "movie"
+    }
+  ]
+}

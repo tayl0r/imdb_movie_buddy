@@ -1,0 +1,1581 @@
+{
+  "year": 1984,
+  "movies": [
+    {
+      "rank": 1,
+      "titleId": "tt0088247",
+      "title": "The Terminator",
+      "originalTitle": "The Terminator",
+      "year": 1984,
+      "releaseDate": {
+        "day": 26,
+        "month": 10,
+        "year": 1984
+      },
+      "plot": "A cyborg assassin from the future attempts to find and kill a young woman who is destined to give birth to a warrior that will lead a resistance to save humankind from extinction.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZmE0YzIxM2QtMGNlMi00MjRmLWE3MWMtOWQzMGVjMmU0YTFmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Arnold Schwarzenegger in The Terminator (1984)",
+        "width": 1066,
+        "height": 1600
+      },
+      "imdbRating": 8.1,
+      "numVotes": 994646,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6420,
+      "runtimeMinutes": 107,
+      "metascore": 84,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 2,
+      "titleId": "tt0087469",
+      "title": "Indiana Jones and the Temple of Doom",
+      "originalTitle": "Indiana Jones and the Temple of Doom",
+      "year": 1984,
+      "releaseDate": {
+        "day": 23,
+        "month": 5,
+        "year": 1984
+      },
+      "plot": "In 1935, Indiana Jones is tasked by Indian villagers with reclaiming a sacred stone stolen from them by a secret cult.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOGUwZjZiNWQtYzAzZi00NGI5LWE4YmUtN2Y4YWMwY2RlZDkyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Harrison Ford, Kate Capshaw, Amrish Puri, and Ke Huy Quan in Indiana Jones and the Temple of Doom (1984)",
+        "width": 1009,
+        "height": 1500
+      },
+      "imdbRating": 7.5,
+      "numVotes": 564294,
+      "certificate": "PG",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "runtimeSeconds": 7080,
+      "runtimeMinutes": 118,
+      "metascore": 57,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 3,
+      "titleId": "tt0087332",
+      "title": "Ghostbusters",
+      "originalTitle": "Ghostbusters",
+      "year": 1984,
+      "releaseDate": {
+        "day": 8,
+        "month": 6,
+        "year": 1984
+      },
+      "plot": "Armed with proton packs, four paranormal investigators battle mischievous ghouls in New York.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMGI0Yjg2ODAtNDYzNi00Njc2LTlkMmMtMmRmYWI5MDE4ZGRkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ghostbusters (1984)",
+        "width": 1080,
+        "height": 1600
+      },
+      "imdbRating": 7.8,
+      "numVotes": 483513,
+      "certificate": "PG",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 6300,
+      "runtimeMinutes": 105,
+      "metascore": 71,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 4,
+      "titleId": "tt0086879",
+      "title": "Amadeus",
+      "originalTitle": "Amadeus",
+      "year": 1984,
+      "releaseDate": {
+        "day": 19,
+        "month": 9,
+        "year": 1984
+      },
+      "plot": "The life and work of Wolfgang Amadeus Mozart seen through the eyes of his contemporary and rival, Antonio Salieri.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzc2MjM0NTMtOGY4NC00NzY1LWE2ODUtZjMzY2RhNGNkZDAyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Amadeus (1984)",
+        "width": 962,
+        "height": 1500
+      },
+      "imdbRating": 8.4,
+      "numVotes": 464412,
+      "certificate": "PG",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Music"
+      ],
+      "runtimeSeconds": 9600,
+      "runtimeMinutes": 160,
+      "metascore": 87,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 5,
+      "titleId": "tt0087843",
+      "title": "Once Upon a Time in America",
+      "originalTitle": "C'era una volta in America",
+      "year": 1984,
+      "releaseDate": {
+        "day": 1,
+        "month": 6,
+        "year": 1984
+      },
+      "plot": "A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan 35 years later, where he must once again confront the ghosts and regrets of his old life.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDQ0ZTg2OGUtZjMyOC00M2M5LThkMmItZmM2MmUzMmIxMWJhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Robert De Niro, James Woods, William Forsythe, Brian Bloom, Adrian Curran, James Hayden, Rusty Jacobs, and Scott Tiler in Once Upon a Time in America (1984)",
+        "width": 2000,
+        "height": 3000
+      },
+      "imdbRating": 8.3,
+      "numVotes": 405805,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 13740,
+      "runtimeMinutes": 229,
+      "metascore": 75,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 6,
+      "titleId": "tt0087800",
+      "title": "A Nightmare on Elm Street",
+      "originalTitle": "A Nightmare on Elm Street",
+      "year": 1984,
+      "releaseDate": {
+        "day": 16,
+        "month": 11,
+        "year": 1984
+      },
+      "plot": "Teenager Nancy Thompson must uncover the dark truth concealed by her parents after she and her friends become targets of the spirit of a serial killer with a bladed glove in their dreams, in which if they die, it kills them in real life.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTZmN2VlMWMtMTdlMi00NDBhLWIyODMtODEwMzM0ODMwMWYwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Heather Langenkamp in A Nightmare on Elm Street (1984)",
+        "width": 780,
+        "height": 1200
+      },
+      "imdbRating": 7.4,
+      "numVotes": 288523,
+      "certificate": "R",
+      "genres": [
+        "Horror"
+      ],
+      "runtimeSeconds": 5460,
+      "runtimeMinutes": 91,
+      "metascore": 76,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 7,
+      "titleId": "tt0087363",
+      "title": "Gremlins",
+      "originalTitle": "Gremlins",
+      "year": 1984,
+      "releaseDate": {
+        "day": 8,
+        "month": 6,
+        "year": 1984
+      },
+      "plot": "After receiving an exotic small animal as a Christmas gift, a young man inadvertently breaks three important rules concerning his new pet, which unleashes a horde of malevolently mischievous creatures on a small town.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYmMzMmIxNzYtYjk3OS00NjBiLTkxNDQtODU3ZDNjN2RiMTIxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Zach Galligan and Howie Mandel in Gremlins (1984)",
+        "width": 2000,
+        "height": 3000
+      },
+      "imdbRating": 7.3,
+      "numVotes": 272406,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Horror"
+      ],
+      "runtimeSeconds": 6360,
+      "runtimeMinutes": 106,
+      "metascore": 70,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 8,
+      "titleId": "tt0087538",
+      "title": "The Karate Kid",
+      "originalTitle": "The Karate Kid",
+      "year": 1984,
+      "releaseDate": {
+        "day": 22,
+        "month": 6,
+        "year": 1984
+      },
+      "plot": "Recently relocated from NJ to LA, Daniel becomes the target of a gang of Cobra Kai dojo students. When Mr. Miyagi saves him with expert Karate skills, Daniel convinces him to teach him to defend himself, and put his bullies in their place.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BM2I3ZmZhNzctMzBlNC00YTc2LWE1MmEtY2ZkMzg3Y2I1ZDJhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ralph Macchio and Pat Morita in The Karate Kid (1984)",
+        "width": 909,
+        "height": 1419
+      },
+      "imdbRating": 7.3,
+      "numVotes": 268749,
+      "certificate": "PG",
+      "genres": [
+        "Action",
+        "Drama",
+        "Family"
+      ],
+      "runtimeSeconds": 7560,
+      "runtimeMinutes": 126,
+      "metascore": 61,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 9,
+      "titleId": "tt0086960",
+      "title": "Beverly Hills Cop",
+      "originalTitle": "Beverly Hills Cop",
+      "year": 1984,
+      "releaseDate": {
+        "day": 5,
+        "month": 12,
+        "year": 1984
+      },
+      "plot": "A freewheeling Detroit cop pursuing a murder investigation finds himself dealing with the very different culture of Beverly Hills.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjU4OGM2MzctNGU3ZC00M2EzLThiN2ItOTlmN2FjODM0MzFhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Eddie Murphy in Beverly Hills Cop (1984)",
+        "width": 1540,
+        "height": 2265
+      },
+      "imdbRating": 7.4,
+      "numVotes": 230376,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 6300,
+      "runtimeMinutes": 105,
+      "metascore": 66,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 10,
+      "titleId": "tt0087544",
+      "title": "Nausica\u00e4 of the Valley of the Wind",
+      "originalTitle": "Kaze no tani no Naushika",
+      "year": 1984,
+      "releaseDate": {
+        "day": 25,
+        "month": 11,
+        "year": 1987
+      },
+      "plot": "Warrior and pacifist Princess Nausica\u00e4 desperately struggles to prevent two warring nations from destroying themselves and their dying planet.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODBhMTI3YzMtNTRjYS00OTFkLWJmODUtNjJiNzcwYTVkNDhiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Nausica\u00e4 of the Valley of the Wind (1984)",
+        "width": 1000,
+        "height": 1480
+      },
+      "imdbRating": 8,
+      "numVotes": 195546,
+      "certificate": "",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 7020,
+      "runtimeMinutes": 117,
+      "metascore": 86,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 11,
+      "titleId": "tt0087182",
+      "title": "Dune",
+      "originalTitle": "Dune",
+      "year": 1984,
+      "releaseDate": {
+        "day": 14,
+        "month": 12,
+        "year": 1984
+      },
+      "plot": "A Duke's son leads desert warriors against the galactic emperor and his father's evil nemesis to free their desert world from the emperor's rule.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMGJlMGM3NDAtOWNhMy00MWExLWI2MzEtMDQ0ZDIzZDY5ZmQ2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Sean Young and Kyle MacLachlan in Dune (1984)",
+        "width": 913,
+        "height": 1426
+      },
+      "imdbRating": 6.2,
+      "numVotes": 191629,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 8220,
+      "runtimeMinutes": 137,
+      "metascore": 41,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 12,
+      "titleId": "tt0088323",
+      "title": "The NeverEnding Story",
+      "originalTitle": "The Neverending Story",
+      "year": 1984,
+      "releaseDate": {
+        "day": 20,
+        "month": 7,
+        "year": 1984
+      },
+      "plot": "A troubled boy dives into a wondrous fantasy world through the pages of a mysterious book.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzE0Y2E0NGYtYzRmMy00ZDRjLTk1NDItNjZjYTMyMmJjMGYxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Noah Hathaway, Sydney Bromley, Alan Oppenheimer, Tilo Pr\u00fcckner, and Deep Roy in The NeverEnding Story (1984)",
+        "width": 680,
+        "height": 1000
+      },
+      "imdbRating": 7.3,
+      "numVotes": 168783,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Family"
+      ],
+      "runtimeSeconds": 6120,
+      "runtimeMinutes": 102,
+      "metascore": 49,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 13,
+      "titleId": "tt0088258",
+      "title": "This Is Spinal Tap",
+      "originalTitle": "This Is Spinal Tap",
+      "year": 1984,
+      "releaseDate": {
+        "day": 2,
+        "month": 3,
+        "year": 1984
+      },
+      "plot": "Spinal Tap, one of England's loudest bands, is chronicled by film director Marty DiBergi on what proves to be a fateful tour.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTQ2MTIzMzg5Nl5BMl5BanBnXkFtZTgwOTc5NDI1MDE@._V1_.jpg",
+        "caption": "Christopher Guest, Michael McKean, R.J. Parnell, Harry Shearer, Spinal Tap, and David Kaff in This Is Spinal Tap (1984)",
+        "width": 653,
+        "height": 979
+      },
+      "imdbRating": 7.9,
+      "numVotes": 159681,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Music"
+      ],
+      "runtimeSeconds": 4920,
+      "runtimeMinutes": 82,
+      "metascore": 92,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 14,
+      "titleId": "tt0087928",
+      "title": "Police Academy",
+      "originalTitle": "Police Academy",
+      "year": 1984,
+      "releaseDate": {
+        "day": 23,
+        "month": 3,
+        "year": 1984
+      },
+      "plot": "The mayor declares that anyone can enroll in the police academy irrespective of their physical condition or education level, and many misfits descend on the academy, including a young troublemaker who's forced to apply or go to jail.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZmY2Zjk3ZmYtZGQwYS00NGM4LTk1MWMtZjI4MmRkNmM2ZDYwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Police Academy (1984)",
+        "width": 1935,
+        "height": 2925
+      },
+      "imdbRating": 6.7,
+      "numVotes": 147955,
+      "certificate": "R",
+      "genres": [
+        "Comedy"
+      ],
+      "runtimeSeconds": 5760,
+      "runtimeMinutes": 96,
+      "metascore": 41,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 15,
+      "titleId": "tt0087884",
+      "title": "Paris, Texas",
+      "originalTitle": "Paris, Texas",
+      "year": 1984,
+      "releaseDate": {
+        "day": 23,
+        "month": 8,
+        "year": 1984
+      },
+      "plot": "Travis Henderson, an aimless drifter who has been missing for four years, wanders out of the desert and must reconnect with society, himself, his life, and his family.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYWY5YzE4YmUtZWFhMS00YjYxLWI5ZGUtNDEyNmMzNDVjMGEwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Nastassja Kinski, Harry Dean Stanton, and Hunter Carson in Paris, Texas (1984)",
+        "width": 1138,
+        "height": 1755
+      },
+      "imdbRating": 8.1,
+      "numVotes": 138508,
+      "certificate": "R",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 8700,
+      "runtimeMinutes": 145,
+      "metascore": 81,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 16,
+      "titleId": "tt0088128",
+      "title": "Sixteen Candles",
+      "originalTitle": "Sixteen Candles",
+      "year": 1984,
+      "releaseDate": {
+        "day": 4,
+        "month": 5,
+        "year": 1984
+      },
+      "plot": "A high school girl's sixteenth birthday is anything but special, her family forgets about it while preparing for her older sister's wedding, the boy she has a crush on has a girlfriend, and she suffers from multitude of embarrassments.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTgzNTkxMTkxMl5BMl5BanBnXkFtZTgwMjE3NjkzMTE@._V1_.jpg",
+        "caption": "Molly Ringwald, Anthony Michael Hall, and Michael Schoeffling in Sixteen Candles (1984)",
+        "width": 675,
+        "height": 1000
+      },
+      "imdbRating": 7,
+      "numVotes": 134560,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "runtimeSeconds": 5580,
+      "runtimeMinutes": 93,
+      "metascore": 61,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 17,
+      "titleId": "tt0086979",
+      "title": "Blood Simple",
+      "originalTitle": "Blood Simple",
+      "year": 1984,
+      "releaseDate": {
+        "day": 18,
+        "month": 1,
+        "year": 1985
+      },
+      "plot": "The owner of a seedy small-town Texas bar discovers that one of his employees is having an affair with his wife. A chaotic chain of misunderstandings, lies, and mischief ensues after he devises a plot to have them murdered.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTYxNWY5ODktYWRkOC00NDdkLWIwOGQtOWY5YWQ1N2Q3OWViXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Blood Simple (1984)",
+        "width": 1926,
+        "height": 2935
+      },
+      "imdbRating": 7.5,
+      "numVotes": 112910,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5940,
+      "runtimeMinutes": 99,
+      "metascore": 84,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 18,
+      "titleId": "tt0088011",
+      "title": "Romancing the Stone",
+      "originalTitle": "Romancing the Stone",
+      "year": 1984,
+      "releaseDate": {
+        "day": 30,
+        "month": 3,
+        "year": 1984
+      },
+      "plot": "A mousy romance novelist sets off for Colombia to ransom her kidnapped sister, and soon finds herself in the middle of a dangerous adventure hunting for treasure with a mercenary rogue.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTVhOWU2OTItZDgzNy00MWMyLThkNmUtOGNiOTU3ZTYzYTU2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Michael Douglas and Kathleen Turner in Romancing the Stone (1984)",
+        "width": 1492,
+        "height": 2260
+      },
+      "imdbRating": 6.9,
+      "numVotes": 111126,
+      "certificate": "PG",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 6360,
+      "runtimeMinutes": 106,
+      "metascore": 63,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 19,
+      "titleId": "tt0087277",
+      "title": "Footloose",
+      "originalTitle": "Footloose",
+      "year": 1984,
+      "releaseDate": {
+        "day": 17,
+        "month": 2,
+        "year": 1984
+      },
+      "plot": "A big city teenager moves to a small town where Rock and Roll music and dancing have been banned by backward local parents and his rebellious spirit shakes up the populace.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMmRjMzdkZDUtMDRkYi00ZjVkLWJlMjItMmY1MjgwOTQzMzYwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Footloose (1984)",
+        "width": 1494,
+        "height": 2260
+      },
+      "imdbRating": 6.6,
+      "numVotes": 101041,
+      "certificate": "PG",
+      "genres": [
+        "Drama",
+        "Music",
+        "Romance"
+      ],
+      "runtimeSeconds": 6420,
+      "runtimeMinutes": 107,
+      "metascore": 42,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 20,
+      "titleId": "tt0088170",
+      "title": "Star Trek III: The Search for Spock",
+      "originalTitle": "Star Trek III: The Search for Spock",
+      "year": 1984,
+      "releaseDate": {
+        "day": 1,
+        "month": 6,
+        "year": 1984
+      },
+      "plot": "Admiral Kirk and his bridge crew risk their careers stealing the decommissioned U.S.S. Enterprise to return to the restricted Genesis Planet to recover Spock's body.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzNkOTZjMTMtOWYzZS00Yjg2LTgyMzQtMmNjODdkYzM0ZjhmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Leonard Nimoy, William Shatner, James Doohan, DeForest Kelley, Merritt Butrick, and Robin Curtis in Star Trek III: The Search for Spock (1984)",
+        "width": 1956,
+        "height": 2902
+      },
+      "imdbRating": 6.7,
+      "numVotes": 90184,
+      "certificate": "PG",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6300,
+      "runtimeMinutes": 105,
+      "metascore": 58,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 21,
+      "titleId": "tt0087078",
+      "title": "Conan the Destroyer",
+      "originalTitle": "Conan the Destroyer",
+      "year": 1984,
+      "releaseDate": {
+        "day": 29,
+        "month": 6,
+        "year": 1984
+      },
+      "plot": "Conan leads a ragtag group of adventurers on a quest for a princess.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjhlZDAwM2UtNDE0MS00MWVkLWJhNWQtMmRkNjk4ZWNlMTcxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Arnold Schwarzenegger, Grace Jones, Wilt Chamberlain, Gerry Conway, Raffaella De Laurentiis, Sarah Douglas, Richard Fleischer, Robert E. Howard, Stanley Mann, and Roy Thomas in Conan the Destroyer (1984)",
+        "width": 1897,
+        "height": 2889
+      },
+      "imdbRating": 5.9,
+      "numVotes": 89906,
+      "certificate": "PG",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 6180,
+      "runtimeMinutes": 103,
+      "metascore": 53,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 22,
+      "titleId": "tt0088161",
+      "title": "Splash",
+      "originalTitle": "Splash",
+      "year": 1984,
+      "releaseDate": {
+        "day": 9,
+        "month": 3,
+        "year": 1984
+      },
+      "plot": "A young man is reunited with a mermaid he briefly encountered as a boy and falls in love with her without knowing her secret.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGM2NDk4ZTgtYmVkZS00OTE4LTk2ZTAtYzc3Nzk4ZGU3NmE0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Splash (1984)",
+        "width": 1488,
+        "height": 2265
+      },
+      "imdbRating": 6.3,
+      "numVotes": 88383,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Romance"
+      ],
+      "runtimeSeconds": 6660,
+      "runtimeMinutes": 111,
+      "metascore": 71,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 23,
+      "titleId": "tt0087803",
+      "title": "1984",
+      "originalTitle": "Nineteen Eighty-Four",
+      "year": 1984,
+      "releaseDate": {
+        "day": 22,
+        "month": 3,
+        "year": 1985
+      },
+      "plot": "In a totalitarian future society, Winston Smith, whose work is re-writing history, tries to rebel. He meets a kindred spirit named Julia and they fall into a love affair.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTlhOTc3M2QtNmRhNy00ZjhhLTg3MzgtMGRhZjhkZTEwMjUzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "John Hurt, Bob Flag, and Suzanna Hamilton in 1984 (1984)",
+        "width": 928,
+        "height": 1386
+      },
+      "imdbRating": 7,
+      "numVotes": 87180,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6780,
+      "runtimeMinutes": 113,
+      "metascore": 67,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 24,
+      "titleId": "tt0088286",
+      "title": "Top Secret!",
+      "originalTitle": "Top Secret!",
+      "year": 1984,
+      "releaseDate": {
+        "day": 22,
+        "month": 6,
+        "year": 1984
+      },
+      "plot": "An American rock and roll singer is invited to a cultural festival in East Germany in order to distract from a plot to destroy NATO submarines, but he accidentally becomes involved in a resistance plot to rescue an imprisoned scientist.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYWQ0ZDZjYjAtNTM3My00ZGI4LWJjNDYtMjVmM2IwOTdjMjU2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Daisy in Top Secret! (1984)",
+        "width": 1280,
+        "height": 1920
+      },
+      "imdbRating": 7.2,
+      "numVotes": 81054,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Music"
+      ],
+      "runtimeSeconds": 5400,
+      "runtimeMinutes": 90,
+      "metascore": 68,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 25,
+      "titleId": "tt0087985",
+      "title": "Red Dawn",
+      "originalTitle": "Red Dawn",
+      "year": 1984,
+      "releaseDate": {
+        "day": 10,
+        "month": 8,
+        "year": 1984
+      },
+      "plot": "It is the dawn of World War III. In the western mountains of America, a group of teenagers band together to defend their town, and their country, from invading Soviet forces.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDFhN2RlNDItMWZiMS00MzY5LTk1NzMtYzgxYTA4Y2Y2MDljXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Red Dawn (1984)",
+        "width": 1487,
+        "height": 2265
+      },
+      "imdbRating": 6.3,
+      "numVotes": 68114,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6840,
+      "runtimeMinutes": 114,
+      "metascore": 53,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 26,
+      "titleId": "tt0087298",
+      "title": "Friday the 13th: The Final Chapter",
+      "originalTitle": "Friday the 13th: The Final Chapter",
+      "year": 1984,
+      "releaseDate": {
+        "day": 13,
+        "month": 4,
+        "year": 1984
+      },
+      "plot": "After being announced dead and taken to a morgue, Jason Voorhees spontaneously revives, escapes from the hospital, and stalks a group of friends renting a house in the countryside near Crystal Lake.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjE1N2NlMjctMmM5OS00NGUyLWFiNjYtNzM2MDJlOTUxODVkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Friday the 13th: The Final Chapter (1984)",
+        "width": 1925,
+        "height": 2888
+      },
+      "imdbRating": 6,
+      "numVotes": 65632,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5460,
+      "runtimeMinutes": 91,
+      "metascore": 33,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 27,
+      "titleId": "tt0087553",
+      "title": "The Killing Fields",
+      "originalTitle": "The Killing Fields",
+      "year": 1984,
+      "releaseDate": {
+        "day": 1,
+        "month": 2,
+        "year": 1985
+      },
+      "plot": "A journalist is trapped in Cambodia during Pol Pot's bloody Year Zero cleansing campaign.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYWFiNThiZjUtMzMxZS00MmY5LWE3NzYtYjU5NjAwOTEwZGMyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Sam Waterston in The Killing Fields (1984)",
+        "width": 1468,
+        "height": 2222
+      },
+      "imdbRating": 7.8,
+      "numVotes": 63238,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "runtimeSeconds": 8460,
+      "runtimeMinutes": 141,
+      "metascore": 76,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 28,
+      "titleId": "tt0087050",
+      "title": "Children of the Corn",
+      "originalTitle": "Children of the Corn",
+      "year": 1984,
+      "releaseDate": {
+        "day": 9,
+        "month": 3,
+        "year": 1984
+      },
+      "plot": "A young couple is trapped in a remote town where a dangerous religious cult of children believes that everyone over age 18 must be killed.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjFmZjhkNDYtZThjZi00YWY4LWFkYjMtNDM3YjkyODMxZDNmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Children of the Corn (1984)",
+        "width": 1498,
+        "height": 2260
+      },
+      "imdbRating": 5.6,
+      "numVotes": 62252,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5520,
+      "runtimeMinutes": 92,
+      "metascore": 45,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 29,
+      "titleId": "tt0088000",
+      "title": "Revenge of the Nerds",
+      "originalTitle": "Revenge of the Nerds",
+      "year": 1984,
+      "releaseDate": {
+        "day": 10,
+        "month": 8,
+        "year": 1984
+      },
+      "plot": "A group of bullied outcasts and misfits at Adams College resolves to fight back for their peace and self-respect.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODU1NzM4NTA4Nl5BMl5BanBnXkFtZTgwMTkxMzcxMTE@._V1_.jpg",
+        "caption": "Anthony Edwards, Robert Carradine, Donald Gibb, Ted McGinley, Julia Montgomery, and Matt Salinger in Revenge of the Nerds (1984)",
+        "width": 975,
+        "height": 1470
+      },
+      "imdbRating": 6.6,
+      "numVotes": 61648,
+      "certificate": "R",
+      "genres": [
+        "Comedy"
+      ],
+      "runtimeSeconds": 5400,
+      "runtimeMinutes": 90,
+      "metascore": 44,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 30,
+      "titleId": "tt0086837",
+      "title": "2010: The Year We Make Contact",
+      "originalTitle": "2010",
+      "year": 1984,
+      "releaseDate": {
+        "day": 7,
+        "month": 12,
+        "year": 1984
+      },
+      "plot": "A joint USA-Soviet expedition is sent to Jupiter to learn exactly what happened to the \"Discovery\" and its H.A.L. 9000 computer.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzA0ZDkyZTktYjllNS00ZDQ1LTk5MjAtNDAxZTYxY2ZiMDdkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "2010: The Year We Make Contact (1984)",
+        "width": 506,
+        "height": 755
+      },
+      "imdbRating": 6.7,
+      "numVotes": 60723,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6960,
+      "runtimeMinutes": 116,
+      "metascore": 53,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 31,
+      "titleId": "tt0087781",
+      "title": "The Natural",
+      "originalTitle": "The Natural",
+      "year": 1984,
+      "releaseDate": {
+        "day": 11,
+        "month": 5,
+        "year": 1984
+      },
+      "plot": "A middle-aged unknown comes seemingly out of nowhere to become a legendary baseball player with almost supernatural talent.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzljOTczYTYtNzM4YS00NDRlLWFiYTQtNjM3M2I4ODM3ZjgxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Robert Redford in The Natural (1984)",
+        "width": 1923,
+        "height": 2849
+      },
+      "imdbRating": 7.4,
+      "numVotes": 57007,
+      "certificate": "PG",
+      "genres": [
+        "Drama",
+        "Sport"
+      ],
+      "runtimeSeconds": 8280,
+      "runtimeMinutes": 138,
+      "metascore": 61,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 32,
+      "titleId": "tt0088172",
+      "title": "Starman",
+      "originalTitle": "Starman",
+      "year": 1984,
+      "releaseDate": {
+        "day": 14,
+        "month": 12,
+        "year": 1984
+      },
+      "plot": "An alien takes the form of a young Wisconsin widow's husband and makes her drive him to his departure point in Arizona. Distrustful government agents, along with a more ambivalent scientist, give pursuit in hopes of intercepting them.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzBjMGFjMGItOTVhMC00NTJiLWIyY2MtYThkYWFkMWI2MGM4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Karen Allen and Jeff Bridges in Starman (1984)",
+        "width": 1910,
+        "height": 2830
+      },
+      "imdbRating": 7,
+      "numVotes": 56761,
+      "certificate": "PG",
+      "genres": [
+        "Romance",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6900,
+      "runtimeMinutes": 115,
+      "metascore": 70,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 33,
+      "titleId": "tt0087597",
+      "title": "The Last Starfighter",
+      "originalTitle": "The Last Starfighter",
+      "year": 1984,
+      "releaseDate": {
+        "day": 13,
+        "month": 7,
+        "year": 1984
+      },
+      "plot": "High schooler Alex Rogan conquers the Starfighter video game, only to find out it was just a test, and is transported to another planet. He has been recruited to join a team of the best starfighters to defend their world from the attack.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzQ0ZjJlZjEtOWFjOC00ZThmLWJkY2UtNjNlZGJjMzU4MWVkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Lance Guest in The Last Starfighter (1984)",
+        "width": 1406,
+        "height": 2114
+      },
+      "imdbRating": 6.7,
+      "numVotes": 49392,
+      "certificate": "PG",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6000,
+      "runtimeMinutes": 100,
+      "metascore": 67,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 34,
+      "titleId": "tt0087995",
+      "title": "Repo Man",
+      "originalTitle": "Repo Man",
+      "year": 1984,
+      "releaseDate": {
+        "day": 2,
+        "month": 3,
+        "year": 1984
+      },
+      "plot": "A young punk, recruited by a car repo agency, finds himself in pursuit of a Chevrolet Malibu with a huge, $20,000 bounty--and something otherworldly stashed in its trunk.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTc3NTZhOTQtNDUzMi00ZjQ1LThhYTQtYmVlNmNjZTZlZjNkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Emilio Estevez, Olivia Barash, Harry Dean Stanton, and Jennifer Balgobin in Repo Man (1984)",
+        "width": 1171,
+        "height": 1792
+      },
+      "imdbRating": 6.8,
+      "numVotes": 44936,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 5520,
+      "runtimeMinutes": 92,
+      "metascore": 82,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 35,
+      "titleId": "tt0086927",
+      "title": "Bachelor Party",
+      "originalTitle": "Bachelor Party",
+      "year": 1984,
+      "releaseDate": {
+        "day": 29,
+        "month": 6,
+        "year": 1984
+      },
+      "plot": "A soon-to-be-married man's friends throw him the ultimate bachelor party.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDU4MzA4MjgtYTE5Zi00YWYwLTk1YmEtMDRjYmQ3MzU0YzJmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Bachelor Party (1984)",
+        "width": 1911,
+        "height": 2907
+      },
+      "imdbRating": 6.3,
+      "numVotes": 44638,
+      "certificate": "R",
+      "genres": [
+        "Comedy"
+      ],
+      "runtimeSeconds": 6300,
+      "runtimeMinutes": 105,
+      "metascore": 56,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 36,
+      "titleId": "tt0086984",
+      "title": "Body Double",
+      "originalTitle": "Body Double",
+      "year": 1984,
+      "releaseDate": {
+        "day": 26,
+        "month": 10,
+        "year": 1984
+      },
+      "plot": "A young actor's obsession with spying on a beautiful woman who lives nearby leads to a baffling series of events with drastic consequences.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjhkM2Q4MWUtOGY1OC00MDgxLTgxYzMtMjdhOTdlNDUxYzlhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Deborah Shelton in Body Double (1984)",
+        "width": 1491,
+        "height": 2265
+      },
+      "imdbRating": 6.8,
+      "numVotes": 44386,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "runtimeSeconds": 6840,
+      "runtimeMinutes": 114,
+      "metascore": 69,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 37,
+      "titleId": "tt0088184",
+      "title": "Stranger Than Paradise",
+      "originalTitle": "Stranger Than Paradise",
+      "year": 1984,
+      "releaseDate": {
+        "day": 4,
+        "month": 10,
+        "year": 1984
+      },
+      "plot": "A New Yorker's life is thrown into a tailspin when his younger cousin surprise-visits him, starting a strange, unpredictable adventure.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BN2Y2MWY1ZTktYTExOS00M2E0LWI0NDQtMTM2M2E3ODYwYjk4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Richard Edson, Eszter Balint, and John Lurie in Stranger Than Paradise (1984)",
+        "width": 580,
+        "height": 859
+      },
+      "imdbRating": 7.4,
+      "numVotes": 43044,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 5340,
+      "runtimeMinutes": 89,
+      "metascore": 86,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 38,
+      "titleId": "tt0087262",
+      "title": "Firestarter",
+      "originalTitle": "Firestarter",
+      "year": 1984,
+      "releaseDate": {
+        "day": 11,
+        "month": 5,
+        "year": 1984
+      },
+      "plot": "A couple who participated in a potent medical experiment gain telepathic ability and then have a child who is pyrokinetic.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZThjYzkzYjktNDNjZS00NGIwLWIzZTUtN2MyZDI4NWI1Mzc4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Drew Barrymore in Firestarter (1984)",
+        "width": 913,
+        "height": 1422
+      },
+      "imdbRating": 6.1,
+      "numVotes": 39440,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6840,
+      "runtimeMinutes": 114,
+      "metascore": 50,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 39,
+      "titleId": "tt0090190",
+      "title": "The Toxic Avenger",
+      "originalTitle": "The Toxic Avenger",
+      "year": 1984,
+      "releaseDate": {
+        "day": null,
+        "month": 11,
+        "year": 1985
+      },
+      "plot": "Tromaville has a monstrous new hero. The Toxic Avenger is born when meek mop boy Melvin falls into a vat of toxic waste. Now evildoers will have a lot to lose.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDZjMGZjMDktOTZlNC00MTQ5LTkzY2UtZjM1MjE0NDcwNzk1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Mitch Cohen in The Toxic Avenger (1984)",
+        "width": 800,
+        "height": 1200
+      },
+      "imdbRating": 6.2,
+      "numVotes": 36812,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Horror"
+      ],
+      "runtimeSeconds": 4920,
+      "runtimeMinutes": 82,
+      "metascore": 42,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 40,
+      "titleId": "tt0086993",
+      "title": "The Bounty",
+      "originalTitle": "The Bounty",
+      "year": 1984,
+      "releaseDate": {
+        "day": 4,
+        "month": 5,
+        "year": 1984
+      },
+      "plot": "Fed up with their Captain's harsh discipline, a sailing ship's crew decides to take action.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTEzY2U0YmMtMzUzNC00OTVkLWIyZTYtMDBjMTYzZWFkOWQwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Mel Gibson, Anthony Hopkins, and Tevaite Vernette in The Bounty (1984)",
+        "width": 1000,
+        "height": 1525
+      },
+      "imdbRating": 7.1,
+      "numVotes": 34364,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "History"
+      ],
+      "runtimeSeconds": 7920,
+      "runtimeMinutes": 132,
+      "metascore": 62,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 41,
+      "titleId": "tt0086856",
+      "title": "The Adventures of Buckaroo Banzai Across the 8th Dimension",
+      "originalTitle": "The Adventures of Buckaroo Banzai Across the 8th Dimension",
+      "year": 1984,
+      "releaseDate": {
+        "day": 5,
+        "month": 10,
+        "year": 1984
+      },
+      "plot": "Adventurer, brain surgeon, rock musician Buckaroo Banzai and his crime-fighting team, the Hong Kong Cavaliers, must stop evil alien invaders from the eighth dimension who are planning to conquer Earth.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDc0M2Q1MGUtNWQzMC00NTg0LWE1ZWQtYjk3YmY2ZTk2MDgxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jeff Goldblum, Ellen Barkin, Christopher Lloyd, Peter Weller, and John Lithgow in The Adventures of Buckaroo Banzai Across the 8th Dimension (1984)",
+        "width": 1444,
+        "height": 2217
+      },
+      "imdbRating": 6.2,
+      "numVotes": 32429,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6180,
+      "runtimeMinutes": 103,
+      "metascore": 70,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 42,
+      "titleId": "tt0087003",
+      "title": "Broadway Danny Rose",
+      "originalTitle": "Broadway Danny Rose",
+      "year": 1984,
+      "releaseDate": {
+        "day": 27,
+        "month": 1,
+        "year": 1984
+      },
+      "plot": "A hapless talent agent attempts to reconcile a lounge singer with his mistress.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTkwMDQ4MjMwNF5BMl5BanBnXkFtZTcwNTM4OTYwNA@@._V1_.jpg",
+        "caption": "Broadway Danny Rose (1984)",
+        "width": 682,
+        "height": 1023
+      },
+      "imdbRating": 7.4,
+      "numVotes": 28064,
+      "certificate": "PG",
+      "genres": [
+        "Comedy"
+      ],
+      "runtimeSeconds": 5040,
+      "runtimeMinutes": 84,
+      "metascore": 82,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 43,
+      "titleId": "tt0088194",
+      "title": "Streets of Fire",
+      "originalTitle": "Streets of Fire",
+      "year": 1984,
+      "releaseDate": {
+        "day": 1,
+        "month": 6,
+        "year": 1984
+      },
+      "plot": "A mercenary is hired to rescue his ex-girlfriend, a singer who has been kidnapped by a motorcycle gang.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2YyMmQ5MWMtMzNmNS00NjdlLThkNjAtNmY4NGI2OWRjZWI4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Diane Lane and Michael Par\u00e9 in Streets of Fire (1984)",
+        "width": 936,
+        "height": 1410
+      },
+      "imdbRating": 6.7,
+      "numVotes": 27040,
+      "certificate": "PG",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 5580,
+      "runtimeMinutes": 93,
+      "metascore": 59,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 44,
+      "titleId": "tt0090163",
+      "title": "Threads",
+      "originalTitle": "Threads",
+      "year": 1984,
+      "releaseDate": {
+        "day": 23,
+        "month": 9,
+        "year": 1984
+      },
+      "plot": "The effects of a nuclear holocaust on the working class city of Sheffield, England and the eventual long-term effects of nuclear war on civilization.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZmMwNTMyZjYtZDNlZS00OGQ2LTk0MzQtZTgyNDkxNDQ4YjQxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Michael Beecroft in Threads (1984)",
+        "width": 1000,
+        "height": 1500
+      },
+      "imdbRating": 7.9,
+      "numVotes": 27000,
+      "certificate": "Not Rated",
+      "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6720,
+      "runtimeMinutes": 112,
+      "metascore": 92,
+      "credits": [],
+      "titleType": "tvMovie"
+    },
+    {
+      "rank": 45,
+      "titleId": "tt0087799",
+      "title": "Night of the Comet",
+      "originalTitle": "Night of the Comet",
+      "year": 1984,
+      "releaseDate": {
+        "day": 16,
+        "month": 11,
+        "year": 1984
+      },
+      "plot": "A comet wipes out most of life on Earth, leaving two Valley Girls fighting against cannibal zombies and a sinister group of scientists.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWUyM2IxMzItNDljNi00MWQ5LWI0ZTctOThmZjJiYjU3NWJiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Night of the Comet (1984)",
+        "width": 1791,
+        "height": 2800
+      },
+      "imdbRating": 6.3,
+      "numVotes": 26686,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 5700,
+      "runtimeMinutes": 95,
+      "metascore": 59,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 46,
+      "titleId": "tt0086969",
+      "title": "Birdy",
+      "originalTitle": "Birdy",
+      "year": 1984,
+      "releaseDate": {
+        "day": 21,
+        "month": 12,
+        "year": 1984
+      },
+      "plot": "After two friends return home from the Vietnam War one becomes mentally unstable and obsesses with becoming a bird.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTlmY2M4OTUtNDgyZS00OTRlLTgzMGMtNjljNTgxMDU4ZTBhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Nicolas Cage and Matthew Modine in Birdy (1984)",
+        "width": 1935,
+        "height": 2900
+      },
+      "imdbRating": 7.2,
+      "numVotes": 26473,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "runtimeSeconds": 7200,
+      "runtimeMinutes": 120,
+      "metascore": 71,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 47,
+      "titleId": "tt0087957",
+      "title": "Purple Rain",
+      "originalTitle": "Purple Rain",
+      "year": 1984,
+      "releaseDate": {
+        "day": 27,
+        "month": 7,
+        "year": 1984
+      },
+      "plot": "A young musician, tormented by an abusive situation at home, must contend with a rival singer, a burgeoning romance, and his own dissatisfied band, as his star begins to rise.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDI3YzhiMmItNWUwOC00NjQ2LTliMTItMGFjOTJhZTc4MDcyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Prince and Apollonia Kotero in Purple Rain (1984)",
+        "width": 2000,
+        "height": 3000
+      },
+      "imdbRating": 6.5,
+      "numVotes": 26131,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Music",
+        "Romance"
+      ],
+      "runtimeSeconds": 6660,
+      "runtimeMinutes": 111,
+      "metascore": 55,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 48,
+      "titleId": "tt0088206",
+      "title": "Supergirl",
+      "originalTitle": "Supergirl",
+      "year": 1984,
+      "releaseDate": {
+        "day": 21,
+        "month": 11,
+        "year": 1984
+      },
+      "plot": "After losing a powerful orb, Kara Zor-El, Superman's cousin, comes to Earth to retrieve it and instead finds herself up against a wicked witch.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODQzZTdjMmYtOWFiYS00NWRlLWI5NTYtZTExNGYyMTFmZTUzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Peter O'Toole, Helen Slater, Hart Bochner, Faye Dunaway, Mia Farrow, Peter Cook, Marc McClure, Brenda Vaccaro, and Simon Ward in Supergirl (1984)",
+        "width": 983,
+        "height": 1500
+      },
+      "imdbRating": 4.4,
+      "numVotes": 26098,
+      "certificate": "PG",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 6300,
+      "runtimeMinutes": 105,
+      "metascore": 41,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 49,
+      "titleId": "tt0087755",
+      "title": "The Muppets Take Manhattan",
+      "originalTitle": "The Muppets Take Manhattan",
+      "year": 1984,
+      "releaseDate": {
+        "day": 13,
+        "month": 7,
+        "year": 1984
+      },
+      "plot": "Kermit and his friends go to New York City to get their musical on Broadway only to find it's a more difficult task than they anticipated.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNWMyNmNjNmYtNGZkMy00OTY2LWFkOTAtMDZjYmQ2ODRkZDFiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Frank Oz, Dabney Coleman, Jim Henson, Joan Rivers, Gregory Hines, Art Carney, James Coco, and Linda Lavin in The Muppets Take Manhattan (1984)",
+        "width": 1280,
+        "height": 1884
+      },
+      "imdbRating": 6.9,
+      "numVotes": 24131,
+      "certificate": "G",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 5640,
+      "runtimeMinutes": 94,
+      "metascore": 64,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 50,
+      "titleId": "tt0088178",
+      "title": "Stop Making Sense",
+      "originalTitle": "Stop Making Sense",
+      "year": 1984,
+      "releaseDate": {
+        "day": 29,
+        "month": 3,
+        "year": 1985
+      },
+      "plot": "A live performance of the band Talking Heads shot over the course of three nights at Hollywood's Pantages Theater in December of 1983 and featuring their most memorable songs.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTY2Y2EzMTctYTZiMC00YzEzLWIwMDItODQyYWUyY2U2MTk4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Stop Making Sense (1984)",
+        "width": 1921,
+        "height": 2920
+      },
+      "imdbRating": 8.7,
+      "numVotes": 23837,
+      "certificate": "PG",
+      "genres": [
+        "Documentary",
+        "Music"
+      ],
+      "runtimeSeconds": 5280,
+      "runtimeMinutes": 88,
+      "metascore": 94,
+      "credits": [],
+      "titleType": "movie"
+    }
+  ]
+}

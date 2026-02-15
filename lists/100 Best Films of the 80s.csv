@@ -1,0 +1,101 @@
+year,rank,title,imdb_score,num_ratings
+1984,1,Amadeus,8.4,464600
+1982,2,Gandhi,8,246610
+1981,3,Raiders of the Lost Ark,8.4,1103401
+1986,4,Platoon,8.1,469027
+1989,5,Dekalog,8.9,34655
+1988,6,Rain Man,8,580456
+1988,7,Cinema Paradiso,8.5,314915
+1987,8,The Last Emperor,7.7,118708
+1980,9,Raging Bull,8.1,407273
+1980,10,The Elephant Man,8.2,280424
+1980,11,Ordinary People,7.7,61430
+1984,12,Once Upon a Time in America,8.3,406010
+1980,13,Star Wars: Episode V - The Empire Strikes Back,8.7,1491921
+1986,14,The Singing Detective,8.5,5094
+1982,15,Fanny and Alexander,8.1,71005
+1981,16,Das Boot,8.4,286256
+1982,17,E.T. the Extra-Terrestrial,7.9,468416
+1984,18,The Killing Fields,7.8,63256
+1985,19,Ran,8.2,150403
+1986,20,Hannah and Her Sisters,7.8,81128
+1986,21,Aliens,8.4,835090
+1985,22,Back to the Future,8.5,1437106
+1989,23,Driving Miss Daisy,7.3,123553
+1987,24,Au Revoir Les Enfants,8,38290
+1987,25,Full Metal Jacket,8.2,844702
+1980,26,The Shining,8.4,1214101
+1983,27,Terms of Endearment,7.4,69925
+1983,28,The Right Stuff,7.8,68683
+1986,29,Stand by Me,8.1,482384
+1988,30,Mississippi Burning,7.8,126801
+1989,31,Dead Poets Society,8.1,640826
+1983,32,Star Wars: Episode VI - Return of the Jedi,8.3,1199537
+1985,33,The Official Story,7.7,11658
+1987,34,Pelle the Conqueror,7.7,12582
+1982,35,Blade Runner,8.1,875805
+1985,36,My Sweet Little Village,7.8,5170
+1989,37,Indiana Jones and the Last Crusade,8.2,858473
+1989,38,My Left Foot,7.8,84612
+1980,39,Moscow Does Not Believe in Tears,8,15588
+1987,40,Nayakan,8.6,27637
+1988,41,Dangerous Liaisons,7.5,79487
+1987,42,Babette's Feast,7.8,23736
+1988,43,Salaam Bombay!,7.9,11026
+1988,44,Die Hard,8.2,1022949
+1981,45,Mephisto,7.7,12440
+1981,46,Chariots of Fire,7.1,70537
+1986,47,Jean de Florette,8.1,29157
+1988,48,A Short Film About Love,8.1,27973
+1980,49,Kagemusha: The Shadow Warrior,7.9,40680
+1988,50,Grave of the Fireflies,8.5,377884
+1982,51,Missing,7.7,25429
+1989,52,Glory,7.8,152814
+1989,53,Crimes and Misdemeanors,7.8,63020
+1980,54,Breaker Morant,7.8,15333
+1985,55,Witness,7.3,112949
+1989,56,Field of Dreams,7.5,137839
+1982,57,The Verdict,7.7,50142
+1989,58,A City of Sadness,7.8,6905
+1985,59,The Color Purple,7.7,103424
+1982,60,La Traviata,7.6,1589
+1988,61,A Short Film About Killing,7.9,24075
+1983,62,El Sur,7.8,7245
+1983,63,Scarface,8.3,1004590
+1988,64,My Neighbor Totoro,8.1,426079
+1982,65,The Thing,8.2,520677
+1985,66,Come and See,8.3,120604
+1985,67,A Room with a View,7.2,51909
+1980,68,Atlantic City,7.3,19536
+1984,69,"Paris, Texas",8.1,138642
+1989,70,Do the Right Thing,7.9,122886
+1983,71,A Christmas Story,7.9,180359
+1984,72,The Terminator,8.1,995323
+1985,73,Brazil,7.8,221360
+1987,74,The Princess Bride,8,482260
+1982,75,Fitzcarraldo,7.9,42457
+1982,76,Yol,7.9,15352
+1988,77,Time of the Gypsies,8.1,34322
+1984,78,Nausicaä of the Valley of the Wind,8,195645
+1986,79,Castle in the Sky,8,196462
+1982,80,Tootsie,7.4,121376
+1984,81,A Passage to India,7.3,22909
+1981,82,Reds,7.3,26573
+1983,83,The Dresser,7.4,6300
+1987,84,Wings of Desire,7.9,83255
+1987,85,The Untouchables,7.8,351715
+1985,86,Kiss of the Spider Woman,7.3,19153
+1987,87,Hope and Glory,7.3,15805
+1988,88,Women on the Verge of a Nervous Breakdown,7.5,50188
+1986,89,The Mission,7.4,70415
+1988,90,Landscape in the Mist,7.9,10922
+1986,91,The Sacrifice,7.8,34654
+1986,92,Manon of the Spring,8,25546
+1985,93,When Father Was Away on Business,7.7,10715
+1986,94,Blue Velvet,7.7,242384
+1983,95,El Norte,7.7,6009
+1984,96,Love Streams,7.6,7339
+1984,97,Places in the Heart,7.4,15243
+1988,98,A Fish Called Wanda,7.5,164482
+1984,99,A Summer at Grandpa's,7.6,2039
+1982,100,Sophie's Choice,7.5,56526

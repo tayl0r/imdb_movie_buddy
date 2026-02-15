@@ -1,0 +1,1599 @@
+{
+  "year": 2019,
+  "movies": [
+    {
+      "rank": 1,
+      "titleId": "tt7286456",
+      "title": "Joker",
+      "originalTitle": "Joker",
+      "year": 2019,
+      "releaseDate": {
+        "day": 4,
+        "month": 10,
+        "year": 2019
+      },
+      "plot": "Arthur Fleck, a party clown and a failed stand-up comedian, leads an impoverished life with his ailing mother. However, when society shuns him and brands him as a freak, he decides to embrace the life of chaos in Gotham City.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzY3OWQ5NDktNWQ2OC00ZjdlLThkMmItMDhhNDk3NTFiZGU4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Joaquin Phoenix in Joker (2019)",
+        "width": 2764,
+        "height": 4096
+      },
+      "imdbRating": 8.3,
+      "numVotes": 1672586,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7320,
+      "runtimeMinutes": 122,
+      "metascore": 59,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 2,
+      "titleId": "tt4154796",
+      "title": "Avengers: Endgame",
+      "originalTitle": "Avengers: Endgame",
+      "year": 2019,
+      "releaseDate": {
+        "day": 26,
+        "month": 4,
+        "year": 2019
+      },
+      "plot": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg",
+        "caption": "Michael Douglas, Samuel L. Jackson, Michelle Pfeiffer, Natalie Portman, Angela Bassett, Don Cheadle, Robert Downey Jr., William Hurt, Gwyneth Paltrow, Robert Redford, Rene Russo, Marisa Tomei, Josh Brolin, Linda Cardellini, Vin Diesel, Alan Silvestri, Matthew Berry, Russell Bobbitt, Taika Waititi, Kerry Condon, Bradley Cooper, James D'Arcy, Chris Evans, Jon Favreau, Kevin Feige, Jeffrey Ford, Keith Giffen, Patrick Gorman, Frank Grillo, Sean Gunn, Maximiliano Hern\u00e1ndez, Ken Jeong, Scarlett Johansson, Ameenah Kaplan, Jack Kirby, Brie Larson, Stan Lee, James Lin, Mike Lutz, Lee Moore, Callan Mulvey, Elizabeth Olsen, Taylor Patterson, Jimmy Ray Pickens, John Posey, Chris Pratt, Jeremy Renner, Paul Rudd, Mark Ruffalo, Anthony Russo, Joe Russo, Zoe Salda\u00f1a, Hiroyuki Sanada, Matthew Schmidt, Joe Simon, John Slattery, Tilda Swinton, Tom Wisdom, Benedict Wong, Charles Wood, Jennifer 'Ms Fer' Russell, Camille Kinloch, Penelope Kathryn Golden, Eric Patrick Cameron, Trent Opaloch, Terry Notary, Ava Russo, Julian Russo, Jamie Wedel, Bazlo LeClair, Loen LeClair, Augie Rosalina, Erica Ribley, Carlos A. Aparicio, Tom Hiddleston, Sam Hargrave, Anthony Mackie, Robert Pralgo, Cobie Smulders, Caleb Spencer Barr, Chris Hemsworth, Dave Bautista, Benedict Cumberbatch, Monique Ganderton, Larry Lieber, Yvette Nicole Brown, Christopher Markus, Stephen McFeely, Ty Simpkins, Audrae Peterson, Don Heck, Evangeline Lilly, Keith Wallace, Chadwick Boseman, Aaron Lazar, Kyle Banks, Sebastian Stan, Joy McAvoy, Danai Gurira, Steve Englehart, Tessa Thompson, Donald Mustard, Hayley Atwell, Karen Gillan, Tom Vaughan-Lawlor, Steven Essani, Ross Marquand, Bill Mantlo, Pom Klementieff, Steve Gan, Brian Schaeffer, Michael Pierino Miller, Keith Nussbaum, Emma Fuhrmann, Anthony B. Harris, Letitia Wright, Maxwell L. Highsmith, Tom Holland, Jim Starlin, Anthony G Breed, Brent McGee, Ami Fujimoto, Michael James Shaw, Dustin Pitan, Carrie Coon, Eric Word, Andrew S. McMillan, Benjamin Weaver, Mari Kasuya, Khalid Ghajji, Floyd Anthony Johns Jr., Ayren Saint\u00e9, Jack Champion, John Michael Morris, Hye Jin Jang, Marie Mouroum, Winston Duke, Michael A. Cook, Jackson A. Dunn, Jennifer Elmore, Ben Sakamoto, Jay D. Kacho, Faith Logan, Brent Moorer Gaskins, Vincent Angel, Paul Pillsbury, Timothy Carr, Daniela Gaskie, Cameron Brumbelow, Kris Taylor, James Robert Taylor, Lia Russo, Jacob Batalon, Andy Field, Renah Gallagher, Tevin Beech, Bobby Hoskins, Jacob Evans, Jason M. Edwards, Olaniyan Thurmon, Kevin Kobinsky, Miles Webb, Maria Z. Wilson, Alexa Medina, Rob Romero, Cade Woodward, Monica Mathis, Shaun McMillan, Roe Dunkley, Jamaal Burcher, Kiersten Dolbec, Raul Alcantar, Greg Tiffan, Eric Wallace, Kari Yovetich, Ryan L. Price, Daniel L. Murphy, Daniel Callister, Nolan Ekberg, Kevin So, Lexi Rabe, and Robert Tinsley in Avengers: Endgame (2019)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 8.4,
+      "numVotes": 1424421,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 10860,
+      "runtimeMinutes": 181,
+      "metascore": 78,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 3,
+      "titleId": "tt6751668",
+      "title": "Parasite",
+      "originalTitle": "Gisaengchung",
+      "year": 2019,
+      "releaseDate": {
+        "day": 8,
+        "month": 11,
+        "year": 2019
+      },
+      "plot": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjk1Y2U4MjQtY2ZiNS00OWQyLWI3MmYtZWUwNmRjYWRiNWNhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Song Kang-ho, Jung Ik-han, Jung Hyun-jun, Lee Joo-hyung, Lee Ji-hye, Lee Sun-kyun, Cho Yeo-jeong, Park Myeong-hoon, Park Keun-rok, Jang Hye-jin, Lee Jeong-eun, Choi Woo-sik, Park Seo-joon, Park So-dam, and Jung Ji-so in Parasite (2019)",
+        "width": 2400,
+        "height": 3556
+      },
+      "imdbRating": 8.5,
+      "numVotes": 1141789,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7920,
+      "runtimeMinutes": 132,
+      "metascore": 97,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 4,
+      "titleId": "tt7131622",
+      "title": "Once Upon a Time... in Hollywood",
+      "originalTitle": "Once Upon a Time in... Hollywood",
+      "year": 2019,
+      "releaseDate": {
+        "day": 26,
+        "month": 7,
+        "year": 2019
+      },
+      "plot": "As Hollywood's Golden Age is winding down during the summer of 1969, television actor Rick Dalton and his stunt double Cliff Booth endeavor to achieve lasting success in Hollywood while meeting several colorful characters along the way.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzMzNmViNjYtN2ViNi00NDM3LWFlMmItNDYyMGIzY2EzZjE2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Brad Pitt, Leonardo DiCaprio, Al Pacino, Quentin Tarantino, Kurt Russell, Dakota Fanning, Damon Herriman, Timothy Olyphant, Harley Quinn Smith, Kansas Bowling, Madisen Beaty, Mike Moh, Josephine Valentina Clark, Sydney Sweeney, Michaela Sprague, Margot Robbie, Kayla Radomski, Ryan Ramirez, Margaret Qualley, and Julia Butters in Once Upon a Time... in Hollywood (2019)",
+        "width": 6072,
+        "height": 9000
+      },
+      "imdbRating": 7.6,
+      "numVotes": 949686,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 9660,
+      "runtimeMinutes": 161,
+      "metascore": 84,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 5,
+      "titleId": "tt8946378",
+      "title": "Knives Out",
+      "originalTitle": "Knives Out",
+      "year": 2019,
+      "releaseDate": {
+        "day": 27,
+        "month": 11,
+        "year": 2019
+      },
+      "plot": "When renowned crime novelist Harlan Thrombey is found dead at his estate just after his 85th birthday, the inquisitive and debonair Detective Benoit Blanc is mysteriously enlisted to investigate.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDU5ZTRkYmItZjg0Mi00ZTQwLThjMWItNWM3MTMxMzVjZmVjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jamie Lee Curtis, Don Johnson, Toni Collette, Christopher Plummer, Daniel Craig, Chris Evans, Michael Shannon, Ana de Armas, LaKeith Stanfield, Jaeden Martell, and Katherine Langford in Knives Out (2019)",
+        "width": 1944,
+        "height": 2880
+      },
+      "imdbRating": 7.9,
+      "numVotes": 866840,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 7800,
+      "runtimeMinutes": 130,
+      "metascore": 82,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 6,
+      "titleId": "tt8579674",
+      "title": "1917",
+      "originalTitle": "1917",
+      "year": 2019,
+      "releaseDate": {
+        "day": 10,
+        "month": 1,
+        "year": 2020
+      },
+      "plot": "April 6th, 1917. As an infantry battalion assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzkxZjg2NDQtMGVjMy00NWZkLTk0ZDEtZWE3NDYwYjAyMTg1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "George MacKay and Dean-Charles Chapman in 1917 (2019)",
+        "width": 1293,
+        "height": 2048
+      },
+      "imdbRating": 8.2,
+      "numVotes": 760872,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Drama",
+        "War"
+      ],
+      "runtimeSeconds": 7140,
+      "runtimeMinutes": 119,
+      "metascore": 78,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 7,
+      "titleId": "tt4154664",
+      "title": "Captain Marvel",
+      "originalTitle": "Captain Marvel",
+      "year": 2019,
+      "releaseDate": {
+        "day": 8,
+        "month": 3,
+        "year": 2019
+      },
+      "plot": "Carol Danvers becomes one of the universe's most powerful heroes when Earth is caught in the middle of a galactic war between two alien races.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDI1NGU2ODAtNzBiNy00MWY5LWIyMGEtZjUxZjUwZmZiNjBlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Brie Larson in Captain Marvel (2019)",
+        "width": 1688,
+        "height": 2500
+      },
+      "imdbRating": 6.7,
+      "numVotes": 652725,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 7380,
+      "runtimeMinutes": 123,
+      "metascore": 64,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 8,
+      "titleId": "tt6320628",
+      "title": "Spider-Man: Far from Home",
+      "originalTitle": "Spider-Man: Far from Home",
+      "year": 2019,
+      "releaseDate": {
+        "day": 2,
+        "month": 7,
+        "year": 2019
+      },
+      "plot": "Peter Parker, the beloved superhero Spider-Man, faces four destructive elemental monsters while on holiday in Europe. Soon, he receives help from Mysterio, a fellow hero with mysterious origins.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzNhNTE0NWQtN2E1Ny00NjcwLTg1YTctMGY1NmMwODJmY2NmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Samuel L. Jackson, Jake Gyllenhaal, and Tom Holland in Spider-Man: Far from Home (2019)",
+        "width": 1500,
+        "height": 2229
+      },
+      "imdbRating": 7.3,
+      "numVotes": 628668,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 7740,
+      "runtimeMinutes": 129,
+      "metascore": 69,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 9,
+      "titleId": "tt1950186",
+      "title": "Ford v Ferrari",
+      "originalTitle": "Ford v Ferrari",
+      "year": 2019,
+      "releaseDate": {
+        "day": 15,
+        "month": 11,
+        "year": 2019
+      },
+      "plot": "American car designer Carroll Shelby and driver Ken Miles battle corporate interference and the laws of physics to build a revolutionary race car for Ford in order to defeat Ferrari at the 24 Hours of Le Mans in 1966.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTBjNTEyNjYtYjdkNi00YzE5LTljYzUtZjVlYmYwZmJmZWYxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Christian Bale and Matt Damon in Ford v Ferrari (2019)",
+        "width": 4050,
+        "height": 6000
+      },
+      "imdbRating": 8.1,
+      "numVotes": 560515,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Biography",
+        "Drama"
+      ],
+      "runtimeSeconds": 9120,
+      "runtimeMinutes": 152,
+      "metascore": 81,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 10,
+      "titleId": "tt2527338",
+      "title": "Star Wars: Episode IX - The Rise of Skywalker",
+      "originalTitle": "Star Wars: Episode IX - The Rise of Skywalker",
+      "year": 2019,
+      "releaseDate": {
+        "day": 20,
+        "month": 12,
+        "year": 2019
+      },
+      "plot": "The surviving Resistance faces the First Order once again.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODg5ZTNmMTUtYThlNy00NjljLWE0MGUtYmQ1NDg4NWU5MjQ1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Anthony Daniels, Carrie Fisher, Billy Dee Williams, Keri Russell, J.J. Abrams, Lynn Robertson Bruce, Hassan Taj, Oscar Isaac, Brian Herring, Jimmy Vee, Dave Chapman, Adam Driver, John Boyega, Kelly Marie Tran, Robin Guiver, Daisy Ridley, Lee Towersey, Joonas Suotamo, and Naomi Ackie in Star Wars: Episode IX - The Rise of Skywalker (2019)",
+        "width": 1383,
+        "height": 2048
+      },
+      "imdbRating": 6.3,
+      "numVotes": 536090,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 8460,
+      "runtimeMinutes": 141,
+      "metascore": 53,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 11,
+      "titleId": "tt2584384",
+      "title": "Jojo Rabbit",
+      "originalTitle": "Jojo Rabbit",
+      "year": 2019,
+      "releaseDate": {
+        "day": 8,
+        "month": 11,
+        "year": 2019
+      },
+      "plot": "A young German boy in the Hitler Youth, whose hero and imaginary friend is the country's dictator, is shocked to discover that his mother is hiding a Jewish girl in their home.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYmFmNmUyMjYtZTFjNS00OWQyLThhZmMtMGZkYTQ3YjY0ZDQ1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Sam Rockwell, Taika Waititi, Scarlett Johansson, Stephen Merchant, Alfie Allen, Rebel Wilson, Thomasin McKenzie, and Roman Griffin Davis in Jojo Rabbit (2019)",
+        "width": 1334,
+        "height": 2000
+      },
+      "imdbRating": 7.9,
+      "numVotes": 482875,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "War"
+      ],
+      "runtimeSeconds": 6480,
+      "runtimeMinutes": 108,
+      "metascore": 58,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 12,
+      "titleId": "tt8772262",
+      "title": "Midsommar",
+      "originalTitle": "Midsommar",
+      "year": 2019,
+      "releaseDate": {
+        "day": 3,
+        "month": 7,
+        "year": 2019
+      },
+      "plot": "A couple travels to Northern Europe to visit a rural hometown's fabled Swedish mid-summer festival. What begins as an idyllic retreat quickly devolves into an increasingly violent and bizarre competition at the hands of a pagan cult.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzQxNzQzOTQwM15BMl5BanBnXkFtZTgwMDQ2NTcwODM@._V1_.jpg",
+        "caption": "Florence Pugh in Midsommar (2019)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 7.1,
+      "numVotes": 476269,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Mystery"
+      ],
+      "runtimeSeconds": 8880,
+      "runtimeMinutes": 148,
+      "metascore": 72,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 13,
+      "titleId": "tt6146586",
+      "title": "John Wick: Chapter 3 - Parabellum",
+      "originalTitle": "John Wick: Chapter 3 - Parabellum",
+      "year": 2019,
+      "releaseDate": {
+        "day": 17,
+        "month": 5,
+        "year": 2019
+      },
+      "plot": "John Wick is on the run after killing a member of the international assassins' guild, and with a $14 million price tag on his head, he is the target of hit men and women everywhere.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjdlNWFlZjEtM2U0NS00ZWU5LTk1M2EtZmQxNWFiZjk0MGM5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Keanu Reeves in John Wick: Chapter 3 - Parabellum (2019)",
+        "width": 3600,
+        "height": 5550
+      },
+      "imdbRating": 7.4,
+      "numVotes": 474735,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 7800,
+      "runtimeMinutes": 130,
+      "metascore": 73,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 14,
+      "titleId": "tt1302006",
+      "title": "The Irishman",
+      "originalTitle": "The Irishman",
+      "year": 2019,
+      "releaseDate": {
+        "day": 27,
+        "month": 11,
+        "year": 2019
+      },
+      "plot": "An illustration of Frank Sheeran's life, from W.W.II veteran to hit-man for the Bufalino crime family and his alleged assassination of his close friend Jimmy Hoffa.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTY2YThkNmQtOWJhYy00ZDc3LWEzOGEtMmQwNzM0YjFmZWIyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Robert De Niro, Al Pacino, and Joe Pesci in The Irishman (2019)",
+        "width": 2000,
+        "height": 2929
+      },
+      "imdbRating": 7.8,
+      "numVotes": 467958,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 12540,
+      "runtimeMinutes": 209,
+      "metascore": 94,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 15,
+      "titleId": "tt8367814",
+      "title": "The Gentlemen",
+      "originalTitle": "The Gentlemen",
+      "year": 2019,
+      "releaseDate": {
+        "day": 24,
+        "month": 1,
+        "year": 2020
+      },
+      "plot": "An American expat tries to sell off his highly profitable marijuana empire in London, triggering plots, schemes, bribery and blackmail in an attempt to steal his domain out from under him.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjE2ZjQ4ZGMtZjFhMi00NmI5LTliNjEtODczMWMxNjliZjgxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Matthew McConaughey, Hugh Grant, Colin Farrell, Charlie Hunnam, Jeremy Strong, Michelle Dockery, and Henry Golding in The Gentlemen (2019)",
+        "width": 8100,
+        "height": 12000
+      },
+      "imdbRating": 7.8,
+      "numVotes": 451760,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 6780,
+      "runtimeMinutes": 113,
+      "metascore": 51,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 16,
+      "titleId": "tt0448115",
+      "title": "Shazam!",
+      "originalTitle": "Shazam!",
+      "year": 2019,
+      "releaseDate": {
+        "day": 5,
+        "month": 4,
+        "year": 2019
+      },
+      "plot": "A newly fostered young boy in search of his mother instead finds unexpected super powers and soon gains a powerful enemy.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWM1YjdmOGQtNGYyMC00NjMwLTk1OWUtMGYzM2NjYjliYzYyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Zachary Levi in Shazam! (2019)",
+        "width": 970,
+        "height": 1437
+      },
+      "imdbRating": 7,
+      "numVotes": 410541,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 7920,
+      "runtimeMinutes": 132,
+      "metascore": 71,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 17,
+      "titleId": "tt6857112",
+      "title": "Us",
+      "originalTitle": "Us",
+      "year": 2019,
+      "releaseDate": {
+        "day": 22,
+        "month": 3,
+        "year": 2019
+      },
+      "plot": "In order to get away from their busy lives, the Wilson family takes a vacation to Santa Cruz, California. At night, four strangers break into Adelaide's childhood home. The family is shocked to find out that the intruders look like them.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzhkMjFkN2YtODU2Ni00YWYwLWExN2MtOWNjZmQxM2U4YTM5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Lupita Nyong'o in Us (2019)",
+        "width": 1895,
+        "height": 3000
+      },
+      "imdbRating": 6.8,
+      "numVotes": 386557,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6960,
+      "runtimeMinutes": 116,
+      "metascore": 81,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 18,
+      "titleId": "tt7653254",
+      "title": "Marriage Story",
+      "originalTitle": "Marriage Story",
+      "year": 2019,
+      "releaseDate": {
+        "day": 6,
+        "month": 12,
+        "year": 2019
+      },
+      "plot": "A stage director and his actor wife struggle through a grueling divorce that pushes them to their personal and creative extremes. Noah Baumbach's incisive and compassionate look at a marriage breaking up and a family staying together.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNmE0OWJlM2MtNzhmMi00YmQyLTlmY2EtZmUzNzBiNGRlN2JkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Scarlett Johansson, Adam Driver, and Azhy Robertson in Marriage Story (2019)",
+        "width": 1500,
+        "height": 2222
+      },
+      "imdbRating": 7.9,
+      "numVotes": 369190,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 8220,
+      "runtimeMinutes": 137,
+      "metascore": 94,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 19,
+      "titleId": "tt5727208",
+      "title": "Uncut Gems",
+      "originalTitle": "Uncut Gems",
+      "year": 2019,
+      "releaseDate": {
+        "day": 25,
+        "month": 12,
+        "year": 2019
+      },
+      "plot": "With his debts mounting and angry collectors closing in, a fast-talking New York City jeweler risks everything in hope of staying afloat and alive.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNmI0YjA5NjItYzExYi00NzkxLTkxNDctNGJjYTZhM2M0NDQ0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Adam Sandler, Mesfin Lamengo, Sun Zhi Hua-Hilton, and LaKeith Stanfield in Uncut Gems (2019)",
+        "width": 2210,
+        "height": 3450
+      },
+      "imdbRating": 7.4,
+      "numVotes": 350221,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 8100,
+      "runtimeMinutes": 135,
+      "metascore": 93,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 20,
+      "titleId": "tt7349950",
+      "title": "It: Chapter Two",
+      "originalTitle": "It: Chapter Two",
+      "year": 2019,
+      "releaseDate": {
+        "day": 6,
+        "month": 9,
+        "year": 2019
+      },
+      "plot": "Twenty-seven years after their first encounter with the terrifying Pennywise, the Losers Club have grown up and moved away, until a devastating phone call brings them back.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzUxM2VhOGItZTY2My00OTA4LWI4NjUtMDA5YWJjM2M2NDJjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Bill Skarsg\u00e5rd in It: Chapter Two (2019)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 6.5,
+      "numVotes": 349636,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Horror"
+      ],
+      "runtimeSeconds": 10140,
+      "runtimeMinutes": 169,
+      "metascore": 58,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 21,
+      "titleId": "tt9243946",
+      "title": "El Camino",
+      "originalTitle": "El Camino",
+      "year": 2019,
+      "releaseDate": {
+        "day": 11,
+        "month": 10,
+        "year": 2019
+      },
+      "plot": "Fugitive Jesse Pinkman runs from his captors, the law, and his past.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTYxMjI2YzUtODQ5Mi00M2JmLTlmNzItOTlkM2MyM2ExM2RlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Aaron Paul in El Camino (2019)",
+        "width": 960,
+        "height": 1200
+      },
+      "imdbRating": 7.3,
+      "numVotes": 335388,
+      "certificate": "TV-MA",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7320,
+      "runtimeMinutes": 122,
+      "metascore": 72,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 22,
+      "titleId": "tt0437086",
+      "title": "Alita: Battle Angel",
+      "originalTitle": "Alita: Battle Angel",
+      "year": 2019,
+      "releaseDate": {
+        "day": 14,
+        "month": 2,
+        "year": 2019
+      },
+      "plot": "A deactivated cyborg's revived, but can't remember anything of her past and goes on a quest to find out who she is.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYmZhZGQzM2MtMWEyZC00YTU1LTk4YTQtMTg3ZjEzM2U1NTkxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jennifer Connelly, Christoph Waltz, Mahershala Ali, Eiza Gonz\u00e1lez, Rosa Salazar, Ed Skrein, and Keean Johnson in Alita: Battle Angel (2019)",
+        "width": 1382,
+        "height": 2047
+      },
+      "imdbRating": 7.3,
+      "numVotes": 321328,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 7320,
+      "runtimeMinutes": 122,
+      "metascore": 53,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 23,
+      "titleId": "tt8228288",
+      "title": "The Platform",
+      "originalTitle": "El hoyo",
+      "year": 2019,
+      "releaseDate": {
+        "day": 20,
+        "month": 3,
+        "year": 2020
+      },
+      "plot": "In a prison where inmates are fed on a descending platform, those on the upper levels take more than their fair share while those below are left to starve on scraps and one man decides to change the system.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjUyZjNmYmMtNjA1My00ZWMyLTliZGQtODgzZjIxM2Y4NGI1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Emilio Buale and Ivan Massagu\u00e9 in The Platform (2019)",
+        "width": 1984,
+        "height": 2835
+      },
+      "imdbRating": 7,
+      "numVotes": 320262,
+      "certificate": "TV-MA",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 5640,
+      "runtimeMinutes": 94,
+      "metascore": 73,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 24,
+      "titleId": "tt7975244",
+      "title": "Jumanji: The Next Level",
+      "originalTitle": "Jumanji: The Next Level",
+      "year": 2019,
+      "releaseDate": {
+        "day": 13,
+        "month": 12,
+        "year": 2019
+      },
+      "plot": "In Jumanji: The Next Level, the gang is back but the game has changed. As they return to rescue one of their own, the players will have to brave parts unknown from arid deserts to snowy mountains, to escape the world's most dangerous game.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYWFjODExZWEtYzIwYS00M2YwLTk4YTktNDQ5ZmVmOThiNmI1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Danny Glover, Jack Black, Kevin Hart, Dwayne Johnson, and Karen Gillan in Jumanji: The Next Level (2019)",
+        "width": 6072,
+        "height": 9000
+      },
+      "imdbRating": 6.6,
+      "numVotes": 315545,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 7380,
+      "runtimeMinutes": 123,
+      "metascore": 58,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 25,
+      "titleId": "tt6139732",
+      "title": "Aladdin",
+      "originalTitle": "Aladdin",
+      "year": 2019,
+      "releaseDate": {
+        "day": 24,
+        "month": 5,
+        "year": 2019
+      },
+      "plot": "Aladdin, a kind thief, woos Jasmine, the princess of Agrabah, with the help of Genie. When Jafar, the grand vizier, tries to usurp the king, Jasmine, Aladdin and Genie must stop him from succeeding.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjQ2ODIyMjY4MF5BMl5BanBnXkFtZTgwNzY4ODI2NzM@._V1_.jpg",
+        "caption": "Will Smith, Alan Tudyk, Navid Negahban, Numan Acar, Marwan Kenzari, Naomi Scott, Mena Massoud, Adam Alzoubi, and Nathaniel Ellul in Aladdin (2019)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 6.9,
+      "numVotes": 312193,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family"
+      ],
+      "runtimeSeconds": 7680,
+      "runtimeMinutes": 128,
+      "metascore": 53,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 26,
+      "titleId": "tt1979376",
+      "title": "Toy Story 4",
+      "originalTitle": "Toy Story 4",
+      "year": 2019,
+      "releaseDate": {
+        "day": 21,
+        "month": 6,
+        "year": 2019
+      },
+      "plot": "When Woody, Buzz, and the gang join Bonnie on a road trip with her new craft project turned toy, Forky, the innocent little spork's antics launch Woody on a wild quest.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTYzMDM4NzkxOV5BMl5BanBnXkFtZTgwNzM1Mzg2NzM@._V1_.jpg",
+        "caption": "Tom Hanks, Keanu Reeves, Tim Allen, Annie Potts, Tony Hale, Christina Hendricks, Keegan-Michael Key, Ally Maki, and Jordan Peele in Toy Story 4 (2019)",
+        "width": 1086,
+        "height": 1609
+      },
+      "imdbRating": 7.6,
+      "numVotes": 309852,
+      "certificate": "G",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 6000,
+      "runtimeMinutes": 100,
+      "metascore": 84,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 27,
+      "titleId": "tt6823368",
+      "title": "Glass",
+      "originalTitle": "Glass",
+      "year": 2019,
+      "releaseDate": {
+        "day": 18,
+        "month": 1,
+        "year": 2019
+      },
+      "plot": "Security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTY1OTA2MjI5OV5BMl5BanBnXkFtZTgwNzkxMjU4NjM@._V1_.jpg",
+        "caption": "Samuel L. Jackson, Bruce Willis, and James McAvoy in Glass (2019)",
+        "width": 770,
+        "height": 1100
+      },
+      "imdbRating": 6.6,
+      "numVotes": 301593,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Horror"
+      ],
+      "runtimeSeconds": 7740,
+      "runtimeMinutes": 129,
+      "metascore": 43,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 28,
+      "titleId": "tt7984734",
+      "title": "The Lighthouse",
+      "originalTitle": "The Lighthouse",
+      "year": 2019,
+      "releaseDate": {
+        "day": 1,
+        "month": 11,
+        "year": 2019
+      },
+      "plot": "Two lighthouse keepers try to maintain their sanity while living on a remote and mysterious New England island in the 1890s.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTI4MjFhMjAtNmQxYi00N2IxLWJjMGEtYWY1YmU3OTQ0Zjk3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Willem Dafoe and Robert Pattinson in The Lighthouse (2019)",
+        "width": 1013,
+        "height": 1500
+      },
+      "imdbRating": 7.4,
+      "numVotes": 297787,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Horror"
+      ],
+      "runtimeSeconds": 6540,
+      "runtimeMinutes": 109,
+      "metascore": 83,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 29,
+      "titleId": "tt6105098",
+      "title": "The Lion King",
+      "originalTitle": "The Lion King",
+      "year": 2019,
+      "releaseDate": {
+        "day": 19,
+        "month": 7,
+        "year": 2019
+      },
+      "plot": "After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_.jpg",
+        "caption": "James Earl Jones, Kathy Griffin, Alfre Woodard, Scott Adsit, Carlos Alazraqui, Kristen Alderson, Kristen Ariza, Michael Beattie, Bob Bergen, Sebastian Cavazza, Cedric The Entertainer, Dane Cook, Walt Dohrn, Chiwetel Ejiofor, Penny Johnson Jerald, John Kani, Florence Kasumba, Beyonc\u00e9, Phil LaMarr, Danny Mann, Mike Mitchell, Don Rickles, Seth Rogen, Amy Sedaris, Peter Sohn, Aron Warner, Christopher Knights, John Oliver, Keegan-Michael Key, Will.i.am, Kristen DeLuca, Christopher Lee Parson, J. Lee, Donald Glover, Eric Andr\u00e9, Billy Eichner, Teri Reeves, Ryan Potter, Chance the Rapper, Kristen Phaneuf, JD McCrary, Josh McCrary, and Shahadi Wright Joseph in The Lion King (2019)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 6.8,
+      "numVotes": 289762,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Drama"
+      ],
+      "runtimeSeconds": 7080,
+      "runtimeMinutes": 118,
+      "metascore": 55,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 30,
+      "titleId": "tt3281548",
+      "title": "Little Women",
+      "originalTitle": "Little Women",
+      "year": 2019,
+      "releaseDate": {
+        "day": 25,
+        "month": 12,
+        "year": 2019
+      },
+      "plot": "In 19th century Massachusetts, the March sisters--Meg, Jo, Beth, and Amy--on the threshold of womanhood, go through many ups and downs in life and endeavor to make important decisions about their futures.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMWMzYjNiZWMtMDg4NS00MDgyLTk5MWItOTFmNjg4NzRhZmExXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Emma Watson, Saoirse Ronan, Florence Pugh, and Eliza Scanlen in Little Women (2019)",
+        "width": 6072,
+        "height": 9000
+      },
+      "imdbRating": 7.8,
+      "numVotes": 280344,
+      "certificate": "PG",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 8100,
+      "runtimeMinutes": 135,
+      "metascore": 91,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 31,
+      "titleId": "tt2935510",
+      "title": "Ad Astra",
+      "originalTitle": "Ad Astra",
+      "year": 2019,
+      "releaseDate": {
+        "day": 20,
+        "month": 9,
+        "year": 2019
+      },
+      "plot": "An astronaut embarks on a space mission to investigate a threat to the universe and uncover the truth about his father who disappeared thirty years ago.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOGRhOGNjZjEtNTU2Ni00MDlmLWI3MWEtNzc1OGE2ZmEwZGNhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Brad Pitt in Ad Astra (2019)",
+        "width": 2000,
+        "height": 3000
+      },
+      "imdbRating": 6.5,
+      "numVotes": 278018,
+      "certificate": "PG-13",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Mystery"
+      ],
+      "runtimeSeconds": 7380,
+      "runtimeMinutes": 123,
+      "metascore": 80,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 32,
+      "titleId": "tt6806448",
+      "title": "Fast & Furious Presents: Hobbs & Shaw",
+      "originalTitle": "Fast & Furious Presents: Hobbs & Shaw",
+      "year": 2019,
+      "releaseDate": {
+        "day": 2,
+        "month": 8,
+        "year": 2019
+      },
+      "plot": "Lawman Luke Hobbs and outcast Deckard Shaw form an unlikely alliance when a cyber-genetically enhanced villain threatens the future of humanity.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNmU4OTA5NGYtMTFjMS00MzgxLWFjNTMtYjdlMThlYzc4M2M4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jason Statham, Idris Elba, Dwayne Johnson, Eiza Gonz\u00e1lez, and Vanessa Kirby in Fast & Furious Presents: Hobbs & Shaw (2019)",
+        "width": 4088,
+        "height": 5963
+      },
+      "imdbRating": 6.4,
+      "numVotes": 254813,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "runtimeSeconds": 8220,
+      "runtimeMinutes": 137,
+      "metascore": 60,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 33,
+      "titleId": "tt5606664",
+      "title": "Doctor Sleep",
+      "originalTitle": "Doctor Sleep",
+      "year": 2019,
+      "releaseDate": {
+        "day": 8,
+        "month": 11,
+        "year": 2019
+      },
+      "plot": "Years following the events of The Shining (1980), a now-adult Dan Torrance must protect a young girl with similar powers from a cult known as The True Knot, who prey on children with powers to remain immortal.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGUyNTg0NWItODdkZS00YWY0LTljNjItMDYwMTI1ZmZkMjExXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ewan McGregor and Roger Dale Floyd in Doctor Sleep (2019)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 7.3,
+      "numVotes": 242518,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Horror"
+      ],
+      "runtimeSeconds": 9120,
+      "runtimeMinutes": 152,
+      "metascore": 59,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 34,
+      "titleId": "tt4729430",
+      "title": "Klaus",
+      "originalTitle": "Klaus",
+      "year": 2019,
+      "releaseDate": {
+        "day": 15,
+        "month": 11,
+        "year": 2019
+      },
+      "plot": "A simple act of kindness always sparks another, even in a frozen, faraway place. When Smeerensburg's new postman, Jesper, befriends toymaker Klaus, their gifts melt an age-old feud and deliver a sleigh full of holiday traditions.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDA4ODhlMzctNGRmYi00NmViLTkxZGYtZjRkNGQ5YzYwYWVlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Joan Cusack, Jason Schwartzman, Rashida Jones, Sergio Pablos, Will Sasso, J.K. Simmons, and Neda Margrethe Labba in Klaus (2019)",
+        "width": 1500,
+        "height": 2222
+      },
+      "imdbRating": 8.2,
+      "numVotes": 232951,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 5760,
+      "runtimeMinutes": 96,
+      "metascore": 65,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 35,
+      "titleId": "tt7798634",
+      "title": "Ready or Not",
+      "originalTitle": "Ready or Not",
+      "year": 2019,
+      "releaseDate": {
+        "day": 21,
+        "month": 8,
+        "year": 2019
+      },
+      "plot": "A bride's wedding night takes a sinister turn when her eccentric new in-laws force her to take part in a terrifying game.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTViMDA4YjgtZDQ4NC00ZDk2LTg0MWItOTc4MTkwMmVkZWRmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Andie MacDowell, Adam Brody, Nicky Guadagni, John Ralston, Elyse Levesque, Melanie Scrofano, Mark O'Brien, Kristian Bruun, Samara Weaving, Daniela Barbosa, Celine Tsai, and Hanneke Talbot in Ready or Not (2019)",
+        "width": 1006,
+        "height": 1500
+      },
+      "imdbRating": 6.8,
+      "numVotes": 229624,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Horror"
+      ],
+      "runtimeSeconds": 5700,
+      "runtimeMinutes": 95,
+      "metascore": 64,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 36,
+      "titleId": "tt3741700",
+      "title": "Godzilla: King of the Monsters",
+      "originalTitle": "Godzilla: King of the Monsters",
+      "year": 2019,
+      "releaseDate": {
+        "day": 31,
+        "month": 5,
+        "year": 2019
+      },
+      "plot": "The crypto-zoological agency Monarch faces off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDVhMjk2OGUtYzYxNS00NzBjLTk5YTItYzI0ZjgzNjY1NmI0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Godzilla: King of the Monsters (2019)",
+        "width": 2764,
+        "height": 4096
+      },
+      "imdbRating": 6,
+      "numVotes": 226643,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 7920,
+      "runtimeMinutes": 132,
+      "metascore": 48,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 37,
+      "titleId": "tt6565702",
+      "title": "X-Men: Dark Phoenix",
+      "originalTitle": "X-Men: Dark Phoenix",
+      "year": 2019,
+      "releaseDate": {
+        "day": 7,
+        "month": 6,
+        "year": 2019
+      },
+      "plot": "Jean Grey begins to develop incredible powers that corrupt and turn her into a Dark Phoenix, causing the X-Men to have to decide if her life is worth more than all of humanity.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjcwMDIyNjctMDVmNS00MzkyLTgxMDMtNTFmNTk0NDkyNzdjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Nicholas Hoult, James McAvoy, Michael Fassbender, Evan Peters, Jessica Chastain, Jennifer Lawrence, Kodi Smit-McPhee, Alexandra Shipp, Sophie Turner, and Tye Sheridan in X-Men: Dark Phoenix (2019)",
+        "width": 620,
+        "height": 918
+      },
+      "imdbRating": 5.7,
+      "numVotes": 225748,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6780,
+      "runtimeMinutes": 113,
+      "metascore": 43,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 38,
+      "titleId": "tt1560220",
+      "title": "Zombieland: Double Tap",
+      "originalTitle": "Zombieland: Double Tap",
+      "year": 2019,
+      "releaseDate": {
+        "day": 18,
+        "month": 10,
+        "year": 2019
+      },
+      "plot": "Columbus, Tallahassee, Wichita, and Little Rock move to the American heartland as they face off against evolved zombies, fellow survivors, and the growing pains of the snarky makeshift family.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTViNDc4NTgtYzVlNi00YmY3LWFiNDgtODJlNGU1YzI1MGExXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Woody Harrelson, Jesse Eisenberg, Abigail Breslin, and Emma Stone in Zombieland: Double Tap (2019)",
+        "width": 4050,
+        "height": 6000
+      },
+      "imdbRating": 6.7,
+      "numVotes": 223086,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Horror"
+      ],
+      "runtimeSeconds": 5940,
+      "runtimeMinutes": 99,
+      "metascore": 55,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 39,
+      "titleId": "tt4520988",
+      "title": "Frozen II",
+      "originalTitle": "Frozen II",
+      "year": 2019,
+      "releaseDate": {
+        "day": 22,
+        "month": 11,
+        "year": 2019
+      },
+      "plot": "Anna, Elsa, Kristoff, Olaf and Sven leave Arendelle to travel to an ancient, autumn-bound forest of an enchanted land. They set out to find the origin of Elsa's powers in order to save their kingdom.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTE1YjlmZjctNjIwNi00NDQ0LTlmMzgtYWZkY2RkZTMwNTdmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Kristen Bell, Idina Menzel, Josh Gad, and Jonathan Groff in Frozen II (2019)",
+        "width": 4050,
+        "height": 6000
+      },
+      "imdbRating": 6.8,
+      "numVotes": 216324,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 6180,
+      "runtimeMinutes": 103,
+      "metascore": 64,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 40,
+      "titleId": "tt6450804",
+      "title": "Terminator: Dark Fate",
+      "originalTitle": "Terminator: Dark Fate",
+      "year": 2019,
+      "releaseDate": {
+        "day": 1,
+        "month": 11,
+        "year": 2019
+      },
+      "plot": "An augmented human and Sarah Connor must stop an advanced liquid Terminator from hunting down a young girl, whose fate is critical to the human race.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTU2OGFhYjktNDJhMC00NmU5LWE1OWItNzg5ODU1MzdmNTZkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Linda Hamilton, Arnold Schwarzenegger, Natalia Reyes, Gabriel Luna, and Mackenzie Davis in Terminator: Dark Fate (2019)",
+        "width": 1200,
+        "height": 1874
+      },
+      "imdbRating": 6.2,
+      "numVotes": 210540,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 7680,
+      "runtimeMinutes": 128,
+      "metascore": 54,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 41,
+      "titleId": "tt8106534",
+      "title": "6 Underground",
+      "originalTitle": "6 Underground",
+      "year": 2019,
+      "releaseDate": {
+        "day": 13,
+        "month": 12,
+        "year": 2019
+      },
+      "plot": "It follows a group of people who fake their deaths and decide to form a vigilante team in order to stage a coup d'\u00e9tat against a ruthless dictator.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTNmZDgzMmMtMzJhMy00NGI3LWI5YTktYjg5MTllZmYyYTMxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ryan Reynolds, M\u00e9lanie Laurent, Dave Franco, Manuel Garcia-Rulfo, Corey Hawkins, Ben Hardy, and Adria Arjona in 6 Underground (2019)",
+        "width": 1013,
+        "height": 1500
+      },
+      "imdbRating": 6.1,
+      "numVotes": 209774,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7680,
+      "runtimeMinutes": 128,
+      "metascore": 41,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 42,
+      "titleId": "tt2066051",
+      "title": "Rocketman",
+      "originalTitle": "Rocketman",
+      "year": 2019,
+      "releaseDate": {
+        "day": 31,
+        "month": 5,
+        "year": 2019
+      },
+      "plot": "The musical fantasy about Elton John's breakthrough years, from his time as a prodigy at the Royal Academy of Music through his influential and enduring musical partnership with Bernie Taupin.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDNmM2U1MDAtNmE3NS00ZWVjLWFiZDktZTkwZjY5YWU2ZjZkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jamie Bell, Barbara Drennan, Bryce Dallas Howard, Steven Mackintosh, Diana Alexandra Pocol, Rachel Muldoon, Ophelia Lovibond, Taron Egerton, and Sian Crisp in Rocketman (2019)",
+        "width": 800,
+        "height": 1200
+      },
+      "imdbRating": 7.3,
+      "numVotes": 207671,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Music"
+      ],
+      "runtimeSeconds": 7260,
+      "runtimeMinutes": 121,
+      "metascore": 69,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 43,
+      "titleId": "tt5884052",
+      "title": "Pok\u00e9mon: Detective Pikachu",
+      "originalTitle": "Pok\u00e9mon: Detective Pikachu",
+      "year": 2019,
+      "releaseDate": {
+        "day": 10,
+        "month": 5,
+        "year": 2019
+      },
+      "plot": "In a world where people collect Pok\u00e9mon to do battle, a boy comes across an intelligent talking Pikachu who seeks to be a detective.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDU4Mzc3NzE5NV5BMl5BanBnXkFtZTgwMzE1NzI1NzM@._V1_.jpg",
+        "caption": "Ryan Reynolds and Justice Smith in Pok\u00e9mon: Detective Pikachu (2019)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 6.5,
+      "numVotes": 195082,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family"
+      ],
+      "runtimeSeconds": 6240,
+      "runtimeMinutes": 104,
+      "metascore": 53,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 44,
+      "titleId": "tt1618434",
+      "title": "Murder Mystery",
+      "originalTitle": "Murder Mystery",
+      "year": 2019,
+      "releaseDate": {
+        "day": 14,
+        "month": 6,
+        "year": 2019
+      },
+      "plot": "A New York cop and his wife go on a European vacation to reinvigorate the spark in their marriage, but end up getting framed and on the run for the death of an elderly billionaire.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzg4NDFjNmYtZjQxMy00MDY4LWEyZjUtYzRjNjNkNjJiZTZhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jennifer Aniston and Adam Sandler in Murder Mystery (2019)",
+        "width": 2722,
+        "height": 4032
+      },
+      "imdbRating": 6.1,
+      "numVotes": 187832,
+      "certificate": "PG-13",
+      "genres": [
+        "Crime",
+        "Mystery",
+        "Romance"
+      ],
+      "runtimeSeconds": 5820,
+      "runtimeMinutes": 97,
+      "metascore": 38,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 45,
+      "titleId": "tt8079248",
+      "title": "Yesterday",
+      "originalTitle": "Yesterday",
+      "year": 2019,
+      "releaseDate": {
+        "day": 28,
+        "month": 6,
+        "year": 2019
+      },
+      "plot": "A struggling musician realizes he's the only person on Earth who can remember The Beatles after waking up in an alternate reality where they never existed.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjQ0NTI0NjkyN15BMl5BanBnXkFtZTgwNzY0MTE0NzM@._V1_.jpg",
+        "caption": "Himesh Patel and Lily James in Yesterday (2019)",
+        "width": 1013,
+        "height": 1500
+      },
+      "imdbRating": 6.8,
+      "numVotes": 183468,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Music"
+      ],
+      "runtimeSeconds": 6960,
+      "runtimeMinutes": 116,
+      "metascore": 55,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 46,
+      "titleId": "tt5363618",
+      "title": "Sound of Metal",
+      "originalTitle": "Sound of Metal",
+      "year": 2019,
+      "releaseDate": {
+        "day": 4,
+        "month": 12,
+        "year": 2020
+      },
+      "plot": "During a series of adrenaline-fueled gigs, itinerant punk-metal drummer Ruben begins to experience hearing loss. When a specialist tells him his condition will rapidly worsen, he thinks his music career - and with it his life - is over.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMWE5ZmYwNDEtYTYwMS00MTc0LTk2ZWItZTM1MjQ1ZDYzZGUzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Riz Ahmed in Sound of Metal (2019)",
+        "width": 8100,
+        "height": 12000
+      },
+      "imdbRating": 7.7,
+      "numVotes": 183106,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Music"
+      ],
+      "runtimeSeconds": 7200,
+      "runtimeMinutes": 120,
+      "metascore": 82,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 47,
+      "titleId": "tt2386490",
+      "title": "How to Train Your Dragon: The Hidden World",
+      "originalTitle": "How to Train Your Dragon: The Hidden World",
+      "year": 2019,
+      "releaseDate": {
+        "day": 22,
+        "month": 2,
+        "year": 2019
+      },
+      "plot": "When Hiccup discovers Toothless isn't the only Night Fury, he must seek the Hidden World, a secret Dragon Utopia before a hired tyrant named Grimmel finds it first.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjIwMDIwNjAyOF5BMl5BanBnXkFtZTgwNDE1MDc2NTM@._V1_.jpg",
+        "caption": "Jay Baruchel in How to Train Your Dragon: The Hidden World (2019)",
+        "width": 1293,
+        "height": 2048
+      },
+      "imdbRating": 7.4,
+      "numVotes": 176112,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "runtimeSeconds": 6240,
+      "runtimeMinutes": 104,
+      "metascore": 71,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 48,
+      "titleId": "tt7984766",
+      "title": "The King",
+      "originalTitle": "The King",
+      "year": 2019,
+      "releaseDate": {
+        "day": 1,
+        "month": 11,
+        "year": 2019
+      },
+      "plot": "Young Henry V encounters deceit, war and treachery after becoming King of England in the 15th century, in the aftermath of his brother's death.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTFhZTY4YWUtMmJjMy00OTE0LTlmZjctMDg5MTk4N2ZjZWNjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Timoth\u00e9e Chalamet in The King (2019)",
+        "width": 729,
+        "height": 1080
+      },
+      "imdbRating": 7.3,
+      "numVotes": 174907,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "runtimeSeconds": 8400,
+      "runtimeMinutes": 140,
+      "metascore": 62,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 49,
+      "titleId": "tt1488606",
+      "title": "Triple Frontier",
+      "originalTitle": "Triple Frontier",
+      "year": 2019,
+      "releaseDate": {
+        "day": 13,
+        "month": 3,
+        "year": 2019
+      },
+      "plot": "Loyalties are tested when five friends and former special forces operatives reunite to take down a South American drug lord, unleashing a chain of unintended consequences.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODU4MzM2MDAxMl5BMl5BanBnXkFtZTgwNDEzNjM0NzM@._V1_.jpg",
+        "caption": "Ben Affleck, Pedro Pascal, Charlie Hunnam, Oscar Isaac, and Garrett Hedlund in Triple Frontier (2019)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 6.5,
+      "numVotes": 159870,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7500,
+      "runtimeMinutes": 125,
+      "metascore": 61,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 50,
+      "titleId": "tt2283336",
+      "title": "Men in Black: International",
+      "originalTitle": "Men in Black: International",
+      "year": 2019,
+      "releaseDate": {
+        "day": 14,
+        "month": 6,
+        "year": 2019
+      },
+      "plot": "The MIB tackle a mole in their organization.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTI0ZjJlODYtNTAyOS00ZDk4LTk0M2ItNDljMzY5NmZkYTRkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Liam Neeson, Emma Thompson, Tim Blaney, Chris Hemsworth, Tessa Thompson, and Kumail Nanjiani in Men in Black: International (2019)",
+        "width": 2024,
+        "height": 3000
+      },
+      "imdbRating": 5.6,
+      "numVotes": 159235,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 6840,
+      "runtimeMinutes": 114,
+      "metascore": 38,
+      "credits": [],
+      "titleType": "movie"
+    }
+  ]
+}

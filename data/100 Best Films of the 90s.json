@@ -1,0 +1,916 @@
+{
+  "source": "100 Best Films of the 90s.csv",
+  "movies": [
+    {
+      "rank": 1,
+      "titleId": "tt0117589",
+      "title": "Secrets & Lies",
+      "originalTitle": "Secrets & Lies",
+      "year": 1996,
+      "releaseDate": {
+        "day": 28,
+        "month": 2,
+        "year": 1997
+      },
+      "plot": "Following the death of her adoptive parents, a successful young black optometrist establishes contact with her biological mother -- a lonely white factory worker living in poverty in East London.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTU5ZWJkN2MtNGQ1Yy00YjIwLWE1ODAtNTMxNGM5NmY2YTJmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Brenda Blethyn and Marianne Jean-Baptiste in Secrets & Lies (1996)",
+        "width": 600,
+        "height": 897
+      },
+      "imdbRating": 8,
+      "numVotes": 51057,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 8160,
+      "runtimeMinutes": 136,
+      "metascore": 92,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0111341",
+      "title": "Satantango",
+      "originalTitle": "S\u00e1t\u00e1ntang\u00f3",
+      "year": 1994,
+      "releaseDate": {
+        "day": 28,
+        "month": 4,
+        "year": 1994
+      },
+      "plot": "On the eve of a large payment, residents of a collapsing collective farm see their plans turn into desolation when they discover that Irimi\u00e1s, a former co-worker who they thought was dead, is returning to the community.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BM2U1ZGYwNTItMjcwMS00ZTdjLWE2OWUtNDI5M2JlNjdmMTZlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Satantango (1994)",
+        "width": 960,
+        "height": 1389
+      },
+      "imdbRating": 8.2,
+      "numVotes": 13991,
+      "certificate": "Not Rated",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 26340,
+      "runtimeMinutes": 439,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0185125",
+      "title": "All About My Mother",
+      "originalTitle": "Todo sobre mi madre",
+      "year": 1999,
+      "releaseDate": {
+        "day": 31,
+        "month": 3,
+        "year": 2000
+      },
+      "plot": "A comedy-drama about a bereaved mother, an overwrought actress, her jealous lover, and a pregnant nun.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzgyNWMzNDItZmJhZi00NzZmLTkyNmMtMjBiNjUyMmNkYjg4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Marisa Paredes and Cecilia Roth in All About My Mother (1999)",
+        "width": 1963,
+        "height": 2900
+      },
+      "imdbRating": 7.8,
+      "numVotes": 108998,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 6060,
+      "runtimeMinutes": 101,
+      "metascore": 87,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0101985",
+      "title": "A Brighter Summer Day",
+      "originalTitle": "Guling jie shaonian sharen shijian",
+      "year": 1991,
+      "releaseDate": {
+        "day": 25,
+        "month": 11,
+        "year": 2011
+      },
+      "plot": "Based on a true story, primarily on a conflict between two youth gangs, a 14-year-old boy's girlfriend conflicts with the head of one gang for an unclear reason, until finally the conflict comes to a violent climax.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMGRkNGQwOTktNWQxOS00ZDRjLThmODktNWY4NThjNDU2MjM5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "A Brighter Summer Day (1991)",
+        "width": 1500,
+        "height": 2000
+      },
+      "imdbRating": 8.2,
+      "numVotes": 14805,
+      "certificate": "Not Rated",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 14220,
+      "runtimeMinutes": 237,
+      "metascore": 91,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0140888",
+      "title": "Central Station",
+      "originalTitle": "Central do Brasil",
+      "year": 1998,
+      "releaseDate": {
+        "day": 20,
+        "month": 11,
+        "year": 1998
+      },
+      "plot": "The emotive journey of a former schoolteacher who writes letters for illiterate people, and a young boy whose mother has just died, as they search for the father he never knew.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOGFiNWMzZTUtNDI5OS00MjFlLThkNzctYjg2OGJlM2U1NjIyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Fernanda Montenegro and Vin\u00edcius de Oliveira in Central Station (1998)",
+        "width": 960,
+        "height": 1402
+      },
+      "imdbRating": 8,
+      "numVotes": 50190,
+      "certificate": "R",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 6600,
+      "runtimeMinutes": 110,
+      "metascore": 80,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0119448",
+      "title": "Character",
+      "originalTitle": "Karakter",
+      "year": 1997,
+      "releaseDate": {
+        "day": 27,
+        "month": 3,
+        "year": 1998
+      },
+      "plot": "Jacob Katadreuffe lives mute with his mother, has no contact with his father who only works against him and wants to become a lawyer, at all costs.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTkwZTVhZmItZDllNy00NzdkLThjMDktN2U2ZTUwYmY1NWU3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tamar van den Dop and Fedja van Hu\u00eat in Character (1997)",
+        "width": 700,
+        "height": 1007
+      },
+      "imdbRating": 7.7,
+      "numVotes": 11934,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "runtimeSeconds": 7320,
+      "runtimeMinutes": 122,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0111786",
+      "title": "In the Heat of the Sun",
+      "originalTitle": "Yang guang can lan de ri zi",
+      "year": 1994,
+      "releaseDate": {
+        "day": 21,
+        "month": 8,
+        "year": 1995
+      },
+      "plot": "Beijing, 1970s. Now that the CR has driven most adults to the provinces, 14-year-old Monkey and his pals have free reign over the city. They hang around, get up to no good, and discover that unsolvable mystery referred to as \"girls.\"",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZGE4MWRhNmEtMDAyYS00MjcyLTkyMDQtY2VlYzY1ZDcwY2VmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "In the Heat of the Sun (1994)",
+        "width": 1045,
+        "height": 1520
+      },
+      "imdbRating": 8,
+      "numVotes": 6211,
+      "certificate": "",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 8040,
+      "runtimeMinutes": 134,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0154420",
+      "title": "The Celebration",
+      "originalTitle": "Festen",
+      "year": 1998,
+      "releaseDate": {
+        "day": 19,
+        "month": 6,
+        "year": 1998
+      },
+      "plot": "At Helge's 60th birthday party, some unpleasant family truths are revealed.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODNkY2VkOTktYTZlYy00OGJjLWEyZjMtZDAyZjljMTNlNmVmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Thomas Bo Larsen, Henning Moritzen, Paprika Steen, and Ulrich Thomsen in The Celebration (1998)",
+        "width": 848,
+        "height": 1200
+      },
+      "imdbRating": 8,
+      "numVotes": 100136,
+      "certificate": "R",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 6060,
+      "runtimeMinutes": 101,
+      "metascore": 82,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0118849",
+      "title": "Children of Heaven",
+      "originalTitle": "Bacheha-ye aseman",
+      "year": 1997,
+      "releaseDate": {
+        "day": 22,
+        "month": 1,
+        "year": 1999
+      },
+      "plot": "After a boy loses his sister's pair of shoes, he goes on a series of adventures in order to find them. When he can't, he tries a new way to \"win\" a new pair.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWZlMjNhNzgtZGRhOS00Y2U5LThjOTctODNjZTI0ZTBiYzBhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Children of Heaven (1997)",
+        "width": 580,
+        "height": 892
+      },
+      "imdbRating": 8.2,
+      "numVotes": 89088,
+      "certificate": "PG",
+      "genres": [
+        "Drama",
+        "Family",
+        "Sport"
+      ],
+      "runtimeSeconds": 5340,
+      "runtimeMinutes": 89,
+      "metascore": 77,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0110877",
+      "title": "The Postman",
+      "originalTitle": "Il postino",
+      "year": 1994,
+      "releaseDate": {
+        "day": 22,
+        "month": 3,
+        "year": 1996
+      },
+      "plot": "A simple Italian postman learns to love poetry while delivering mail to a famous poet, and then uses this to woo local beauty Beatrice.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTE1OTJkMmEtZDBmNC00ZTBiLWEwYTQtODEzNGU2OTAxZmU5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Massimo Troisi in The Postman (1994)",
+        "width": 500,
+        "height": 715
+      },
+      "imdbRating": 7.8,
+      "numVotes": 41189,
+      "certificate": "PG",
+      "genres": [
+        "Biography",
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 6480,
+      "runtimeMinutes": 108,
+      "metascore": 81,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0116790",
+      "title": "Kolya",
+      "originalTitle": "Kolja",
+      "year": 1996,
+      "releaseDate": {
+        "day": 24,
+        "month": 1,
+        "year": 1997
+      },
+      "plot": "A confirmed bachelor is in for the surprise of his life when a get-rich-quick scheme backfires and leaves him with a pint-sized new roommate.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNWEzMjFkODMtYzhiNi00M2IyLTk1NmEtYWQ4ZjlkYmViZWU0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Zdenek Sver\u00e1k in Kolya (1996)",
+        "width": 574,
+        "height": 924
+      },
+      "imdbRating": 7.7,
+      "numVotes": 16914,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Music"
+      ],
+      "runtimeSeconds": 6660,
+      "runtimeMinutes": 111,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0106332",
+      "title": "Farewell My Concubine",
+      "originalTitle": "Ba wang bie ji",
+      "year": 1993,
+      "releaseDate": {
+        "day": 15,
+        "month": 10,
+        "year": 1993
+      },
+      "plot": "Two boys meet at an opera training school in Peking in 1924. Their resulting friendship will span nearly 70 years and endure some of the most troublesome times in China's history.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjMzZjcwNzItNTYwZC00NzAxLWE3MmMtYmU3ZjdkMWMxNDMwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Farewell My Concubine (1993)",
+        "width": 945,
+        "height": 1463
+      },
+      "imdbRating": 8.1,
+      "numVotes": 36595,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Music",
+        "Romance"
+      ],
+      "runtimeSeconds": 10260,
+      "runtimeMinutes": 171,
+      "metascore": 84,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0110882",
+      "title": "Before the Rain",
+      "originalTitle": "Pred dozhdot",
+      "year": 1994,
+      "releaseDate": {
+        "day": 24,
+        "month": 2,
+        "year": 1995
+      },
+      "plot": "Three interconnected stories of love under the threat of civil war in Macedonia and London.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNmYwMmU4ZGQtMjA0YS00NjQ2LThlMzMtNzQ5NTEwNjA5MmJlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Katrin Cartlidge and Rade Serbedzija in Before the Rain (1994)",
+        "width": 580,
+        "height": 864
+      },
+      "imdbRating": 7.8,
+      "numVotes": 16605,
+      "certificate": "Not Rated",
+      "genres": [
+        "Drama",
+        "Romance",
+        "War"
+      ],
+      "runtimeSeconds": 6780,
+      "runtimeMinutes": 113,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0195231",
+      "title": "Satya",
+      "originalTitle": "Satya",
+      "year": 1998,
+      "releaseDate": {
+        "day": 3,
+        "month": 7,
+        "year": 1998
+      },
+      "plot": "An innocent man is embroiled in the underworld after being falsely charged, and he sets out to punish the perpetrators who made his life miserable.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTMwMjk3MzA2OF5BMl5BanBnXkFtZTcwNjU2ODgzMQ@@._V1_.jpg",
+        "caption": "J.D. Chakravarthi in Satya (1998)",
+        "width": 353,
+        "height": 500
+      },
+      "imdbRating": 8.3,
+      "numVotes": 18322,
+      "certificate": "Not Rated",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 10200,
+      "runtimeMinutes": 170,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0110081",
+      "title": "To Live",
+      "originalTitle": "Huo zhe",
+      "year": 1994,
+      "releaseDate": {
+        "day": 16,
+        "month": 12,
+        "year": 1994
+      },
+      "plot": "After Fugui and Jiazhen lose their personal fortunes, they raise a family and survive difficult cultural changes during 1940s to 1970s China.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjZlNzNmMTktNzQzZC00YWI2LTkyMmYtMGYwZjhjNzA0MDU0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Gong Li in To Live (1994)",
+        "width": 1972,
+        "height": 2920
+      },
+      "imdbRating": 8.3,
+      "numVotes": 22141,
+      "certificate": "Not Rated",
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "runtimeSeconds": 7980,
+      "runtimeMinutes": 133,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0100470",
+      "title": "Journey of Hope",
+      "originalTitle": "Reise der Hoffnung",
+      "year": 1990,
+      "releaseDate": {
+        "day": 26,
+        "month": 4,
+        "year": 1991
+      },
+      "plot": "The story of a Turkish Alevi family trying to illegally emigrate to Switzerland, a country they know only from a postcard.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOGY5YzAyM2UtNjUxMi00ZTM4LThkOGItYmU1NmI2ZDY2MjQyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Journey of Hope (1990)",
+        "width": 1119,
+        "height": 1600
+      },
+      "imdbRating": 7.5,
+      "numVotes": 2484,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Drama"
+      ],
+      "runtimeSeconds": 6300,
+      "runtimeMinutes": 105,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0120255",
+      "title": "The Sweet Hereafter",
+      "originalTitle": "The Sweet Hereafter",
+      "year": 1997,
+      "releaseDate": {
+        "day": 21,
+        "month": 11,
+        "year": 1997
+      },
+      "plot": "A bus crash in a small town brings a lawyer to defend the families, but he discovers everything isn't what it seems.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzZlYjlmMDYtOTdlMC00NmViLThjMTItMmM2N2NkYTRkOTg1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "The Sweet Hereafter (1997)",
+        "width": 600,
+        "height": 874
+      },
+      "imdbRating": 7.4,
+      "numVotes": 38059,
+      "certificate": "R",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 6720,
+      "runtimeMinutes": 112,
+      "metascore": 91,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0166896",
+      "title": "The Straight Story",
+      "originalTitle": "The Straight Story",
+      "year": 1999,
+      "releaseDate": {
+        "day": 3,
+        "month": 11,
+        "year": 1999
+      },
+      "plot": "Alvin Straight, a 73-year-old, learns that his estranged brother, Lyle is critically ill. Unable to drive, Alvin embarks on a journey from Iowa to Mt. Zion by riding a lawn mower.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjdjNWZhY2UtMDRiYS00M2NhLThiZmQtYTA0MzI4ZWIyYzY4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Richard Farnsworth in The Straight Story (1999)",
+        "width": 1962,
+        "height": 2911
+      },
+      "imdbRating": 8,
+      "numVotes": 108080,
+      "certificate": "G",
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "runtimeSeconds": 6720,
+      "runtimeMinutes": 112,
+      "metascore": 86,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0124315",
+      "title": "The Cider House Rules",
+      "originalTitle": "The Cider House Rules",
+      "year": 1999,
+      "releaseDate": {
+        "day": 7,
+        "month": 1,
+        "year": 2000
+      },
+      "plot": "During World War II, an orphan grows up under the tutelage of a doctor who runs an orphanage. However, he yearns for freedom and soon decides to leave in order to make a life for himself.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYWZlYzMyNzMtNjhlMy00ZTAzLWEwMTMtY2YwNzAxMDk1ZTViXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Charlize Theron and Tobey Maguire in The Cider House Rules (1999)",
+        "width": 1000,
+        "height": 1500
+      },
+      "imdbRating": 7.4,
+      "numVotes": 108967,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 7560,
+      "runtimeMinutes": 126,
+      "metascore": 75,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0103176",
+      "title": "Close to Eden",
+      "originalTitle": "Urga",
+      "year": 1991,
+      "releaseDate": {
+        "day": 30,
+        "month": 10,
+        "year": 1992
+      },
+      "plot": "A curious friendship develops between Gombo, a young Mongolian shepherd living with his wife and family in a hut, deep in the wilderness of the steppes, and Sergei, a Russian worker whose truck breaks down not far from Gombo's hut.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzI1ZGNkM2ItMjYzYy00MGQ1LWE0ODAtYWJmMThiOWMwZGI3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Close to Eden (1991)",
+        "width": 947,
+        "height": 1320
+      },
+      "imdbRating": 7.5,
+      "numVotes": 4049,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 7140,
+      "runtimeMinutes": 119,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0114787",
+      "title": "Underground",
+      "originalTitle": "Underground",
+      "year": 1995,
+      "releaseDate": {
+        "day": 20,
+        "month": 6,
+        "year": 1997
+      },
+      "plot": "Two underground black marketeers, Marko and Blacky, sell weapons to the Communist resistance in wartime Belgrade, living the good life along the way.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZGI3MGFhMTgtMDJjOC00ODU1LTlhMTQtZmYyZDQ3YWQxYjc5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Underground (1995)",
+        "width": 580,
+        "height": 832
+      },
+      "imdbRating": 8,
+      "numVotes": 63907,
+      "certificate": "Not Rated",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 10020,
+      "runtimeMinutes": 167,
+      "metascore": 79,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0200087",
+      "title": "Sarfarosh",
+      "originalTitle": "Sarfarosh",
+      "year": 1999,
+      "releaseDate": {
+        "day": 30,
+        "month": 4,
+        "year": 1999
+      },
+      "plot": "After his brother is killed and father severely injured by terrorists, a young med student quits his studies to join the Indian Police Service to wipe out the terrorists.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjYzZDRkNTEtMTBjMS00Y2Q4LWE3MDctZTZmZDcyZjg3NzJiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Sarfarosh (1999)",
+        "width": 3200,
+        "height": 4096
+      },
+      "imdbRating": 8.1,
+      "numVotes": 28579,
+      "certificate": "Not Rated",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 10440,
+      "runtimeMinutes": 174,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0111579",
+      "title": "Burnt by the Sun",
+      "originalTitle": "Utomlennye solntsem",
+      "year": 1994,
+      "releaseDate": {
+        "day": 21,
+        "month": 4,
+        "year": 1995
+      },
+      "plot": "In the USSR in 1936, shadows of Stalin's repressions fall on a famous, revolutionary hero. The accusations of him being a foreign spy are nonsense, and everyone knows that. However, a slow process of his downfall has already started.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2E5MzcyY2QtNzM1Mi00ZTk4LTg4YzMtMTQ0YThjNDJlYTIxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Burnt by the Sun (1994)",
+        "width": 1080,
+        "height": 1620
+      },
+      "imdbRating": 7.8,
+      "numVotes": 17200,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "runtimeSeconds": 8100,
+      "runtimeMinutes": 135,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0102571",
+      "title": "The Elementary School",
+      "originalTitle": "Obecn\u00e1 skola",
+      "year": 1991,
+      "releaseDate": {
+        "day": null,
+        "month": 10,
+        "year": 1993
+      },
+      "plot": "The time is 1945-46. 10 year old Eda and his friend Tonda live in a small village outside Prague. In school, their class is so wild and indisciplined that their teacher quits and is replaced by the militant Igor Hnidzo. He is very strict - but also very just. His weakness is his interest in young women.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOGQ0NmQ1ZDQtOTZkYy00NDY3LThhODEtMjU4YmFlMTc5OWEzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Libuse Safr\u00e1nkov\u00e1 and Jan Tr\u00edska in The Elementary School (1991)",
+        "width": 341,
+        "height": 500
+      },
+      "imdbRating": 7.7,
+      "numVotes": 3460,
+      "certificate": "",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 6000,
+      "runtimeMinutes": 100,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0100234",
+      "title": "Close-Up",
+      "originalTitle": "Nema-ye nazdik",
+      "year": 1990,
+      "releaseDate": {
+        "day": 30,
+        "month": 10,
+        "year": 1991
+      },
+      "plot": "The true story of Hossain Sabzian, a cinephile who impersonated the director Mohsen Makhmalbaf to convince a family they would star in his so-called new film.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTNlNWFiNTAtZTMxYS00NzgxLTlmOGYtZjY4NWVlNDlmZDJlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Abolfazl Ahankhah, Mehrdad Ahankhah, Hossain Farazmand, Mohsen Makhmalbaf, and Hossain Sabzian in Close-Up (1990)",
+        "width": 1145,
+        "height": 1688
+      },
+      "imdbRating": 8.2,
+      "numVotes": 26419,
+      "certificate": "Not Rated",
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 5880,
+      "runtimeMinutes": 98,
+      "metascore": 92,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0169858",
+      "title": "Neon Genesis Evangelion: The End of Evangelion",
+      "originalTitle": "Shin seiki Evangelion Gekij\u00f4-ban: Air/Magokoro wo, kimi ni",
+      "year": 1997,
+      "releaseDate": {
+        "day": 17,
+        "month": 3,
+        "year": 2024
+      },
+      "plot": "As the military and a shadowy cabal assault NERV headquarters, troubled Eva pilot Shinji Ikari is forced back into battle, confronting a secret project that could decide humanity's fate.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODYzNDZmOTUtMDdiZS00Nzg3LTkxZGUtZmYzYzkxYjBlYjA5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Neon Genesis Evangelion: The End of Evangelion (1997)",
+        "width": 2000,
+        "height": 2845
+      },
+      "imdbRating": 8.1,
+      "numVotes": 75299,
+      "certificate": "TV-MA",
+      "genres": [
+        "Animation",
+        "Action",
+        "Drama"
+      ],
+      "runtimeSeconds": 5220,
+      "runtimeMinutes": 87,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0120684",
+      "title": "Gods and Monsters",
+      "originalTitle": "Gods and Monsters",
+      "year": 1998,
+      "releaseDate": {
+        "day": 4,
+        "month": 11,
+        "year": 1998
+      },
+      "plot": "The last days of Frankenstein (1931) director James Whale are explored.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTZiZTg1NzMtODNmMS00YzAwLWE1OTMtODdhZDZiZWJmMzk4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Brendan Fraser and Ian McKellen in Gods and Monsters (1998)",
+        "width": 1276,
+        "height": 1895
+      },
+      "imdbRating": 7.3,
+      "numVotes": 34114,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "runtimeSeconds": 6300,
+      "runtimeMinutes": 105,
+      "metascore": 74,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0104454",
+      "title": "Howards End",
+      "originalTitle": "Howards End",
+      "year": 1992,
+      "releaseDate": {
+        "day": 26,
+        "month": 2,
+        "year": 1993
+      },
+      "plot": "An Englishman cheats a woman out of an inheritance.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTk3MDY3NDc2NF5BMl5BanBnXkFtZTgwODcwNjgzOTE@._V1_.jpg",
+        "caption": "Anthony Hopkins, Helena Bonham Carter, Emma Thompson, and Samuel West in Howards End (1992)",
+        "width": 1980,
+        "height": 2880
+      },
+      "imdbRating": 7.3,
+      "numVotes": 38389,
+      "certificate": "PG",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 8520,
+      "runtimeMinutes": 142,
+      "metascore": 88,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0099334",
+      "title": "Cyrano de Bergerac",
+      "originalTitle": "Cyrano de Bergerac",
+      "year": 1990,
+      "releaseDate": {
+        "day": 1,
+        "month": 12,
+        "year": 1990
+      },
+      "plot": "Famed swordsman and poet Cyrano de Bergerac is in love with his cousin Roxane. He has never expressed his love for her as he his large nose undermines his self-confidence. Then he finds a way to express his love to her, indirectly.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzgxYjJmZTktMWY1Zi00MjEyLWJlMGEtMmU4Y2UwMjJjZjEzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Cyrano de Bergerac (1990)",
+        "width": 800,
+        "height": 1215
+      },
+      "imdbRating": 7.5,
+      "numVotes": 27377,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "History"
+      ],
+      "runtimeSeconds": 8220,
+      "runtimeMinutes": 137,
+      "metascore": 79,
+      "credits": [],
+      "titleType": "movie"
+    }
+  ]
+}

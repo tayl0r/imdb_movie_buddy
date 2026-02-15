@@ -1,0 +1,1580 @@
+{
+  "year": 1983,
+  "movies": [
+    {
+      "rank": 1,
+      "titleId": "tt0086190",
+      "title": "Star Wars: Episode VI - Return of the Jedi",
+      "originalTitle": "Star Wars: Episode VI - Return of the Jedi",
+      "year": 1983,
+      "releaseDate": {
+        "day": 25,
+        "month": 5,
+        "year": 1983
+      },
+      "plot": "After rescuing Han Solo from Jabba the Hutt, the Rebel Alliance attempts to destroy the second Death Star while Luke struggles to help Darth Vader back from the dark side.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNWEwOTI0MmUtMGNmNy00ODViLTlkZDQtZTg1YmQ3MDgyNTUzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Harrison Ford, Carrie Fisher, Mark Hamill, James Earl Jones, Warwick Davis, David Prowse, Billy Dee Williams, Michael Carter, and Larry Ward in Star Wars: Episode VI - Return of the Jedi (1983)",
+        "width": 1811,
+        "height": 2809
+      },
+      "imdbRating": 8.3,
+      "numVotes": 1198840,
+      "certificate": "PG",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 7860,
+      "runtimeMinutes": 131,
+      "metascore": 58,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 2,
+      "titleId": "tt0086250",
+      "title": "Scarface",
+      "originalTitle": "Scarface",
+      "year": 1983,
+      "releaseDate": {
+        "day": 9,
+        "month": 12,
+        "year": 1983
+      },
+      "plot": "In the 1980s, a determined criminal-minded Cuban immigrant becomes the biggest drug smuggler in Miami, and is eventually undone by his own drug addiction.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDUzYjY0NmUtMDM4OS00Y2Q5LWJiODYtNTk0ZTk0YjZhMTg1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Al Pacino in Scarface (1983)",
+        "width": 1000,
+        "height": 1500
+      },
+      "imdbRating": 8.3,
+      "numVotes": 1004034,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 10200,
+      "runtimeMinutes": 170,
+      "metascore": 65,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 3,
+      "titleId": "tt0086465",
+      "title": "Trading Places",
+      "originalTitle": "Trading Places",
+      "year": 1983,
+      "releaseDate": {
+        "day": 8,
+        "month": 6,
+        "year": 1983
+      },
+      "plot": "A snobbish Wall Street commodities broker and a wily street hustler find their positions reversed as part of a bet by two callous millionaire brothers who run a brokerage house.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzlkYjQ1MzUtNjgwZi00MmRhLTkwYzItMGRmN2Y3YmRjY2JmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Trading Places (1983)",
+        "width": 1492,
+        "height": 2260
+      },
+      "imdbRating": 7.5,
+      "numVotes": 181017,
+      "certificate": "R",
+      "genres": [
+        "Comedy"
+      ],
+      "runtimeSeconds": 6960,
+      "runtimeMinutes": 116,
+      "metascore": 69,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 4,
+      "titleId": "tt0085334",
+      "title": "A Christmas Story",
+      "originalTitle": "A Christmas Story",
+      "year": 1983,
+      "releaseDate": {
+        "day": 18,
+        "month": 11,
+        "year": 1983
+      },
+      "plot": "In the 1940s, a young boy named Ralphie Parker attempts to convince his parents, teacher, and Santa Claus that a Red Ryder Range 200 Shot BB gun really is the perfect Christmas gift.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWZhYzI1YjktYzJjYy00NjIwLWE0MGItNWM4YWM2ZjFkNGM0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Peter Billingsley, Melinda Dillon, Jeff Gillen, and Darren McGavin in A Christmas Story (1983)",
+        "width": 985,
+        "height": 1500
+      },
+      "imdbRating": 7.9,
+      "numVotes": 180332,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Family"
+      ],
+      "runtimeSeconds": 5580,
+      "runtimeMinutes": 93,
+      "metascore": 77,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 5,
+      "titleId": "tt0085959",
+      "title": "Monty Python's the Meaning of Life",
+      "originalTitle": "The Meaning of Life",
+      "year": 1983,
+      "releaseDate": {
+        "day": 31,
+        "month": 3,
+        "year": 1983
+      },
+      "plot": "The comedy team takes a look at life in all of its stages in their own uniquely silly way.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMmZjYzM5OGMtYmY2OS00YzQ3LWEzZjgtY2Q1Yjc1NTNkYTZiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "John Cleese, Terry Gilliam, Graham Chapman, Eric Idle, Terry Jones, Michael Palin, and Monty Python in Monty Python's the Meaning of Life (1983)",
+        "width": 558,
+        "height": 873
+      },
+      "imdbRating": 7.5,
+      "numVotes": 129476,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Musical"
+      ],
+      "runtimeSeconds": 6420,
+      "runtimeMinutes": 107,
+      "metascore": 72,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 6,
+      "titleId": "tt0085995",
+      "title": "National Lampoon's Vacation",
+      "originalTitle": "National Lampoon's Vacation",
+      "year": 1983,
+      "releaseDate": {
+        "day": 29,
+        "month": 7,
+        "year": 1983
+      },
+      "plot": "The Griswold family's cross-country drive in their brand new Wagon Family Truckster to the Walley World theme park in California proves to be much more arduous than they ever anticipated.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWQ3ZTg3MzYtOGU0Yi00NjgyLWFkNmMtMWFlZWE3MTkyOTdlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Chevy Chase, Beverly D'Angelo, and Christie Brinkley in National Lampoon's Vacation (1983)",
+        "width": 568,
+        "height": 864
+      },
+      "imdbRating": 7.3,
+      "numVotes": 127591,
+      "certificate": "R",
+      "genres": [
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 5880,
+      "runtimeMinutes": 98,
+      "metascore": 55,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 7,
+      "titleId": "tt0086567",
+      "title": "WarGames",
+      "originalTitle": "WarGames",
+      "year": 1983,
+      "releaseDate": {
+        "day": 3,
+        "month": 6,
+        "year": 1983
+      },
+      "plot": "A young man finds a back door into a military central computer in which reality is confused with game-playing, possibly starting World War III.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMmM5MDlmZWUtYTE1Mi00M2JiLTk1NzYtMTg0NTdlMzM2N2RkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Matthew Broderick and Ally Sheedy in WarGames (1983)",
+        "width": 926,
+        "height": 1439
+      },
+      "imdbRating": 7.1,
+      "numVotes": 120443,
+      "certificate": "PG",
+      "genres": [
+        "Action",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6840,
+      "runtimeMinutes": 114,
+      "metascore": 77,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 8,
+      "titleId": "tt0086034",
+      "title": "Octopussy",
+      "originalTitle": "Octopussy",
+      "year": 1983,
+      "releaseDate": {
+        "day": 10,
+        "month": 6,
+        "year": 1983
+      },
+      "plot": "A fake Faberg\u00e9 egg recovered from the body of a fellow agent leads James Bond to uncover a jewel smuggling operation led by the mysterious Octopussy, and a plot to blow up a NATO air base.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWZkNWVhMDItOTQwYy00ZDgwLTg3MGItMTcyOTk3OWZkMWIwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Roger Moore, Maud Adams, and Kabir Bedi in Octopussy (1983)",
+        "width": 1941,
+        "height": 2910
+      },
+      "imdbRating": 6.5,
+      "numVotes": 119712,
+      "certificate": "PG",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7860,
+      "runtimeMinutes": 131,
+      "metascore": 63,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 9,
+      "titleId": "tt0086541",
+      "title": "Videodrome",
+      "originalTitle": "Videodrome",
+      "year": 1983,
+      "releaseDate": {
+        "day": 4,
+        "month": 2,
+        "year": 1983
+      },
+      "plot": "A Toronto cable TV station co-owner who specializes in adult entertainment searches for the producers of a dangerous and bizarre broadcast titled \"Videodrome.\"",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTI0NDVlMjMtNWI5Yi00ZWM0LTg4NWUtNGRkYjU5NTBkZjVkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "James Woods and Debbie Harry in Videodrome (1983)",
+        "width": 1200,
+        "height": 1800
+      },
+      "imdbRating": 7.2,
+      "numVotes": 111890,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 5220,
+      "runtimeMinutes": 87,
+      "metascore": 58,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 10,
+      "titleId": "tt0086066",
+      "title": "The Outsiders",
+      "originalTitle": "The Outsiders",
+      "year": 1983,
+      "releaseDate": {
+        "day": 25,
+        "month": 3,
+        "year": 1983
+      },
+      "plot": "In Tulsa, Oklahoma in 1964, the rivalry between two gangs, the poor Greasers and the rich Socs, heats up when one gang member accidentally kills a member of the other.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODlmMzZjZDEtOTUwOS00OTAwLTg2YzAtYTA4ZTk3ZWNjMTgxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tom Cruise, Matt Dillon, Emilio Estevez, Rob Lowe, Patrick Swayze, C. Thomas Howell, and Ralph Macchio in The Outsiders (1983)",
+        "width": 548,
+        "height": 835
+      },
+      "imdbRating": 7,
+      "numVotes": 108392,
+      "certificate": "PG",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 5460,
+      "runtimeMinutes": 91,
+      "metascore": 45,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 11,
+      "titleId": "tt0086200",
+      "title": "Risky Business",
+      "originalTitle": "Risky Business",
+      "year": 1983,
+      "releaseDate": {
+        "day": 5,
+        "month": 8,
+        "year": 1983
+      },
+      "plot": "A Chicago teenager is looking for fun at home while his parents are away, but the situation quickly gets out of hand.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BM2ZkNDFlMDQtNmI0OS00YTQ1LTg4MDMtYjdhZTY1MjQzNmU5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tom Cruise and Rebecca De Mornay in Risky Business (1983)",
+        "width": 1846,
+        "height": 2841
+      },
+      "imdbRating": 6.8,
+      "numVotes": 107370,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 5940,
+      "runtimeMinutes": 99,
+      "metascore": 75,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 12,
+      "titleId": "tt0085333",
+      "title": "Christine",
+      "originalTitle": "Christine",
+      "year": 1983,
+      "releaseDate": {
+        "day": 9,
+        "month": 12,
+        "year": 1983
+      },
+      "plot": "A nerdish boy buys a strange car with an evil mind of its own and his nature starts to change to reflect it.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTQxZjlhNzUtMGJkMS00ODMwLWI0NzMtZGZiYzRmODE5ODI2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Christine (1983)",
+        "width": 535,
+        "height": 815
+      },
+      "imdbRating": 6.8,
+      "numVotes": 101612,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6600,
+      "runtimeMinutes": 110,
+      "metascore": 57,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 13,
+      "titleId": "tt0085407",
+      "title": "The Dead Zone",
+      "originalTitle": "The Dead Zone",
+      "year": 1983,
+      "releaseDate": {
+        "day": 21,
+        "month": 10,
+        "year": 1983
+      },
+      "plot": "Five years after a traffic accident that left him in a coma, a man awakens to discover that he has the ability to foresee future events and even prevent tragedies from happening. Will these new abilities prove to be a blessing or a curse?",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjlmYzYyODgtYjBiYS00ZDM3LWE0MDYtN2U3MzBjMTRmYzMzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "The Dead Zone (1983)",
+        "width": 1997,
+        "height": 3007
+      },
+      "imdbRating": 7.2,
+      "numVotes": 83856,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6180,
+      "runtimeMinutes": 103,
+      "metascore": 69,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 14,
+      "titleId": "tt0086393",
+      "title": "Superman III",
+      "originalTitle": "Superman III",
+      "year": 1983,
+      "releaseDate": {
+        "day": 17,
+        "month": 6,
+        "year": 1983
+      },
+      "plot": "Entrepreneur Ross Webster teams up with a computer genius in order to realise his own evil intentions. When Superman obstructs his plans, he decides to destroy him.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjcyN2E4NzQtYmUwZC00NmQ5LWJkMWUtMThjZGIwZGIwYzZmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Richard Pryor and Christopher Reeve in Superman III (1983)",
+        "width": 1400,
+        "height": 2121
+      },
+      "imdbRating": 5,
+      "numVotes": 80866,
+      "certificate": "PG",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 7500,
+      "runtimeMinutes": 125,
+      "metascore": 44,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 15,
+      "titleId": "tt0086006",
+      "title": "Never Say Never Again",
+      "originalTitle": "Never Say Never Again",
+      "year": 1983,
+      "releaseDate": {
+        "day": 7,
+        "month": 10,
+        "year": 1983
+      },
+      "plot": "James Bond is called upon to try to recover nuclear bombs stolen by Spectre, but he will have to get rid of a professional assassin, hired especially to eliminate him.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BM2ZkMzg5ZmQtYzhjMy00ZGM0LWJkNTgtZDMwMzljZGMyZDc0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Kim Basinger, Sean Connery, and Barbara Carrera in Never Say Never Again (1983)",
+        "width": 1707,
+        "height": 2529
+      },
+      "imdbRating": 6.1,
+      "numVotes": 77195,
+      "certificate": "PG",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "runtimeSeconds": 8040,
+      "runtimeMinutes": 134,
+      "metascore": 68,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 16,
+      "titleId": "tt0086425",
+      "title": "Terms of Endearment",
+      "originalTitle": "Terms of Endearment",
+      "year": 1983,
+      "releaseDate": {
+        "day": 9,
+        "month": 12,
+        "year": 1983
+      },
+      "plot": "Widow Aurora Greenway juggles her own struggles with a new romantic interest while trying to sort out the emotional problems of her daughter who's married to a philandering husband.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTk0ODM4NDk0MF5BMl5BanBnXkFtZTgwMTEzMDUxMDE@._V1_.jpg",
+        "caption": "Shirley MacLaine and Debra Winger in Terms of Endearment (1983)",
+        "width": 675,
+        "height": 1000
+      },
+      "imdbRating": 7.4,
+      "numVotes": 69896,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 7920,
+      "runtimeMinutes": 132,
+      "metascore": 79,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 17,
+      "titleId": "tt0086197",
+      "title": "The Right Stuff",
+      "originalTitle": "The Right Stuff",
+      "year": 1983,
+      "releaseDate": {
+        "day": 17,
+        "month": 2,
+        "year": 1984
+      },
+      "plot": "The U.S. space program's development from the breaking of the sound barrier to selection of the Mercury 7 astronauts, from a group of test pilots with a more seat-of-the-pants approach than the program's more cautious engineers preferred.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZmNiMWIxZDEtYWE0Zi00YzU5LTk4NzctNmE2YThiMGUzYzlkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ed Harris, Lance Henriksen, Dennis Quaid, Scott Glenn, Sam Shepard, Charles Frank, Scott Paulin, and Fred Ward in The Right Stuff (1983)",
+        "width": 1005,
+        "height": 1500
+      },
+      "imdbRating": 7.8,
+      "numVotes": 68656,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Biography",
+        "Drama"
+      ],
+      "runtimeSeconds": 11580,
+      "runtimeMinutes": 193,
+      "metascore": 91,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 18,
+      "titleId": "tt0085549",
+      "title": "Flashdance",
+      "originalTitle": "Flashdance",
+      "year": 1983,
+      "releaseDate": {
+        "day": 15,
+        "month": 4,
+        "year": 1983
+      },
+      "plot": "An 18-year-old female amateur dancer who performs nightly at a dancing bar, and works as a welder during the day, dreams of joining the Pittsburgh ballet school.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNWU3NzQ3NDYtYjY2ZS00NTZjLWJkYjEtMDA1NzcxOTdiOWI0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jennifer Beals in Flashdance (1983)",
+        "width": 1502,
+        "height": 2260
+      },
+      "imdbRating": 6.2,
+      "numVotes": 63588,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Music",
+        "Romance"
+      ],
+      "runtimeSeconds": 5700,
+      "runtimeMinutes": 95,
+      "metascore": 39,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 19,
+      "titleId": "tt0085382",
+      "title": "Cujo",
+      "originalTitle": "Cujo",
+      "year": 1983,
+      "releaseDate": {
+        "day": 12,
+        "month": 8,
+        "year": 1983
+      },
+      "plot": "Cujo, a friendly St. Bernard, contracts rabies and conducts a reign of terror on an American farm.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjM2NDc1NDYtMzA1ZS00NGIwLTljMDAtN2JiNGU2ZDM0MDM3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Cujo (1983)",
+        "width": 1460,
+        "height": 2214
+      },
+      "imdbRating": 6.1,
+      "numVotes": 55223,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5580,
+      "runtimeMinutes": 93,
+      "metascore": 57,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 20,
+      "titleId": "tt0085750",
+      "title": "Jaws 3-D",
+      "originalTitle": "Jaws 3-D",
+      "year": 1983,
+      "releaseDate": {
+        "day": 22,
+        "month": 7,
+        "year": 1983
+      },
+      "plot": "A giant thirty-five-foot shark becomes trapped in a SeaWorld theme park and it's up to the sons of police chief Brody to rescue everyone.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYmY3YWZiMTAtZGYyYy00ODc3LTk5NjQtY2RhN2QwNzE2ZGI3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Bruce in Jaws 3-D (1983)",
+        "width": 1486,
+        "height": 2260
+      },
+      "imdbRating": 3.7,
+      "numVotes": 52434,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Horror",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5940,
+      "runtimeMinutes": 99,
+      "metascore": 27,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 21,
+      "titleId": "tt0086383",
+      "title": "Sudden Impact",
+      "originalTitle": "Sudden Impact",
+      "year": 1983,
+      "releaseDate": {
+        "day": 9,
+        "month": 12,
+        "year": 1983
+      },
+      "plot": "When a woman exacts deadly revenge on the aggressors who raped her and her sister ten years earlier, Inspector \"Dirty\" Harry Callahan is assigned to the case.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDVlNWYxODEtYzRkMi00ODk3LWE4ZTYtMjdiYTFmZGFhZDczXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Clint Eastwood in Sudden Impact (1983)",
+        "width": 653,
+        "height": 1000
+      },
+      "imdbRating": 6.6,
+      "numVotes": 51988,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7020,
+      "runtimeMinutes": 117,
+      "metascore": 52,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 22,
+      "titleId": "tt0086637",
+      "title": "Zelig",
+      "originalTitle": "Zelig",
+      "year": 1983,
+      "releaseDate": {
+        "day": 25,
+        "month": 8,
+        "year": 1983
+      },
+      "plot": "\"Documentary\" about a man who can look and act like whoever he's around, and meets various famous people.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDJiYzNhZjUtNTRmMS00ZjA1LWFmNjUtZjgwYWY2NGYxYzg3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Zelig (1983)",
+        "width": 913,
+        "height": 1412
+      },
+      "imdbRating": 7.6,
+      "numVotes": 45800,
+      "certificate": "PG",
+      "genres": [
+        "Comedy"
+      ],
+      "runtimeSeconds": 4740,
+      "runtimeMinutes": 79,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 23,
+      "titleId": "tt0085244",
+      "title": "The Big Chill",
+      "originalTitle": "The Big Chill",
+      "year": 1983,
+      "releaseDate": {
+        "day": 30,
+        "month": 9,
+        "year": 1983
+      },
+      "plot": "A group of seven former college friends gather for a weekend reunion at a South Carolina vacation home after the funeral of another of their college friends.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTg3YWQ1MWItMTcxYy00NTczLWJiMDktYjkxMWExNDY3ZjI4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "The Big Chill (1983)",
+        "width": 1481,
+        "height": 2260
+      },
+      "imdbRating": 7.1,
+      "numVotes": 45119,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 6300,
+      "runtimeMinutes": 105,
+      "metascore": 61,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 24,
+      "titleId": "tt0086491",
+      "title": "Twilight Zone: The Movie",
+      "originalTitle": "Twilight Zone: The Movie",
+      "year": 1983,
+      "releaseDate": {
+        "day": 24,
+        "month": 6,
+        "year": 1983
+      },
+      "plot": "Four horror and science fiction segments, directed by four famous directors, each of them being a new version of a classic story from Rod Serling's landmark television series.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWRlZTVkYTktOThkOC00Y2Q4LWI5NTUtMmNmYjhlOTcwMjA2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Twilight Zone: The Movie (1983)",
+        "width": 500,
+        "height": 762
+      },
+      "imdbRating": 6.5,
+      "numVotes": 44261,
+      "certificate": "PG",
+      "genres": [
+        "Horror",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6060,
+      "runtimeMinutes": 101,
+      "metascore": 44,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 25,
+      "titleId": "tt0086320",
+      "title": "Sleepaway Camp",
+      "originalTitle": "Sleepaway Camp",
+      "year": 1983,
+      "releaseDate": {
+        "day": 18,
+        "month": 11,
+        "year": 1983
+      },
+      "plot": "Bunks and showers are a mad stabber's beat at a summer camp strictly for teens.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BN2IyOWU4MGUtZjEyNC00ODNjLTg3OGMtZmNlM2ZlZDYzOWJjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Sleepaway Camp (1983)",
+        "width": 1764,
+        "height": 2750
+      },
+      "imdbRating": 6.2,
+      "numVotes": 43292,
+      "certificate": "R",
+      "genres": [
+        "Horror"
+      ],
+      "runtimeSeconds": 5040,
+      "runtimeMinutes": 84,
+      "metascore": 58,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 26,
+      "titleId": "tt0086216",
+      "title": "Rumble Fish",
+      "originalTitle": "Rumble Fish",
+      "year": 1983,
+      "releaseDate": {
+        "day": 21,
+        "month": 10,
+        "year": 1983
+      },
+      "plot": "Absent-minded street thug Rusty James struggles to live up to his legendary older brother's reputation, and longs for the days of gang warfare.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDUyMDdmYmMtYjE2Ni00MGE0LWJkNjQtYjQwMTMyMjhkMmE5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Diane Lane, Matt Dillon, and Mickey Rourke in Rumble Fish (1983)",
+        "width": 980,
+        "height": 1500
+      },
+      "imdbRating": 7.1,
+      "numVotes": 40804,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 5640,
+      "runtimeMinutes": 94,
+      "metascore": 63,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 27,
+      "titleId": "tt0085811",
+      "title": "Krull",
+      "originalTitle": "Krull",
+      "year": 1983,
+      "releaseDate": {
+        "day": 29,
+        "month": 7,
+        "year": 1983
+      },
+      "plot": "A prince and a fellowship of companions set out to rescue his bride from a fortress of alien invaders who have arrived on their home planet, Krull.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYmE4Y2JmMTAtZmI0Ni00Njk1LWE5NjktNjI0NzBlMzg4YzlkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Lysette Anthony and Ken Marshall in Krull (1983)",
+        "width": 1492,
+        "height": 2265
+      },
+      "imdbRating": 6.1,
+      "numVotes": 38992,
+      "certificate": "PG",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 7260,
+      "runtimeMinutes": 121,
+      "metascore": 45,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 28,
+      "titleId": "tt0086154",
+      "title": "Psycho II",
+      "originalTitle": "Psycho II",
+      "year": 1983,
+      "releaseDate": {
+        "day": 3,
+        "month": 6,
+        "year": 1983
+      },
+      "plot": "After twenty-two years of psychiatric care, Norman Bates attempts to return to a life of solitude, but the specters of his crimes - and his mother - continue to haunt him.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjZhZDhiNTctOTIwYy00MGVmLWE1Y2ItMmZjZjllMWM3MjcwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Psycho II (1983)",
+        "width": 1490,
+        "height": 2260
+      },
+      "imdbRating": 6.6,
+      "numVotes": 34627,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Horror",
+        "Mystery"
+      ],
+      "runtimeSeconds": 6780,
+      "runtimeMinutes": 113,
+      "metascore": 54,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 29,
+      "titleId": "tt0086022",
+      "title": "Nostalghia",
+      "originalTitle": "Nostalghia",
+      "year": 1983,
+      "releaseDate": {
+        "day": null,
+        "month": 3,
+        "year": 1992
+      },
+      "plot": "A Russian poet and his interpreter travel to Italy researching the life of an 18th-century composer, and instead meet a ruminative madman who tells the poet how the world may be saved.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMWFjMGFhYzEtODZkZS00MDRjLWE2NGEtMWRhODcwMzNiN2I1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Oleg Yankovskiy in Nostalghia (1983)",
+        "width": 2025,
+        "height": 3000
+      },
+      "imdbRating": 7.9,
+      "numVotes": 32797,
+      "certificate": "Not Rated",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 7500,
+      "runtimeMinutes": 125,
+      "metascore": 74,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 30,
+      "titleId": "tt0085701",
+      "title": "The Hunger",
+      "originalTitle": "The Hunger",
+      "year": 1983,
+      "releaseDate": {
+        "day": 29,
+        "month": 4,
+        "year": 1983
+      },
+      "plot": "A love triangle develops between a vampire, her cellist companion, and a gerontologist.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTAyNmQ3N2MtOWZlOS00Mjg1LWJhY2EtNmMzOTgyODg2NjM5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Susan Sarandon, David Bowie, and Catherine Deneuve in The Hunger (1983)",
+        "width": 1477,
+        "height": 2169
+      },
+      "imdbRating": 6.6,
+      "numVotes": 31626,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Horror"
+      ],
+      "runtimeSeconds": 5820,
+      "runtimeMinutes": 97,
+      "metascore": 52,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 31,
+      "titleId": "tt0085970",
+      "title": "Mr. Mom",
+      "originalTitle": "Mr. Mom",
+      "year": 1983,
+      "releaseDate": {
+        "day": 19,
+        "month": 8,
+        "year": 1983
+      },
+      "plot": "After he's suddenly laid off, a husband switches roles with his wife. She returns to the workforce, and he becomes a stay-at-home dad, and he has to take care of three young children, a job he has no clue how to do.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTUyMzg0MTkwNV5BMl5BanBnXkFtZTgwOTA2NzEyMDE@._V1_.jpg",
+        "caption": "Mr. Mom (1983)",
+        "width": 338,
+        "height": 500
+      },
+      "imdbRating": 6.6,
+      "numVotes": 30738,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 5460,
+      "runtimeMinutes": 91,
+      "metascore": 50,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 32,
+      "titleId": "tt0085859",
+      "title": "Local Hero",
+      "originalTitle": "Local Hero",
+      "year": 1983,
+      "releaseDate": {
+        "day": 29,
+        "month": 4,
+        "year": 1983
+      },
+      "plot": "An American oil company has plans for a new refinery and sends someone to Scotland to buy up an entire village, but things don't go as expected.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjRmYWNlYWMtOTcxZS00YzU5LWEwZTctYjEzZWZlNmQxN2Y1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Burt Lancaster and Peter Riegert in Local Hero (1983)",
+        "width": 2000,
+        "height": 3000
+      },
+      "imdbRating": 7.3,
+      "numVotes": 29332,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 6660,
+      "runtimeMinutes": 111,
+      "metascore": 83,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 33,
+      "titleId": "tt0085894",
+      "title": "The Man with Two Brains",
+      "originalTitle": "The Man with Two Brains",
+      "year": 1983,
+      "releaseDate": {
+        "day": 3,
+        "month": 6,
+        "year": 1983
+      },
+      "plot": "A brain surgeon marries a femme fatale whose life he saved, causing his life to turn upside down. Things go even more awry when he falls in love with a telepathic brain.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjBjN2Q3ZDItM2VlMC00MzcwLTgwMTAtYjFmZjIxYzA3MTcyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Steve Martin in The Man with Two Brains (1983)",
+        "width": 564,
+        "height": 846
+      },
+      "imdbRating": 6.4,
+      "numVotes": 29256,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 5580,
+      "runtimeMinutes": 93,
+      "metascore": 61,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 34,
+      "titleId": "tt0085255",
+      "title": "Blue Thunder",
+      "originalTitle": "Blue Thunder",
+      "year": 1983,
+      "releaseDate": {
+        "day": 13,
+        "month": 5,
+        "year": 1983
+      },
+      "plot": "The cop test pilot for an experimental police helicopter learns the sinister implications of the new vehicle.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWVhMGI2MDAtODk5Zi00YmVmLTk5YTQtNmRiMjMyMDAyZDAwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Blue Thunder (1983)",
+        "width": 936,
+        "height": 1407
+      },
+      "imdbRating": 6.4,
+      "numVotes": 25164,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 6540,
+      "runtimeMinutes": 109,
+      "metascore": 66,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 35,
+      "titleId": "tt0086312",
+      "title": "Silkwood",
+      "originalTitle": "Silkwood",
+      "year": 1983,
+      "releaseDate": {
+        "day": 27,
+        "month": 1,
+        "year": 1984
+      },
+      "plot": "A worker at a plutonium processing plant is purposefully contaminated, psychologically tortured and possibly murdered to prevent her from exposing worker safety violations at the plant.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOGVhMWYzNWQtODQ4NS00OTI5LTlmYjEtNWZlZjc2OWIxYzg5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Cher, Kurt Russell, and Meryl Streep in Silkwood (1983)",
+        "width": 965,
+        "height": 1510
+      },
+      "imdbRating": 7.1,
+      "numVotes": 24363,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "runtimeSeconds": 7860,
+      "runtimeMinutes": 131,
+      "metascore": 65,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 36,
+      "titleId": "tt0085933",
+      "title": "Merry Christmas Mr. Lawrence",
+      "originalTitle": "Merry Christmas, Mr. Lawrence",
+      "year": 1983,
+      "releaseDate": {
+        "day": 2,
+        "month": 9,
+        "year": 1983
+      },
+      "plot": "During WWII, a British colonel tries to bridge the cultural divides between a British POW and the Japanese camp commander in order to avoid bloodshed.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYWU3NzRlZTktZWFjMC00OWYzLTkzZTItMjI5Mjg5YmJjNGEzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "David Bowie, Takeshi Kitano, Tom Conti, Ry\u00fbichi Sakamoto, and Jack Thompson in Merry Christmas Mr. Lawrence (1983)",
+        "width": 1063,
+        "height": 1600
+      },
+      "imdbRating": 7.2,
+      "numVotes": 22179,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "runtimeSeconds": 7380,
+      "runtimeMinutes": 123,
+      "metascore": 53,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 37,
+      "titleId": "tt0085154",
+      "title": "All the Right Moves",
+      "originalTitle": "All the Right Moves",
+      "year": 1983,
+      "releaseDate": {
+        "day": 21,
+        "month": 10,
+        "year": 1983
+      },
+      "plot": "An ambitious young football star is trapped in a dying mill town--unless his gridiron skills can win him a way out.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTkzMjk4NTgtNjFkZi00ZGU2LWEyNDktZjY3NmM0YjU3N2UyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "All the Right Moves (1983)",
+        "width": 1490,
+        "height": 2260
+      },
+      "imdbRating": 6,
+      "numVotes": 21928,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Sport"
+      ],
+      "runtimeSeconds": 5460,
+      "runtimeMinutes": 91,
+      "metascore": 62,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 38,
+      "titleId": "tt0086525",
+      "title": "Valley Girl",
+      "originalTitle": "Valley Girl",
+      "year": 1983,
+      "releaseDate": {
+        "day": 29,
+        "month": 4,
+        "year": 1983
+      },
+      "plot": "Julie, a girl from the valley, meets Randy, a punk from the city. They are from different worlds and find love. Somehow they need to stay together in spite of her trendy, shallow friends.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjA4NzI5OTgyMV5BMl5BanBnXkFtZTgwODgwNjU1MDE@._V1_.jpg",
+        "caption": "Nicolas Cage and Tina Theberge in Valley Girl (1983)",
+        "width": 675,
+        "height": 1000
+      },
+      "imdbRating": 6.4,
+      "numVotes": 20684,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "runtimeSeconds": 5940,
+      "runtimeMinutes": 99,
+      "metascore": 66,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 39,
+      "titleId": "tt0085127",
+      "title": "Project A",
+      "originalTitle": "'A' gai wak",
+      "year": 1983,
+      "releaseDate": {
+        "day": 22,
+        "month": 12,
+        "year": 1983
+      },
+      "plot": "Fighting against pirates at the turn of the 20th century, the Hong Kong navy are failing miserably. It's up to Sergeant Dragon Ma to take matters into his own hands.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzUzOTIwZDAtYzIxNy00MDdiLTlkYWYtZWEyODYyODU2YmVmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jackie Chan, Sammo Kam-Bo Hung, and Biao Yuen in Project A (1983)",
+        "width": 2100,
+        "height": 3111
+      },
+      "imdbRating": 7.2,
+      "numVotes": 20192,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 6300,
+      "runtimeMinutes": 105,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 40,
+      "titleId": "tt0085404",
+      "title": "The Day After",
+      "originalTitle": "The Day After",
+      "year": 1983,
+      "releaseDate": {
+        "day": 20,
+        "month": 11,
+        "year": 1983
+      },
+      "plot": "The effects of a devastating nuclear holocaust on small-town residents of eastern Kansas.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODVlNmQyMTgtZWNkNy00NDgzLWE4ODItMTI1MzI1NGJjOTgyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "The Day After (1983)",
+        "width": 2158,
+        "height": 3048
+      },
+      "imdbRating": 7,
+      "numVotes": 20140,
+      "certificate": "TV-PG",
+      "genres": [
+        "Drama",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 7620,
+      "runtimeMinutes": 127,
+      "metascore": null,
+      "credits": [],
+      "titleType": "tvMovie"
+    },
+    {
+      "rank": 41,
+      "titleId": "tt0086373",
+      "title": "Strange Brew",
+      "originalTitle": "The Adventures of Bob & Doug McKenzie: Strange Brew",
+      "year": 1983,
+      "releaseDate": {
+        "day": 26,
+        "month": 8,
+        "year": 1983
+      },
+      "plot": "Canada's most famous hosers, Bob and Doug McKenzie, get jobs at the Elsinore Brewery, only to learn that something is rotten with the state of it.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDIwYmI0ZjctN2VhOS00YzU4LWI1YWEtZjM3MmFmZTllYjQ4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Rick Moranis, Max von Sydow, Paul Dooley, Lynne Griffin, Angus MacInnes, and Dave Thomas in Strange Brew (1983)",
+        "width": 989,
+        "height": 1500
+      },
+      "imdbRating": 6.6,
+      "numVotes": 20004,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 5400,
+      "runtimeMinutes": 90,
+      "metascore": 50,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 42,
+      "titleId": "tt0086361",
+      "title": "Staying Alive",
+      "originalTitle": "Staying Alive",
+      "year": 1983,
+      "releaseDate": {
+        "day": 15,
+        "month": 7,
+        "year": 1983
+      },
+      "plot": "Five years later, Tony Manero's Saturday Night Fever is still burning. Now he's strutting toward his biggest challenge yet: succeeding as a dancer on the Broadway stage.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWQ3N2RjN2YtNzhhNS00ZDM0LWIwMTctZjdmNzIwYTM2M2QyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "John Travolta in Staying Alive (1983)",
+        "width": 1491,
+        "height": 2260
+      },
+      "imdbRating": 4.8,
+      "numVotes": 18657,
+      "certificate": "PG",
+      "genres": [
+        "Drama",
+        "Music",
+        "Romance"
+      ],
+      "runtimeSeconds": 5580,
+      "runtimeMinutes": 93,
+      "metascore": 24,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 43,
+      "titleId": "tt0085210",
+      "title": "Bad Boys",
+      "originalTitle": "Bad Boys",
+      "year": 1983,
+      "releaseDate": {
+        "day": 25,
+        "month": 3,
+        "year": 1983
+      },
+      "plot": "Chicago crime kid, Mick O'Brien, is sent to reform school after accidentally killing a rival's kid brother.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTE0MTYyZDUtZTFiZC00MThjLWI0OTktZDE2OTI1N2Q2YWNjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Bad Boys (1983)",
+        "width": 1489,
+        "height": 2265
+      },
+      "imdbRating": 7.2,
+      "numVotes": 18528,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7380,
+      "runtimeMinutes": 123,
+      "metascore": 53,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 44,
+      "titleId": "tt0085615",
+      "title": "Gorky Park",
+      "originalTitle": "Gorky Park",
+      "year": 1983,
+      "releaseDate": {
+        "day": 16,
+        "month": 12,
+        "year": 1983
+      },
+      "plot": "A Moscow police officer investigates a vicious triple homicide and stumbles upon a high-level international political conspiracy.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2NlZmVlM2QtYmVhNi00YmZjLTkxN2UtYjc5ZWEyOTI5MjRjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Gorky Park (1983)",
+        "width": 800,
+        "height": 1195
+      },
+      "imdbRating": 6.7,
+      "numVotes": 18108,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "runtimeSeconds": 7680,
+      "runtimeMinutes": 128,
+      "metascore": 60,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 45,
+      "titleId": "tt0086619",
+      "title": "Yentl",
+      "originalTitle": "Yentl",
+      "year": 1983,
+      "releaseDate": {
+        "day": 6,
+        "month": 1,
+        "year": 1984
+      },
+      "plot": "A Jewish girl disguises herself as a boy to enter religious training.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGZiMGUyZmQtYzE4My00NzFhLWEyYTgtNTBmMDQ4NDBjYmY4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Yentl (1983)",
+        "width": 990,
+        "height": 1500
+      },
+      "imdbRating": 6.6,
+      "numVotes": 17287,
+      "certificate": "PG",
+      "genres": [
+        "Drama",
+        "Musical",
+        "Romance"
+      ],
+      "runtimeSeconds": 7980,
+      "runtimeMinutes": 133,
+      "metascore": 68,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 46,
+      "titleId": "tt0085743",
+      "title": "Jaane Bhi Do Yaaro",
+      "originalTitle": "Jaane Bhi Do Yaaro",
+      "year": 1983,
+      "releaseDate": {
+        "day": 12,
+        "month": 8,
+        "year": 1983
+      },
+      "plot": "Two photographers, who are employed by a magazine editor to expose the scandalous activities of the rich, come across corruption by a builder and accidentally photograph a murder.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzhhN2NlZmQtZDFmMi00ODA3LThjNTQtMmFhMzViZDcxZWFkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ravi Baswani, Bhakti Barve, Neena Gupta, Pankaj Kapur, Satish Kaushik, Om Puri, Naseeruddin Shah, and Satish Shah in Jaane Bhi Do Yaaro (1983)",
+        "width": 2179,
+        "height": 2871
+      },
+      "imdbRating": 8.3,
+      "numVotes": 17270,
+      "certificate": "Not Rated",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 7920,
+      "runtimeMinutes": 132,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 47,
+      "titleId": "tt0085780",
+      "title": "The Keep",
+      "originalTitle": "The Keep",
+      "year": 1983,
+      "releaseDate": {
+        "day": 16,
+        "month": 12,
+        "year": 1983
+      },
+      "plot": "Nazis are forced to turn to a Jewish historian for help in battling the ancient demon they have inadvertently freed from its prison.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWE5NGM3MDctMWFmOS00MDA3LThiODQtYmM5YmUzMjQzY2QzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "The Keep (1983)",
+        "width": 1494,
+        "height": 2260
+      },
+      "imdbRating": 5.7,
+      "numVotes": 16785,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Horror"
+      ],
+      "runtimeSeconds": 5760,
+      "runtimeMinutes": 96,
+      "metascore": 34,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 48,
+      "titleId": "tt0165623",
+      "title": "Angst",
+      "originalTitle": "Angst",
+      "year": 1983,
+      "releaseDate": {
+        "day": null,
+        "month": null,
+        "year": 1983
+      },
+      "plot": "A troubled man gets released from prison and starts taking out his sadistic fantasies on an unsuspecting family living in a secluded house.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDY1Y2MxNDUtMWE1ZC00OWQwLThiMjMtZDNkN2Q2NmVjZGY2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Angst (1983)",
+        "width": 950,
+        "height": 1426
+      },
+      "imdbRating": 7.2,
+      "numVotes": 16118,
+      "certificate": "Not Rated",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5220,
+      "runtimeMinutes": 87,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 49,
+      "titleId": "tt0085478",
+      "title": "Educating Rita",
+      "originalTitle": "Educating Rita",
+      "year": 1983,
+      "releaseDate": {
+        "day": 28,
+        "month": 10,
+        "year": 1983
+      },
+      "plot": "An alcoholic professor has been hired by a working-class girl for higher education.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjE3MzZlM2ItMjVmOC00MDY3LWJlYzUtM2M5OGMzN2UzZGIxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Michael Caine and Julie Walters in Educating Rita (1983)",
+        "width": 1499,
+        "height": 2265
+      },
+      "imdbRating": 7.2,
+      "numVotes": 15723,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 6600,
+      "runtimeMinutes": 110,
+      "metascore": 54,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 50,
+      "titleId": "tt0085862",
+      "title": "Lone Wolf McQuade",
+      "originalTitle": "Lone Wolf McQuade",
+      "year": 1983,
+      "releaseDate": {
+        "day": 15,
+        "month": 4,
+        "year": 1983
+      },
+      "plot": "After helping the local police with some horse thieves, a Texas Ranger aims at a drug lord with arms trade as well. They're interested in the same woman and they're both into martial arts.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjM2MjQ4ZGEtOWQ0OC00OThkLWJlNTMtYTUwOTdjNzU4NTAwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "David Carradine and Chuck Norris in Lone Wolf McQuade (1983)",
+        "width": 1937,
+        "height": 2914
+      },
+      "imdbRating": 6.3,
+      "numVotes": 15333,
+      "certificate": "PG",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 6420,
+      "runtimeMinutes": 107,
+      "metascore": 65,
+      "credits": [],
+      "titleType": "movie"
+    }
+  ]
+}

@@ -1,0 +1,1587 @@
+{
+  "year": 1987,
+  "movies": [
+    {
+      "rank": 1,
+      "titleId": "tt0093058",
+      "title": "Full Metal Jacket",
+      "originalTitle": "Full Metal Jacket",
+      "year": 1987,
+      "releaseDate": {
+        "day": 10,
+        "month": 7,
+        "year": 1987
+      },
+      "plot": "A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYWUzNzZkNzUtNDdiYy00Nzk5LTgxMmItNTk0MjRjNjdjNDA0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Full Metal Jacket (1987)",
+        "width": 1066,
+        "height": 1600
+      },
+      "imdbRating": 8.2,
+      "numVotes": 844276,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "runtimeSeconds": 6960,
+      "runtimeMinutes": 116,
+      "metascore": 78,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 2,
+      "titleId": "tt0093773",
+      "title": "Predator",
+      "originalTitle": "Predator",
+      "year": 1987,
+      "releaseDate": {
+        "day": 12,
+        "month": 6,
+        "year": 1987
+      },
+      "plot": "A team of commandos on a mission in a Central American jungle find themselves hunted by an extraterrestrial warrior.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWEzMDI0MTUtMjQ0Yy00MGRhLWI4YjAtZTgzZTM3NTYxZGJkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Arnold Schwarzenegger in Predator (1987)",
+        "width": 1521,
+        "height": 2265
+      },
+      "imdbRating": 7.8,
+      "numVotes": 495490,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Horror"
+      ],
+      "runtimeSeconds": 6420,
+      "runtimeMinutes": 107,
+      "metascore": 47,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 3,
+      "titleId": "tt0093779",
+      "title": "The Princess Bride",
+      "originalTitle": "The Princess Bride",
+      "year": 1987,
+      "releaseDate": {
+        "day": 9,
+        "month": 10,
+        "year": 1987
+      },
+      "plot": "A bedridden boy's grandfather reads him the story of a farmboy-turned-pirate who encounters numerous obstacles, enemies and allies in his quest to be reunited with his true love.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjFiOTEyNGMtN2E4MC00ZjZlLTk3ZDQtNTU1ZGNiZTA1MzJlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Peter Falk and Fred Savage in The Princess Bride (1987)",
+        "width": 2892,
+        "height": 4219
+      },
+      "imdbRating": 8,
+      "numVotes": 481978,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family"
+      ],
+      "runtimeSeconds": 5880,
+      "runtimeMinutes": 98,
+      "metascore": 78,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 4,
+      "titleId": "tt0094226",
+      "title": "The Untouchables",
+      "originalTitle": "The Untouchables",
+      "year": 1987,
+      "releaseDate": {
+        "day": 3,
+        "month": 6,
+        "year": 1987
+      },
+      "plot": "During Prohibition, Treasury agent Eliot Ness sets out to stop ruthless Chicago gangster Al Capone, and assembles a small, incorruptible team to help him.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjVlNTk3NGYtOWE0OC00MDI4LThlZWItZGMwMTdmYzcwM2Y5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Sean Connery, Kevin Costner, Robert De Niro, Andy Garcia, and Charles Martin Smith in The Untouchables (1987)",
+        "width": 942,
+        "height": 1458
+      },
+      "imdbRating": 7.8,
+      "numVotes": 351556,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7140,
+      "runtimeMinutes": 119,
+      "metascore": 79,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 5,
+      "titleId": "tt0093870",
+      "title": "RoboCop",
+      "originalTitle": "RoboCop",
+      "year": 1987,
+      "releaseDate": {
+        "day": 17,
+        "month": 7,
+        "year": 1987
+      },
+      "plot": "In a violent future in Old Detroit, murdered police officer Alex Murphy is resurrected as RoboCop, a powerful cyborg law enforcer. As he fights crime, he begins to recover memories of his past and seeks revenge on the gang who killed him.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWM1YzRhODktZDE1MC00NzBlLTk0NGMtOGNhZDQyMmJiZGFiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Nancy Allen, Peter Weller, Miguel Ferrer, and Kurtwood Smith in RoboCop (1987)",
+        "width": 917,
+        "height": 1422
+      },
+      "imdbRating": 7.6,
+      "numVotes": 305779,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6120,
+      "runtimeMinutes": 102,
+      "metascore": 70,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 6,
+      "titleId": "tt0093409",
+      "title": "Lethal Weapon",
+      "originalTitle": "Lethal Weapon",
+      "year": 1987,
+      "releaseDate": {
+        "day": 6,
+        "month": 3,
+        "year": 1987
+      },
+      "plot": "Two newly paired cops who are complete opposites must put aside their differences in order to catch a gang of drug smugglers.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMWVlNWZlODktMzhhNS00YThhLWEzZWYtYzU0NDFmNzk0MGVlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Mel Gibson and Danny Glover in Lethal Weapon (1987)",
+        "width": 580,
+        "height": 854
+      },
+      "imdbRating": 7.6,
+      "numVotes": 293890,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6540,
+      "runtimeMinutes": 109,
+      "metascore": 68,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 7,
+      "titleId": "tt0092890",
+      "title": "Dirty Dancing",
+      "originalTitle": "Dirty Dancing",
+      "year": 1987,
+      "releaseDate": {
+        "day": 21,
+        "month": 8,
+        "year": 1987
+      },
+      "plot": "Spending the summer at a Catskills resort with her family, Frances \"Baby\" Houseman falls in love with the camp's dance instructor, Johnny Castle.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZmIwZjA1NzUtNTA0OS00OWMyLWE5MzctM2RjOWYxZjQyZDdmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Dirty Dancing (1987)",
+        "width": 2000,
+        "height": 3000
+      },
+      "imdbRating": 7.1,
+      "numVotes": 277698,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama",
+        "Music",
+        "Romance"
+      ],
+      "runtimeSeconds": 6000,
+      "runtimeMinutes": 100,
+      "metascore": 65,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 8,
+      "titleId": "tt0094012",
+      "title": "Spaceballs",
+      "originalTitle": "Spaceballs",
+      "year": 1987,
+      "releaseDate": {
+        "day": 24,
+        "month": 6,
+        "year": 1987
+      },
+      "plot": "A star-pilot for hire and his trusty half-dog sidekick must come to the rescue of a spoiled princess and save Planet Druidia from the clutches of the evil Spaceballs.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWNhNWM3NWQtNTMwNy00NThiLWFkZDYtYzBlZTQyZGU2YzE1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Mel Brooks, Bill Pullman, John Candy, Rick Moranis, and Daphne Zuniga in Spaceballs (1987)",
+        "width": 2106,
+        "height": 3128
+      },
+      "imdbRating": 7.1,
+      "numVotes": 224667,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 5760,
+      "runtimeMinutes": 96,
+      "metascore": 46,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 9,
+      "titleId": "tt0092991",
+      "title": "Evil Dead II",
+      "originalTitle": "Evil Dead II",
+      "year": 1987,
+      "releaseDate": {
+        "day": 13,
+        "month": 3,
+        "year": 1987
+      },
+      "plot": "Ash Williams, the lone survivor of an earlier onslaught of flesh-possessing spirits, holes up in a cabin with a group of strangers while the demons continue their attack.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMGMxMWVhMzAtYWRlOS00YzY1LTlkYTQtYjU5ZDM4MGI1YWFjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Evil Dead II (1987)",
+        "width": 1797,
+        "height": 2785
+      },
+      "imdbRating": 7.7,
+      "numVotes": 194762,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Horror"
+      ],
+      "runtimeSeconds": 5040,
+      "runtimeMinutes": 84,
+      "metascore": 72,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 10,
+      "titleId": "tt0093894",
+      "title": "The Running Man",
+      "originalTitle": "The Running Man",
+      "year": 1987,
+      "releaseDate": {
+        "day": 13,
+        "month": 11,
+        "year": 1987
+      },
+      "plot": "In a future dystopian America, a wrongfully accused and convicted policeman gets his shot at freedom when he's forced to participate in a TV game show where convicts called Runners must battle killers for their freedom.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDQwYzMwMDItYzFhZC00YjkzLTlmODAtMzg3NDFlNDhhZjYzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Arnold Schwarzenegger in The Running Man (1987)",
+        "width": 936,
+        "height": 1361
+      },
+      "imdbRating": 6.6,
+      "numVotes": 188679,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6060,
+      "runtimeMinutes": 101,
+      "metascore": 45,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 11,
+      "titleId": "tt0093748",
+      "title": "Planes, Trains & Automobiles",
+      "originalTitle": "Planes, Trains & Automobiles",
+      "year": 1987,
+      "releaseDate": {
+        "day": 25,
+        "month": 11,
+        "year": 1987
+      },
+      "plot": "A Chicago advertising man must struggle to travel home from New York for Thanksgiving, with a lovable oaf of a shower-curtain-ring salesman as his only companion.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWJhY2Y1Y2YtNjA0NC00ZjNkLTg2NWMtMjhhY2JiZDJhYTdmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Steve Martin and John Candy in Planes, Trains & Automobiles (1987)",
+        "width": 1499,
+        "height": 2265
+      },
+      "imdbRating": 7.6,
+      "numVotes": 179359,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 5580,
+      "runtimeMinutes": 93,
+      "metascore": 72,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 12,
+      "titleId": "tt0093437",
+      "title": "The Lost Boys",
+      "originalTitle": "The Lost Boys",
+      "year": 1987,
+      "releaseDate": {
+        "day": 31,
+        "month": 7,
+        "year": 1987
+      },
+      "plot": "When a recently divorced mother and her two teenage boys move to a coastal town to stay with her father, it doesn't take long for the brothers to realize the area is a haven for something much more sinister than party-going surfers.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTc4NzljMDQtMWYxMS00ZDIxLTkwY2ItMjZhMzIzNjQ4NDNkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jami Gertz, Corey Haim, Jason Patric, Kiefer Sutherland, Brooke McCarter, Alex Winter, and Billy Wirth in The Lost Boys (1987)",
+        "width": 1025,
+        "height": 1500
+      },
+      "imdbRating": 7.2,
+      "numVotes": 175903,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Horror"
+      ],
+      "runtimeSeconds": 5820,
+      "runtimeMinutes": 97,
+      "metascore": 63,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 13,
+      "titleId": "tt0094291",
+      "title": "Wall Street",
+      "originalTitle": "Wall Street",
+      "year": 1987,
+      "releaseDate": {
+        "day": 11,
+        "month": 12,
+        "year": 1987
+      },
+      "plot": "An impatient young stockbroker is willing to do anything to get to the top, including trading on illegal inside information taken through a ruthless, greedy corporate raider who takes the youth under his wing.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMWQ4NDY4NTktYjE5NS00MWQ5LWFmZTUtNjk5NjA4Mzc3ODNhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Michael Douglas, Charlie Sheen, and Daryl Hannah in Wall Street (1987)",
+        "width": 1461,
+        "height": 2166
+      },
+      "imdbRating": 7.3,
+      "numVotes": 173622,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 7560,
+      "runtimeMinutes": 126,
+      "metascore": 56,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 14,
+      "titleId": "tt0093105",
+      "title": "Good Morning, Vietnam",
+      "originalTitle": "Good Morning, Vietnam",
+      "year": 1987,
+      "releaseDate": {
+        "day": 15,
+        "month": 1,
+        "year": 1988
+      },
+      "plot": "In 1965, an unorthodox and irreverent DJ named Adrian Cronauer begins to shake up things when he is assigned to the U.S. Armed Services radio station in Vietnam.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYThiZTU4N2UtYWU2Mi00ZGUyLWI2ZmEtM2U1ZmJmOGY1ZTc3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Robin Williams in Good Morning, Vietnam (1987)",
+        "width": 675,
+        "height": 1000
+      },
+      "imdbRating": 7.3,
+      "numVotes": 164232,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 7260,
+      "runtimeMinutes": 121,
+      "metascore": 67,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 15,
+      "titleId": "tt0093822",
+      "title": "Raising Arizona",
+      "originalTitle": "Raising Arizona",
+      "year": 1987,
+      "releaseDate": {
+        "day": 10,
+        "month": 4,
+        "year": 1987
+      },
+      "plot": "When a childless couple--an ex-con and an ex-cop--decide to help themselves to one of another family's quintuplets, their lives become more complicated than they anticipated.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNWIzMTdmZDgtZTc2NS00MDA1LWFiMmMtYzc5YzY0YTEyZjE5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Nicolas Cage and Holly Hunter in Raising Arizona (1987)",
+        "width": 996,
+        "height": 1500
+      },
+      "imdbRating": 7.3,
+      "numVotes": 159550,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 5640,
+      "runtimeMinutes": 94,
+      "metascore": 69,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 16,
+      "titleId": "tt0093177",
+      "title": "Hellraiser",
+      "originalTitle": "Hellraiser",
+      "year": 1987,
+      "releaseDate": {
+        "day": 18,
+        "month": 9,
+        "year": 1987
+      },
+      "plot": "A woman discovers the newly resurrected, partially formed, body of her brother-in-law and lover. She starts killing for him to revitalize his body and escape the demonic beings that are pursuing him after he escaped their underworld.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZGI4MzkzNzQtYjA3MC00ZjE1LWI0NWUtMDdjNWQ3OTgxZTkwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Doug Bradley in Hellraiser (1987)",
+        "width": 640,
+        "height": 960
+      },
+      "imdbRating": 6.9,
+      "numVotes": 152608,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5640,
+      "runtimeMinutes": 94,
+      "metascore": 56,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 17,
+      "titleId": "tt0092644",
+      "title": "Beverly Hills Cop II",
+      "originalTitle": "Beverly Hills Cop II",
+      "year": 1987,
+      "releaseDate": {
+        "day": 20,
+        "month": 5,
+        "year": 1987
+      },
+      "plot": "Axel Foley returns to Beverly Hills to help Taggart and Rosewood investigate Chief Bogomil's near-fatal shooting and the series of \"alphabet crimes\" associated with it.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTU2ZGU3YzAtYjc1MS00ZTFmLWFhM2ItZWQxMjY1ZmM3ZDk2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Eddie Murphy in Beverly Hills Cop II (1987)",
+        "width": 1534,
+        "height": 2265
+      },
+      "imdbRating": 6.6,
+      "numVotes": 147171,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 6180,
+      "runtimeMinutes": 103,
+      "metascore": 46,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 18,
+      "titleId": "tt0092965",
+      "title": "Empire of the Sun",
+      "originalTitle": "Empire of the Sun",
+      "year": 1987,
+      "releaseDate": {
+        "day": 25,
+        "month": 12,
+        "year": 1987
+      },
+      "plot": "A teenage English boy struggles to survive with his fellow captives under Japanese occupation of China during World War II.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMWY2NjdkYzEtYWZhZS00YTdhLWJhMGQtZjkxZjZkODQyYWY5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Empire of the Sun (1987)",
+        "width": 1005,
+        "height": 1500
+      },
+      "imdbRating": 7.7,
+      "numVotes": 141791,
+      "certificate": "PG",
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "runtimeSeconds": 9180,
+      "runtimeMinutes": 153,
+      "metascore": 62,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 19,
+      "titleId": "tt0093389",
+      "title": "The Last Emperor",
+      "originalTitle": "The Last Emperor",
+      "year": 1987,
+      "releaseDate": {
+        "day": 15,
+        "month": 4,
+        "year": 1988
+      },
+      "plot": "Bernardo Bertolucci's Oscar-winning dramatization of China's eleventh and final monarch of the Qing dynasty: Emperor Puyi.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjIxYWFiMDgtZTgyMy00MjFiLWIyMmEtNGIyZjc1NTRlMzQ3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Richard Vuu in The Last Emperor (1987)",
+        "width": 2000,
+        "height": 3000
+      },
+      "imdbRating": 7.7,
+      "numVotes": 118643,
+      "certificate": "PG-13",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "runtimeSeconds": 9780,
+      "runtimeMinutes": 163,
+      "metascore": 76,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 20,
+      "titleId": "tt0093428",
+      "title": "The Living Daylights",
+      "originalTitle": "The Living Daylights",
+      "year": 1987,
+      "releaseDate": {
+        "day": 31,
+        "month": 7,
+        "year": 1987
+      },
+      "plot": "James Bond is sent to investigate a KGB policy to kill all enemy spies, and uncovers an arms deal that potentially has major global ramifications.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzU3NjJlZDItY2EzOC00NWU2LThiZjUtMTUzNjdiYmZlYWE0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Timothy Dalton and Maryam d'Abo in The Living Daylights (1987)",
+        "width": 1948,
+        "height": 2952
+      },
+      "imdbRating": 6.7,
+      "numVotes": 113106,
+      "certificate": "PG",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7800,
+      "runtimeMinutes": 130,
+      "metascore": 59,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 21,
+      "titleId": "tt0093010",
+      "title": "Fatal Attraction",
+      "originalTitle": "Fatal Attraction",
+      "year": 1987,
+      "releaseDate": {
+        "day": 18,
+        "month": 9,
+        "year": 1987
+      },
+      "plot": "A married man's one-night stand comes back to haunt him when that lover begins to stalk him and his family.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTYxY2MxZGUtYWMwYi00YTI4LWE5MTItZjRiZDIzNzdhNWY3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Michael Douglas and Glenn Close in Fatal Attraction (1987)",
+        "width": 580,
+        "height": 860
+      },
+      "imdbRating": 6.9,
+      "numVotes": 110090,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7140,
+      "runtimeMinutes": 119,
+      "metascore": 67,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 22,
+      "titleId": "tt0092563",
+      "title": "Angel Heart",
+      "originalTitle": "Angel Heart",
+      "year": 1987,
+      "releaseDate": {
+        "day": 6,
+        "month": 3,
+        "year": 1987
+      },
+      "plot": "In 1955 New Orleans, small-time private investigator Harry Angel is hired by a man who calls himself Louis Cypher to track down a singer named Johnny Favorite, but the investigation takes an unexpected and somber turn.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGNiN2ZjNDQtZjEyNS00ZGFjLWE4YWQtMDczZjU1ZDFlZDhlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Robert De Niro and Mickey Rourke in Angel Heart (1987)",
+        "width": 1931,
+        "height": 2958
+      },
+      "imdbRating": 7.2,
+      "numVotes": 103007,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6780,
+      "runtimeMinutes": 113,
+      "metascore": 61,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 23,
+      "titleId": "tt0093629",
+      "title": "A Nightmare on Elm Street 3: Dream Warriors",
+      "originalTitle": "A Nightmare on Elm Street 3: Dream Warriors",
+      "year": 1987,
+      "releaseDate": {
+        "day": 27,
+        "month": 2,
+        "year": 1987
+      },
+      "plot": "A psychiatrist, familiar with the knife-wielding dream demon Freddy Krueger, helps teens at a mental hospital battle the killer who is invading their dreams.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYWMwMmQxZjUtNDFkYi00MjU3LThhNmYtMmU4YzgyMmYwZWZlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "A Nightmare on Elm Street 3: Dream Warriors (1987)",
+        "width": 1943,
+        "height": 2949
+      },
+      "imdbRating": 6.7,
+      "numVotes": 99078,
+      "certificate": "R",
+      "genres": [
+        "Fantasy",
+        "Horror"
+      ],
+      "runtimeSeconds": 5760,
+      "runtimeMinutes": 96,
+      "metascore": 49,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 24,
+      "titleId": "tt0094332",
+      "title": "The Witches of Eastwick",
+      "originalTitle": "The Witches of Eastwick",
+      "year": 1987,
+      "releaseDate": {
+        "day": 12,
+        "month": 6,
+        "year": 1987
+      },
+      "plot": "Three single women in a picturesque village have their wishes granted, at a cost, when a mysterious and flamboyant man arrives in their lives.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzg1OTUzZDktODc3My00NjZlLTgxMTYtOGVhMTQ2ZWRjNzQ4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jack Nicholson, Michelle Pfeiffer, Susan Sarandon, and Cher in The Witches of Eastwick (1987)",
+        "width": 1933,
+        "height": 2911
+      },
+      "imdbRating": 6.6,
+      "numVotes": 83617,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Horror"
+      ],
+      "runtimeSeconds": 7080,
+      "runtimeMinutes": 118,
+      "metascore": 67,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 25,
+      "titleId": "tt0093191",
+      "title": "Wings of Desire",
+      "originalTitle": "Der Himmel \u00fcber Berlin",
+      "year": 1987,
+      "releaseDate": {
+        "day": 6,
+        "month": 5,
+        "year": 1988
+      },
+      "plot": "An angel meets Peter Falk, and loves a French trapeze artist in Berlin.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTUwY2EyMDktMGI0Ny00MDNlLWE0ODMtZWIwOGNhNmY1OWIwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Wings of Desire (1987)",
+        "width": 1924,
+        "height": 3000
+      },
+      "imdbRating": 7.9,
+      "numVotes": 83201,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "runtimeSeconds": 7680,
+      "runtimeMinutes": 128,
+      "metascore": 79,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 26,
+      "titleId": "tt0093565",
+      "title": "Moonstruck",
+      "originalTitle": "Moonstruck",
+      "year": 1987,
+      "releaseDate": {
+        "day": 15,
+        "month": 1,
+        "year": 1988
+      },
+      "plot": "Loretta Castorini, a bookkeeper from Brooklyn, New York, finds herself in a difficult situation when she falls for the brother of the man she has agreed to marry.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjdiMjI1MTQtMWIzNC00OTg2LWI5NjItYTBiMTYzMmIxYmNjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Cher in Moonstruck (1987)",
+        "width": 1540,
+        "height": 2265
+      },
+      "imdbRating": 7.2,
+      "numVotes": 77911,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 6120,
+      "runtimeMinutes": 102,
+      "metascore": 83,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 27,
+      "titleId": "tt0093693",
+      "title": "Overboard",
+      "originalTitle": "Overboard",
+      "year": 1987,
+      "releaseDate": {
+        "day": 16,
+        "month": 12,
+        "year": 1987
+      },
+      "plot": "A cruel but beautiful heiress mocks and cheats a hired carpenter. When she gets amnesia after an accident, he decides to introduce her to regular life by convincing her that they're husband and wife.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjIzMjMxOTgzM15BMl5BanBnXkFtZTcwMTAwODM2NA@@._V1_.jpg",
+        "caption": "Goldie Hawn and Kurt Russell in Overboard (1987)",
+        "width": 682,
+        "height": 1023
+      },
+      "imdbRating": 6.9,
+      "numVotes": 74916,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "runtimeSeconds": 6720,
+      "runtimeMinutes": 112,
+      "metascore": 53,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 28,
+      "titleId": "tt0093260",
+      "title": "Innerspace",
+      "originalTitle": "Innerspace",
+      "year": 1987,
+      "releaseDate": {
+        "day": 1,
+        "month": 7,
+        "year": 1987
+      },
+      "plot": "A test pilot is miniaturized in a secret experiment, and accidentally injected into a hapless store clerk.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDgxNzhkNjYtZTdkMy00NWYxLThkNWMtYjhlYTkwYWZjN2NlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Dennis Quaid in Innerspace (1987)",
+        "width": 1000,
+        "height": 1500
+      },
+      "imdbRating": 6.8,
+      "numVotes": 69206,
+      "certificate": "PG",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 7200,
+      "runtimeMinutes": 120,
+      "metascore": 66,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 29,
+      "titleId": "tt0093692",
+      "title": "Over the Top",
+      "originalTitle": "Over the Top",
+      "year": 1987,
+      "releaseDate": {
+        "day": 13,
+        "month": 2,
+        "year": 1987
+      },
+      "plot": "Tough trucker Lincoln Hawk is determined to win back his son and triumph at the world arm wrestling championships.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzM3YjNmZWItZTU4ZS00MzJkLThjMjYtZGQ2MDEzN2YxZDRkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Sylvester Stallone, David Mendenhall, and Rick Zumwalt in Over the Top (1987)",
+        "width": 1489,
+        "height": 2265
+      },
+      "imdbRating": 5.9,
+      "numVotes": 64629,
+      "certificate": "PG",
+      "genres": [
+        "Action",
+        "Drama",
+        "Sport"
+      ],
+      "runtimeSeconds": 5580,
+      "runtimeMinutes": 93,
+      "metascore": 40,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 30,
+      "titleId": "tt0094137",
+      "title": "Three Men and a Baby",
+      "originalTitle": "3 Men and a Baby",
+      "year": 1987,
+      "releaseDate": {
+        "day": 25,
+        "month": 11,
+        "year": 1987
+      },
+      "plot": "Jack Holden and his friends, Peter and Michael, spend most of their time having flings with several women in their apartment. Their life changes when a mysterious baby appears at their doorstep.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNWZhZmJjMzEtOGE2Ni00ZTY3LWIwZDgtMTM1NTEzZDAxNmE4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Steve Guttenberg, Tom Selleck, and Ted Danson in Three Men and a Baby (1987)",
+        "width": 1342,
+        "height": 1988
+      },
+      "imdbRating": 6.1,
+      "numVotes": 61210,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Family"
+      ],
+      "runtimeSeconds": 6120,
+      "runtimeMinutes": 102,
+      "metascore": 61,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 31,
+      "titleId": "tt0094074",
+      "title": "Superman IV: The Quest for Peace",
+      "originalTitle": "Superman IV: The Quest for Peace",
+      "year": 1987,
+      "releaseDate": {
+        "day": 24,
+        "month": 7,
+        "year": 1987
+      },
+      "plot": "With the world on the brink of a nuclear war, Superman takes it upon himself to destroy all nuclear weapons. However, Lex Luthor creates Nuclear Man, a force strong enough to take down Superman.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjhkODhlYjEtMDEyZS00YjZmLWJjMDctZGI3MGJiNDEyNTE2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Gene Hackman, Mariel Hemingway, Jon Cryer, Christopher Reeve, Jackie Cooper, Margot Kidder, Marc McClure, and Mark Pillow in Superman IV: The Quest for Peace (1987)",
+        "width": 998,
+        "height": 1500
+      },
+      "imdbRating": 3.8,
+      "numVotes": 58030,
+      "certificate": "PG",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 5400,
+      "runtimeMinutes": 90,
+      "metascore": 24,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 32,
+      "titleId": "tt0093777",
+      "title": "Prince of Darkness",
+      "originalTitle": "Prince of Darkness",
+      "year": 1987,
+      "releaseDate": {
+        "day": 23,
+        "month": 10,
+        "year": 1987
+      },
+      "plot": "A group of graduate students and scientists uncover an ancient canister in an abandoned church, but when they open the container, they inadvertently unleash a strange liquid and an evil force on all humanity.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDYwOThiMDgtMjMyNC00ODY2LTkwNDMtZjJlNWJiN2IyNDliXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Prince of Darkness (1987)",
+        "width": 1903,
+        "height": 2904
+      },
+      "imdbRating": 6.6,
+      "numVotes": 55063,
+      "certificate": "R",
+      "genres": [
+        "Fantasy",
+        "Horror"
+      ],
+      "runtimeSeconds": 6120,
+      "runtimeMinutes": 102,
+      "metascore": 50,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 33,
+      "titleId": "tt0093640",
+      "title": "No Way Out",
+      "originalTitle": "No Way Out",
+      "year": 1987,
+      "releaseDate": {
+        "day": 14,
+        "month": 8,
+        "year": 1987
+      },
+      "plot": "The Secretary of Defense forces a Pentagon naval aide to lead a spy manhunt.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BN2ZkNGM1MGItYmNiYy00ZTQ0LThiNjUtMjhkYzhiMTM1MTVhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Kevin Costner, Gene Hackman, and Sean Young in No Way Out (1987)",
+        "width": 1860,
+        "height": 2871
+      },
+      "imdbRating": 7.1,
+      "numVotes": 54521,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 6840,
+      "runtimeMinutes": 114,
+      "metascore": 77,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 34,
+      "titleId": "tt0092513",
+      "title": "Adventures in Babysitting",
+      "originalTitle": "Adventures in Babysitting",
+      "year": 1987,
+      "releaseDate": {
+        "day": 3,
+        "month": 7,
+        "year": 1987
+      },
+      "plot": "A babysitter must battle her way through the big city after being stranded there with the kids she's looking after.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWRlODFjMTMtNDBiNS00Y2E0LWEzMDMtYjI3NjAzMDg1N2RlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Elisabeth Shue, Maia Brewton, Keith Coogan, and Anthony Rapp in Adventures in Babysitting (1987)",
+        "width": 1489,
+        "height": 2265
+      },
+      "imdbRating": 6.9,
+      "numVotes": 53547,
+      "certificate": "PG-13",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 6120,
+      "runtimeMinutes": 102,
+      "metascore": 45,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 35,
+      "titleId": "tt0093300",
+      "title": "Jaws: The Revenge",
+      "originalTitle": "Jaws: The Revenge",
+      "year": 1987,
+      "releaseDate": {
+        "day": 17,
+        "month": 7,
+        "year": 1987
+      },
+      "plot": "Chief Brody's widow believes that her family is deliberately being targeted by another shark in search of revenge.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZGFiOTU1MTctMTRkMy00ZmVkLTk5YTktODMxZDhlOGQyN2MwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Lorraine Gary and Bruce in Jaws: The Revenge (1987)",
+        "width": 1487,
+        "height": 2260
+      },
+      "imdbRating": 3.1,
+      "numVotes": 53238,
+      "certificate": "PG-13",
+      "genres": [
+        "Adventure",
+        "Horror",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5340,
+      "runtimeMinutes": 89,
+      "metascore": 15,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 36,
+      "titleId": "tt0094336",
+      "title": "Withnail and I",
+      "originalTitle": "Withnail & I",
+      "year": 1987,
+      "releaseDate": {
+        "day": 19,
+        "month": 6,
+        "year": 1987
+      },
+      "plot": "Two sloppy actors spend a weekend holiday at an uncle's country cottage.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNmFlOGIyNTMtNjBhYy00NTRiLTg3YWEtMThhOWM5ODU4Y2M2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Withnail and I (1987)",
+        "width": 580,
+        "height": 889
+      },
+      "imdbRating": 7.5,
+      "numVotes": 51615,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 6420,
+      "runtimeMinutes": 107,
+      "metascore": 87,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 37,
+      "titleId": "tt0092610",
+      "title": "Bad Taste",
+      "originalTitle": "Bad Taste",
+      "year": 1987,
+      "releaseDate": {
+        "day": 21,
+        "month": 6,
+        "year": 1989
+      },
+      "plot": "The population of a small town disappears and is replaced by aliens that chase human flesh for their intergalactic fast-food chain.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzgxZDRmOGEtYzY4NS00NmVkLTgyZTctYWUwMTIwMDhlZWI2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Bad Taste (1987)",
+        "width": 531,
+        "height": 755
+      },
+      "imdbRating": 6.5,
+      "numVotes": 51128,
+      "certificate": "Not Rated",
+      "genres": [
+        "Comedy",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 5460,
+      "runtimeMinutes": 91,
+      "metascore": 52,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 38,
+      "titleId": "tt0093886",
+      "title": "Roxanne",
+      "originalTitle": "Roxanne",
+      "year": 1987,
+      "releaseDate": {
+        "day": 19,
+        "month": 6,
+        "year": 1987
+      },
+      "plot": "The large-nosed C.D. Bales is in love with the beautiful Roxanne; she falls for his personality but another man's looks.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDkyMzFhYjktYWE5My00YTVhLWE1NjEtZWMyNzliMDMzYzJhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Roxanne (1987)",
+        "width": 800,
+        "height": 1187
+      },
+      "imdbRating": 6.6,
+      "numVotes": 49788,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "runtimeSeconds": 6420,
+      "runtimeMinutes": 107,
+      "metascore": 73,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 39,
+      "titleId": "tt0093605",
+      "title": "Near Dark",
+      "originalTitle": "Near Dark",
+      "year": 1987,
+      "releaseDate": {
+        "day": 8,
+        "month": 1,
+        "year": 1988
+      },
+      "plot": "A small-town farmer's son reluctantly joins a traveling group of vampires after he is bitten by a beautiful drifter.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWQ5YTQ0YmMtOWVjYi00M2M2LWIwZjktYjcwZTRlMDg5ODlmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Bill Paxton in Near Dark (1987)",
+        "width": 986,
+        "height": 1500
+      },
+      "imdbRating": 6.9,
+      "numVotes": 49208,
+      "certificate": "R",
+      "genres": [
+        "Horror"
+      ],
+      "runtimeSeconds": 5640,
+      "runtimeMinutes": 94,
+      "metascore": 78,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 40,
+      "titleId": "tt0093756",
+      "title": "Police Academy 4: Citizens on Patrol",
+      "originalTitle": "Police Academy 4: Citizens on Patrol",
+      "year": 1987,
+      "releaseDate": {
+        "day": 3,
+        "month": 4,
+        "year": 1987
+      },
+      "plot": "The misfit Police Academy graduates are assigned to train a group of civilian volunteers to fight crime once again plaguing the streets.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTQzYTVkN2YtNzM5Yy00MDVhLWEwMTQtNzgwMWVlNDJlZmRkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Police Academy 4: Citizens on Patrol (1987)",
+        "width": 1500,
+        "height": 2221
+      },
+      "imdbRating": 5,
+      "numVotes": 48368,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 5280,
+      "runtimeMinutes": 88,
+      "metascore": 26,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 41,
+      "titleId": "tt0093507",
+      "title": "Masters of the Universe",
+      "originalTitle": "Masters of the Universe",
+      "year": 1987,
+      "releaseDate": {
+        "day": 7,
+        "month": 8,
+        "year": 1987
+      },
+      "plot": "The heroic warrior He-Man battles against the evil lord Skeletor and his armies of darkness for control of Castle Grayskull.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOGM4ZDMxMjMtMmFhYi00OGJhLThiYzktMTVmYTgwNTk4ZDJhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Dolph Lundgren, Robert Duncan McNeill, and Courteney Cox in Masters of the Universe (1987)",
+        "width": 926,
+        "height": 1432
+      },
+      "imdbRating": 5.4,
+      "numVotes": 48028,
+      "certificate": "PG",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 6360,
+      "runtimeMinutes": 106,
+      "metascore": 35,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 42,
+      "titleId": "tt0092718",
+      "title": "Can't Buy Me Love",
+      "originalTitle": "Can't Buy Me Love",
+      "year": 1987,
+      "releaseDate": {
+        "day": 14,
+        "month": 8,
+        "year": 1987
+      },
+      "plot": "An outcast secretly pays the most popular girl in school one thousand dollars to pretend to be his girlfriend for a month.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BN2I5MGEzNGMtNDMzMi00YWI5LTk2YTItM2IyODNiZWM2MDAyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Amanda Peterson and Patrick Dempsey in Can't Buy Me Love (1987)",
+        "width": 1491,
+        "height": 2260
+      },
+      "imdbRating": 6.8,
+      "numVotes": 45535,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 5640,
+      "runtimeMinutes": 94,
+      "metascore": 36,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 43,
+      "titleId": "tt0094142",
+      "title": "Throw Momma from the Train",
+      "originalTitle": "Throw Momma from the Train",
+      "year": 1987,
+      "releaseDate": {
+        "day": 11,
+        "month": 12,
+        "year": 1987
+      },
+      "plot": "A bitter writing teacher wants his successful ex-wife dead. A put-upon mama's boy writing student wants his overbearing mother dead. Will there be a criss-cross murder plot?",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjgyNjlmMjUtYjIyYy00OTY0LWI0YzgtZWNiYTI5MzM4MzA1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Billy Crystal and Danny DeVito in Throw Momma from the Train (1987)",
+        "width": 1987,
+        "height": 2955
+      },
+      "imdbRating": 6.3,
+      "numVotes": 43668,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5280,
+      "runtimeMinutes": 88,
+      "metascore": 56,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 44,
+      "titleId": "tt0093148",
+      "title": "Harry and the Hendersons",
+      "originalTitle": "Harry and the Hendersons",
+      "year": 1987,
+      "releaseDate": {
+        "day": 5,
+        "month": 6,
+        "year": 1987
+      },
+      "plot": "The Henderson family adopt a friendly Sasquatch but have a hard time trying to keep the legend of 'Bigfoot' a secret.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTk4NmJmN2UtZGJmZS00NWU1LWJmY2ItNWMxMmMxN2JhYTE2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Harry and the Hendersons (1987)",
+        "width": 1520,
+        "height": 2265
+      },
+      "imdbRating": 6.1,
+      "numVotes": 40402,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 6600,
+      "runtimeMinutes": 110,
+      "metascore": 42,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 45,
+      "titleId": "tt0092494",
+      "title": "*batteries not included",
+      "originalTitle": "*batteries not included",
+      "year": 1987,
+      "releaseDate": {
+        "day": 18,
+        "month": 12,
+        "year": 1987
+      },
+      "plot": "Aliens help a feisty old New York couple in their battle against the ruthless land developer who's out to evict them.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZmJjNTc1ZWItNTEzYS00YTE4LTg0MmItZjExM2ExODRhMDlkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jessica Tandy and Hume Cronyn in *batteries not included (1987)",
+        "width": 1600,
+        "height": 2370
+      },
+      "imdbRating": 6.6,
+      "numVotes": 39980,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 6420,
+      "runtimeMinutes": 107,
+      "metascore": 54,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 46,
+      "titleId": "tt0092925",
+      "title": "Dragnet",
+      "originalTitle": "Dragnet",
+      "year": 1987,
+      "releaseDate": {
+        "day": 26,
+        "month": 6,
+        "year": 1987
+      },
+      "plot": "The equally strait-laced and \"by-the-book\" nephew of Joe Friday must work with his more laid-back partner to solve a mystery.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzZmZDU0NTktNGFkYS00MmFlLTkyYjEtZGM5Njg1NjkyOWM2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Dan Aykroyd and Tom Hanks in Dragnet (1987)",
+        "width": 484,
+        "height": 755
+      },
+      "imdbRating": 6,
+      "numVotes": 39702,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Mystery"
+      ],
+      "runtimeSeconds": 6360,
+      "runtimeMinutes": 106,
+      "metascore": 62,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 47,
+      "titleId": "tt0093493",
+      "title": "Mannequin",
+      "originalTitle": "Mannequin",
+      "year": 1987,
+      "releaseDate": {
+        "day": 13,
+        "month": 2,
+        "year": 1987
+      },
+      "plot": "A young artist, searching for his vocation, makes a mannequin so perfect he falls in love with it. Finding the mannequin in a store window, he gets a job there and his creation comes to life.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzkzOTdhODctYjQwNC00NjgwLWE5NzEtMDJhMGRjMjIxOTFjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Andrew McCarthy in Mannequin (1987)",
+        "width": 1996,
+        "height": 2957
+      },
+      "imdbRating": 6,
+      "numVotes": 39335,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Romance"
+      ],
+      "runtimeSeconds": 5400,
+      "runtimeMinutes": 90,
+      "metascore": 21,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 48,
+      "titleId": "tt0093936",
+      "title": "The Secret of My Success",
+      "originalTitle": "The Secret of My Succe$s",
+      "year": 1987,
+      "releaseDate": {
+        "day": 10,
+        "month": 4,
+        "year": 1987
+      },
+      "plot": "A talented young man can't get an executive position without rising through the ranks, so he comes up with a shortcut, which also benefits his love life.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzhjZjlhYjYtNjhmOS00ZDNhLWFjNzktMWQ5N2ZkMGM1NTBlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Michael J. Fox and Helen Slater in The Secret of My Success (1987)",
+        "width": 1000,
+        "height": 1500
+      },
+      "imdbRating": 6.5,
+      "numVotes": 39181,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "runtimeSeconds": 6660,
+      "runtimeMinutes": 111,
+      "metascore": 36,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 49,
+      "titleId": "tt0093378",
+      "title": "La Bamba",
+      "originalTitle": "La Bamba",
+      "year": 1987,
+      "releaseDate": {
+        "day": 24,
+        "month": 7,
+        "year": 1987
+      },
+      "plot": "Biographical story of the rise from nowhere of early rock and roll singer Ritchie Valens who died at age 17 in a plane crash with Buddy Holly and The Big Bopper.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjFiYWM4YjItNzcwMC00NWRkLWJlN2ItMDhhNWRlNDZkNWQ3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Lou Diamond Phillips in La Bamba (1987)",
+        "width": 1069,
+        "height": 1600
+      },
+      "imdbRating": 7,
+      "numVotes": 39080,
+      "certificate": "PG-13",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Music"
+      ],
+      "runtimeSeconds": 6480,
+      "runtimeMinutes": 108,
+      "metascore": 65,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 50,
+      "titleId": "tt0093560",
+      "title": "The Monster Squad",
+      "originalTitle": "The Monster Squad",
+      "year": 1987,
+      "releaseDate": {
+        "day": 14,
+        "month": 8,
+        "year": 1987
+      },
+      "plot": "A group of 12-year-olds form a Universal Monsters fan club called Monster Squad and attempt to save their hometown from Count Dracula and his fellow monsters when they show up for real.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZmQ5YjJjNzEtOWU0YS00NTdhLWJlYTYtMWYzOTVjMWFjMjczXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tom Noonan, Brent Chalem, Michael Faustino, Andre Gower, Robby Kiger, Ryan Lambert, Michael Reid MacKay, Duncan Regehr, Carl Thibault, and Tom Woodruff Jr. in The Monster Squad (1987)",
+        "width": 1280,
+        "height": 1920
+      },
+      "imdbRating": 6.9,
+      "numVotes": 38921,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 4920,
+      "runtimeMinutes": 82,
+      "metascore": 61,
+      "credits": [],
+      "titleType": "movie"
+    }
+  ]
+}

@@ -1,0 +1,1601 @@
+{
+  "year": 2021,
+  "movies": [
+    {
+      "rank": 1,
+      "titleId": "tt1160419",
+      "title": "Dune: Part One",
+      "originalTitle": "Dune: Part One",
+      "year": 2021,
+      "releaseDate": {
+        "day": 22,
+        "month": 10,
+        "year": 2021
+      },
+      "plot": "Paul Atreides arrives on Arrakis after his father accepts the stewardship of the dangerous planet. However, chaos ensues after a betrayal as forces clash to control melange, a precious resource.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNWIyNmU5MGYtZDZmNi00ZjAwLWJlYjgtZTc0ZGIxMDE4ZGYwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Javier Bardem, Josh Brolin, Rebecca Ferguson, Jason Momoa, Sharon Duncan-Brewster, Oscar Isaac, Timoth\u00e9e Chalamet, and Zendaya in Dune: Part One (2021)",
+        "width": 1728,
+        "height": 2552
+      },
+      "imdbRating": 8,
+      "numVotes": 1022138,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "runtimeSeconds": 9300,
+      "runtimeMinutes": 155,
+      "metascore": 74,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 2,
+      "titleId": "tt10872600",
+      "title": "Spider-Man: No Way Home",
+      "originalTitle": "Spider-Man: No Way Home",
+      "year": 2021,
+      "releaseDate": {
+        "day": 17,
+        "month": 12,
+        "year": 2021
+      },
+      "plot": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMmFiZGZjMmEtMTA0Ni00MzA2LTljMTYtZGI2MGJmZWYzZTQ2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Willem Dafoe, Alfred Molina, Thomas Haden Church, Jamie Foxx, Rhys Ifans, Benedict Cumberbatch, Zendaya, and Tom Holland in Spider-Man: No Way Home (2021)",
+        "width": 1400,
+        "height": 2100
+      },
+      "imdbRating": 8.1,
+      "numVotes": 1001514,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 8880,
+      "runtimeMinutes": 148,
+      "metascore": 71,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 3,
+      "titleId": "tt11286314",
+      "title": "Don't Look Up",
+      "originalTitle": "Don't Look Up",
+      "year": 2021,
+      "releaseDate": {
+        "day": 24,
+        "month": 12,
+        "year": 2021
+      },
+      "plot": "Two low-level astronomers must go on a giant media tour to warn humankind of an approaching comet that will destroy planet Earth.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjhhNWFjNzctYTJjOS00MDc0LThiNjItZmM0ZDVmMWViY2UzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Leonardo DiCaprio, Ron Perlman, Meryl Streep, Cate Blanchett, Mark Rylance, Tyler Perry, Jonah Hill, Rob Morgan, Jennifer Lawrence, Timoth\u00e9e Chalamet, Kid Cudi, and Ariana Grande in Don't Look Up (2021)",
+        "width": 1080,
+        "height": 1350
+      },
+      "imdbRating": 7.1,
+      "numVotes": 663100,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 8280,
+      "runtimeMinutes": 138,
+      "metascore": 49,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 4,
+      "titleId": "tt9376612",
+      "title": "Shang-Chi and the Legend of the Ten Rings",
+      "originalTitle": "Shang-Chi and the Legend of the Ten Rings",
+      "year": 2021,
+      "releaseDate": {
+        "day": 3,
+        "month": 9,
+        "year": 2021
+      },
+      "plot": "Shang-Chi, the master of weaponry-based Kung Fu, is forced to confront his past after being drawn into the Ten Rings organization.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZmY5MDcyNzAtYzg3MC00MGNlLTg3OGItNmRjYThkZGVlNzAyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tim Roth, Michelle Yeoh, Tony Leung Chiu-wai, Benedict Wong, Meng'er Zhang, Simu Liu, Awkwafina, and Florian Munteanu in Shang-Chi and the Legend of the Ten Rings (2021)",
+        "width": 1688,
+        "height": 2500
+      },
+      "imdbRating": 7.3,
+      "numVotes": 482906,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 7920,
+      "runtimeMinutes": 132,
+      "metascore": 71,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 5,
+      "titleId": "tt2382320",
+      "title": "No Time to Die",
+      "originalTitle": "No Time to Die",
+      "year": 2021,
+      "releaseDate": {
+        "day": 8,
+        "month": 10,
+        "year": 2021
+      },
+      "plot": "James Bond has left active service. His peace is short-lived when Felix Leiter, an old friend from the CIA, turns up asking for help, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZGZiOGZhZDQtZmRkNy00ZmUzLTliMGEtZGU0NjExOGMxZDVkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Daniel Craig in No Time to Die (2021)",
+        "width": 2765,
+        "height": 4096
+      },
+      "imdbRating": 7.3,
+      "numVotes": 482246,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "runtimeSeconds": 9780,
+      "runtimeMinutes": 163,
+      "metascore": 68,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 6,
+      "titleId": "tt6264654",
+      "title": "Free Guy",
+      "originalTitle": "Free Guy",
+      "year": 2021,
+      "releaseDate": {
+        "day": 13,
+        "month": 8,
+        "year": 2021
+      },
+      "plot": "When Guy, a bank teller, learns that he is a non-player character in a bloodthirsty, open-world video game, he goes on to become the hero of the story and takes the responsibility of saving the world.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BN2I0MGMxYjUtZTZiMS00MzMxLTkzNWYtMDUyZmUwY2ViYTljXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ryan Reynolds, Taika Waititi, Dwayne Johnson, Utkarsh Ambudkar, Lil Rel Howery, Jodie Comer, Owen Burke, and Joe Keery in Free Guy (2021)",
+        "width": 2082,
+        "height": 3000
+      },
+      "imdbRating": 7.1,
+      "numVotes": 482084,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 6900,
+      "runtimeMinutes": 115,
+      "metascore": 62,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 7,
+      "titleId": "tt3480822",
+      "title": "Black Widow",
+      "originalTitle": "Black Widow",
+      "year": 2021,
+      "releaseDate": {
+        "day": 9,
+        "month": 7,
+        "year": 2021
+      },
+      "plot": "Natasha Romanoff confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTMyZTA0ZTItYjY3Yi00ODNjLWExYTgtYzgxZTk0NTg0Y2FlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Rachel Weisz, Scarlett Johansson, Ray Winstone, David Harbour, O-T Fagbenle, Olga Kurylenko, and Florence Pugh in Black Widow (2021)",
+        "width": 1013,
+        "height": 1500
+      },
+      "imdbRating": 6.6,
+      "numVotes": 472026,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 8040,
+      "runtimeMinutes": 134,
+      "metascore": 68,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 8,
+      "titleId": "tt12361974",
+      "title": "Zack Snyder's Justice League",
+      "originalTitle": "Zack Snyder's Justice League",
+      "year": 2021,
+      "releaseDate": {
+        "day": 18,
+        "month": 3,
+        "year": 2021
+      },
+      "plot": "Determined to ensure that Superman's ultimate sacrifice wasn't in vain, Bruce Wayne recruits a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDA0MzM5YTctZTU2My00NGQ5LWE2NTEtNDM0MjZmMDBkOTZkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ben Affleck, Henry Cavill, Jason Momoa, Gal Gadot, Ezra Miller, and Ray Fisher in Zack Snyder's Justice League (2021)",
+        "width": 2025,
+        "height": 3000
+      },
+      "imdbRating": 7.9,
+      "numVotes": 469588,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 14520,
+      "runtimeMinutes": 242,
+      "metascore": 54,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 9,
+      "titleId": "tt6334354",
+      "title": "The Suicide Squad",
+      "originalTitle": "The Suicide Squad",
+      "year": 2021,
+      "releaseDate": {
+        "day": 5,
+        "month": 8,
+        "year": 2021
+      },
+      "plot": "Supervillains Harley Quinn, Bloodsport, Peacemaker, and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMWU3Y2NlZmEtMjJjNS00ZWMxLWE1MzctYWYyMjMzMDdkNTE4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Sylvester Stallone, Steve Agee, Idris Elba, John Cena, Joel Kinnaman, David Dastmalchian, Margot Robbie, and Daniela Melchior in The Suicide Squad (2021)",
+        "width": 1080,
+        "height": 1600
+      },
+      "imdbRating": 7.2,
+      "numVotes": 453664,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 7920,
+      "runtimeMinutes": 132,
+      "metascore": 72,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 10,
+      "titleId": "tt9032400",
+      "title": "Eternals",
+      "originalTitle": "Eternals",
+      "year": 2021,
+      "releaseDate": {
+        "day": 5,
+        "month": 11,
+        "year": 2021
+      },
+      "plot": "The saga of the Eternals, a race of immortal beings who lived on Earth and shaped its history and civilizations.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTBiZjI2M2UtZTNiNy00NmU4LWJiMjYtZjk4MDIzMzhlMjFlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Salma Hayek, Angelina Jolie, Richard Madden, Gemma Chan, Ma Dong-seok, Brian Tyree Henry, Kit Harington, Kumail Nanjiani, Lauren Ridloff, Barry Keoghan, and Lia McHugh in Eternals (2021)",
+        "width": 1688,
+        "height": 2500
+      },
+      "imdbRating": 6.2,
+      "numVotes": 422784,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 9360,
+      "runtimeMinutes": 156,
+      "metascore": 52,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 11,
+      "titleId": "tt7888964",
+      "title": "Nobody",
+      "originalTitle": "Nobody",
+      "year": 2021,
+      "releaseDate": {
+        "day": 26,
+        "month": 3,
+        "year": 2021
+      },
+      "plot": "A docile family man slowly reveals his true character after his house gets burgled by two petty thieves, which, coincidentally, leads him into a bloody war with a Russian crime boss.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYmIzOWViNDEtOWRiZS00ZWM4LWFiMmEtNGJjMmQ3NTIxN2U0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Bob Odenkirk in Nobody (2021)",
+        "width": 3158,
+        "height": 5000
+      },
+      "imdbRating": 7.4,
+      "numVotes": 385858,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 5520,
+      "runtimeMinutes": 92,
+      "metascore": 64,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 12,
+      "titleId": "tt7991608",
+      "title": "Red Notice",
+      "originalTitle": "Red Notice",
+      "year": 2021,
+      "releaseDate": {
+        "day": 12,
+        "month": 11,
+        "year": 2021
+      },
+      "plot": "An Interpol agent successfully tracks down the world's most wanted art thief with help from a rival thief. But nothing is as it seems as a series of double-crosses ensues.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOGNjNGQ3MmItYTM5NS00NjBiLWI0ZTItZDE5ZjQyNjg3ODBjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ryan Reynolds, Dwayne Johnson, and Gal Gadot in Red Notice (2021)",
+        "width": 1500,
+        "height": 2222
+      },
+      "imdbRating": 6.3,
+      "numVotes": 351017,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7080,
+      "runtimeMinutes": 118,
+      "metascore": 37,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 13,
+      "titleId": "tt10838180",
+      "title": "The Matrix Resurrections",
+      "originalTitle": "The Matrix Resurrections",
+      "year": 2021,
+      "releaseDate": {
+        "day": 22,
+        "month": 12,
+        "year": 2021
+      },
+      "plot": "Return to a world of two realities: one, everyday life; the other, what lies behind it. To find out if his reality is a construct, to truly know himself, Mr. Anderson will have to choose to follow the white rabbit once more.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDMyNDIzYzMtZTMyMy00NjUyLWI3Y2MtYzYzOGE1NzQ1MTBiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Keanu Reeves, Carrie-Anne Moss, Er\u00e9ndira Ibarra, Jessica Henwick, and Yahya Abdul-Mateen II in The Matrix Resurrections (2021)",
+        "width": 2764,
+        "height": 4096
+      },
+      "imdbRating": 5.6,
+      "numVotes": 300688,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 8880,
+      "runtimeMinutes": 148,
+      "metascore": 63,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 14,
+      "titleId": "tt7097896",
+      "title": "Venom: Let There Be Carnage",
+      "originalTitle": "Venom: Let There Be Carnage",
+      "year": 2021,
+      "releaseDate": {
+        "day": 1,
+        "month": 10,
+        "year": 2021
+      },
+      "plot": "Eddie Brock attempts to reignite his career by interviewing serial killer Cletus Kasady, who becomes the host of the symbiote Carnage and escapes prison after a failed execution.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZGIxMTU1MjItM2FmMi00YmFiLTgwNDMtMTczYmVjYTBhNGZhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Woody Harrelson, Marco Beltrami, Avi Arad, Maryann Brandon, Rocky Capella, Amanda Foster, Christopher Godwin, Stephen Graham, Tom Hardy, Naomie Harris, Gary A. Hecker, Hutch Parker, Alejandra Lazcano, Peggy Lu, Kelly Marcel, Rosie Marcel, Robert Richardson, Stan Salfas, Oliver Scholl, Andy Serkis, Reece Shearsmith, J.K. Simmons, Matt Tolmach, Tony Vella, Sian Webber, Michelle Williams, Stewart Alexander, Sandra Osborne, Brian Copeland, Charlie Fiske, Owen Benito, Eugene Magana, Rachel Thurow, Miguel Angel Arreguin, Shakil Hussain, Lisa Lian, Olumide Olorunfemi, Amir Hamza, Cher Myra, Skip Howland, Joseph Walters, Erwin Rome, Tony Hunt, David Stokes, Alexander Garcia, Ana Zab, Paolo Alessio Pavone, Amy Pascal, Reid Scott, Kieran Simon, Adria Dinev, Ed Chidley, Joshua Eldridge-Smith, Tiffanie Thomas, Kristen Simoes, Shaliz Afshar, Che Amaro, Cl\u00e9ment Osty, Carlos Damasceno, Fiona Burt, Kelvin Lang, Sarah Hussain, Tyrone Reid, James D. Weston II, David Zepeda, Eugene Lin, Akilbek Allan, Shane Steyn, Donovan Patrick Walsh, Laurence Spellman, Obie Matthew, Sam Robinson, Akie Kotabe, Amrou Al-Kadhi, Vaughn Johseph, Michael Andrew Reed, Jeff Redlick, Didier Dell Benjamin, Cabran E. Chamberlain, Anya Fuchs, Scroobius Pip, Michelle Greenidge, Frank Scozzari, Ed Moy, Richard Price, Little Simz, Sonny Ashbourne Serkis, Tom Holland, Etienne Vick, Beau Sargent, Rodrig Andrisan, John Lobato, Aurore Swithenbank, Ed Kear, Timothy A. Slater, Steve Warky Nunez, Louis J Rhone, Otis Winston, Larry Olubamiwo, Benito M. Selim, Simon Connolly, Andrew Koponen, Chabris Napier-Lawrence, Rachel Handshaw, Cynthia Acosta, Cynthia Naylor Smyth, Rick Richardson, Jessie Vinning, Jason McNab, Rob Bowen, Adam Basil, Ashlen Aquila, Elliot Cable, Greg Lockett, Emma Lau, Jamal Ajala, Michael Kennedy, Andzelika Bobrova, William W. Barbour, Sean Delaney, Feizal Mowlabocus, Jack Bandeira, Leigh Hutchinson, Oliver Stockwell, Eric Sigmundsson, Sean Michael McGrory, Jose Palma, Kenny Lorenzetti, Amber Sienna, Alfredo Tavares, Storm Stewart, Mel Powell, Christian Harris Neeman, and Ruth Clarson in Venom: Let There Be Carnage (2021)",
+        "width": 691,
+        "height": 1024
+      },
+      "imdbRating": 5.9,
+      "numVotes": 300205,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Crime"
+      ],
+      "runtimeSeconds": 5820,
+      "runtimeMinutes": 97,
+      "metascore": 49,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 15,
+      "titleId": "tt2953050",
+      "title": "Encanto",
+      "originalTitle": "Encanto",
+      "year": 2021,
+      "releaseDate": {
+        "day": 24,
+        "month": 11,
+        "year": 2021
+      },
+      "plot": "An extraordinary family, the Madrigals, live hidden in the mountains of Colombia, in a magical house called an Encanto. The magic of the Encanto has blessed every child in the family with a unique gift - every child except one, Mirabel.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGEyNzk2M2MtNjBhZS00MzYwLWI0Y2YtYjc5ZWE2MjM0YWE5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Wilmer Valderrama, Angie Cepeda, Mar\u00eda Cecilia Botero, Carolina Gaitan, Stephanie Beatriz, Diane Guerrero, Adassa, Ravi Cabot-Conyers, Rhenzy Feliz, Jess Darrow, and Mauro Castillo in Encanto (2021)",
+        "width": 1012,
+        "height": 1500
+      },
+      "imdbRating": 7.2,
+      "numVotes": 293405,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "runtimeSeconds": 6120,
+      "runtimeMinutes": 102,
+      "metascore": 75,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 16,
+      "titleId": "tt3228774",
+      "title": "Cruella",
+      "originalTitle": "Cruella",
+      "year": 2021,
+      "releaseDate": {
+        "day": 28,
+        "month": 5,
+        "year": 2021
+      },
+      "plot": "During the 1970s London punk rock revolution, young grifter Estella transforms herself into the raucous, revenge-bent Cruella de Vil.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMWY5MjljNjctZjhjZS00MWY0LTgwYzUtZTJiYTVmMmJkM2E0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Emma Stone in Cruella (2021)",
+        "width": 1688,
+        "height": 2500
+      },
+      "imdbRating": 7.3,
+      "numVotes": 292840,
+      "certificate": "PG-13",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 8040,
+      "runtimeMinutes": 134,
+      "metascore": 59,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 17,
+      "titleId": "tt5034838",
+      "title": "Godzilla vs. Kong",
+      "originalTitle": "Godzilla vs. Kong",
+      "year": 2021,
+      "releaseDate": {
+        "day": 31,
+        "month": 3,
+        "year": 2021
+      },
+      "plot": "The epic next chapter in the cinematic Monsterverse pits two of the greatest icons in motion picture history against each other--the fearsome Godzilla and the mighty Kong--with humanity caught in the balance.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjZlYjUwZjItZmQ1ZS00NDU2LWFhNWMtMGRmMmZiMzliY2NhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Godzilla vs. Kong (2021)",
+        "width": 2043,
+        "height": 3000
+      },
+      "imdbRating": 6.3,
+      "numVotes": 264555,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6780,
+      "runtimeMinutes": 113,
+      "metascore": 59,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 18,
+      "titleId": "tt7144666",
+      "title": "The Black Phone",
+      "originalTitle": "The Black Phone",
+      "year": 2021,
+      "releaseDate": {
+        "day": 24,
+        "month": 6,
+        "year": 2022
+      },
+      "plot": "After being abducted and locked in a basement, a boy starts receiving calls on a disconnected phone from the killer's previous victims.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjFhZTcxOTktMzllMS00MzIzLWJhODEtZDU5YTFkNzRjZWQyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ethan Hawke in The Black Phone (2021)",
+        "width": 1895,
+        "height": 3000
+      },
+      "imdbRating": 6.9,
+      "numVotes": 257290,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6180,
+      "runtimeMinutes": 103,
+      "metascore": 65,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 19,
+      "titleId": "tt9777666",
+      "title": "The Tomorrow War",
+      "originalTitle": "The Tomorrow War",
+      "year": 2021,
+      "releaseDate": {
+        "day": 2,
+        "month": 7,
+        "year": 2021
+      },
+      "plot": "A family man travels to the year 2051 to join a global war against a deadly alien species.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYmUyNzY2YWYtNWQ0My00ODMwLTkwOTQtOTA0ZjM0MjRmYjJiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Chris Pratt and Yvonne Strahovski in The Tomorrow War (2021)",
+        "width": 8100,
+        "height": 12000
+      },
+      "imdbRating": 6.6,
+      "numVotes": 250981,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "runtimeSeconds": 8280,
+      "runtimeMinutes": 138,
+      "metascore": 45,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 20,
+      "titleId": "tt4513678",
+      "title": "Ghostbusters: Afterlife",
+      "originalTitle": "Ghostbusters: Afterlife",
+      "year": 2021,
+      "releaseDate": {
+        "day": 19,
+        "month": 11,
+        "year": 2021
+      },
+      "plot": "When a single mom and her two kids arrive in a small town, they begin to discover their connection to the original Ghostbusters and the secret legacy their grandfather left behind.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDJmZmM2NmQtMzhlYi00MGNkLTlhMWUtYjM1MmFlMTA1YTliXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Paul Rudd, Logan Kim, Mckenna Grace, Finn Wolfhard, and Celeste O'Connor in Ghostbusters: Afterlife (2021)",
+        "width": 1350,
+        "height": 2000
+      },
+      "imdbRating": 7,
+      "numVotes": 239115,
+      "certificate": "PG-13",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 7440,
+      "runtimeMinutes": 124,
+      "metascore": 45,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 21,
+      "titleId": "tt11083552",
+      "title": "Wrath of Man",
+      "originalTitle": "Wrath of Man",
+      "year": 2021,
+      "releaseDate": {
+        "day": 7,
+        "month": 5,
+        "year": 2021
+      },
+      "plot": "A mysteriously stoic character is hired as a security guard by a cash truck company responsible for transporting a lot of money around Los Angeles each week.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODE4ZGY4OTktNDBjMy00NGVkLTk5YWUtNjA3NGU3MTA5NzM0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jason Statham in Wrath of Man (2021)",
+        "width": 2765,
+        "height": 4096
+      },
+      "imdbRating": 7.1,
+      "numVotes": 235428,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7140,
+      "runtimeMinutes": 119,
+      "metascore": 57,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 22,
+      "titleId": "tt15097216",
+      "title": "Jai Bhim",
+      "originalTitle": "Jai Bhim",
+      "year": 2021,
+      "releaseDate": {
+        "day": 2,
+        "month": 11,
+        "year": 2021
+      },
+      "plot": "When a tribal man is arrested for a case of alleged theft, his wife turns to a human-rights lawyer to help bring justice.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjEyNDIzNmEtMjdkYS00ZDAwLTljOWYtNDRhYTVhYTlmOTk1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Suriya and Lijo Mol Jose in Jai Bhim (2021)",
+        "width": 1200,
+        "height": 1500
+      },
+      "imdbRating": 8.6,
+      "numVotes": 232896,
+      "certificate": "Approved",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 9840,
+      "runtimeMinutes": 164,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 23,
+      "titleId": "tt0870154",
+      "title": "Jungle Cruise",
+      "originalTitle": "Jungle Cruise",
+      "year": 2021,
+      "releaseDate": {
+        "day": 30,
+        "month": 7,
+        "year": 2021
+      },
+      "plot": "A small riverboat takes a group of travelers through a jungle filled with dangerous animals.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMWU5ZTBkMjQtMzg2Yi00ZmJlLTk4YWEtYTc0ZjU1YzE1NGNkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Paul Giamatti, Dwayne Johnson, Jesse Plemons, Edgar Ram\u00edrez, Emily Blunt, and Jack Whitehall in Jungle Cruise (2021)",
+        "width": 1688,
+        "height": 2500
+      },
+      "imdbRating": 6.5,
+      "numVotes": 225692,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 7620,
+      "runtimeMinutes": 127,
+      "metascore": 50,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 24,
+      "titleId": "tt10293406",
+      "title": "The Power of the Dog",
+      "originalTitle": "The Power of the Dog",
+      "year": 2021,
+      "releaseDate": {
+        "day": 1,
+        "month": 12,
+        "year": 2021
+      },
+      "plot": "Charismatic rancher Phil Burbank inspires fear and awe in those around him. When his brother brings home a new wife and her son, Phil torments them until he finds himself exposed to the possibility of love.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzgyMzA2NDEtZWUxNy00MDNmLTllMDYtNzZmNTU5ZWVmMzhlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Benedict Cumberbatch in The Power of the Dog (2021)",
+        "width": 1013,
+        "height": 1500
+      },
+      "imdbRating": 6.8,
+      "numVotes": 221102,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Western"
+      ],
+      "runtimeSeconds": 7560,
+      "runtimeMinutes": 126,
+      "metascore": 89,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 25,
+      "titleId": "tt12801262",
+      "title": "Luca",
+      "originalTitle": "Luca",
+      "year": 2021,
+      "releaseDate": {
+        "day": 18,
+        "month": 6,
+        "year": 2021
+      },
+      "plot": "On the Italian Riviera, an unlikely but strong friendship grows between a human being and a sea monster disguised as a human.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMWMyNGNlZTktODVkNS00ZmMyLTk0NmUtNWVjOWU1MWMzZGMzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Marco Barricelli, Jim Gaffigan, Maya Rudolph, Peter Sohn, Emma Berman, Jacob Tremblay, Jack Dylan Grazer, and Saverio Raimondo in Luca (2021)",
+        "width": 2025,
+        "height": 3000
+      },
+      "imdbRating": 7.4,
+      "numVotes": 220023,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 5700,
+      "runtimeMinutes": 95,
+      "metascore": 71,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 26,
+      "titleId": "tt4244994",
+      "title": "The Last Duel",
+      "originalTitle": "The Last Duel",
+      "year": 2021,
+      "releaseDate": {
+        "day": 15,
+        "month": 10,
+        "year": 2021
+      },
+      "plot": "The Knight Jean de Carrouges must settle the dispute over his wife Marguerite by challenging his former friend to a duel to the death.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZGZiNDFkNDgtNDlmNS00NzZmLTg4MmItMzJkYjdmMjJkZDliXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ben Affleck, Matt Damon, Jodie Comer, and Adam Driver in The Last Duel (2021)",
+        "width": 743,
+        "height": 1100
+      },
+      "imdbRating": 7.3,
+      "numVotes": 203969,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "History",
+        "Thriller"
+      ],
+      "runtimeSeconds": 9120,
+      "runtimeMinutes": 152,
+      "metascore": 67,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 27,
+      "titleId": "tt10366460",
+      "title": "CODA",
+      "originalTitle": "CODA",
+      "year": 2021,
+      "releaseDate": {
+        "day": 13,
+        "month": 8,
+        "year": 2021
+      },
+      "plot": "When the family's fishing business is threatened, Ruby finds herself torn between pursuing her musical passion and her fear of abandoning her deaf parents.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzIzOTNjOTQtM2QzOC00NjFlLTljZDUtZmI4Yjg1YTkyMTBiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Marlee Matlin, Troy Kotsur, Daniel Durant, and Emilia Jones in CODA (2021)",
+        "width": 503,
+        "height": 755
+      },
+      "imdbRating": 8,
+      "numVotes": 203895,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Music"
+      ],
+      "runtimeSeconds": 6660,
+      "runtimeMinutes": 111,
+      "metascore": 72,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 28,
+      "titleId": "tt0293429",
+      "title": "Mortal Kombat",
+      "originalTitle": "Mortal Kombat",
+      "year": 2021,
+      "releaseDate": {
+        "day": 23,
+        "month": 4,
+        "year": 2021
+      },
+      "plot": "MMA fighter Cole Young seeks out Earth's greatest champions in order to stand against the enemies of Outworld in a high stakes battle for the universe.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNmRmN2I5M2EtNDA1Ny00N2ZmLWE3YWYtMjQ1NTFjY2Q4NWM5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Hiroyuki Sanada and Joe Taslim in Mortal Kombat (2021)",
+        "width": 2764,
+        "height": 4096
+      },
+      "imdbRating": 6.1,
+      "numVotes": 202626,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 6600,
+      "runtimeMinutes": 110,
+      "metascore": 44,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 29,
+      "titleId": "tt0993840",
+      "title": "Army of the Dead",
+      "originalTitle": "Army of the Dead",
+      "year": 2021,
+      "releaseDate": {
+        "day": 21,
+        "month": 5,
+        "year": 2021
+      },
+      "plot": "Following a zombie outbreak in Las Vegas, a group of mercenaries take the ultimate gamble, venturing into the quarantine zone to pull off the greatest heist ever attempted.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjc0MDFjZmQtMWMxZi00YzY4LWI5N2EtOGQwM2IzZjRkYmY1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ana de la Reguera, Matthias Schweigh\u00f6fer, Omari Hardwick, Dave Bautista, and Ella Purnell in Army of the Dead (2021)",
+        "width": 1500,
+        "height": 2222
+      },
+      "imdbRating": 5.8,
+      "numVotes": 199567,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Crime"
+      ],
+      "runtimeSeconds": 8880,
+      "runtimeMinutes": 148,
+      "metascore": 57,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 30,
+      "titleId": "tt9639470",
+      "title": "Last Night in Soho",
+      "originalTitle": "Last Night in Soho",
+      "year": 2021,
+      "releaseDate": {
+        "day": 29,
+        "month": 10,
+        "year": 2021
+      },
+      "plot": "Aspiring fashion designer Eloise is mysteriously able to return to 1960s London, where she encounters dazzling wannabe singer Sandie. But the glamour is not as it seems, and the dreams of the past crack and splinter into something darker.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODdhZjBmZTEtZmQyMy00NWY5LWJiMWQtODhjODFkZWZlMjMyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Terence Stamp, Matt Smith, Michael Ajao, Thomasin McKenzie, and Anya Taylor-Joy in Last Night in Soho (2021)",
+        "width": 1013,
+        "height": 1500
+      },
+      "imdbRating": 7,
+      "numVotes": 198029,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Mystery"
+      ],
+      "runtimeSeconds": 6960,
+      "runtimeMinutes": 116,
+      "metascore": 65,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 31,
+      "titleId": "tt6856242",
+      "title": "The King's Man",
+      "originalTitle": "The King's Man",
+      "year": 2021,
+      "releaseDate": {
+        "day": 22,
+        "month": 12,
+        "year": 2021
+      },
+      "plot": "In the early years of the 20th century, the Kingsman agency is formed to stand against a cabal plotting a war to wipe out millions of people.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjY3YTY3MGMtMjVmYS00ZmM3LWIxMDAtYWVhZTAyZDMwNmMwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ralph Fiennes, Djimon Hounsou, Rhys Ifans, Gemma Arterton, and Harris Dickinson in The King's Man (2021)",
+        "width": 2000,
+        "height": 2963
+      },
+      "imdbRating": 6.3,
+      "numVotes": 194094,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7860,
+      "runtimeMinutes": 131,
+      "metascore": 44,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 32,
+      "titleId": "tt5109280",
+      "title": "Raya and the Last Dragon",
+      "originalTitle": "Raya and the Last Dragon",
+      "year": 2021,
+      "releaseDate": {
+        "day": 5,
+        "month": 3,
+        "year": 2021
+      },
+      "plot": "In a realm known as Kumandra, a re-imagined Earth inhabited by an ancient civilization, a warrior named Raya is determined to find the last dragon.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BN2QzZTQ3MzktN2JiYS00MDEzLTgxMWQtZWFmMDI3NWFkZTY0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Alan Tudyk, Benedict Wong, Gemma Chan, Kelly Marie Tran, Awkwafina, Thalia Tran, and Izaac Wang in Raya and the Last Dragon (2021)",
+        "width": 1085,
+        "height": 1608
+      },
+      "imdbRating": 7.3,
+      "numVotes": 186201,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "runtimeSeconds": 6420,
+      "runtimeMinutes": 107,
+      "metascore": 74,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 33,
+      "titleId": "tt10954652",
+      "title": "Old",
+      "originalTitle": "Old",
+      "year": 2021,
+      "releaseDate": {
+        "day": 23,
+        "month": 7,
+        "year": 2021
+      },
+      "plot": "A vacationing family discovers that the secluded beach where they're relaxing for a few hours is somehow causing them to age rapidly, reducing their entire lives into a single day.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BM2JkZjI5MjktNmQwZC00ZmYxLTg0OTYtYmVhNGFkMGZlMGYyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Old (2021)",
+        "width": 1154,
+        "height": 1732
+      },
+      "imdbRating": 5.8,
+      "numVotes": 181944,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6480,
+      "runtimeMinutes": 108,
+      "metascore": 55,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 34,
+      "titleId": "tt10888594",
+      "title": "Radhe",
+      "originalTitle": "Radhe",
+      "year": 2021,
+      "releaseDate": {
+        "day": 13,
+        "month": 5,
+        "year": 2021
+      },
+      "plot": "An honest cop is determined to bring down a corrupt drug mafia, who targets youth to drive towards drug addiction.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTI2M2M1OGEtY2E0ZC00ZDVmLTgyMGQtYzc0M2E5MGIwZDdhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jackie Shroff, Salman Khan, and Disha Patani in Radhe (2021)",
+        "width": 1080,
+        "height": 1080
+      },
+      "imdbRating": 1.8,
+      "numVotes": 181577,
+      "certificate": "TV-MA",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6540,
+      "runtimeMinutes": 109,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 35,
+      "titleId": "tt7740496",
+      "title": "Nightmare Alley",
+      "originalTitle": "Nightmare Alley",
+      "year": 2021,
+      "releaseDate": {
+        "day": 17,
+        "month": 12,
+        "year": 2021
+      },
+      "plot": "A grifter working his way up from low-ranking carnival worker to lauded psychic medium matches wits with a psychologist bent on exposing him.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNThlMDUzMDEtOTY1ZC00MzI3LThlOGItYjI0MTdkZDliNDEzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Cate Blanchett, Toni Collette, Bradley Cooper, and Rooney Mara in Nightmare Alley (2021)",
+        "width": 1012,
+        "height": 1500
+      },
+      "imdbRating": 7,
+      "numVotes": 181162,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 9000,
+      "runtimeMinutes": 150,
+      "metascore": 70,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 36,
+      "titleId": "tt5433138",
+      "title": "F9: The Fast Saga",
+      "originalTitle": "F9",
+      "year": 2021,
+      "releaseDate": {
+        "day": 25,
+        "month": 6,
+        "year": 2021
+      },
+      "plot": "Dom and the crew must take on an international terrorist who turns out to be Dom and Mia's estranged brother.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODJkMTQ5ZmQtNzQxYy00ZWNlLWI0ZGYtYjU1NzdiMjcyNDRmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Charlize Theron, Vin Diesel, Jordana Brewster, Sung Kang, Ludacris, Michelle Rodriguez, Tyrese Gibson, John Cena, and Nathalie Emmanuel in F9: The Fast Saga (2021)",
+        "width": 1579,
+        "height": 2500
+      },
+      "imdbRating": 5.2,
+      "numVotes": 178014,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "runtimeSeconds": 8580,
+      "runtimeMinutes": 143,
+      "metascore": 58,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 37,
+      "titleId": "tt11214590",
+      "title": "House of Gucci",
+      "originalTitle": "House of Gucci",
+      "year": 2021,
+      "releaseDate": {
+        "day": 24,
+        "month": 11,
+        "year": 2021
+      },
+      "plot": "When Patrizia Reggiani, an outsider from humble beginnings, marries into the Gucci family, her unbridled ambition begins to unravel their legacy and triggers a reckless spiral of betrayal, decadence, revenge, and ultimately...murder.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMmQ3OTRiYWItMGRiOC00ZTVmLWJjMjEtNjZhNDQ5NjIxODNjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Al Pacino, Jeremy Irons, Jared Leto, Lady Gaga, and Adam Driver in House of Gucci (2021)",
+        "width": 1080,
+        "height": 1600
+      },
+      "imdbRating": 6.6,
+      "numVotes": 173578,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 9480,
+      "runtimeMinutes": 158,
+      "metascore": 59,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 38,
+      "titleId": "tt9421570",
+      "title": "The Guilty",
+      "originalTitle": "The Guilty",
+      "year": 2021,
+      "releaseDate": {
+        "day": 1,
+        "month": 10,
+        "year": 2021
+      },
+      "plot": "A demoted police officer assigned to a call dispatch desk is conflicted when he receives an emergency phone call from a kidnapped woman.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZmVjNzM0YmItZGQwYy00MzA4LTkwYjAtMmJkNWVmOTRkZGRkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jake Gyllenhaal in The Guilty (2021)",
+        "width": 1080,
+        "height": 1350
+      },
+      "imdbRating": 6.3,
+      "numVotes": 172136,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5400,
+      "runtimeMinutes": 90,
+      "metascore": 63,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 39,
+      "titleId": "tt9620288",
+      "title": "King Richard",
+      "originalTitle": "King Richard",
+      "year": 2021,
+      "releaseDate": {
+        "day": 19,
+        "month": 11,
+        "year": 2021
+      },
+      "plot": "A look at how tennis superstars Venus and Serena Williams became who they are after the coaching from their father Richard.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjVlZGFjMDctNDIxOS00NjY5LWE1ZTEtMTAxZGE4Y2QxZjMxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Will Smith, Saniyya Sidney, and Demi Singleton in King Richard (2021)",
+        "width": 2764,
+        "height": 4096
+      },
+      "imdbRating": 7.5,
+      "numVotes": 168792,
+      "certificate": "PG-13",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Sport"
+      ],
+      "runtimeSeconds": 8640,
+      "runtimeMinutes": 144,
+      "metascore": 76,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 40,
+      "titleId": "tt7069210",
+      "title": "The Conjuring: The Devil Made Me Do It",
+      "originalTitle": "The Conjuring: The Devil Made Me Do It",
+      "year": 2021,
+      "releaseDate": {
+        "day": 4,
+        "month": 6,
+        "year": 2021
+      },
+      "plot": "Arne Cheyenne Johnson stabs and murders his landlord, claiming to be under demonic possession while Ed and Lorraine Warren investigate the case and try to prove his innocence.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNThkYWE3OGItNzAyNC00N2U4LThjY2QtMGQwYjZhYTI1MzMwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Vera Farmiga and Patrick Wilson in The Conjuring: The Devil Made Me Do It (2021)",
+        "width": 2765,
+        "height": 4096
+      },
+      "imdbRating": 6.2,
+      "numVotes": 166633,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6720,
+      "runtimeMinutes": 112,
+      "metascore": 53,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 41,
+      "titleId": "tt8847712",
+      "title": "The French Dispatch",
+      "originalTitle": "The French Dispatch of the Liberty, Kansas Evening Sun",
+      "year": 2021,
+      "releaseDate": {
+        "day": 22,
+        "month": 10,
+        "year": 2021
+      },
+      "plot": "A collection of stories published in \"The French Dispatch Magazine\" comes to life in a fictional twentieth century French city.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTU1YmNkZWYtYmExNC00YWE1LTk2NWEtMTQ2ODhmYTA5MmZiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Bill Murray, Willem Dafoe, Frances McDormand, Liev Schreiber, Bob Balaban, Benicio Del Toro, Edward Norton, Henry Winkler, Adrien Brody, Jason Schwartzman, Owen Wilson, Mathieu Amalric, Steve Park, Lois Smith, Tilda Swinton, Christoph Waltz, Wallace Wolodarsky, Jeffrey Wright, Jarvis Cocker, Mohamed Belhadjine, Saoirse Ronan, Tony Revolori, Timoth\u00e9e Chalamet, Lyna Khoudri, and Krishna Bagadiya in The French Dispatch (2021)",
+        "width": 1013,
+        "height": 1500
+      },
+      "imdbRating": 7.1,
+      "numVotes": 165281,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 6420,
+      "runtimeMinutes": 107,
+      "metascore": 75,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 42,
+      "titleId": "tt11271038",
+      "title": "Licorice Pizza",
+      "originalTitle": "Licorice Pizza",
+      "year": 2021,
+      "releaseDate": {
+        "day": 25,
+        "month": 12,
+        "year": 2021
+      },
+      "plot": "A young man and a young woman grow up, run around, and fall in love in the San Fernando Valley, 1973.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjU5MjRiOWMtNmI0OC00ZTU1LThlNGItYTViNzU2YzAzMWMxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Sean Penn, Tom Waits, Christine Ebersole, Bradley Cooper, Harriet Sansom Harris, Maya Rudolph, Nate Mann, Cooper Hoffman, Benny Safdie, Mary Elizabeth Ellis, Skyler Gisondo, and Alana Haim in Licorice Pizza (2021)",
+        "width": 831,
+        "height": 1200
+      },
+      "imdbRating": 7.1,
+      "numVotes": 158028,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 7980,
+      "runtimeMinutes": 133,
+      "metascore": 90,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 43,
+      "titleId": "tt7979580",
+      "title": "The Mitchells vs. the Machines",
+      "originalTitle": "The Mitchells vs the Machines",
+      "year": 2021,
+      "releaseDate": {
+        "day": 30,
+        "month": 4,
+        "year": 2021
+      },
+      "plot": "A quirky, dysfunctional family's road trip is upended when they find themselves in the middle of the robot apocalypse and suddenly become humanity's unlikeliest last hope.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzAyOWNiMjAtNWUzMi00ZDk1LWE5NzYtNDUzMWE1Y2M0NDM2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Maya Rudolph, Danny McBride, Olivia Colman, Abbi Jacobson, Michael Rianda, and Doug the Pug in The Mitchells vs. the Machines (2021)",
+        "width": 1500,
+        "height": 2222
+      },
+      "imdbRating": 7.6,
+      "numVotes": 140772,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 6840,
+      "runtimeMinutes": 114,
+      "metascore": 81,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 44,
+      "titleId": "tt10016180",
+      "title": "The Little Things",
+      "originalTitle": "The Little Things",
+      "year": 2021,
+      "releaseDate": {
+        "day": 29,
+        "month": 1,
+        "year": 2021
+      },
+      "plot": "A deputy sheriff and a sergeant search for a serial killer who's terrorizing Los Angeles.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZmRjYmQ5Y2YtYTUyMy00OTg0LWE1YmEtZTI2NDYxYTBhYTYxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Denzel Washington, Jared Leto, and Rami Malek in The Little Things (2021)",
+        "width": 996,
+        "height": 1482
+      },
+      "imdbRating": 6.3,
+      "numVotes": 139674,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "runtimeSeconds": 7680,
+      "runtimeMinutes": 128,
+      "metascore": 54,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 45,
+      "titleId": "tt10295212",
+      "title": "Shershaah",
+      "originalTitle": "Shershaah",
+      "year": 2021,
+      "releaseDate": {
+        "day": 12,
+        "month": 8,
+        "year": 2021
+      },
+      "plot": "Shershaah is the story of PVC awardee Indian soldier Capt. Vikram Batra, whose bravery and unflinching courage in chasing the Pakistani soldiers out of Indian territory contributed immensely in India finally winning the Kargil War in 1999.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTAzNzg0OGUtZmY1My00Y2VmLTk2YzYtNDU3MjlmNzU5ZjE3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Atul Singh Verma, Sidharth Malhotra, Kiara Advani, Shataf Figar, and Pranay Pachauri in Shershaah (2021)",
+        "width": 960,
+        "height": 1280
+      },
+      "imdbRating": 8.3,
+      "numVotes": 135750,
+      "certificate": "TV-14",
+      "genres": [
+        "Action",
+        "Biography",
+        "Drama"
+      ],
+      "runtimeSeconds": 8100,
+      "runtimeMinutes": 135,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 46,
+      "titleId": "tt9243804",
+      "title": "The Green Knight",
+      "originalTitle": "The Green Knight",
+      "year": 2021,
+      "releaseDate": {
+        "day": 30,
+        "month": 7,
+        "year": 2021
+      },
+      "plot": "A fantasy retelling of the medieval story of Sir Gawain and the Green Knight.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjRjNmU1M2ItNDU4Ni00ZGY2LTlmNzItY2MxYmY3OTllZjMwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Dev Patel in The Green Knight (2021)",
+        "width": 1944,
+        "height": 2880
+      },
+      "imdbRating": 6.6,
+      "numVotes": 129942,
+      "certificate": "R",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 7800,
+      "runtimeMinutes": 130,
+      "metascore": 85,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 47,
+      "titleId": "tt8721424",
+      "title": "tick, tick... BOOM!",
+      "originalTitle": "Tick, Tick... Boom!",
+      "year": 2021,
+      "releaseDate": {
+        "day": 19,
+        "month": 11,
+        "year": 2021
+      },
+      "plot": "On the brink of turning 30, a promising theater composer navigates love, friendship and the pressure to create something great before time runs out.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOGYyNGJmNzctYzZjZi00MzUzLTg3YTYtYjk0OTNjMzA1OTE4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Andrew Garfield in tick, tick... BOOM! (2021)",
+        "width": 1013,
+        "height": 1500
+      },
+      "imdbRating": 7.5,
+      "numVotes": 127750,
+      "certificate": "PG-13",
+      "genres": [
+        "Biography",
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 6900,
+      "runtimeMinutes": 115,
+      "metascore": 74,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 48,
+      "titleId": "tt11233960",
+      "title": "The Unforgivable",
+      "originalTitle": "The Unforgivable",
+      "year": 2021,
+      "releaseDate": {
+        "day": 10,
+        "month": 12,
+        "year": 2021
+      },
+      "plot": "A woman is released from prison after serving a sentence for a violent crime and re-enters a society that refuses to forgive her past.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjVlY2EzYTUtNjY5Ni00ZTUyLTkxNTEtZDk1ZTliZjgwODIxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Sandra Bullock in The Unforgivable (2021)",
+        "width": 510,
+        "height": 755
+      },
+      "imdbRating": 7.2,
+      "numVotes": 127135,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "runtimeSeconds": 6720,
+      "runtimeMinutes": 112,
+      "metascore": 41,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 49,
+      "titleId": "tt10370710",
+      "title": "The Worst Person in the World",
+      "originalTitle": "Verdens verste menneske",
+      "year": 2021,
+      "releaseDate": {
+        "day": 13,
+        "month": 10,
+        "year": 2021
+      },
+      "plot": "The chronicles of four years in the life of Julie, a young woman who navigates the troubled waters of her love life and struggles to find her career path, leading her to take a realistic look at who she really is.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZGEyYzBiYmItZDM4OC00NTdmLWJlYzctODdiM2E2MjZmYTU2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Renate Reinsve in The Worst Person in the World (2021)",
+        "width": 595,
+        "height": 842
+      },
+      "imdbRating": 7.7,
+      "numVotes": 122928,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 7680,
+      "runtimeMinutes": 128,
+      "metascore": 91,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 50,
+      "titleId": "tt3581652",
+      "title": "West Side Story",
+      "originalTitle": "West Side Story",
+      "year": 2021,
+      "releaseDate": {
+        "day": 10,
+        "month": 12,
+        "year": 2021
+      },
+      "plot": "When young Tony and Maria fall in love in 1957 New York City, their romance helps to fuel the fire between the warring Jets and Sharks, two rival gangs vying for control of the streets.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWZkYzY2OGUtOGU4Ni00NmI0LTg2ZjAtZDA5OWE0YTNiZWRiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Rachel Zegler and Ansel Elgort in West Side Story (2021)",
+        "width": 2025,
+        "height": 3000
+      },
+      "imdbRating": 7.1,
+      "numVotes": 121699,
+      "certificate": "PG-13",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Musical"
+      ],
+      "runtimeSeconds": 9360,
+      "runtimeMinutes": 156,
+      "metascore": 85,
+      "credits": [],
+      "titleType": "movie"
+    }
+  ]
+}

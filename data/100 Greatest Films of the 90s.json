@@ -1,0 +1,822 @@
+{
+  "source": "100 Greatest Films of the 90s.csv",
+  "movies": [
+    {
+      "rank": 1,
+      "titleId": "tt0101829",
+      "title": "Europa",
+      "originalTitle": "Europa",
+      "year": 1991,
+      "releaseDate": {
+        "day": 27,
+        "month": 6,
+        "year": 1991
+      },
+      "plot": "Just after World War II, an American takes a railway job in Germany, but finds his position politically sensitive with various people trying to use him.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWU4MDBhZTktMzEyZC00NmUzLThjZjItOGI5ZjhkOGIzZWYwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jean-Marc Barr in Europa (1991)",
+        "width": 960,
+        "height": 1456
+      },
+      "imdbRating": 7.5,
+      "numVotes": 24485,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6480,
+      "runtimeMinutes": 108,
+      "metascore": 69,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0116477",
+      "title": "Hamlet",
+      "originalTitle": "Hamlet",
+      "year": 1996,
+      "releaseDate": {
+        "day": 25,
+        "month": 12,
+        "year": 1996
+      },
+      "plot": "Hamlet, Prince of Denmark, returns home to find his father murdered and his mother remarrying the murderer, his uncle. Meanwhile, war is brewing.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGNjM2NkMmItMjg4YS00OWZiLTk4ZTAtMTUzMzhkNTUxZDc5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Hamlet (1996)",
+        "width": 1555,
+        "height": 2292
+      },
+      "imdbRating": 7.7,
+      "numVotes": 41732,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 14520,
+      "runtimeMinutes": 242,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0100998",
+      "title": "Dreams",
+      "originalTitle": "Yume",
+      "year": 1990,
+      "releaseDate": {
+        "day": 24,
+        "month": 8,
+        "year": 1990
+      },
+      "plot": "A collection of tales based upon eight of director Akira Kurosawa's recurring dreams.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDkwYmVkNTgtMGYyOC00NTQzLTkyNmMtODcxM2RmZDg1MTA4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Dreams (1990)",
+        "width": 1974,
+        "height": 2966
+      },
+      "imdbRating": 7.7,
+      "numVotes": 32235,
+      "certificate": "PG",
+      "genres": [
+        "Drama",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 7140,
+      "runtimeMinutes": 119,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0111797",
+      "title": "Eat Drink Man Woman",
+      "originalTitle": "Yin shi nan nu",
+      "year": 1994,
+      "releaseDate": {
+        "day": 3,
+        "month": 8,
+        "year": 1994
+      },
+      "plot": "A senior chef lives with his three grown daughters; the middle one finds her future plans affected by unexpected events and the life changes of the other household members.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYmZjMDNiOTgtYjBjMi00OWU0LThkYTAtNjgyOTliNTgzN2M3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Wang Yu-wen, Chien-Lien Wu, and Kuei-Mei Yang in Eat Drink Man Woman (1994)",
+        "width": 1064,
+        "height": 1600
+      },
+      "imdbRating": 7.8,
+      "numVotes": 24837,
+      "certificate": "Not Rated",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 7440,
+      "runtimeMinutes": 124,
+      "metascore": 80,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0235198",
+      "title": "Audition",
+      "originalTitle": "\u00d4dishon",
+      "year": 1999,
+      "releaseDate": {
+        "day": 3,
+        "month": 3,
+        "year": 2000
+      },
+      "plot": "A widower has his film producer friend organize a fake audition as a means of helping him find a new girlfriend, but the woman he selects is not who she appears to be.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNmRiZjI3ZTctNjZiNC00ZWFhLTkwMTItZGZjYTJlZTBkMjZjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Audition (1999)",
+        "width": 1145,
+        "height": 1591
+      },
+      "imdbRating": 7.1,
+      "numVotes": 98204,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Mystery"
+      ],
+      "runtimeSeconds": 6900,
+      "runtimeMinutes": 115,
+      "metascore": 70,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0103285",
+      "title": "Once Upon a Time in China",
+      "originalTitle": "Wong Fei Hung",
+      "year": 1991,
+      "releaseDate": {
+        "day": 15,
+        "month": 8,
+        "year": 1991
+      },
+      "plot": "Legendary martial arts hero Wong Fei-Hung fights against foreign forces' plundering of China. When Aunt Yee arrives back from America, Wong Fei-Hung assumes the role of her protector.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWEwZmU2N2ItNWVkNi00OGRhLWE1N2YtNzM1MDRiYWM4MjgyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Once Upon a Time in China (1991)",
+        "width": 1069,
+        "height": 1600
+      },
+      "imdbRating": 7.2,
+      "numVotes": 21207,
+      "certificate": "R",
+      "genres": [
+        "Action"
+      ],
+      "runtimeSeconds": 8040,
+      "runtimeMinutes": 134,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0107156",
+      "title": "The Wedding Banquet",
+      "originalTitle": "Xi yan",
+      "year": 1993,
+      "releaseDate": {
+        "day": 4,
+        "month": 8,
+        "year": 1993
+      },
+      "plot": "To satisfy his nagging parents, a gay landlord and a female tenant agree to a marriage of convenience, but his parents arrive to visit and things get out of hand.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjI1NDg2MTQxN15BMl5BanBnXkFtZTcwNTYwNTc3NA@@._V1_.jpg",
+        "caption": "Winston Chao, May Chin, and Mitchell Lichtenstein in The Wedding Banquet (1993)",
+        "width": 678,
+        "height": 1023
+      },
+      "imdbRating": 7.6,
+      "numVotes": 18736,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 6360,
+      "runtimeMinutes": 106,
+      "metascore": 81,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0100519",
+      "title": "Rosencrantz & Guildenstern Are Dead",
+      "originalTitle": "Rosencrantz & Guildenstern Are Dead",
+      "year": 1990,
+      "releaseDate": {
+        "day": 8,
+        "month": 2,
+        "year": 1991
+      },
+      "plot": "Two minor characters from the play 'Hamlet' stumble around unaware of their scripted lives and unable to deviate from them.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjc0MTU0MDY1OV5BMl5BanBnXkFtZTcwMDI2OTY2NA@@._V1_.jpg",
+        "caption": "Rosencrantz & Guildenstern Are Dead (1990)",
+        "width": 676,
+        "height": 1023
+      },
+      "imdbRating": 7.3,
+      "numVotes": 25498,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 7020,
+      "runtimeMinutes": 117,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0119349",
+      "title": "The Ice Storm",
+      "originalTitle": "The Ice Storm",
+      "year": 1997,
+      "releaseDate": {
+        "day": 26,
+        "month": 11,
+        "year": 1997
+      },
+      "plot": "In 1973 suburbia, several middle-class families experimenting with substance abuse and the swinging lifestyle find their lives spinning beyond their control.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzljZTk2MzMtOTAwNi00MTBlLWI0ODYtODgwYTE4NmM1YWIwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Kevin Kline, Sigourney Weaver, and Joan Allen in The Ice Storm (1997)",
+        "width": 1500,
+        "height": 2213
+      },
+      "imdbRating": 7.3,
+      "numVotes": 63334,
+      "certificate": "R",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 6720,
+      "runtimeMinutes": 112,
+      "metascore": 72,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0165773",
+      "title": "Felicia's Journey",
+      "originalTitle": "Felicia's Journey",
+      "year": 1999,
+      "releaseDate": {
+        "day": 24,
+        "month": 11,
+        "year": 1999
+      },
+      "plot": "A young woman leaves Ireland to find her boyfriend in England, and while there is helped by a man hiding unsettling secrets.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWY2NmMyZTgtNzM4MC00YWRlLTlkMzMtYTRiMmU3MDI4YjhjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Felicia's Journey (1999)",
+        "width": 523,
+        "height": 755
+      },
+      "imdbRating": 7,
+      "numVotes": 8739,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6960,
+      "runtimeMinutes": 116,
+      "metascore": 72,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0100486",
+      "title": "Reversal of Fortune",
+      "originalTitle": "Reversal of Fortune",
+      "year": 1990,
+      "releaseDate": {
+        "day": 9,
+        "month": 11,
+        "year": 1990
+      },
+      "plot": "Wealthy Sunny von B\u00fclow lies brain-dead, husband Claus guilty of attempted murder; but he says he's innocent and hires Alan Dershowitz for his appeal.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODIxMDU3ZWEtNWUyOC00M2NkLThmMTMtZWZkYTRhNjU1NTNlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Reversal of Fortune (1990)",
+        "width": 1510,
+        "height": 2265
+      },
+      "imdbRating": 7.2,
+      "numVotes": 21253,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Mystery"
+      ],
+      "runtimeSeconds": 6660,
+      "runtimeMinutes": 111,
+      "metascore": 93,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0194314",
+      "title": "Romance",
+      "originalTitle": "Romance",
+      "year": 1999,
+      "releaseDate": {
+        "day": 14,
+        "month": 4,
+        "year": 1999
+      },
+      "plot": "Frustrated by the lack of intimacy in her relationship, a young schoolteacher goes through a series of intimidating and often violent sexual partners.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZmIzM2JjMzMtZWM0OS00ZjNiLWFiYTAtZTNjNzZjMzdjZDI5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Caroline Ducey in Romance (1999)",
+        "width": 1622,
+        "height": 2405
+      },
+      "imdbRating": 5.2,
+      "numVotes": 13174,
+      "certificate": "Unrated",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 5040,
+      "runtimeMinutes": 84,
+      "metascore": 49,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0118607",
+      "title": "Amistad",
+      "originalTitle": "Amistad",
+      "year": 1997,
+      "releaseDate": {
+        "day": 25,
+        "month": 12,
+        "year": 1997
+      },
+      "plot": "In 1839, the revolt of Mende captives aboard a Spanish owned ship causes a major controversy in the United States when the ship is captured off the coast of Long Island. The courts must decide whether the Mende are slaves or legally free.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZGUyMWU0ZjctZTFiMS00YzdjLTg1YjktNDRmN2ZhNDY3ZDFhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Djimon Hounsou in Amistad (1997)",
+        "width": 580,
+        "height": 862
+      },
+      "imdbRating": 7.3,
+      "numVotes": 87157,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "runtimeSeconds": 9300,
+      "runtimeMinutes": 155,
+      "metascore": 64,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0101273",
+      "title": "The Adjuster",
+      "originalTitle": "The Adjuster",
+      "year": 1991,
+      "releaseDate": {
+        "day": null,
+        "month": 7,
+        "year": 1992
+      },
+      "plot": "A family with the lack of sincerity faces a crisis.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMWFlNjc1MjktMmVmOC00MjljLWIwNWMtYjkyMTU0ODZiMGVmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "The Adjuster (1991)",
+        "width": 800,
+        "height": 1211
+      },
+      "imdbRating": 6.6,
+      "numVotes": 4020,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 6120,
+      "runtimeMinutes": 102,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0101458",
+      "title": "Until the End of the World",
+      "originalTitle": "Bis ans Ende der Welt",
+      "year": 1991,
+      "releaseDate": {
+        "day": 25,
+        "month": 12,
+        "year": 1991
+      },
+      "plot": "Claire and Eugene's relationship is falling apart, while a nuclear satellite threatens to fall out of orbit and destroy Earth. Claire travels the world when she meets Sam, a man with connections to technology that could change everything.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTMzZjk4Y2YtOWZiOS00OThkLWI5MzgtMDI4Mjg1MjU5NGZjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "William Hurt and Solveig Dommartin in Until the End of the World (1991)",
+        "width": 666,
+        "height": 998
+      },
+      "imdbRating": 6.8,
+      "numVotes": 12381,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 9480,
+      "runtimeMinutes": 158,
+      "metascore": 63,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0113799",
+      "title": "Memories",
+      "originalTitle": "Memories",
+      "year": 1995,
+      "releaseDate": {
+        "day": 23,
+        "month": 12,
+        "year": 1995
+      },
+      "plot": "A freighter crew responds to a distress call from a station run by an AI opera diva. The AI manipulates life support, VR, and nanosystems, posing dangers the crew must overcome to survive.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNmMzOTVhNjAtMmIxYS00NzA0LWFmNzYtMTQ0NjYwMjlkMzM0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Memories (1995)",
+        "width": 1760,
+        "height": 2496
+      },
+      "imdbRating": 7.5,
+      "numVotes": 25512,
+      "certificate": "PG-13",
+      "genres": [
+        "Animation",
+        "Drama",
+        "Horror"
+      ],
+      "runtimeSeconds": 6780,
+      "runtimeMinutes": 113,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0101991",
+      "title": "Rhapsody in August",
+      "originalTitle": "Hachigatsu no rapusod\u00ee",
+      "year": 1991,
+      "releaseDate": {
+        "day": 20,
+        "month": 12,
+        "year": 1991
+      },
+      "plot": "Three generations' responses to the atomic bombing of Nagasaki.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2ViZTE4ZDYtOTY0Yy00YmIyLWJjNWEtOWEyZGRjOGY2YTc0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Rhapsody in August (1991)",
+        "width": 1965,
+        "height": 2972
+      },
+      "imdbRating": 7.2,
+      "numVotes": 8174,
+      "certificate": "PG",
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "runtimeSeconds": 5880,
+      "runtimeMinutes": 98,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0106505",
+      "title": "Calendar Girl",
+      "originalTitle": "Calendar Girl",
+      "year": 1993,
+      "releaseDate": {
+        "day": 3,
+        "month": 9,
+        "year": 1993
+      },
+      "plot": "Three young men go on an end of the summer trip to Hollywood, California. Their quest: to fulfill the fantasy of meeting Marilyn Monroe.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTQ1NTZhYzAtZDAxZi00YTI4LTljMzEtN2E3Y2RlM2M0YjBmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Marilyn Monroe, Jason Priestley, Jerry O'Connell, and Gabriel Olds in Calendar Girl (1993)",
+        "width": 1959,
+        "height": 2910
+      },
+      "imdbRating": 5.2,
+      "numVotes": 2629,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 5400,
+      "runtimeMinutes": 90,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0206013",
+      "title": "My Neighbors the Yamadas",
+      "originalTitle": "H\u00f4hokekyo tonari no Yamada-kun",
+      "year": 1999,
+      "releaseDate": {
+        "day": 22,
+        "month": 12,
+        "year": 2000
+      },
+      "plot": "The life and misadventures of a family in contemporary Japan.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjI5N2I4YmYtOWUwNS00M2RmLWE0ZWItYzdiNDllMmUwMjY3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "My Neighbors the Yamadas (1999)",
+        "width": 846,
+        "height": 1200
+      },
+      "imdbRating": 7.1,
+      "numVotes": 17561,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "runtimeSeconds": 6240,
+      "runtimeMinutes": 104,
+      "metascore": 75,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0117039",
+      "title": "Michael Collins",
+      "originalTitle": "Michael Collins",
+      "year": 1996,
+      "releaseDate": {
+        "day": 25,
+        "month": 10,
+        "year": 1996
+      },
+      "plot": "Neil Jordan's historical biopic of Irish revolutionary Michael Collins, the man who led a guerrilla war against the UK, helped negotiate the creation of the Irish Free State, and led the National Army during the Irish Civil War.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzcxMDdhNDAtMTdiMS00ZjVmLWIzMDQtMzE3YzJmYjRkNzY5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Liam Neeson in Michael Collins (1996)",
+        "width": 719,
+        "height": 1080
+      },
+      "imdbRating": 7.1,
+      "numVotes": 35919,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "runtimeSeconds": 7980,
+      "runtimeMinutes": 133,
+      "metascore": 59,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0117737",
+      "title": "Stealing Beauty",
+      "originalTitle": "Stealing Beauty",
+      "year": 1996,
+      "releaseDate": {
+        "day": 14,
+        "month": 6,
+        "year": 1996
+      },
+      "plot": "After her mother commits suicide, a young woman travels to Italy in search of love, truth and a deeper connection with herself.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWRhYWZjNGQtNmQxOC00ZDY3LTlkOTktNzU1ZTE3MTE0YmM2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Liv Tyler in Stealing Beauty (1996)",
+        "width": 1990,
+        "height": 2934
+      },
+      "imdbRating": 6.5,
+      "numVotes": 32225,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Romance"
+      ],
+      "runtimeSeconds": 7080,
+      "runtimeMinutes": 118,
+      "metascore": 60,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0110428",
+      "title": "The Madness of King George",
+      "originalTitle": "The Madness of King George",
+      "year": 1994,
+      "releaseDate": {
+        "day": 28,
+        "month": 12,
+        "year": 1994
+      },
+      "plot": "When King George III goes mad, his Lieutenants try to adjust the rules to run the country without his participation.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWYyMDcyZDUtMzQ0ZC00ZDllLWI1MTMtZjM0M2I5N2JhNDgzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Nigel Hawthorne in The Madness of King George (1994)",
+        "width": 800,
+        "height": 1189
+      },
+      "imdbRating": 7.2,
+      "numVotes": 19909,
+      "certificate": "PG-13",
+      "genres": [
+        "Biography",
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 6600,
+      "runtimeMinutes": 110,
+      "metascore": 89,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0107282",
+      "title": "The Joy Luck Club",
+      "originalTitle": "The Joy Luck Club",
+      "year": 1993,
+      "releaseDate": {
+        "day": 29,
+        "month": 10,
+        "year": 1993
+      },
+      "plot": "Four Chinese women along with their mothers delve into their past and try to find answers. Slowly, this search helps them to understand the complex relationship they share with each other.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGE2YWVjZDYtOGI2Ni00NjUwLWI5ZjgtODA3ZTI5M2NlMmZmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "The Joy Luck Club (1993)",
+        "width": 1600,
+        "height": 2376
+      },
+      "imdbRating": 7.7,
+      "numVotes": 19538,
+      "certificate": "R",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 8340,
+      "runtimeMinutes": 139,
+      "metascore": 84,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0110008",
+      "title": "Pom Poko",
+      "originalTitle": "Heisei tanuki gassen ponpoko",
+      "year": 1994,
+      "releaseDate": {
+        "day": 25,
+        "month": 12,
+        "year": 1995
+      },
+      "plot": "A community of magical shape-shifting raccoon dogs struggle to prevent their forest home from being destroyed by urban development.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTk2ODEzNzYtZTczMS00NmFhLWJmOTgtYmFhNzAwYTVkYmI5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Pom Poko (1994)",
+        "width": 1000,
+        "height": 1480
+      },
+      "imdbRating": 7.2,
+      "numVotes": 38445,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 7140,
+      "runtimeMinutes": 119,
+      "metascore": 77,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0119668",
+      "title": "Midnight in the Garden of Good and Evil",
+      "originalTitle": "Midnight in the Garden of Good and Evil",
+      "year": 1997,
+      "releaseDate": {
+        "day": 21,
+        "month": 11,
+        "year": 1997
+      },
+      "plot": "A visiting city reporter's assignment suddenly revolves around the murder trial of a local millionaire, who he befriends.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGQzOWM5OTItZDVkMi00YTA3LThiMGUtNTdiZDMwOWVlMjUxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "John Cusack and Kevin Spacey in Midnight in the Garden of Good and Evil (1997)",
+        "width": 1969,
+        "height": 2913
+      },
+      "imdbRating": 6.6,
+      "numVotes": 43459,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "runtimeSeconds": 9300,
+      "runtimeMinutes": 155,
+      "metascore": 56,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0108101",
+      "title": "Shadowlands",
+      "originalTitle": "Shadowlands",
+      "year": 1993,
+      "releaseDate": {
+        "day": 14,
+        "month": 1,
+        "year": 1994
+      },
+      "plot": "C.S. Lewis, a world-renowned Christian theologian, writer and professor, leads a passionless life until he meets spirited poet Joy Gresham from the U.S.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODg5NmZkOGQtMmZjYi00M2I0LWI2MzMtMzg5NTZkZDgzMjAzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Anthony Hopkins and Debra Winger in Shadowlands (1993)",
+        "width": 566,
+        "height": 844
+      },
+      "imdbRating": 7.3,
+      "numVotes": 21470,
+      "certificate": "PG",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 7860,
+      "runtimeMinutes": 131,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    }
+  ]
+}

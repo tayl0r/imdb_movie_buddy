@@ -1,0 +1,1584 @@
+{
+  "year": 2004,
+  "movies": [
+    {
+      "rank": 1,
+      "titleId": "tt0338013",
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "originalTitle": "Eternal Sunshine of the Spotless Mind",
+      "year": 2004,
+      "releaseDate": {
+        "day": 19,
+        "month": 3,
+        "year": 2004
+      },
+      "plot": "When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories forever.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_.jpg",
+        "caption": "Jim Carrey and Kate Winslet in Eternal Sunshine of the Spotless Mind (2004)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 8.3,
+      "numVotes": 1171812,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6480,
+      "runtimeMinutes": 108,
+      "metascore": 89,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 2,
+      "titleId": "tt0317705",
+      "title": "The Incredibles",
+      "originalTitle": "The Incredibles",
+      "year": 2004,
+      "releaseDate": {
+        "day": 5,
+        "month": 11,
+        "year": 2004
+      },
+      "plot": "While trying to lead a quiet suburban life, a family of undercover superheroes are forced into action to save the world.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_.jpg",
+        "caption": "Samuel L. Jackson, Holly Hunter, Jason Lee, Craig T. Nelson, Brad Bird, Sarah Vowell, and Spencer Fox in The Incredibles (2004)",
+        "width": 1800,
+        "height": 2666
+      },
+      "imdbRating": 8,
+      "numVotes": 889931,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "runtimeSeconds": 6900,
+      "runtimeMinutes": 115,
+      "metascore": 90,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 3,
+      "titleId": "tt0378194",
+      "title": "Kill Bill: Vol. 2",
+      "originalTitle": "Kill Bill: Vol. 2",
+      "year": 2004,
+      "releaseDate": {
+        "day": 16,
+        "month": 4,
+        "year": 2004
+      },
+      "plot": "The Bride continues her quest of vengeance against her former boss and lover Bill, the reclusive bouncer Budd, and the treacherous, one-eyed Elle.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2FiNzhiZTctNzU1Mi00NDkwLWExNDMtZTg0MjYyNzhkNWNkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Uma Thurman and Steven Caceres in Kill Bill: Vol. 2 (2004)",
+        "width": 580,
+        "height": 859
+      },
+      "imdbRating": 8,
+      "numVotes": 861984,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "runtimeSeconds": 8220,
+      "runtimeMinutes": 137,
+      "metascore": 83,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 4,
+      "titleId": "tt0316654",
+      "title": "Spider-Man 2",
+      "originalTitle": "Spider-Man 2",
+      "year": 2004,
+      "releaseDate": {
+        "day": 30,
+        "month": 6,
+        "year": 2004
+      },
+      "plot": "Peter Parker is beset with troubles in his failing personal life as he battles a former brilliant scientist named Otto Octavius.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGQ0YTQyYTgtNWI2YS00NTE2LWJmNDItNTFlMTUwNmFlZTM0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Kirsten Dunst, Alfred Molina, and Tobey Maguire in Spider-Man 2 (2004)",
+        "width": 1021,
+        "height": 1400
+      },
+      "imdbRating": 7.5,
+      "numVotes": 774634,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 7620,
+      "runtimeMinutes": 127,
+      "metascore": 83,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 5,
+      "titleId": "tt0405159",
+      "title": "Million Dollar Baby",
+      "originalTitle": "Million Dollar Baby",
+      "year": 2004,
+      "releaseDate": {
+        "day": 28,
+        "month": 1,
+        "year": 2005
+      },
+      "plot": "Frankie, an ill-tempered old coach, reluctantly agrees to train aspiring boxer Maggie. Impressed with her determination and talent, he helps her become the best and the two soon form a close bond.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTkxNzA1NDQxOV5BMl5BanBnXkFtZTcwNTkyMTIzMw@@._V1_.jpg",
+        "caption": "Clint Eastwood, Morgan Freeman, and Hilary Swank in Million Dollar Baby (2004)",
+        "width": 1390,
+        "height": 2048
+      },
+      "imdbRating": 8.1,
+      "numVotes": 761365,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama",
+        "Sport"
+      ],
+      "runtimeSeconds": 7920,
+      "runtimeMinutes": 132,
+      "metascore": 86,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 6,
+      "titleId": "tt0304141",
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "originalTitle": "Harry Potter and the Prisoner of Azkaban",
+      "year": 2004,
+      "releaseDate": {
+        "day": 4,
+        "month": 6,
+        "year": 2004
+      },
+      "plot": "Harry Potter, Ron and Hermione return to Hogwarts School of Witchcraft and Wizardry for their third year of study, where they delve into the mystery surrounding an escaped prisoner who poses a dangerous threat to the young wizard.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTY4NTIwODg0N15BMl5BanBnXkFtZTcwOTc0MjEzMw@@._V1_.jpg",
+        "caption": "Rupert Grint, Daniel Radcliffe, and Emma Watson in Harry Potter and the Prisoner of Azkaban (2004)",
+        "width": 1385,
+        "height": 2048
+      },
+      "imdbRating": 7.9,
+      "numVotes": 758782,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 8520,
+      "runtimeMinutes": 142,
+      "metascore": 82,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 7,
+      "titleId": "tt0332280",
+      "title": "The Notebook",
+      "originalTitle": "The Notebook",
+      "year": 2004,
+      "releaseDate": {
+        "day": 25,
+        "month": 6,
+        "year": 2004
+      },
+      "plot": "An elderly man reads to a woman with dementia the story of two young lovers whose romance is threatened by the difference in their respective social classes.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjE0ZjgzMzYtMTAxYi00NGMzLThmZDktNzFlMzA2MWRmYWQ0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ryan Gosling and Rachel McAdams in The Notebook (2004)",
+        "width": 1979,
+        "height": 2968
+      },
+      "imdbRating": 7.8,
+      "numVotes": 679170,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 7380,
+      "runtimeMinutes": 123,
+      "metascore": 53,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 8,
+      "titleId": "tt0365748",
+      "title": "Shaun of the Dead",
+      "originalTitle": "Shaun of the Dead",
+      "year": 2004,
+      "releaseDate": {
+        "day": 24,
+        "month": 9,
+        "year": 2004
+      },
+      "plot": "The uneventful, aimless lives of a London electronics salesman and his layabout roommate are disrupted by the zombie apocalypse.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzNjZGE4YTUtOWU3OC00Mzg2LThjNWItMzUwYzEwMDgxYmVjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Kate Ashfield, Nick Frost, and Simon Pegg in Shaun of the Dead (2004)",
+        "width": 1004,
+        "height": 1500
+      },
+      "imdbRating": 7.8,
+      "numVotes": 634859,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Horror"
+      ],
+      "runtimeSeconds": 5940,
+      "runtimeMinutes": 99,
+      "metascore": 76,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 9,
+      "titleId": "tt0343818",
+      "title": "I, Robot",
+      "originalTitle": "I, Robot",
+      "year": 2004,
+      "releaseDate": {
+        "day": 16,
+        "month": 7,
+        "year": 2004
+      },
+      "plot": "In 2035, a technophobic cop investigates a crime that may have been perpetrated by a robot, which leads to a larger threat to humanity.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDdhNTY3YTgtYmQwMC00MjM1LTgzYzMtMGM1N2E0NWM1NDlkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Will Smith in I, Robot (2004)",
+        "width": 640,
+        "height": 868
+      },
+      "imdbRating": 7.1,
+      "numVotes": 610543,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6900,
+      "runtimeMinutes": 115,
+      "metascore": 59,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 10,
+      "titleId": "tt0332452",
+      "title": "Troy",
+      "originalTitle": "Troy",
+      "year": 2004,
+      "releaseDate": {
+        "day": 14,
+        "month": 5,
+        "year": 2004
+      },
+      "plot": "An adaptation of Homer's great epic, the film follows the assault on Troy by the united Greek forces.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTk5MzU1MDMwMF5BMl5BanBnXkFtZTcwNjczODMzMw@@._V1_.jpg",
+        "caption": "Brad Pitt, Sean Bean, Saffron Burrows, Eric Bana, Orlando Bloom, Rose Byrne, Diane Kruger, and Garrett Hedlund in Troy (2004)",
+        "width": 1388,
+        "height": 2048
+      },
+      "imdbRating": 7.3,
+      "numVotes": 610335,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "runtimeSeconds": 9780,
+      "runtimeMinutes": 163,
+      "metascore": 56,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 11,
+      "titleId": "tt0289879",
+      "title": "The Butterfly Effect",
+      "originalTitle": "The Butterfly Effect",
+      "year": 2004,
+      "releaseDate": {
+        "day": 23,
+        "month": 1,
+        "year": 2004
+      },
+      "plot": "Evan Treborn suffers blackouts during significant events of his life. As he grows up, he finds a way to remember these lost memories and a supernatural way to alter his life by reading his journal.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDk0ZDJiODEtNWM2ZC00OWYxLWExN2YtNTFlNjI4NTVmZmZmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ashton Kutcher and Amy Smart in The Butterfly Effect (2004)",
+        "width": 965,
+        "height": 1399
+      },
+      "imdbRating": 7.6,
+      "numVotes": 552282,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6780,
+      "runtimeMinutes": 113,
+      "metascore": 30,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 12,
+      "titleId": "tt0298148",
+      "title": "Shrek 2",
+      "originalTitle": "Shrek 2",
+      "year": 2004,
+      "releaseDate": {
+        "day": 19,
+        "month": 5,
+        "year": 2004
+      },
+      "plot": "Shrek and Fiona travel to the Kingdom of Far Far Away, where Fiona's parents are King and Queen, to celebrate their marriage. When they arrive, they find they are not as welcome as they thought they would be.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzNmNjQ1NmUtNzhiZS00YWE2LTg4N2ItZTA2ODdmOTMwOTQ1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "John Cleese, Antonio Banderas, Cameron Diaz, Mike Myers, Julie Andrews, Rupert Everett, Eddie Murphy, Jennifer Saunders, and Conrad Vernon in Shrek 2 (2004)",
+        "width": 2031,
+        "height": 3000
+      },
+      "imdbRating": 7.4,
+      "numVotes": 549601,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 5580,
+      "runtimeMinutes": 93,
+      "metascore": 75,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 13,
+      "titleId": "tt0362227",
+      "title": "The Terminal",
+      "originalTitle": "The Terminal",
+      "year": 2004,
+      "releaseDate": {
+        "day": 18,
+        "month": 6,
+        "year": 2004
+      },
+      "plot": "An Eastern European tourist unexpectedly finds himself stranded at JFK airport and must take up temporary residence there.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTM1MTIwNTMxOF5BMl5BanBnXkFtZTcwNjIxMjQyMw@@._V1_.jpg",
+        "caption": "Tom Hanks in The Terminal (2004)",
+        "width": 1511,
+        "height": 2048
+      },
+      "imdbRating": 7.4,
+      "numVotes": 531142,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 7680,
+      "runtimeMinutes": 128,
+      "metascore": 55,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 14,
+      "titleId": "tt0372183",
+      "title": "The Bourne Supremacy",
+      "originalTitle": "The Bourne Supremacy",
+      "year": 2004,
+      "releaseDate": {
+        "day": 23,
+        "month": 7,
+        "year": 2004
+      },
+      "plot": "When Jason Bourne is framed for a CIA operation gone awry, he is forced to resume his former life as a trained assassin to survive.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTU4ZDgyYjgtODA0Mi00MmE3LTgzYWQtZjc1YTFiMTczZTQ3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Matt Damon in The Bourne Supremacy (2004)",
+        "width": 1014,
+        "height": 1500
+      },
+      "imdbRating": 7.7,
+      "numVotes": 509973,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6480,
+      "runtimeMinutes": 108,
+      "metascore": 73,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 15,
+      "titleId": "tt0319262",
+      "title": "The Day After Tomorrow",
+      "originalTitle": "The Day After Tomorrow",
+      "year": 2004,
+      "releaseDate": {
+        "day": 28,
+        "month": 5,
+        "year": 2004
+      },
+      "plot": "Jack Hall, paleoclimatologist, must make a daring trek from Washington, D.C. to New York City to reach his son, trapped in the cross-hairs of a sudden international storm which plunges the planet into a new Ice Age.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOGZmNDYyNmMtNDQyNy00OTkzLTg1OGUtYWJiNmQ5Y2Q5ZGU3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "The Day After Tomorrow (2004)",
+        "width": 1320,
+        "height": 1955
+      },
+      "imdbRating": 6.5,
+      "numVotes": 508215,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 7440,
+      "runtimeMinutes": 124,
+      "metascore": 47,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 16,
+      "titleId": "tt0347149",
+      "title": "Howl's Moving Castle",
+      "originalTitle": "Hauru no ugoku shiro",
+      "year": 2004,
+      "releaseDate": {
+        "day": 17,
+        "month": 6,
+        "year": 2005
+      },
+      "plot": "When an unconfident young woman is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTY1OTg0MjE3MV5BMl5BanBnXkFtZTcwNTUxMTkyMQ@@._V1_.jpg",
+        "caption": "Christian Bale, Jean Simmons, Chieko Baish\u00f4, and Takuya Kimura in Howl's Moving Castle (2004)",
+        "width": 1578,
+        "height": 2340
+      },
+      "imdbRating": 8.2,
+      "numVotes": 505450,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ],
+      "runtimeSeconds": 7140,
+      "runtimeMinutes": 119,
+      "metascore": 82,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 17,
+      "titleId": "tt0387564",
+      "title": "Saw",
+      "originalTitle": "Saw",
+      "year": 2004,
+      "releaseDate": {
+        "day": 29,
+        "month": 10,
+        "year": 2004
+      },
+      "plot": "Two men awaken to find themselves on the opposite sides of a dead body, each with specific instructions to kill the other, escape or face the consequences. These two are the latest contestants in Jigsaw's games.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTE5MzFlMTktMzBkOC00ZjMxLThmOTAtOGU3ZGEwZGRlNDdjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Saw (2004)",
+        "width": 640,
+        "height": 947
+      },
+      "imdbRating": 7.6,
+      "numVotes": 505241,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6180,
+      "runtimeMinutes": 103,
+      "metascore": 46,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 18,
+      "titleId": "tt0377092",
+      "title": "Mean Girls",
+      "originalTitle": "Mean Girls",
+      "year": 2004,
+      "releaseDate": {
+        "day": 30,
+        "month": 4,
+        "year": 2004
+      },
+      "plot": "Cady Heron is a hit with The Plastics, the A-list girl clique at her new school, until she makes the mistake of falling for Aaron Samuels, the ex-boyfriend of alpha Plastic Regina George.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjE1MDQ4MjI1OV5BMl5BanBnXkFtZTcwNzcwODAzMw@@._V1_.jpg",
+        "caption": "Lacey Chabert, Lindsay Lohan, Rachel McAdams, and Amanda Seyfried in Mean Girls (2004)",
+        "width": 1446,
+        "height": 2048
+      },
+      "imdbRating": 7.1,
+      "numVotes": 480687,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy"
+      ],
+      "runtimeSeconds": 5820,
+      "runtimeMinutes": 97,
+      "metascore": 66,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 19,
+      "titleId": "tt0369339",
+      "title": "Collateral",
+      "originalTitle": "Collateral",
+      "year": 2004,
+      "releaseDate": {
+        "day": 6,
+        "month": 8,
+        "year": 2004
+      },
+      "plot": "A cab driver finds himself the hostage of an engaging contract killer as he makes his rounds from hit to hit during one night in Los Angeles.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjE3NjM5OTMxMV5BMl5BanBnXkFtZTcwOTIzMTQyMw@@._V1_.jpg",
+        "caption": "Tom Cruise in Collateral (2004)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 7.5,
+      "numVotes": 463805,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 7200,
+      "runtimeMinutes": 120,
+      "metascore": 71,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 20,
+      "titleId": "tt0375679",
+      "title": "Crash",
+      "originalTitle": "Crash",
+      "year": 2004,
+      "releaseDate": {
+        "day": 6,
+        "month": 5,
+        "year": 2005
+      },
+      "plot": "Racial tensions collide in a collection of intertwined stories involving residents of Los Angeles.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTk1OTA1MjIyNV5BMl5BanBnXkFtZTcwODQxMTkyMQ@@._V1_.jpg",
+        "caption": "Michael Pe\u00f1a and Ashlyn Sanchez in Crash (2004)",
+        "width": 1418,
+        "height": 2100
+      },
+      "imdbRating": 7.7,
+      "numVotes": 460559,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6720,
+      "runtimeMinutes": 112,
+      "metascore": 66,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 21,
+      "titleId": "tt0361862",
+      "title": "The Machinist",
+      "originalTitle": "The Machinist",
+      "year": 2004,
+      "releaseDate": {
+        "day": 3,
+        "month": 12,
+        "year": 2004
+      },
+      "plot": "An industrial worker who hasn't slept in a year begins to doubt his own sanity.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2I1MmUxYmMtZjk3OC00N2MwLWI2YjAtNGQxODA1Y2I3YTI4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Christian Bale in The Machinist (2004)",
+        "width": 580,
+        "height": 859
+      },
+      "imdbRating": 7.6,
+      "numVotes": 438883,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6060,
+      "runtimeMinutes": 101,
+      "metascore": 61,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 22,
+      "titleId": "tt0349903",
+      "title": "Ocean's Twelve",
+      "originalTitle": "Ocean's Twelve",
+      "year": 2004,
+      "releaseDate": {
+        "day": 10,
+        "month": 12,
+        "year": 2004
+      },
+      "plot": "Daniel Ocean recruits one more team member so he can pull off three major European heists in this sequel to Ocean's Eleven (2001).",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjgxNjY3ODEtMTZhOC00NjgyLTg4YTAtZjA4ZDI2MDQ4OGJmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ocean's Twelve (2004)",
+        "width": 800,
+        "height": 1184
+      },
+      "imdbRating": 6.5,
+      "numVotes": 435844,
+      "certificate": "PG-13",
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7500,
+      "runtimeMinutes": 125,
+      "metascore": 58,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 23,
+      "titleId": "tt0328107",
+      "title": "Man on Fire",
+      "originalTitle": "Man on Fire",
+      "year": 2004,
+      "releaseDate": {
+        "day": 23,
+        "month": 4,
+        "year": 2004
+      },
+      "plot": "In Mexico City, a former CIA operative swears vengeance on those who committed an unspeakable act against the family he was hired to protect.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMGMzNjg3ZDgtOGNlNy00NTdjLWI2NDEtMjI1MmEwMTBmMjMxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Denzel Washington and Dakota Fanning in Man on Fire (2004)",
+        "width": 2000,
+        "height": 2943
+      },
+      "imdbRating": 7.7,
+      "numVotes": 415774,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 8760,
+      "runtimeMinutes": 146,
+      "metascore": 47,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 24,
+      "titleId": "tt0343660",
+      "title": "50 First Dates",
+      "originalTitle": "50 First Dates",
+      "year": 2004,
+      "releaseDate": {
+        "day": 13,
+        "month": 2,
+        "year": 2004
+      },
+      "plot": "Henry Roth is a man afraid of commitment until he meets the beautiful Lucy. They hit it off and Henry think he's finally found the girl of his dreams until discovering she has short-term memory loss and forgets him the next day.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjAwMzc4MDgxNF5BMl5BanBnXkFtZTYwNjUwMzE3._V1_.jpg",
+        "caption": "Drew Barrymore and Adam Sandler in 50 First Dates (2004)",
+        "width": 485,
+        "height": 721
+      },
+      "imdbRating": 6.8,
+      "numVotes": 410476,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 5940,
+      "runtimeMinutes": 99,
+      "metascore": 48,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 25,
+      "titleId": "tt0338751",
+      "title": "The Aviator",
+      "originalTitle": "The Aviator",
+      "year": 2004,
+      "releaseDate": {
+        "day": 25,
+        "month": 12,
+        "year": 2004
+      },
+      "plot": "A biopic depicting the early years of legendary director and aviator Howard Hughes' career from the late 1920s to the mid 1940s.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTUyYWJlNDgtOTM5Ny00YTQ3LWFmYTgtZjJiNTNkYjJlMmY4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Leonardo DiCaprio in The Aviator (2004)",
+        "width": 600,
+        "height": 892
+      },
+      "imdbRating": 7.5,
+      "numVotes": 404803,
+      "certificate": "PG-13",
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "runtimeSeconds": 10200,
+      "runtimeMinutes": 170,
+      "metascore": 77,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 26,
+      "titleId": "tt0357413",
+      "title": "Anchorman: The Legend of Ron Burgundy",
+      "originalTitle": "Anchorman: The Legend of Ron Burgundy",
+      "year": 2004,
+      "releaseDate": {
+        "day": 9,
+        "month": 7,
+        "year": 2004
+      },
+      "plot": "In the 1970s, an anchorman's stint as San Diego's top-rated newsreader is challenged when an ambitious newswoman becomes his co-anchor.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTQ2MzYwMzk5Ml5BMl5BanBnXkFtZTcwOTI4NzUyMw@@._V1_.jpg",
+        "caption": "Christina Applegate, Will Ferrell, Steve Carell, David Koechner, and Paul Rudd in Anchorman: The Legend of Ron Burgundy (2004)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 7.1,
+      "numVotes": 398795,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy"
+      ],
+      "runtimeSeconds": 5640,
+      "runtimeMinutes": 94,
+      "metascore": 63,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 27,
+      "titleId": "tt0363163",
+      "title": "Downfall",
+      "originalTitle": "Der Untergang",
+      "year": 2004,
+      "releaseDate": {
+        "day": 8,
+        "month": 4,
+        "year": 2005
+      },
+      "plot": "Traudl Junge, the final secretary for Adolf Hitler, tells of the Nazi dictator's final days in his Berlin bunker at the end of WWII.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTU0NTU5NTAyMl5BMl5BanBnXkFtZTYwNzYwMDg2._V1_.jpg",
+        "caption": "Downfall (2004)",
+        "width": 477,
+        "height": 700
+      },
+      "imdbRating": 8.2,
+      "numVotes": 397795,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "runtimeSeconds": 9360,
+      "runtimeMinutes": 156,
+      "metascore": 82,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 28,
+      "titleId": "tt0395169",
+      "title": "Hotel Rwanda",
+      "originalTitle": "Hotel Rwanda",
+      "year": 2004,
+      "releaseDate": {
+        "day": 4,
+        "month": 2,
+        "year": 2005
+      },
+      "plot": "Paul Rusesabagina, a hotel manager, houses over a thousand Tutsi refugees during their struggle against the Hutu militia in Rwanda, Africa.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2FmMWRmZmQtN2IzMS00OGVmLWFmNjktMTM0YWQzODcwYTEwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Don Cheadle, Nick Nolte, Joaquin Phoenix, Mosa Kaiser, Sophie Okonedo, Ofentse Modiselle, and Mathabo Pieterson in Hotel Rwanda (2004)",
+        "width": 1174,
+        "height": 1733
+      },
+      "imdbRating": 8.1,
+      "numVotes": 390146,
+      "certificate": "PG-13",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "runtimeSeconds": 7260,
+      "runtimeMinutes": 121,
+      "metascore": 79,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 29,
+      "titleId": "tt0368891",
+      "title": "National Treasure",
+      "originalTitle": "National Treasure",
+      "year": 2004,
+      "releaseDate": {
+        "day": 19,
+        "month": 11,
+        "year": 2004
+      },
+      "plot": "A historian races to find the legendary Templar Treasure before a team of mercenaries.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTY3NTc4OTYxMF5BMl5BanBnXkFtZTcwMjk5NzUyMw@@._V1_.jpg",
+        "caption": "Nicolas Cage in National Treasure (2004)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 6.9,
+      "numVotes": 374469,
+      "certificate": "PG",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Mystery"
+      ],
+      "runtimeSeconds": 7860,
+      "runtimeMinutes": 131,
+      "metascore": 40,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 30,
+      "titleId": "tt0167190",
+      "title": "Hellboy",
+      "originalTitle": "Hellboy",
+      "year": 2004,
+      "releaseDate": {
+        "day": 2,
+        "month": 4,
+        "year": 2004
+      },
+      "plot": "A demon raised from infancy after being conjured by and rescued from the Nazis, grows up to become a defender against the forces of darkness.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMWZhODhmZjktNmIzNC00NGRmLTkyMDEtODVmMzVmNGQwYWU0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "John Hurt, Ron Perlman, Selma Blair, Ladislav Beran, Doug Jones, Karel Roden, Brian Steele, and Rupert Evans in Hellboy (2004)",
+        "width": 800,
+        "height": 1097
+      },
+      "imdbRating": 6.9,
+      "numVotes": 368555,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 7320,
+      "runtimeMinutes": 122,
+      "metascore": 72,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 31,
+      "titleId": "tt0381681",
+      "title": "Before Sunset",
+      "originalTitle": "Before Sunset",
+      "year": 2004,
+      "releaseDate": {
+        "day": 30,
+        "month": 7,
+        "year": 2004
+      },
+      "plot": "Nine years after Jesse and Celine first met, they encounter each other again on the French leg of Jesse's book tour.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTQ1MjAwNTM5Ml5BMl5BanBnXkFtZTYwNDM0MTc3._V1_.jpg",
+        "caption": "Ethan Hawke and Julie Delpy in Before Sunset (2004)",
+        "width": 485,
+        "height": 716
+      },
+      "imdbRating": 8.1,
+      "numVotes": 311871,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 4800,
+      "runtimeMinutes": 80,
+      "metascore": 91,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 32,
+      "titleId": "tt0338526",
+      "title": "Van Helsing",
+      "originalTitle": "Van Helsing",
+      "year": 2004,
+      "releaseDate": {
+        "day": 7,
+        "month": 5,
+        "year": 2004
+      },
+      "plot": "The famed monster hunter is sent to Transylvania to stop Count Dracula, who is using Dr. Frankenstein's research and a werewolf for nefarious purposes.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDk3NTdlYzQtMjhiMy00MWJkLWFjNDctMzE4ZGEwZWExNGViXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Kate Beckinsale, Shuler Hensley, Hugh Jackman, Richard Roxburgh, and Will Kemp in Van Helsing (2004)",
+        "width": 621,
+        "height": 900
+      },
+      "imdbRating": 6.1,
+      "numVotes": 304964,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 7860,
+      "runtimeMinutes": 131,
+      "metascore": 35,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 33,
+      "titleId": "tt0290002",
+      "title": "Meet the Fockers",
+      "originalTitle": "Meet the Fockers",
+      "year": 2004,
+      "releaseDate": {
+        "day": 22,
+        "month": 12,
+        "year": 2004
+      },
+      "plot": "All hell breaks loose when the Byrnes family meets the Focker family for the first time.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMGI0NDZhODctZWYwNC00ZGZhLTg2N2UtMzdiZjM0OTM4NTY0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Robert De Niro, Dustin Hoffman, Barbra Streisand, Blythe Danner, Teri Polo, and Ben Stiller in Meet the Fockers (2004)",
+        "width": 972,
+        "height": 1440
+      },
+      "imdbRating": 6.4,
+      "numVotes": 300674,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "runtimeSeconds": 6900,
+      "runtimeMinutes": 115,
+      "metascore": 41,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 34,
+      "titleId": "tt0368447",
+      "title": "The Village",
+      "originalTitle": "The Village",
+      "year": 2004,
+      "releaseDate": {
+        "day": 30,
+        "month": 7,
+        "year": 2004
+      },
+      "plot": "A series of events tests the beliefs of a small isolated countryside village.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWI1MjE4YmYtMjJhMS00YmJhLTg1NjMtYjM5ZWE0YjM2MGFiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "The Village (2004)",
+        "width": 800,
+        "height": 1185
+      },
+      "imdbRating": 6.6,
+      "numVotes": 295083,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6480,
+      "runtimeMinutes": 108,
+      "metascore": 44,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 35,
+      "titleId": "tt0363547",
+      "title": "Dawn of the Dead",
+      "originalTitle": "Dawn of the Dead",
+      "year": 2004,
+      "releaseDate": {
+        "day": 19,
+        "month": 3,
+        "year": 2004
+      },
+      "plot": "A nurse, a policeman, a young married couple and other survivors of a worldwide plague that is producing aggressive, flesh-eating zombies take refuge in a mega Midwestern shopping mall.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BM2ZiYjNlMWYtNTc2My00ZTM4LWJhMjQtM2FlOWM0ZmE0Yjg1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Sarah Polley in Dawn of the Dead (2004)",
+        "width": 786,
+        "height": 1161
+      },
+      "imdbRating": 7.2,
+      "numVotes": 286795,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Horror"
+      ],
+      "runtimeSeconds": 6060,
+      "runtimeMinutes": 101,
+      "metascore": 59,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 36,
+      "titleId": "tt0364725",
+      "title": "Dodgeball: A True Underdog Story",
+      "originalTitle": "Dodgeball: A True Underdog Story",
+      "year": 2004,
+      "releaseDate": {
+        "day": 18,
+        "month": 6,
+        "year": 2004
+      },
+      "plot": "A group of misfits enter a Las Vegas dodgeball tournament in order to save their cherished local gym from the onslaught of a corporate health fitness chain.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTIwMzE2MjM4MV5BMl5BanBnXkFtZTYwNjA1OTY3._V1_.jpg",
+        "caption": "Dodgeball: A True Underdog Story (2004)",
+        "width": 485,
+        "height": 719
+      },
+      "imdbRating": 6.7,
+      "numVotes": 283416,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Sport"
+      ],
+      "runtimeSeconds": 5520,
+      "runtimeMinutes": 92,
+      "metascore": 55,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 37,
+      "titleId": "tt0338348",
+      "title": "The Polar Express",
+      "originalTitle": "The Polar Express",
+      "year": 2004,
+      "releaseDate": {
+        "day": 10,
+        "month": 11,
+        "year": 2004
+      },
+      "plot": "On Christmas Eve, a young boy embarks on a magical adventure to the North Pole on the Polar Express, while learning about friendship, bravery, and the spirit of Christmas.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTM1NTU0NTE4MV5BMl5BanBnXkFtZTcwMTQ0MjEzMw@@._V1_.jpg",
+        "caption": "Tom Hanks, Daryl Sabara, and Josh Hutcherson in The Polar Express (2004)",
+        "width": 1386,
+        "height": 2048
+      },
+      "imdbRating": 6.6,
+      "numVotes": 269705,
+      "certificate": "G",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ],
+      "runtimeSeconds": 6000,
+      "runtimeMinutes": 100,
+      "metascore": 61,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 38,
+      "titleId": "tt0335345",
+      "title": "The Passion of the Christ",
+      "originalTitle": "The Passion of the Christ",
+      "year": 2004,
+      "releaseDate": {
+        "day": 25,
+        "month": 2,
+        "year": 2004
+      },
+      "plot": "Depicts the final twelve hours in the life of Jesus of Nazareth, on the day of his crucifixion in Jerusalem.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzMxY2Y4MzktMGNkNC00ODFjLWI3MGMtMzM2M2ExNmQxMGFmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jim Caviezel in The Passion of the Christ (2004)",
+        "width": 1469,
+        "height": 2197
+      },
+      "imdbRating": 7.3,
+      "numVotes": 268977,
+      "certificate": "R",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 7620,
+      "runtimeMinutes": 127,
+      "metascore": 47,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 39,
+      "titleId": "tt0265208",
+      "title": "The Girl Next Door",
+      "originalTitle": "The Girl Next Door",
+      "year": 2004,
+      "releaseDate": {
+        "day": 9,
+        "month": 4,
+        "year": 2004
+      },
+      "plot": "A teenager's dreams come true when a former porn star moves in next door and they fall in love.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTQ0ODIyMzE1N15BMl5BanBnXkFtZTcwODEwODczMw@@._V1_.jpg",
+        "caption": "Elisha Cuthbert and Emile Hirsch in The Girl Next Door (2004)",
+        "width": 1386,
+        "height": 2048
+      },
+      "imdbRating": 6.7,
+      "numVotes": 260590,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 6540,
+      "runtimeMinutes": 109,
+      "metascore": 47,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 40,
+      "titleId": "tt0374900",
+      "title": "Napoleon Dynamite",
+      "originalTitle": "Napoleon Dynamite",
+      "year": 2004,
+      "releaseDate": {
+        "day": 27,
+        "month": 8,
+        "year": 2004
+      },
+      "plot": "A listless and alienated teenager helps his new friend win the class presidency in their small western high school, while dealing with his bizarre family life back home.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjYwNTA3MDIyMl5BMl5BanBnXkFtZTYwMjIxNjA3._V1_.jpg",
+        "caption": "Tina Majorino, Haylie Duff, Efren Ramirez, Aaron Ruell, and Jon Heder in Napoleon Dynamite (2004)",
+        "width": 485,
+        "height": 738
+      },
+      "imdbRating": 7,
+      "numVotes": 253787,
+      "certificate": "PG",
+      "genres": [
+        "Comedy"
+      ],
+      "runtimeSeconds": 5760,
+      "runtimeMinutes": 96,
+      "metascore": 64,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 41,
+      "titleId": "tt0296572",
+      "title": "The Chronicles of Riddick",
+      "originalTitle": "The Chronicles of Riddick",
+      "year": 2004,
+      "releaseDate": {
+        "day": 11,
+        "month": 6,
+        "year": 2004
+      },
+      "plot": "The wanted criminal Richard Bruno Riddick arrives on a planet called Helion Prime and finds himself up against an invading empire called the Necromongers, an army that plans to convert or kill all humans in the universe.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjJkZGI1MTktNmNiMS00NTE5LTkyY2EtZjkyMDZjMzdhZTJjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Vin Diesel in The Chronicles of Riddick (2004)",
+        "width": 994,
+        "height": 1473
+      },
+      "imdbRating": 6.6,
+      "numVotes": 250603,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 7140,
+      "runtimeMinutes": 119,
+      "metascore": 38,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 42,
+      "titleId": "tt0376541",
+      "title": "Closer",
+      "originalTitle": "Closer",
+      "year": 2004,
+      "releaseDate": {
+        "day": 3,
+        "month": 12,
+        "year": 2004
+      },
+      "plot": "The relationships of two couples become complicated and deceitful when the man from one couple meets the woman of the other.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDIxYWIyZGMtNTAxZC00NDQxLThkOGQtZTUxNmZiMjFhYTEzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jude Law, Natalie Portman, Julia Roberts, and Clive Owen in Closer (2004)",
+        "width": 1931,
+        "height": 2862
+      },
+      "imdbRating": 7.1,
+      "numVotes": 249627,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 6240,
+      "runtimeMinutes": 104,
+      "metascore": 65,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 43,
+      "titleId": "tt0337563",
+      "title": "13 Going on 30",
+      "originalTitle": "13 Going on 30",
+      "year": 2004,
+      "releaseDate": {
+        "day": 23,
+        "month": 4,
+        "year": 2004
+      },
+      "plot": "Unpopular schoolgirl Jenna Rink makes an unusual wish on her birthday. Miraculously, her wish comes true and the 13-year-old Jenna wakes up the next day as a 30-year-old woman.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjE1NzI5NTkwMF5BMl5BanBnXkFtZTYwOTA4NzY2._V1_.jpg",
+        "caption": "Jennifer Garner in 13 Going on 30 (2004)",
+        "width": 430,
+        "height": 640
+      },
+      "imdbRating": 6.3,
+      "numVotes": 244097,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Romance"
+      ],
+      "runtimeSeconds": 5880,
+      "runtimeMinutes": 98,
+      "metascore": 57,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 44,
+      "titleId": "tt0356150",
+      "title": "EuroTrip",
+      "originalTitle": "EuroTrip",
+      "year": 2004,
+      "releaseDate": {
+        "day": 20,
+        "month": 2,
+        "year": 2004
+      },
+      "plot": "Dumped by his girlfriend, a high school grad decides to embark on an overseas adventure in Europe with his friends.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzgzNWMyYjgtYjFmNi00MDdmLTk4MjAtYzMxMjI3MWU2MzcxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Michelle Trachtenberg, Jessica Boehrs, Jacob Pitts, Travis Wester, and Scott Mechlowicz in EuroTrip (2004)",
+        "width": 881,
+        "height": 1300
+      },
+      "imdbRating": 6.6,
+      "numVotes": 241696,
+      "certificate": "R",
+      "genres": [
+        "Comedy"
+      ],
+      "runtimeSeconds": 5520,
+      "runtimeMinutes": 92,
+      "metascore": 45,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 45,
+      "titleId": "tt0370263",
+      "title": "Alien vs. Predator",
+      "originalTitle": "AVP: Alien vs. Predator",
+      "year": 2004,
+      "releaseDate": {
+        "day": 13,
+        "month": 8,
+        "year": 2004
+      },
+      "plot": "During an archaeological expedition on Bouvet\u00f8ya Island in Antarctica, a team of archaeologists and other scientists find themselves caught up in a battle between the two legends. Soon, the team realize that only one species can win.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTU4MjIwMTcyMl5BMl5BanBnXkFtZTYwMTYwNDA3._V1_.jpg",
+        "caption": "Alien vs. Predator (2004)",
+        "width": 485,
+        "height": 719
+      },
+      "imdbRating": 5.7,
+      "numVotes": 230984,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Horror"
+      ],
+      "runtimeSeconds": 6060,
+      "runtimeMinutes": 101,
+      "metascore": 29,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 46,
+      "titleId": "tt0339291",
+      "title": "A Series of Unfortunate Events",
+      "originalTitle": "A Series of Unfortunate Events",
+      "year": 2004,
+      "releaseDate": {
+        "day": 17,
+        "month": 12,
+        "year": 2004
+      },
+      "plot": "When a massive fire kills their parents, three children are delivered to the custody of cousin and stage actor Count Olaf, who is secretly plotting to steal their parents' vast fortune.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjE3MDM4NTg0NV5BMl5BanBnXkFtZTcwNjI4MTczMw@@._V1_.jpg",
+        "caption": "Jim Carrey, Liam Aiken, Emily Browning, Shelby Hoffman, and Kara Hoffman in A Series of Unfortunate Events (2004)",
+        "width": 1381,
+        "height": 2048
+      },
+      "imdbRating": 6.8,
+      "numVotes": 230199,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family"
+      ],
+      "runtimeSeconds": 6480,
+      "runtimeMinutes": 108,
+      "metascore": 62,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 47,
+      "titleId": "tt0333766",
+      "title": "Garden State",
+      "originalTitle": "Garden State",
+      "year": 2004,
+      "releaseDate": {
+        "day": 20,
+        "month": 8,
+        "year": 2004
+      },
+      "plot": "A quietly troubled young man returns home for his mother's funeral after being estranged from his family for a decade.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjc5MDE0NjkxOF5BMl5BanBnXkFtZTcwNzA0NTkyMw@@._V1_.jpg",
+        "caption": "Natalie Portman, Zach Braff, and Peter Sarsgaard in Garden State (2004)",
+        "width": 1383,
+        "height": 2048
+      },
+      "imdbRating": 7.4,
+      "numVotes": 228353,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 6120,
+      "runtimeMinutes": 102,
+      "metascore": 67,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 48,
+      "titleId": "tt0363988",
+      "title": "Secret Window",
+      "originalTitle": "Secret Window",
+      "year": 2004,
+      "releaseDate": {
+        "day": 12,
+        "month": 3,
+        "year": 2004
+      },
+      "plot": "A successful writer in the midst of a painful divorce is stalked at his remote lake house by a would-be scribe who accuses him of plagiarism.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjI0ZDBiM2MtZDdhMy00ZWQzLWIwNjAtZDAyNmMxZWJhMzA4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Johnny Depp in Secret Window (2004)",
+        "width": 2000,
+        "height": 3000
+      },
+      "imdbRating": 6.5,
+      "numVotes": 220301,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5760,
+      "runtimeMinutes": 96,
+      "metascore": 46,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 49,
+      "titleId": "tt0362270",
+      "title": "The Life Aquatic with Steve Zissou",
+      "originalTitle": "The Life Aquatic with Steve Zissou",
+      "year": 2004,
+      "releaseDate": {
+        "day": 25,
+        "month": 12,
+        "year": 2004
+      },
+      "plot": "With a plan to exact revenge on a legendary shark that killed his partner, oceanographer Steve Zissou (Bill Murray) rallies a crew that includes his estranged wife, a journalist, and a man who may or may not be his son.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTYzODYzNzg2MF5BMl5BanBnXkFtZTcwMTkzOTQzMw@@._V1_.jpg",
+        "caption": "Jeff Goldblum, Bill Murray, Willem Dafoe, Cate Blanchett, Bud Cort, Anjelica Huston, Michael Gambon, and Owen Wilson in The Life Aquatic with Steve Zissou (2004)",
+        "width": 1401,
+        "height": 2048
+      },
+      "imdbRating": 7.2,
+      "numVotes": 220114,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 7140,
+      "runtimeMinutes": 119,
+      "metascore": 62,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 50,
+      "titleId": "tt0318627",
+      "title": "Resident Evil: Apocalypse",
+      "originalTitle": "Resident Evil: Apocalypse",
+      "year": 2004,
+      "releaseDate": {
+        "day": 10,
+        "month": 9,
+        "year": 2004
+      },
+      "plot": "Alice wakes up in the Raccoon City hospital after the area has been overrun by zombies, and must now make it out of the city before a nuclear bomb is dropped.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTc1NTUxMzk0Nl5BMl5BanBnXkFtZTcwNDQ1MDIzMw@@._V1_.jpg",
+        "caption": "Milla Jovovich in Resident Evil: Apocalypse (2004)",
+        "width": 1378,
+        "height": 2048
+      },
+      "imdbRating": 6.1,
+      "numVotes": 219582,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 5640,
+      "runtimeMinutes": 94,
+      "metascore": 36,
+      "credits": [],
+      "titleType": "movie"
+    }
+  ]
+}

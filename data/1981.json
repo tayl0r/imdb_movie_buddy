@@ -1,0 +1,1570 @@
+{
+  "year": 1981,
+  "movies": [
+    {
+      "rank": 1,
+      "titleId": "tt0082971",
+      "title": "Raiders of the Lost Ark",
+      "originalTitle": "Raiders of the Lost Ark",
+      "year": 1981,
+      "releaseDate": {
+        "day": 12,
+        "month": 6,
+        "year": 1981
+      },
+      "plot": "In 1936, archaeologist Indiana Jones is tasked by Army Intelligence to help locate a legendary ancient power, the Ark of Covenant, before the Nazis get it first.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOGNhMjg2ZjgtYzk4Ni00MTViLTg1MmUtYzM2MDZiYjZlMmU3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Harrison Ford, Karen Allen, Paul Freeman, Wolf Kahler, Ronald Lacey, and Terry Richards in Raiders of the Lost Ark (1981)",
+        "width": 942,
+        "height": 1386
+      },
+      "imdbRating": 8.4,
+      "numVotes": 1102992,
+      "certificate": "PG",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "runtimeSeconds": 6900,
+      "runtimeMinutes": 115,
+      "metascore": 86,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 2,
+      "titleId": "tt0082096",
+      "title": "Das Boot",
+      "originalTitle": "Das Boot",
+      "year": 1981,
+      "releaseDate": {
+        "day": 10,
+        "month": 2,
+        "year": 1982
+      },
+      "plot": "A German U-boat stalks the frigid waters of the North Atlantic as its young crew experience the sheer terror and claustrophobic life of a submariner in World War II.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGU0MWZlMTUtM2Y3Ny00NGNmLWE5NmEtN2YxOWQzMGM3ZWYzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Das Boot (1981)",
+        "width": 1509,
+        "height": 2290
+      },
+      "imdbRating": 8.4,
+      "numVotes": 286141,
+      "certificate": "",
+      "genres": [
+        "Drama",
+        "War"
+      ],
+      "runtimeSeconds": 8940,
+      "runtimeMinutes": 149,
+      "metascore": 85,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 3,
+      "titleId": "tt0083907",
+      "title": "The Evil Dead",
+      "originalTitle": "The Evil Dead",
+      "year": 1981,
+      "releaseDate": {
+        "day": 15,
+        "month": 4,
+        "year": 1983
+      },
+      "plot": "Five friends travel to a cabin in the woods, where they unknowingly release flesh-possessing demons.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNWRmZGQyYzgtNjA5OC00NGYzLTlhYWMtNzBhZTFlZGNjYWI2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Bridget Hoffman in The Evil Dead (1981)",
+        "width": 665,
+        "height": 1000
+      },
+      "imdbRating": 7.3,
+      "numVotes": 249383,
+      "certificate": "NC-17",
+      "genres": [
+        "Horror"
+      ],
+      "runtimeSeconds": 5100,
+      "runtimeMinutes": 85,
+      "metascore": 71,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 4,
+      "titleId": "tt0082694",
+      "title": "The Road Warrior",
+      "originalTitle": "Mad Max 2",
+      "year": 1981,
+      "releaseDate": {
+        "day": 21,
+        "month": 5,
+        "year": 1982
+      },
+      "plot": "In the post-apocalyptic Australian wasteland, a cynical drifter agrees to help a small, gasoline-rich community get rid of a horde of bandits.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTAyNzBiZWUtMGY4YS00YzkzLWJhNGUtNTU5OThlZjZhZTYyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "The Road Warrior (1981)",
+        "width": 916,
+        "height": 1384
+      },
+      "imdbRating": 7.6,
+      "numVotes": 211891,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 5760,
+      "runtimeMinutes": 96,
+      "metascore": 77,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 5,
+      "titleId": "tt0082340",
+      "title": "Escape from New York",
+      "originalTitle": "Escape from New York",
+      "year": 1981,
+      "releaseDate": {
+        "day": 10,
+        "month": 7,
+        "year": 1981
+      },
+      "plot": "In a dystopian 1997, a soldier-turned-bank robber is tasked with rescuing the U.S. President after he crashes into Manhattan, which has been turned into a giant maximum security prison.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTUzMTY0Nzg0MV5BMl5BanBnXkFtZTgwMDU3MzQxMDE@._V1_.jpg",
+        "caption": "Adrienne Barbeau, Donald Pleasence, and Kurt Russell in Escape from New York (1981)",
+        "width": 858,
+        "height": 1312
+      },
+      "imdbRating": 7.1,
+      "numVotes": 170990,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 5940,
+      "runtimeMinutes": 99,
+      "metascore": 76,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 6,
+      "titleId": "tt0082010",
+      "title": "An American Werewolf in London",
+      "originalTitle": "An American Werewolf in London",
+      "year": 1981,
+      "releaseDate": {
+        "day": 21,
+        "month": 8,
+        "year": 1981
+      },
+      "plot": "American college students David Kessler and Jack Goodman on a walking tour of Britain are attacked by a werewolf that none of the locals will admit exists. Jack dies. David recovers in a hospital, where he has nightmares.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWYyNmMwMTUtZjE2OC00YWQzLWJmMzctNzhmMDI1OTQwNzdhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Griffin Dunne and David Naughton in An American Werewolf in London (1981)",
+        "width": 1861,
+        "height": 2918
+      },
+      "imdbRating": 7.5,
+      "numVotes": 133173,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Horror"
+      ],
+      "runtimeSeconds": 5820,
+      "runtimeMinutes": 97,
+      "metascore": 55,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 7,
+      "titleId": "tt0082398",
+      "title": "For Your Eyes Only",
+      "originalTitle": "For Your Eyes Only",
+      "year": 1981,
+      "releaseDate": {
+        "day": 26,
+        "month": 6,
+        "year": 1981
+      },
+      "plot": "Secret service agent James Bond is assigned to find a missing British vessel equipped with a weapons encryption device and prevent it from falling into enemy hands.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjFiYTczNzktZmNiYi00ZGVmLTk4YjUtYzZmYTAwYjU4YTgxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Roger Moore, Carole Bouquet, and John Wyman in For Your Eyes Only (1981)",
+        "width": 1915,
+        "height": 2904
+      },
+      "imdbRating": 6.7,
+      "numVotes": 114997,
+      "certificate": "PG",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7620,
+      "runtimeMinutes": 127,
+      "metascore": 54,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 8,
+      "titleId": "tt0082495",
+      "title": "Halloween II",
+      "originalTitle": "Halloween II",
+      "year": 1981,
+      "releaseDate": {
+        "day": 30,
+        "month": 10,
+        "year": 1981
+      },
+      "plot": "While Dr. Loomis hunts for Michael Myers, a traumatized Laurie is rushed to Haddonfield Memorial Hospital, and The Shape is not far behind her.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2M5ZGEwZjItODgwOC00OWM3LTliYmQtNzlmY2NmODE1MzAwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Halloween II (1981)",
+        "width": 1932,
+        "height": 3005
+      },
+      "imdbRating": 6.5,
+      "numVotes": 111258,
+      "certificate": "R",
+      "genres": [
+        "Horror"
+      ],
+      "runtimeSeconds": 5520,
+      "runtimeMinutes": 92,
+      "metascore": 40,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 9,
+      "titleId": "tt0082406",
+      "title": "The Fox and the Hound",
+      "originalTitle": "The Fox and the Hound",
+      "year": 1981,
+      "releaseDate": {
+        "day": 10,
+        "month": 7,
+        "year": 1981
+      },
+      "plot": "A fox named Tod and a hound named Copper vow to be best friends forever. But as Copper grows into a hunting dog, their unlikely friendship faces the ultimate test.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2IxMDIxZTAtMjEyMS00MzY3LTkyM2EtNTVlNTZmMjI1OTRlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Corey Feldman, Jack Albertson, Pearl Bailey, Richard Bakalyan, Pat Buttram, Candy Candido, Keith Coogan, Clarence Nash, Jeanette Nolan, Paul Winchell, and 'Squeeks' the Caterpillar in The Fox and the Hound (1981)",
+        "width": 493,
+        "height": 755
+      },
+      "imdbRating": 7.2,
+      "numVotes": 109312,
+      "certificate": "G",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Drama"
+      ],
+      "runtimeSeconds": 4980,
+      "runtimeMinutes": 83,
+      "metascore": 65,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 10,
+      "titleId": "tt0082418",
+      "title": "Friday the 13th Part 2",
+      "originalTitle": "Friday the 13th Part 2",
+      "year": 1981,
+      "releaseDate": {
+        "day": 1,
+        "month": 5,
+        "year": 1981
+      },
+      "plot": "Five years after the events of the first film, a summer camp next to the infamous Camp Crystal Lake is preparing to open, but the legend of Jason is weighing heavy on the proceedings.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjBkMGM2MDAtMjUwYS00ZjVlLWEzNGItZDJmOTA2YmE2NjRhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Friday the 13th Part 2 (1981)",
+        "width": 1746,
+        "height": 2645
+      },
+      "imdbRating": 6.1,
+      "numVotes": 86288,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5220,
+      "runtimeMinutes": 87,
+      "metascore": 26,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 11,
+      "titleId": "tt0083131",
+      "title": "Stripes",
+      "originalTitle": "Stripes",
+      "year": 1981,
+      "releaseDate": {
+        "day": 26,
+        "month": 6,
+        "year": 1981
+      },
+      "plot": "Two friends who are dissatisfied with their jobs decide to join the Army for a bit of fun.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BM2VjZDExMjctMGVjMS00MDQxLWI2NTQtODJjNjNkN2ExY2FkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Bill Murray in Stripes (1981)",
+        "width": 1891,
+        "height": 2899
+      },
+      "imdbRating": 6.8,
+      "numVotes": 85252,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "War"
+      ],
+      "runtimeSeconds": 6360,
+      "runtimeMinutes": 106,
+      "metascore": 68,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 12,
+      "titleId": "tt0082085",
+      "title": "Blow Out",
+      "originalTitle": "Blow Out",
+      "year": 1981,
+      "releaseDate": {
+        "day": 24,
+        "month": 7,
+        "year": 1981
+      },
+      "plot": "A movie sound recordist accidentally records the evidence that proves that a car accident was actually murder and consequently finds himself in danger.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTc0MTY2ZWMtOTY4NC00ZDUyLWI0MTUtMmYxYjA4MzJhYTk0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "John Travolta, Nancy Allen, Dennis Franz, John Lithgow, and Barbara Sigel in Blow Out (1981)",
+        "width": 959,
+        "height": 1465
+      },
+      "imdbRating": 7.4,
+      "numVotes": 74538,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "runtimeSeconds": 6480,
+      "runtimeMinutes": 108,
+      "metascore": 86,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 13,
+      "titleId": "tt0081633",
+      "title": "Time Bandits",
+      "originalTitle": "Time Bandits",
+      "year": 1981,
+      "releaseDate": {
+        "day": 6,
+        "month": 11,
+        "year": 1981
+      },
+      "plot": "A young boy accidentally joins a band of time travelling dwarves, as they jump from era to era looking for treasure to steal.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDhjYWRlYjgtOWZmYS00YTAwLWE3YjgtYjZhMzU4YzQ3ODE0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "John Cleese, Sean Connery, Ian Holm, Shelley Duvall, Katherine Helmond, Michael Palin, David Warner, Ian Muir, Ralph Richardson, and Peter Vaughan in Time Bandits (1981)",
+        "width": 1936,
+        "height": 2847
+      },
+      "imdbRating": 6.9,
+      "numVotes": 73653,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 6600,
+      "runtimeMinutes": 110,
+      "metascore": 79,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 14,
+      "titleId": "tt0082348",
+      "title": "Excalibur",
+      "originalTitle": "Excalibur",
+      "year": 1981,
+      "releaseDate": {
+        "day": 10,
+        "month": 4,
+        "year": 1981
+      },
+      "plot": "Merlin the magician helps Arthur Pendragon unite the Britons around the Round Table of Camelot, even as dark forces conspire to tear it apart.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTI0ZTZlNGMtNjhmNi00OGFiLTkzYjEtZmZiODgxMzI3YTE0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Excalibur (1981)",
+        "width": 1940,
+        "height": 2930
+      },
+      "imdbRating": 7.3,
+      "numVotes": 72272,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 8400,
+      "runtimeMinutes": 140,
+      "metascore": 56,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 15,
+      "titleId": "tt0082158",
+      "title": "Chariots of Fire",
+      "originalTitle": "Chariots of Fire",
+      "year": 1981,
+      "releaseDate": {
+        "day": 9,
+        "month": 4,
+        "year": 1982
+      },
+      "plot": "Two British track athletes, one a determined Jew and the other a devout Christian, are driven to win in the 1924 Olympics as they wrestle with issues of pride and conscience.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjkzZjFmZDEtNTliZi00MDcwLThjMTMtNmI5OGVmYjZjZDM1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Brad Davis, Ben Cross, Yves Beneyton, Colin Bruce, Ian Charleson, Dennis Christopher, Patrick Doyle, Nicholas Farrell, Daniel Gerroll, Stephen Mallatratt, Alan Polonsky, Struan Rodger, Edward Wiley, Benny Young, and David John in Chariots of Fire (1981)",
+        "width": 1933,
+        "height": 2853
+      },
+      "imdbRating": 7.1,
+      "numVotes": 70504,
+      "certificate": "PG",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Sport"
+      ],
+      "runtimeSeconds": 7500,
+      "runtimeMinutes": 125,
+      "metascore": 78,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 16,
+      "titleId": "tt0081455",
+      "title": "Scanners",
+      "originalTitle": "Scanners",
+      "year": 1981,
+      "releaseDate": {
+        "day": 14,
+        "month": 1,
+        "year": 1981
+      },
+      "plot": "A scientist trains a man with an advanced telepathic ability called \"scanning\" to stop a dangerous Scanner with extraordinary psychic powers from waging war against non-Scanners.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYWY2OTA1NjctNmFhYS00ZGQwLTlhNGUtNjQ1M2JiNzFjNmI2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Michael Ironside in Scanners (1981)",
+        "width": 1967,
+        "height": 3000
+      },
+      "imdbRating": 6.7,
+      "numVotes": 67094,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6180,
+      "runtimeMinutes": 103,
+      "metascore": 60,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 17,
+      "titleId": "tt0082517",
+      "title": "History of the World: Part I",
+      "originalTitle": "History of the World: Part I",
+      "year": 1981,
+      "releaseDate": {
+        "day": 12,
+        "month": 6,
+        "year": 1981
+      },
+      "plot": "Mel Brooks brings his one-of-a-kind comic touch to the history of mankind covering events from the Old Testament to the French Revolution in a series of episodic comedy vignettes.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDk3Zjc4MWYtNjVjYS00NTBjLTg4NmUtNzA4ODRjYzEyMDgzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "History of the World: Part I (1981)",
+        "width": 944,
+        "height": 1471
+      },
+      "imdbRating": 6.8,
+      "numVotes": 58605,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "History",
+        "Musical"
+      ],
+      "runtimeSeconds": 5520,
+      "runtimeMinutes": 92,
+      "metascore": 47,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 18,
+      "titleId": "tt0082933",
+      "title": "Possession",
+      "originalTitle": "Possession",
+      "year": 1981,
+      "releaseDate": {
+        "day": 28,
+        "month": 10,
+        "year": 1983
+      },
+      "plot": "A woman starts exhibiting increasingly disturbing behavior after asking her husband for a divorce. Suspicions of infidelity soon give way to something much more sinister.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTAzNjczNmItMGJkMS00YzVhLTg4NzEtOGQyYWUzNDA0ZmNlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Possession (1981)",
+        "width": 2000,
+        "height": 3000
+      },
+      "imdbRating": 7.2,
+      "numVotes": 55349,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Horror"
+      ],
+      "runtimeSeconds": 7440,
+      "runtimeMinutes": 124,
+      "metascore": 75,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 19,
+      "titleId": "tt0082186",
+      "title": "Clash of the Titans",
+      "originalTitle": "Clash of the Titans",
+      "year": 1981,
+      "releaseDate": {
+        "day": 12,
+        "month": 6,
+        "year": 1981
+      },
+      "plot": "Perseus must battle Medusa and the Kraken to save the Princess Andromeda.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMWIyN2Q2OGEtY2I3Mi00YzM0LWEyMjMtOTc2MmQxNTRjMjI5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Harry Hamlin and Judi Bowker in Clash of the Titans (1981)",
+        "width": 960,
+        "height": 1440
+      },
+      "imdbRating": 6.9,
+      "numVotes": 50897,
+      "certificate": "PG",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 7080,
+      "runtimeMinutes": 118,
+      "metascore": 59,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 20,
+      "titleId": "tt0084522",
+      "title": "Porky's",
+      "originalTitle": "Porky's",
+      "year": 1981,
+      "releaseDate": {
+        "day": 19,
+        "month": 3,
+        "year": 1982
+      },
+      "plot": "In 1954, a group of Florida high school guys vow revenge after being harassed by a sleazy nightclub owner and his redneck sheriff brother.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNmFjNzE3NjEtMzA5Ni00YTM0LWEzNWYtMGQ1YzA3ZWM5ZDNkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Porky's (1981)",
+        "width": 528,
+        "height": 800
+      },
+      "imdbRating": 6.2,
+      "numVotes": 48584,
+      "certificate": "R",
+      "genres": [
+        "Comedy"
+      ],
+      "runtimeSeconds": 5640,
+      "runtimeMinutes": 94,
+      "metascore": 40,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 21,
+      "titleId": "tt0083190",
+      "title": "Thief",
+      "originalTitle": "Thief",
+      "year": 1981,
+      "releaseDate": {
+        "day": 27,
+        "month": 3,
+        "year": 1981
+      },
+      "plot": "After spending years in prison, a top safe-cracker owns a couple of businesses, which are fronts for diamond heists. After his trusted fence is killed, he agrees to work with a powerful mobster, but to dire consequences.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzk2MGQ3NjMtNDc4Yy00NzEwLTk5ZDQtNzYwMjhmMzcwN2JiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "James Caan in Thief (1981)",
+        "width": 850,
+        "height": 1281
+      },
+      "imdbRating": 7.4,
+      "numVotes": 47942,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 7380,
+      "runtimeMinutes": 123,
+      "metascore": 78,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 22,
+      "titleId": "tt0082533",
+      "title": "The Howling",
+      "originalTitle": "The Howling",
+      "year": 1981,
+      "releaseDate": {
+        "day": 10,
+        "month": 4,
+        "year": 1981
+      },
+      "plot": "After a bizarre and near deadly encounter with a serial killer, a television newswoman is sent to a remote mountain resort whose residents may not be what they seem.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BM2RhZWNhZWYtOTVkZS00N2Q4LTk3MmQtNDI1YTVjZmY3NmRjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "The Howling (1981)",
+        "width": 1497,
+        "height": 2265
+      },
+      "imdbRating": 6.5,
+      "numVotes": 44216,
+      "certificate": "R",
+      "genres": [
+        "Horror"
+      ],
+      "runtimeSeconds": 5460,
+      "runtimeMinutes": 91,
+      "metascore": 68,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 23,
+      "titleId": "tt0082432",
+      "title": "Gallipoli",
+      "originalTitle": "Gallipoli",
+      "year": 1981,
+      "releaseDate": {
+        "day": 28,
+        "month": 8,
+        "year": 1981
+      },
+      "plot": "Two Australian sprinters face the brutal realities of war when they are sent to fight in the Gallipoli campaign in Turkey during World War I.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjlmMzdiZjAtNTI5Yi00MWNlLTk4NWItOTAxZDQwN2UwZTc5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Gallipoli (1981)",
+        "width": 1919,
+        "height": 2910
+      },
+      "imdbRating": 7.4,
+      "numVotes": 44194,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "History"
+      ],
+      "runtimeSeconds": 6600,
+      "runtimeMinutes": 110,
+      "metascore": 65,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 24,
+      "titleId": "tt0082089",
+      "title": "Body Heat",
+      "originalTitle": "Body Heat",
+      "year": 1981,
+      "releaseDate": {
+        "day": 28,
+        "month": 8,
+        "year": 1981
+      },
+      "plot": "During an extreme heatwave, a beautiful Florida woman and a seedy lawyer engage in an affair while plotting the murder of her rich husband.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMWZjNDE0ZDUtZTg3Ny00ZWNiLWExZDMtNTY3OWYxZDUzZjg1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "William Hurt and Kathleen Turner in Body Heat (1981)",
+        "width": 1467,
+        "height": 2218
+      },
+      "imdbRating": 7.4,
+      "numVotes": 43513,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 6780,
+      "runtimeMinutes": 113,
+      "metascore": 77,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 25,
+      "titleId": "tt0082136",
+      "title": "The Cannonball Run",
+      "originalTitle": "The Cannonball Run",
+      "year": 1981,
+      "releaseDate": {
+        "day": 19,
+        "month": 6,
+        "year": 1981
+      },
+      "plot": "A wide variety of eccentric competitors participate in a wild and illegal cross-country road race. However, the eccentric entrants will do anything to win the road race, including low-down, dirty tricks.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjk5YWQ1NmItY2NkNS00NjI0LTgyNzktNGI0MWU1NWQ1MTNhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Adrienne Barbeau, Farrah Fawcett, Roger Moore, Burt Reynolds, Dom DeLuise, Dean Martin, and Sammy Davis Jr. in The Cannonball Run (1981)",
+        "width": 1948,
+        "height": 2959
+      },
+      "imdbRating": 6.2,
+      "numVotes": 43358,
+      "certificate": "PG",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Sport"
+      ],
+      "runtimeSeconds": 5700,
+      "runtimeMinutes": 95,
+      "metascore": 28,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 26,
+      "titleId": "tt0082509",
+      "title": "Heavy Metal",
+      "originalTitle": "Heavy Metal",
+      "year": 1981,
+      "releaseDate": {
+        "day": 7,
+        "month": 8,
+        "year": 1981
+      },
+      "plot": "A glowing green orb that embodies ultimate evil terrorizes a young girl with an anthology of bizarre and fantastic stories.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjRkYWE1ZDUtYjg4Ny00YjAwLWJlZDQtZGU4MWE3ZmNmNjdmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Heavy Metal (1981)",
+        "width": 1977,
+        "height": 2947
+      },
+      "imdbRating": 6.6,
+      "numVotes": 41251,
+      "certificate": "R",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 5160,
+      "runtimeMinutes": 86,
+      "metascore": 51,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 27,
+      "titleId": "tt0082846",
+      "title": "On Golden Pond",
+      "originalTitle": "On Golden Pond",
+      "year": 1981,
+      "releaseDate": {
+        "day": 12,
+        "month": 2,
+        "year": 1982
+      },
+      "plot": "Curmudgeon Norman is estranged from his daughter Chelsea. Nevertheless, at Golden Pond he and his wife agree to look after Billy, the son of Chelsea's new boyfriend, and a most unexpected relationship blooms.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZmI3OGQ0YjQtZjNkYi00NmEzLWE5NjMtMTdkYjA4YTdiYzBiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Henry Fonda, Katharine Hepburn, Jane Fonda, and Doug McKeon in On Golden Pond (1981)",
+        "width": 1463,
+        "height": 2254
+      },
+      "imdbRating": 7.6,
+      "numVotes": 37375,
+      "certificate": "PG",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 6540,
+      "runtimeMinutes": 109,
+      "metascore": 68,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 28,
+      "titleId": "tt0083284",
+      "title": "Victory",
+      "originalTitle": "Victory",
+      "year": 1981,
+      "releaseDate": {
+        "day": 31,
+        "month": 7,
+        "year": 1981
+      },
+      "plot": "As allied P.O.W.s prepare for a soccer game against the German National Team to be played in Nazi-occupied Paris, the French Resistance and British officers are making plans for the team's escape.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWI5MGFhZmYtMDM1NC00MDUxLWEwY2EtYTk3ZWViYjk5ODdiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Sylvester Stallone, Michael Caine, and Pel\u00e9 in Victory (1981)",
+        "width": 1502,
+        "height": 2265
+      },
+      "imdbRating": 6.7,
+      "numVotes": 35425,
+      "certificate": "PG",
+      "genres": [
+        "Drama",
+        "Sport",
+        "War"
+      ],
+      "runtimeSeconds": 6960,
+      "runtimeMinutes": 116,
+      "metascore": 57,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 29,
+      "titleId": "tt0082869",
+      "title": "Outland",
+      "originalTitle": "Outland",
+      "year": 1981,
+      "releaseDate": {
+        "day": 22,
+        "month": 5,
+        "year": 1981
+      },
+      "plot": "A federal marshal newly stationed at a mining colony on the Jupiter moon of Io notices a series of unusual deaths. Against the advice of everyone, he digs deeper to find the cause, and finds himself marked for death.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTNkZDliZmUtMmJiYy00NTZhLTgxNzgtMzAyOTZjNDU1YjllXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Sean Connery in Outland (1981)",
+        "width": 891,
+        "height": 1300
+      },
+      "imdbRating": 6.6,
+      "numVotes": 35003,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6540,
+      "runtimeMinutes": 109,
+      "metascore": 48,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 30,
+      "titleId": "tt0082176",
+      "title": "Christiane F.",
+      "originalTitle": "Christiane F.: Wir Kinder vom Bahnhof Zoo",
+      "year": 1981,
+      "releaseDate": {
+        "day": 2,
+        "month": 4,
+        "year": 1981
+      },
+      "plot": "A teen girl in 1970s Berlin becomes addicted to heroin. Everything in her life slowly begins to distort and disappear as she befriends a small crew of junkies and falls in love with a drug-abusing male prostitute.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOGIzNGMxYWQtNGI1Zi00ZGYxLThjZDUtODA1ZWU1NTM2NTM2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "David Bowie and Natja Brunckhorst in Christiane F. (1981)",
+        "width": 1929,
+        "height": 2916
+      },
+      "imdbRating": 7.5,
+      "numVotes": 34294,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "runtimeSeconds": 8280,
+      "runtimeMinutes": 138,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 31,
+      "titleId": "tt0082031",
+      "title": "Arthur",
+      "originalTitle": "Arthur",
+      "year": 1981,
+      "releaseDate": {
+        "day": 17,
+        "month": 7,
+        "year": 1981
+      },
+      "plot": "Alcoholic billionaire playboy Arthur Bach must marry a woman he does not love, or he will be cut off from his $750,000,000 fortune. But when Arthur falls in love with a poor waitress, he must decide if he wants to choose love or money.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNWRhYzc3MDktOGY0My00NmE0LWE0OWEtNTFkMmVhMWFmNDE2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Dudley Moore in Arthur (1981)",
+        "width": 487,
+        "height": 755
+      },
+      "imdbRating": 6.9,
+      "numVotes": 33248,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "runtimeSeconds": 5820,
+      "runtimeMinutes": 97,
+      "metascore": 69,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 32,
+      "titleId": "tt0082783",
+      "title": "My Dinner with Andre",
+      "originalTitle": "My Dinner with Andre",
+      "year": 1981,
+      "releaseDate": {
+        "day": 11,
+        "month": 10,
+        "year": 1981
+      },
+      "plot": "Two old friends meet for dinner; as one tells anecdotes detailing his experiences, the other notices their differing worldviews.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTVjYmFkODMtZWJiMy00NzYyLTg2ODQtMTk5Zjk4MGYzZjMzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "My Dinner with Andre (1981)",
+        "width": 987,
+        "height": 1500
+      },
+      "imdbRating": 7.7,
+      "numVotes": 29955,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 6600,
+      "runtimeMinutes": 110,
+      "metascore": 83,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 33,
+      "titleId": "tt0082307",
+      "title": "The Beyond",
+      "originalTitle": "...E tu vivrai nel terrore! L'aldil\u00e0",
+      "year": 1981,
+      "releaseDate": {
+        "day": 11,
+        "month": 11,
+        "year": 1983
+      },
+      "plot": "A young woman inherits an old hotel in Louisiana where, following a series of supernatural \"accidents\", she learns that the building was built over one of the entrances to Hell.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTUwMTlhZDQtODVlNC00MmY2LWJlNjgtOTNhYTRlMzFkODhhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "The Beyond (1981)",
+        "width": 500,
+        "height": 715
+      },
+      "imdbRating": 6.5,
+      "numVotes": 27627,
+      "certificate": "R",
+      "genres": [
+        "Horror"
+      ],
+      "runtimeSeconds": 5220,
+      "runtimeMinutes": 87,
+      "metascore": 38,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 34,
+      "titleId": "tt0082782",
+      "title": "My Bloody Valentine",
+      "originalTitle": "My Bloody Valentine",
+      "year": 1981,
+      "releaseDate": {
+        "day": 11,
+        "month": 2,
+        "year": 1981
+      },
+      "plot": "A decades-old folk tale surrounding a deranged murderer killing those who celebrate Valentine's Day turns out to be true to legend when a group defies the killer's order and people start turning up dead.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDQ1MmY3YjgtZWQzNC00OWIzLTgzYTUtODhhNDI0NWI5ZjU0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "My Bloody Valentine (1981)",
+        "width": 1492,
+        "height": 2265
+      },
+      "imdbRating": 6.3,
+      "numVotes": 27586,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5400,
+      "runtimeMinutes": 90,
+      "metascore": 46,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 35,
+      "titleId": "tt0082934",
+      "title": "The Postman Always Rings Twice",
+      "originalTitle": "The Postman Always Rings Twice",
+      "year": 1981,
+      "releaseDate": {
+        "day": 20,
+        "month": 3,
+        "year": 1981
+      },
+      "plot": "The sensuous wife of a roadside diner proprietor and a rootless drifter begin a sordid, steamy affair and conspire to murder her Greek husband.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjU1NTc4MzgtMWE5Ny00MDg4LTg5N2UtMjEyZDE3MmIzYmU2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jack Nicholson and Jessica Lange in The Postman Always Rings Twice (1981)",
+        "width": 1922,
+        "height": 2912
+      },
+      "imdbRating": 6.6,
+      "numVotes": 27531,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 7320,
+      "runtimeMinutes": 122,
+      "metascore": 61,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 36,
+      "titleId": "tt0082979",
+      "title": "Reds",
+      "originalTitle": "Reds",
+      "year": 1981,
+      "releaseDate": {
+        "day": 25,
+        "month": 12,
+        "year": 1981
+      },
+      "plot": "A radical American journalist becomes involved with the Communist revolution in Russia, and hopes to bring its spirit and idealism to the United States.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDFjMThlYTMtMjMwMy00MjgxLTlhZjgtZTY2ZTdmYjhmY2U2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Diane Keaton and Warren Beatty in Reds (1981)",
+        "width": 520,
+        "height": 734
+      },
+      "imdbRating": 7.3,
+      "numVotes": 26560,
+      "certificate": "PG",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "runtimeSeconds": 11700,
+      "runtimeMinutes": 195,
+      "metascore": 76,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 37,
+      "titleId": "tt0082484",
+      "title": "Quest for Fire",
+      "originalTitle": "La guerre du feu",
+      "year": 1981,
+      "releaseDate": {
+        "day": 12,
+        "month": 2,
+        "year": 1982
+      },
+      "plot": "This story takes place in prehistoric time when three tribesmen search for a new fire source.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDcxMTFlZmItYzY5OS00ZDJkLTgwZGQtNDk3NjgwYjIxNWM3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ron Perlman, Rae Dawn Chong, Nicholas Kadi, and Everett McGill in Quest for Fire (1981)",
+        "width": 1950,
+        "height": 2958
+      },
+      "imdbRating": 7.3,
+      "numVotes": 26162,
+      "certificate": "R",
+      "genres": [
+        "Adventure",
+        "Drama"
+      ],
+      "runtimeSeconds": 6000,
+      "runtimeMinutes": 100,
+      "metascore": 79,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 38,
+      "titleId": "tt0082377",
+      "title": "The Final Conflict",
+      "originalTitle": "The Final Conflict",
+      "year": 1981,
+      "releaseDate": {
+        "day": 20,
+        "month": 3,
+        "year": 1981
+      },
+      "plot": "The now adult Antichrist plots to eliminate his future divine opponent while a cabal of monks plot to stop him.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZmJkNDYzNzktZThmNC00MmRjLTliMzgtOWY2ZmI1ZTkwYTAyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Sam Neill in The Final Conflict (1981)",
+        "width": 1121,
+        "height": 1720
+      },
+      "imdbRating": 5.5,
+      "numVotes": 25495,
+      "certificate": "R",
+      "genres": [
+        "Horror"
+      ],
+      "runtimeSeconds": 6480,
+      "runtimeMinutes": 108,
+      "metascore": 34,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 39,
+      "titleId": "tt0082118",
+      "title": "The Burning",
+      "originalTitle": "The Burning",
+      "year": 1981,
+      "releaseDate": {
+        "day": 8,
+        "month": 5,
+        "year": 1981
+      },
+      "plot": "Abusive former summer camp caretaker Cropsy, horribly burned from a prank gone wrong five years earlier, lurks around upstate NY summer Camp Stonewater with garden shears and bent on killing the teenagers responsible for his disfigurement.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzA1NzgxNzctNWFhNy00ZWUxLTlhMTQtMDcwNjYyMzdkNWE4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "The Burning (1981)",
+        "width": 1486,
+        "height": 2260
+      },
+      "imdbRating": 6.2,
+      "numVotes": 24715,
+      "certificate": "R",
+      "genres": [
+        "Horror"
+      ],
+      "runtimeSeconds": 5460,
+      "runtimeMinutes": 91,
+      "metascore": 42,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 40,
+      "titleId": "tt0083111",
+      "title": "Southern Comfort",
+      "originalTitle": "Southern Comfort",
+      "year": 1981,
+      "releaseDate": {
+        "day": 25,
+        "month": 9,
+        "year": 1981
+      },
+      "plot": "During a routine exercise, a team of National Guardsmen are threatened by angry and violent locals.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNWNmMmYzOTAtZjlhMi00OWM4LWEzZGUtMzgzZWIwYWYzZTAyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Southern Comfort (1981)",
+        "width": 1000,
+        "height": 1503
+      },
+      "imdbRating": 7.1,
+      "numVotes": 24266,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6360,
+      "runtimeMinutes": 106,
+      "metascore": 63,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 41,
+      "titleId": "tt0082817",
+      "title": "Nighthawks",
+      "originalTitle": "Nighthawks",
+      "year": 1981,
+      "releaseDate": {
+        "day": 10,
+        "month": 4,
+        "year": 1981
+      },
+      "plot": "When one of Europe's most lethal terrorists shows up in New York, an elite undercover cop is assigned to take him down by any means necessary.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZmZjODZmMTYtMDQ3OS00YjBmLTk4ZmYtMDBmOTM3ZDY1ZGNiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Sylvester Stallone in Nighthawks (1981)",
+        "width": 1492,
+        "height": 2210
+      },
+      "imdbRating": 6.3,
+      "numVotes": 23397,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5940,
+      "runtimeMinutes": 99,
+      "metascore": 56,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 42,
+      "titleId": "tt0083169",
+      "title": "Taps",
+      "originalTitle": "Taps",
+      "year": 1981,
+      "releaseDate": {
+        "day": 25,
+        "month": 12,
+        "year": 1981
+      },
+      "plot": "Military cadets take extreme measures to ensure the future of their academy when its existence is threatened by local condo developers.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZmVkYzhiNzUtODdiZS00MmY5LWEyYjktMDBiNWI1OWVkZGI5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Timothy Hutton in Taps (1981)",
+        "width": 800,
+        "height": 1212
+      },
+      "imdbRating": 6.8,
+      "numVotes": 21803,
+      "certificate": "PG",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 7560,
+      "runtimeMinutes": 126,
+      "metascore": 49,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 43,
+      "titleId": "tt0082288",
+      "title": "Dragonslayer",
+      "originalTitle": "Dragonslayer",
+      "year": 1981,
+      "releaseDate": {
+        "day": 26,
+        "month": 6,
+        "year": 1981
+      },
+      "plot": "A young wizarding apprentice is sent to kill a dragon which has been devouring girls from a nearby kingdom.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2YyZDZjNDctOWMyYS00YjYyLThiODUtZWEzZmFiZjE2YzViXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Peter MacNicol and Caitlin Clarke in Dragonslayer (1981)",
+        "width": 800,
+        "height": 1199
+      },
+      "imdbRating": 6.6,
+      "numVotes": 21560,
+      "certificate": "PG",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 6540,
+      "runtimeMinutes": 109,
+      "metascore": 68,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 44,
+      "titleId": "tt0082766",
+      "title": "Mommie Dearest",
+      "originalTitle": "Mommie Dearest",
+      "year": 1981,
+      "releaseDate": {
+        "day": 25,
+        "month": 9,
+        "year": 1981
+      },
+      "plot": "The abusive and traumatic adoptive upbringing of Christina Crawford at the hands of her mother, screen queen Joan Crawford, is depicted.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTFkZjg1N2ItNDQxMS00MTNkLWE0MzgtNTU2MjJkNGI2ZTc0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Faye Dunaway in Mommie Dearest (1981)",
+        "width": 1489,
+        "height": 2260
+      },
+      "imdbRating": 6.7,
+      "numVotes": 19821,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "runtimeSeconds": 7740,
+      "runtimeMinutes": 129,
+      "metascore": 55,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 45,
+      "titleId": "tt0082949",
+      "title": "The Professional",
+      "originalTitle": "Le professionnel",
+      "year": 1981,
+      "releaseDate": {
+        "day": 21,
+        "month": 10,
+        "year": 1981
+      },
+      "plot": "Victim of a plot which has resulted in his imprisonment in a Central African jail for two years, a French secret agent arrives in Paris to settle accounts.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWRmZTk3MWEtMDNkNS00NjFmLTgxMGYtZGE1MjdlNTNiNjNmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jean-Paul Belmondo in The Professional (1981)",
+        "width": 753,
+        "height": 1023
+      },
+      "imdbRating": 7.4,
+      "numVotes": 18968,
+      "certificate": "Not Rated",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 6480,
+      "runtimeMinutes": 108,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 46,
+      "titleId": "tt0082427",
+      "title": "The Funhouse",
+      "originalTitle": "The Funhouse",
+      "year": 1981,
+      "releaseDate": {
+        "day": 13,
+        "month": 3,
+        "year": 1981
+      },
+      "plot": "Teenage Amy Harper, her boyfriend Buzz Dawson, and their friends Richie Atterbury and Liz Duncan visit a local carnival for a night of innocent amusement, but soon witness a fortune teller's murder and find that the exits are locked.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjgyMTY4YzUtNDUzYi00ZTlkLTg1MmYtYzU4MTRkNzc3NzMyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "The Funhouse (1981)",
+        "width": 1231,
+        "height": 1920
+      },
+      "imdbRating": 5.9,
+      "numVotes": 18244,
+      "certificate": "R",
+      "genres": [
+        "Horror"
+      ],
+      "runtimeSeconds": 5760,
+      "runtimeMinutes": 96,
+      "metascore": 56,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 47,
+      "titleId": "tt0082474",
+      "title": "The Great Muppet Caper",
+      "originalTitle": "The Great Muppet Caper",
+      "year": 1981,
+      "releaseDate": {
+        "day": 26,
+        "month": 6,
+        "year": 1981
+      },
+      "plot": "Kermit the Frog, The Great Gonzo, and Fozzie Bear are reporters who travel to Britain to interview a rich victim of jewel thieves and help her along with her secretary, Miss Piggy.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMGMwN2JkOTgtMDZjYi00YjkxLWI4YWQtMDFkMTQzNTgxYzgxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Frank Oz, Charles Grodin, Jim Henson, Diana Rigg, and Dave Goelz in The Great Muppet Caper (1981)",
+        "width": 675,
+        "height": 1000
+      },
+      "imdbRating": 7.1,
+      "numVotes": 18171,
+      "certificate": "G",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 5820,
+      "runtimeMinutes": 97,
+      "metascore": 70,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 48,
+      "titleId": "tt0082966",
+      "title": "The House by the Cemetery",
+      "originalTitle": "Quella villa accanto al cimitero",
+      "year": 1981,
+      "releaseDate": {
+        "day": 1,
+        "month": 6,
+        "year": 1984
+      },
+      "plot": "A New England home is terrorized by a series of murders, unbeknownst to the guests that a gruesome secret is hiding in the basement.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODRkZGM2ZWItNGNmYi00ZTMzLTkwNzEtMjNhYjE1YzUyNjk4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "The House by the Cemetery (1981)",
+        "width": 1782,
+        "height": 2790
+      },
+      "imdbRating": 6.1,
+      "numVotes": 17740,
+      "certificate": "Not Rated",
+      "genres": [
+        "Horror"
+      ],
+      "runtimeSeconds": 5160,
+      "runtimeMinutes": 86,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 49,
+      "titleId": "tt0082416",
+      "title": "The French Lieutenant's Woman",
+      "originalTitle": "The French Lieutenant's Woman",
+      "year": 1981,
+      "releaseDate": {
+        "day": 16,
+        "month": 10,
+        "year": 1981
+      },
+      "plot": "Anna and Mike portray two characters in a film set in 19th century England who fall in love despite the fact that Mike's character is engaged.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDYzZjg5NzgtYTQ0Zi00YjJkLThkYzAtNjRmZDJlYTRhMTEyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Meryl Streep in The French Lieutenant's Woman (1981)",
+        "width": 791,
+        "height": 1200
+      },
+      "imdbRating": 6.9,
+      "numVotes": 16554,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 7440,
+      "runtimeMinutes": 124,
+      "metascore": 64,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 50,
+      "titleId": "tt0082242",
+      "title": "Dead & Buried",
+      "originalTitle": "Dead & Buried",
+      "year": 1981,
+      "releaseDate": {
+        "day": 9,
+        "month": 10,
+        "year": 1981
+      },
+      "plot": "Sheriff Dan Gillis investigates eerie deaths in a sleepy coastal town.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMWJiOGE0ZDEtOWYzNS00NzQ3LWExNDYtYzZiMzA5ZmIxNmZlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Dead & Buried (1981)",
+        "width": 1786,
+        "height": 2680
+      },
+      "imdbRating": 6.5,
+      "numVotes": 16486,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "runtimeSeconds": 5640,
+      "runtimeMinutes": 94,
+      "metascore": 71,
+      "credits": [],
+      "titleType": "movie"
+    }
+  ]
+}

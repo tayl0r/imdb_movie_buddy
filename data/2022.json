@@ -1,0 +1,1591 @@
+{
+  "year": 2022,
+  "movies": [
+    {
+      "rank": 1,
+      "titleId": "tt1877830",
+      "title": "The Batman",
+      "originalTitle": "The Batman",
+      "year": 2022,
+      "releaseDate": {
+        "day": 4,
+        "month": 3,
+        "year": 2022
+      },
+      "plot": "When a sadistic serial killer begins murdering key political figures in Gotham, the Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMmU5NGJlMzAtMGNmOC00YjJjLTgyMzUtNjAyYmE4Njg5YWMyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Paul Dano, Colin Farrell, Robert Pattinson, and Zo\u00eb Kravitz in The Batman (2022)",
+        "width": 2764,
+        "height": 4096
+      },
+      "imdbRating": 7.8,
+      "numVotes": 914387,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 10560,
+      "runtimeMinutes": 176,
+      "metascore": 72,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 2,
+      "titleId": "tt1745960",
+      "title": "Top Gun: Maverick",
+      "originalTitle": "Top Gun: Maverick",
+      "year": 2022,
+      "releaseDate": {
+        "day": 27,
+        "month": 5,
+        "year": 2022
+      },
+      "plot": "The story involves Maverick confronting his past while training a group of younger Top Gun graduates, including the son of his deceased best friend, for a dangerous mission.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDBkZDNjMWEtOTdmMi00NmExLTg5MmMtNTFlYTJlNWY5YTdmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tom Cruise in Top Gun: Maverick (2022)",
+        "width": 2024,
+        "height": 3000
+      },
+      "imdbRating": 8.2,
+      "numVotes": 843456,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "runtimeSeconds": 7800,
+      "runtimeMinutes": 130,
+      "metascore": 78,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 3,
+      "titleId": "tt6710474",
+      "title": "Everything Everywhere All at Once",
+      "originalTitle": "Everything Everywhere All at Once",
+      "year": 2022,
+      "releaseDate": {
+        "day": 8,
+        "month": 4,
+        "year": 2022
+      },
+      "plot": "A middle-aged Chinese immigrant is swept up into an insane adventure in which she alone can save existence by exploring other universes and connecting with the lives she could have led.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWNmMzAzZmQtNDQ1NC00Nzk5LTkyMmUtNGI2N2NkOWM4MzEyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jamie Lee Curtis, Michelle Yeoh, James Hong, Ke Huy Quan, and Stephanie Hsu in Everything Everywhere All at Once (2022)",
+        "width": 8699,
+        "height": 12599
+      },
+      "imdbRating": 7.7,
+      "numVotes": 620804,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 8340,
+      "runtimeMinutes": 139,
+      "metascore": 81,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 4,
+      "titleId": "tt1630029",
+      "title": "Avatar: The Way of Water",
+      "originalTitle": "Avatar: The Way of Water",
+      "year": 2022,
+      "releaseDate": {
+        "day": 16,
+        "month": 12,
+        "year": 2022
+      },
+      "plot": "Jake Sully lives with his newfound family formed on the extrasolar moon Pandora. Once a familiar threat returns to finish what was previously started, Jake must work with Neytiri and the army of the Na'vi race to protect their home.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNWI0Y2NkOWEtMmM2OC00MjQ3LWI1YzItZGQxYzQ3NzI4NWZmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "CCH Pounder, Edie Falco, Brendan Cowell, Joel David Moore, Zoe Salda\u00f1a, Sam Worthington, Bailey Bass, and Britain Dalton in Avatar: The Way of Water (2022)",
+        "width": 900,
+        "height": 1289
+      },
+      "imdbRating": 7.5,
+      "numVotes": 601082,
+      "certificate": "PG-13",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "runtimeSeconds": 11520,
+      "runtimeMinutes": 192,
+      "metascore": 67,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 5,
+      "titleId": "tt10811166",
+      "title": "The Kashmir Files",
+      "originalTitle": "The Kashmir Files",
+      "year": 2022,
+      "releaseDate": {
+        "day": 11,
+        "month": 3,
+        "year": 2022
+      },
+      "plot": "A heart-wrenching tale that captures the pain, suffering, and struggle of the Kashmiri Pandit community in 1990 and leads Krishna, a young college student, to set out on a quest to uncover the truth.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTUwZTNjY2MtNmRjOC00YmI1LThlNWUtZTFkMDgzNTc5ODAwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Mithun Chakraborty, Pallavi Joshi, Anupam Kher, Darshan Kumaar, Bhasha Sumbli, and Chinmay Mandlekar in The Kashmir Files (2022)",
+        "width": 1080,
+        "height": 1350
+      },
+      "imdbRating": 8.5,
+      "numVotes": 578565,
+      "certificate": "Not Rated",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 10200,
+      "runtimeMinutes": 170,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 6,
+      "titleId": "tt9419884",
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "originalTitle": "Doctor Strange in the Multiverse of Madness",
+      "year": 2022,
+      "releaseDate": {
+        "day": 6,
+        "month": 5,
+        "year": 2022
+      },
+      "plot": "Doctor Strange teams up with a mysterious teenage girl who can travel across multiverses, to battle other-universe versions of himself which threaten to wipe out the multiverse. They seek help from the Scarlet Witch, Wong and others.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BN2YxZGRjMzYtZjE1ZC00MDI0LThjZmQtZTZmMzVmMmQ2NzBmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Chiwetel Ejiofor, Elizabeth Olsen, Benedict Wong, Rachel McAdams, Benedict Cumberbatch, and Xochitl Gomez in Doctor Strange in the Multiverse of Madness (2022)",
+        "width": 1688,
+        "height": 2500
+      },
+      "imdbRating": 6.9,
+      "numVotes": 538046,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 7560,
+      "runtimeMinutes": 126,
+      "metascore": 60,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 7,
+      "titleId": "tt12593682",
+      "title": "Bullet Train",
+      "originalTitle": "Bullet Train",
+      "year": 2022,
+      "releaseDate": {
+        "day": 5,
+        "month": 8,
+        "year": 2022
+      },
+      "plot": "Five assassins aboard a swiftly-moving bullet train find out that their missions have something in common.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODUyZjkxZDMtZGI3ZC00ZmEwLTgwMTUtYTU4OTQ5YjU4ZjRlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Brad Pitt, Hiroyuki Sanada, Michael Shannon, Aaron Taylor-Johnson, Joey King, Brian Tyree Henry, Andrew Koji, Zazie Beetz, and Bad Bunny in Bullet Train (2022)",
+        "width": 1012,
+        "height": 1500
+      },
+      "imdbRating": 7.3,
+      "numVotes": 524315,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7620,
+      "runtimeMinutes": 127,
+      "metascore": 49,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 8,
+      "titleId": "tt11564570",
+      "title": "Glass Onion",
+      "originalTitle": "Glass Onion",
+      "year": 2022,
+      "releaseDate": {
+        "day": 23,
+        "month": 12,
+        "year": 2022
+      },
+      "plot": "Tech billionaire Miles Bron invites his friends for a getaway on his private Greek island. When someone turns up dead, Detective Benoit Blanc is put on the case.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzI2ZDYxZTEtMzVlOC00OTUyLTgyNTAtYWFhNmRhZjAzZWE1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Edward Norton, Kate Hudson, Daniel Craig, Kathryn Hahn, Dave Bautista, Leslie Odom Jr., Janelle Mon\u00e1e, Madelyn Cline, and Jessica Henwick in Glass Onion (2022)",
+        "width": 1500,
+        "height": 2222
+      },
+      "imdbRating": 7.1,
+      "numVotes": 515449,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 8340,
+      "runtimeMinutes": 139,
+      "metascore": 81,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 9,
+      "titleId": "tt9764362",
+      "title": "The Menu",
+      "originalTitle": "The Menu",
+      "year": 2022,
+      "releaseDate": {
+        "day": 18,
+        "month": 11,
+        "year": 2022
+      },
+      "plot": "A young couple travels to a remote island to eat at an exclusive restaurant where the chef has prepared a lavish menu, with some shocking surprises.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BN2Q0YWE1MjktODJlMi00NTRiLWI2ZTctZTAxNjkyODVjM2EyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ralph Fiennes, John Leguizamo, Janet McTeer, Paul Adelstein, Reed Birney, Nicholas Hoult, Judith Light, Jay Shadix, Peter Grosz, Hong Chau, Rob Yang, Aimee Carrero, Arturo Castro, Mark St. Cyr, and Anya Taylor-Joy in The Menu (2022)",
+        "width": 1334,
+        "height": 2000
+      },
+      "imdbRating": 7.2,
+      "numVotes": 488682,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Horror",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6420,
+      "runtimeMinutes": 107,
+      "metascore": 71,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 10,
+      "titleId": "tt10648342",
+      "title": "Thor: Love and Thunder",
+      "originalTitle": "Thor: Love and Thunder",
+      "year": 2022,
+      "releaseDate": {
+        "day": 8,
+        "month": 7,
+        "year": 2022
+      },
+      "plot": "Thor enlists the help of Valkyrie, Korg and ex-girlfriend Jane Foster to fight Gorr the God Butcher, who intends to make the gods extinct.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjRiMDhiZjQtNjk5Yi00ZDcwLTkyYTEtMDc1NjdmNjFhNGIzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Russell Crowe, Natalie Portman, Christian Bale, Taika Waititi, Chris Hemsworth, and Tessa Thompson in Thor: Love and Thunder (2022)",
+        "width": 1688,
+        "height": 2500
+      },
+      "imdbRating": 6.1,
+      "numVotes": 454411,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 7080,
+      "runtimeMinutes": 118,
+      "metascore": 57,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 11,
+      "titleId": "tt9114286",
+      "title": "Black Panther: Wakanda Forever",
+      "originalTitle": "Black Panther: Wakanda Forever",
+      "year": 2022,
+      "releaseDate": {
+        "day": 11,
+        "month": 11,
+        "year": 2022
+      },
+      "plot": "The people of Wakanda fight to protect their home from intervening world powers as they mourn the death of King T'Challa.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYWY5NDY1ZjItZDQxMy00MTAzLTgyOGQtNTQxYjFiMzZjMjUyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Angela Bassett, Florence Kasumba, Danai Gurira, Lupita Nyong'o, Tenoch Huerta, Dev Patel, Alex Livinalli, Michaela Coel, Letitia Wright, Mabel Cadena, and Winston Duke in Black Panther: Wakanda Forever (2022)",
+        "width": 1688,
+        "height": 2500
+      },
+      "imdbRating": 6.6,
+      "numVotes": 364666,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "runtimeSeconds": 9660,
+      "runtimeMinutes": 161,
+      "metascore": 67,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 12,
+      "titleId": "tt10954984",
+      "title": "Nope",
+      "originalTitle": "Nope",
+      "year": 2022,
+      "releaseDate": {
+        "day": 22,
+        "month": 7,
+        "year": 2022
+      },
+      "plot": "The residents of a lonely gulch in inland California bear witness to an uncanny and chilling phenomenon.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODRlNWRhZWUtMzdlZC00ZDIyLWFhZjMtYTcxNjI1ZDIwODhjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Nope (2022)",
+        "width": 1895,
+        "height": 3000
+      },
+      "imdbRating": 6.8,
+      "numVotes": 311898,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 7800,
+      "runtimeMinutes": 130,
+      "metascore": 77,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 13,
+      "titleId": "tt1016150",
+      "title": "All Quiet on the Western Front",
+      "originalTitle": "Im Westen nichts Neues",
+      "year": 2022,
+      "releaseDate": {
+        "day": 28,
+        "month": 10,
+        "year": 2022
+      },
+      "plot": "A young German soldier's eagerness to serve his country quickly fades when he witnesses the horrors of combat on the Western Front during World War I.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWJiYWMyYTktZThhOS00ZjgxLWE0YTQtZDMyNTQxMjMyYjI2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Felix Kammerer in All Quiet on the Western Front (2022)",
+        "width": 1000,
+        "height": 1500
+      },
+      "imdbRating": 7.8,
+      "numVotes": 309631,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "History",
+        "War"
+      ],
+      "runtimeSeconds": 8880,
+      "runtimeMinutes": 148,
+      "metascore": 76,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 14,
+      "titleId": "tt6443346",
+      "title": "Black Adam",
+      "originalTitle": "Black Adam",
+      "year": 2022,
+      "releaseDate": {
+        "day": 21,
+        "month": 10,
+        "year": 2022
+      },
+      "plot": "Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods--and imprisoned just as quickly--Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYmM3OTM4NDktMmI2NS00OWU0LTg4OTQtNjZhMmFkYjhmOGY1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Pierce Brosnan, Aldis Hodge, Dwayne Johnson, Sarah Shahi, and Noah Centineo in Black Adam (2022)",
+        "width": 2764,
+        "height": 4096
+      },
+      "imdbRating": 6.1,
+      "numVotes": 301064,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 7500,
+      "runtimeMinutes": 125,
+      "metascore": 41,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 15,
+      "titleId": "tt1464335",
+      "title": "Uncharted",
+      "originalTitle": "Uncharted",
+      "year": 2022,
+      "releaseDate": {
+        "day": 18,
+        "month": 2,
+        "year": 2022
+      },
+      "plot": "Street-smart Nathan Drake is recruited by seasoned treasure hunter Victor \"Sully\" Sullivan to recover a fortune amassed by Ferdinand Magellan, and lost 500 years ago by the House of Moncada.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjQxYWNiNzgtOTc2Yi00OGEwLTk5MjAtODdiZTk0ZDJlZGY4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Antonio Banderas, Mark Wahlberg, Sophia Ali, Tom Holland, and Tati Gabrielle in Uncharted (2022)",
+        "width": 675,
+        "height": 1000
+      },
+      "imdbRating": 6.3,
+      "numVotes": 295705,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "runtimeSeconds": 6960,
+      "runtimeMinutes": 116,
+      "metascore": 45,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 16,
+      "titleId": "tt11138512",
+      "title": "The Northman",
+      "originalTitle": "The Northman",
+      "year": 2022,
+      "releaseDate": {
+        "day": 22,
+        "month": 4,
+        "year": 2022
+      },
+      "plot": "A young Viking prince is on a quest to avenge his father's murder.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzgwM2JiY2MtNWQ5OC00NDc1LWExMjYtYmY2YjViZmViYWM5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ethan Hawke, Nicole Kidman, Willem Dafoe, Bj\u00f6rk, Alexander Skarsg\u00e5rd, Claes Bang, and Anya Taylor-Joy in The Northman (2022)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 7,
+      "numVotes": 295610,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "runtimeSeconds": 8220,
+      "runtimeMinutes": 137,
+      "metascore": 82,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 17,
+      "titleId": "tt11813216",
+      "title": "The Banshees of Inisherin",
+      "originalTitle": "The Banshees of Inisherin",
+      "year": 2022,
+      "releaseDate": {
+        "day": 4,
+        "month": 11,
+        "year": 2022
+      },
+      "plot": "Two lifelong friends find themselves at an impasse when one abruptly ends their relationship, with alarming consequences for both of them.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTkzMWI4OTEtMTk0MS00MTUxLWI4NTYtYmRiNWM4Zjc1MGRhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Colin Farrell and Brendan Gleeson in The Banshees of Inisherin (2022)",
+        "width": 3695,
+        "height": 5625
+      },
+      "imdbRating": 7.6,
+      "numVotes": 291834,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 6840,
+      "runtimeMinutes": 114,
+      "metascore": 87,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 18,
+      "titleId": "tt13833688",
+      "title": "The Whale",
+      "originalTitle": "The Whale",
+      "year": 2022,
+      "releaseDate": {
+        "day": 21,
+        "month": 12,
+        "year": 2022
+      },
+      "plot": "A reclusive, morbidly obese English teacher attempts to reconnect with his estranged teenage daughter.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYmNhOWMyNTYtNTljNC00NTU3LWFiYmQtMDBhOGU5NWFhNGU5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Brendan Fraser in The Whale (2022)",
+        "width": 2013,
+        "height": 2863
+      },
+      "imdbRating": 7.6,
+      "numVotes": 277517,
+      "certificate": "R",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 7020,
+      "runtimeMinutes": 117,
+      "metascore": 60,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 19,
+      "titleId": "tt1649418",
+      "title": "The Gray Man",
+      "originalTitle": "The Gray Man",
+      "year": 2022,
+      "releaseDate": {
+        "day": 22,
+        "month": 7,
+        "year": 2022
+      },
+      "plot": "When the CIA's most skilled operative, whose true identity is known to none, accidentally uncovers dark agency secrets, a psychopathic former colleague puts a bounty on his head, setting off a global manhunt by international assassins.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZmFhZTNlNzctZGQzZi00MTA3LThiNjMtYWQzNjUzMjNjZjA3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Chris Evans and Ryan Gosling in The Gray Man (2022)",
+        "width": 1500,
+        "height": 2222
+      },
+      "imdbRating": 6.5,
+      "numVotes": 269221,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7320,
+      "runtimeMinutes": 122,
+      "metascore": 49,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 20,
+      "titleId": "tt11866324",
+      "title": "Prey",
+      "originalTitle": "Prey",
+      "year": 2022,
+      "releaseDate": {
+        "day": 5,
+        "month": 8,
+        "year": 2022
+      },
+      "plot": "Naru, a skilled warrior of the Comanche Nation, fights to protect her tribe against one of the first highly-evolved Predators to land on Earth.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMWVjYTBlYjktODhjZS00OTUyLTg4MzctODI4MTkyNDE5YzY0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Dane DiLiegro and Amber Midthunder in Prey (2022)",
+        "width": 2025,
+        "height": 3000
+      },
+      "imdbRating": 7.1,
+      "numVotes": 267923,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Horror"
+      ],
+      "runtimeSeconds": 6000,
+      "runtimeMinutes": 100,
+      "metascore": 71,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 21,
+      "titleId": "tt3704428",
+      "title": "Elvis",
+      "originalTitle": "Elvis",
+      "year": 2022,
+      "releaseDate": {
+        "day": 24,
+        "month": 6,
+        "year": 2022
+      },
+      "plot": "The life of American music icon Elvis Presley, from his childhood to becoming a rock and movie star in the 1950s while maintaining a complex relationship with his manager, Colonel Tom Parker.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTVhZmUyMDQtY2I5Ny00OWNiLTgzNjUtMTg4YTQwMTc0OTQxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Austin Butler in Elvis (2022)",
+        "width": 2764,
+        "height": 4096
+      },
+      "imdbRating": 7.3,
+      "numVotes": 258788,
+      "certificate": "PG-13",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Music"
+      ],
+      "runtimeSeconds": 9540,
+      "runtimeMinutes": 159,
+      "metascore": 64,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 22,
+      "titleId": "tt2463208",
+      "title": "The Adam Project",
+      "originalTitle": "The Adam Project",
+      "year": 2022,
+      "releaseDate": {
+        "day": 11,
+        "month": 3,
+        "year": 2022
+      },
+      "plot": "After accidentally crash-landing in 2022, time-traveling fighter pilot Adam Reed teams up with his 12-year-old self for a mission to save the future.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNWU1NDJlYWUtYWE1OC00MGVlLTliNzYtMjg4OTk0MWE4MDQ4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jennifer Garner, Ryan Reynolds, Mark Ruffalo, Zoe Salda\u00f1a, and Walker Scobell in The Adam Project (2022)",
+        "width": 1014,
+        "height": 1500
+      },
+      "imdbRating": 6.7,
+      "numVotes": 255139,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 6360,
+      "runtimeMinutes": 106,
+      "metascore": 55,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 23,
+      "titleId": "tt15791034",
+      "title": "Barbarian",
+      "originalTitle": "Barbarian",
+      "year": 2022,
+      "releaseDate": {
+        "day": 9,
+        "month": 9,
+        "year": 2022
+      },
+      "plot": "A woman staying at an Airbnb discovers that the house she has rented is not what it seems.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNWQ5MDgwMzMtNWZhMy00Y2Q4LWI5NTAtODA4MDIzYTExOGQzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Georgina Campbell in Barbarian (2022)",
+        "width": 2500,
+        "height": 3703
+      },
+      "imdbRating": 7,
+      "numVotes": 254311,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6120,
+      "runtimeMinutes": 102,
+      "metascore": 78,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 24,
+      "titleId": "tt8041270",
+      "title": "Jurassic World: Dominion",
+      "originalTitle": "Jurassic World: Dominion",
+      "year": 2022,
+      "releaseDate": {
+        "day": 10,
+        "month": 6,
+        "year": 2022
+      },
+      "plot": "Four years after the destruction of Isla Nublar, Biosyn operatives attempt to track down Maisie Lockwood, while Dr Ellie Sattler investigates a genetically engineered swarm of giant insects.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZGExMWU2NWMtNzczYi00NjQ4LTk2YzctZGZkYmRmMDdhMjllXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jeff Goldblum, Laura Dern, Sam Neill, Bryce Dallas Howard, Chris Pratt, DeWanda Wise, and Isabella Sermon in Jurassic World: Dominion (2022)",
+        "width": 1204,
+        "height": 1736
+      },
+      "imdbRating": 5.6,
+      "numVotes": 242047,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 8820,
+      "runtimeMinutes": 147,
+      "metascore": 38,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 25,
+      "titleId": "tt15474916",
+      "title": "Smile",
+      "originalTitle": "Smile",
+      "year": 2022,
+      "releaseDate": {
+        "day": 30,
+        "month": 9,
+        "year": 2022
+      },
+      "plot": "After witnessing a bizarre, traumatic incident involving a patient, a psychiatrist becomes increasingly convinced she is being threatened by an uncanny entity.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjFhMzBlNzktMjE2Ni00YTMyLWI2YWUtYmM1N2QxMDQwZmZhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Caitlin Stasey in Smile (2022)",
+        "width": 2025,
+        "height": 3000
+      },
+      "imdbRating": 6.5,
+      "numVotes": 234770,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6900,
+      "runtimeMinutes": 115,
+      "metascore": 68,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 26,
+      "titleId": "tt13560574",
+      "title": "X",
+      "originalTitle": "X",
+      "year": 2022,
+      "releaseDate": {
+        "day": 18,
+        "month": 3,
+        "year": 2022
+      },
+      "plot": "In 1979, a group of young filmmakers set out to make an adult film in a rural Texas farm, but when their reclusive, elderly hosts catch them in the act, the crew find themselves fighting for their lives.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODUwYTNhMTMtYWQ5Ny00YTdmLWIxOTAtNDczNzVlYzg2NDFkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "X (2022)",
+        "width": 1013,
+        "height": 1500
+      },
+      "imdbRating": 6.5,
+      "numVotes": 221318,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6300,
+      "runtimeMinutes": 105,
+      "metascore": 80,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 27,
+      "titleId": "tt3915174",
+      "title": "Puss in Boots: The Last Wish",
+      "originalTitle": "Puss in Boots: The Last Wish",
+      "year": 2022,
+      "releaseDate": {
+        "day": 21,
+        "month": 12,
+        "year": 2022
+      },
+      "plot": "When Puss in Boots discovers that his passion for adventure has taken its toll and he has burned through eight of his nine lives, he launches an epic journey to restore them by finding the mythical Last Wish.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzg0MWUzMjctYjVlOS00NzVjLWIwZDMtNzg1YzNkYzdjNTMwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Antonio Banderas, Salma Hayek, Wagner Moura, Ray Winstone, Olivia Colman, Harvey Guill\u00e9n, Samson Kayo, and Florence Pugh in Puss in Boots: The Last Wish (2022)",
+        "width": 760,
+        "height": 1154
+      },
+      "imdbRating": 7.8,
+      "numVotes": 220455,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "runtimeSeconds": 6120,
+      "runtimeMinutes": 102,
+      "metascore": 73,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 28,
+      "titleId": "tt7322224",
+      "title": "Triangle of Sadness",
+      "originalTitle": "Triangle of Sadness",
+      "year": 2022,
+      "releaseDate": {
+        "day": 18,
+        "month": 9,
+        "year": 2022
+      },
+      "plot": "A fashion model celebrity couple join an eventful cruise for the super-rich.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTViNzUyNDUtZTg3Yy00OTY4LWEyMTYtMmUzYjE3ZmZjYzUwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Woody Harrelson, Sunnyi Melles, Vicki Berlin, Carolina Gynning, Alex Schulman, Camilla L\u00e4ckberg, Dolly De Leon, Hanna Oldenburg, Charlbi Dean, Amanda Schulman, Harris Dickinson, and Ronja Kruus in Triangle of Sadness (2022)",
+        "width": 1456,
+        "height": 2160
+      },
+      "imdbRating": 7.2,
+      "numVotes": 212933,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 8820,
+      "runtimeMinutes": 147,
+      "metascore": 63,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 29,
+      "titleId": "tt10638522",
+      "title": "Talk to Me",
+      "originalTitle": "Talk to Me",
+      "year": 2022,
+      "releaseDate": {
+        "day": 28,
+        "month": 7,
+        "year": 2023
+      },
+      "plot": "When a group of friends discover how to conjure spirits using an embalmed hand, they become hooked on the new thrill, until one of them goes too far and unleashes terrifying supernatural forces.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2I2NzJmY2YtYTM3Ni00ZGJhLThkZTItODFhMzhlZjZkMDQ5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Talk to Me (2022)",
+        "width": 2700,
+        "height": 4000
+      },
+      "imdbRating": 7.1,
+      "numVotes": 209911,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5700,
+      "runtimeMinutes": 95,
+      "metascore": 76,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 30,
+      "titleId": "tt7657566",
+      "title": "Death on the Nile",
+      "originalTitle": "Death on the Nile",
+      "year": 2022,
+      "releaseDate": {
+        "day": 11,
+        "month": 2,
+        "year": 2022
+      },
+      "plot": "While on vacation on the Nile, Hercule Poirot must investigate the murder of a young heiress.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjBkMTRkMmUtNGQ5Ni00YjkwLThhMmMtZjI1M2U2NzRhNjkwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Kenneth Branagh, Annette Bening, Dawn French, Sophie Okonedo, Jennifer Saunders, Russell Brand, Armie Hammer, Gal Gadot, Ali Fazal, Rose Leslie, Letitia Wright, Tom Bateman, and Emma Mackey in Death on the Nile (2022)",
+        "width": 2025,
+        "height": 3000
+      },
+      "imdbRating": 6.3,
+      "numVotes": 208170,
+      "certificate": "PG-13",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "runtimeSeconds": 7620,
+      "runtimeMinutes": 127,
+      "metascore": 52,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 31,
+      "titleId": "tt7405458",
+      "title": "A Man Called Otto",
+      "originalTitle": "A Man Called Otto",
+      "year": 2022,
+      "releaseDate": {
+        "day": 13,
+        "month": 1,
+        "year": 2023
+      },
+      "plot": "Otto is a grump who's given up on life following the loss of his wife and wants to end it all. When a young family moves in nearby, he meets his match in quick-witted Marisol, leading to a friendship that will turn his world around.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjY5YWJjODYtNDUzNy00ZGMyLTk3NTQtN2EzZmFhZTFmMDNiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tom Hanks in A Man Called Otto (2022)",
+        "width": 1080,
+        "height": 1350
+      },
+      "imdbRating": 7.5,
+      "numVotes": 206471,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 7560,
+      "runtimeMinutes": 126,
+      "metascore": 51,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 32,
+      "titleId": "tt10640346",
+      "title": "Babylon",
+      "originalTitle": "Babylon",
+      "year": 2022,
+      "releaseDate": {
+        "day": 23,
+        "month": 12,
+        "year": 2022
+      },
+      "plot": "A tale of outsized ambition and outrageous excess, it traces the rise and fall of multiple characters during an era of unbridled decadence and depravity in early Hollywood.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGY3M2NkN2QtZTdhOS00YTNjLTgyYmMtMGY3Y2U0OTk2NjA0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Margot Robbie in Babylon (2022)",
+        "width": 2025,
+        "height": 3000
+      },
+      "imdbRating": 7.1,
+      "numVotes": 203464,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 11340,
+      "runtimeMinutes": 189,
+      "metascore": 61,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 33,
+      "titleId": "tt8178634",
+      "title": "RRR",
+      "originalTitle": "RRR (Rise Roar Revolt)",
+      "year": 2022,
+      "releaseDate": {
+        "day": 25,
+        "month": 3,
+        "year": 2022
+      },
+      "plot": "A fearless warrior on a perilous mission comes face to face with a steely cop serving British forces in this epic saga set in pre-independent India.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNWMwODYyMjQtMTczMi00NTQ1LWFkYjItMGJhMWRkY2E3NDAyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ajay Devgn, Alia Bhatt, Olivia Morris, N.T. Rama Rao Jr., and Ram Charan in RRR (2022)",
+        "width": 750,
+        "height": 1000
+      },
+      "imdbRating": 7.8,
+      "numVotes": 201263,
+      "certificate": "TV-MA",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "runtimeSeconds": 11220,
+      "runtimeMinutes": 187,
+      "metascore": 83,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 34,
+      "titleId": "tt4123432",
+      "title": "Fantastic Beasts: The Secrets of Dumbledore",
+      "originalTitle": "Fantastic Beasts: The Secrets of Dumbledore",
+      "year": 2022,
+      "releaseDate": {
+        "day": 15,
+        "month": 4,
+        "year": 2022
+      },
+      "plot": "Albus Dumbledore knows that Gellert Grindelwald is moving to take control of the wizarding world. Unable to stop him alone, he asks Newt Scamander to lead an intrepid team on a dangerous mission.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjJmNDc3NTMtZjU4Yy00N2FkLTljYWEtMGZlOTA4ODcwNTc3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jude Law, James Newton Howard, Jacqueline Boatswain, Matthias Brenner, Richard Coyle, Stuart Craig, Maria Fernanda C\u00e2ndido, Mark Day, Dan Fogler, Fiona Glascott, David Heyman, Manuel Klein, Steve Kloves, Neil Lamont, Tim Lewis, Ramona Kunze-Libnow, Oliver Masucci, Mads Mikkelsen, William Nadylam, Paul Parker, George Richmond, J.K. Rowling, Peter Simonischek, Alison Sudol, Lionel Wigram, David Yates, D\u00f3nal Finn, Bo Ponomari, Mimi Pitakworraratana, Amore Psiche, Tony McCarthy, Stefan Race, Roy 'Tony' Pickering, David Thrower, Radha Sthanakiya, Winston Hayles, Cormac O'Shea, Emilia Karlsson, Lucy Ross, Paul Candelent, Tianyi Kiy, Jessica Cartledge, Isabelle Coverdale, Eugene Lin, Jessica Wai Sum Tong, Pippa Hurley, Eddie Redmayne, Cara Mahoney, Jessica Williams, David Bertrand, Katherine Waterston, Jan Pohl, Maja Bloom, Ezra Miller, Sean Talo, Hebe Beardsall, Richard Price, Nick Owenford, Victoria Yeates, Noor Dillan-Night, Callum Turner, Dave Wong, Martin Polak, Jeremy Azis, Martyn Mayger, Poppy Corby-Tuech, Paul Low-Hang, Sam Shoubber, Valerie Pachner, Lucas Englander, Wilf Scolding, Kazeem Tosin Amore, Nick Davison, Jag Patel, Alexander Kuznetsov, Elizabeth Back, Phil Reeve, Chris Robb, and Johnny Li Gotti in Fantastic Beasts: The Secrets of Dumbledore (2022)",
+        "width": 2764,
+        "height": 4096
+      },
+      "imdbRating": 6.2,
+      "numVotes": 190706,
+      "certificate": "PG-13",
+      "genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 8520,
+      "runtimeMinutes": 142,
+      "metascore": 47,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 35,
+      "titleId": "tt11245972",
+      "title": "Scream",
+      "originalTitle": "Scream",
+      "year": 2022,
+      "releaseDate": {
+        "day": 14,
+        "month": 1,
+        "year": 2022
+      },
+      "plot": "25 years after the original Woodsboro killings, a new Ghostface begins targeting teens connected to the town's dark past, drawing the final 3 survivors of the first attack back once more.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BN2NkYTYzOGUtMzk1Yy00YmI0LWIzODEtMjQ0MWU0NWI4ODdlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Neve Campbell, David Arquette, Courteney Cox, Marley Shelton, Dylan Minnette, Mason Gooding, Jack Quaid, Melissa Barrera, Jenna Ortega, Sonia Ammar, Jasmin Savoy Brown, and Mikey Madison in Scream (2022)",
+        "width": 1918,
+        "height": 3000
+      },
+      "imdbRating": 6.3,
+      "numVotes": 182890,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6840,
+      "runtimeMinutes": 114,
+      "metascore": 60,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 36,
+      "titleId": "tt10028196",
+      "title": "Laal Singh Chaddha",
+      "originalTitle": "Laal Singh Chaddha",
+      "year": 2022,
+      "releaseDate": {
+        "day": 11,
+        "month": 8,
+        "year": 2022
+      },
+      "plot": "The story of Laal Singh Chaddha, a simple man whose extraordinary journey will fill you with love, warmth and happiness.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTI1MDgyMmEtNDBmYy00ODJjLWI2ODUtNjMzZWM2ODZlODJhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Kareena Kapoor, Aamir Khan, Mona Singh, Manav Vij, and Naga Chaitanya Akkineni in Laal Singh Chaddha (2022)",
+        "width": 2215,
+        "height": 2953
+      },
+      "imdbRating": 5.6,
+      "numVotes": 181239,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 9540,
+      "runtimeMinutes": 159,
+      "metascore": 46,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 37,
+      "titleId": "tt8760708",
+      "title": "M3GAN",
+      "originalTitle": "M3GAN",
+      "year": 2022,
+      "releaseDate": {
+        "day": 6,
+        "month": 1,
+        "year": 2023
+      },
+      "plot": "When robotics engineer Gemma becomes the guardian of her orphaned niece, Cady, she thinks her new invention, a robotic AI, will be a good companion. However, M3GAN begins to behave in unexpected and shocking ways.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjU1ZWMxYTUtNzQ1ZC00ZTcxLTg0NTMtMzY1ZmQyZjhmYjMyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Amie Donald and Violet McGraw in M3GAN (2022)",
+        "width": 1579,
+        "height": 2500
+      },
+      "imdbRating": 6.3,
+      "numVotes": 179504,
+      "certificate": "PG-13",
+      "genres": [
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6120,
+      "runtimeMinutes": 102,
+      "metascore": 72,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 38,
+      "titleId": "tt11291274",
+      "title": "The Unbearable Weight of Massive Talent",
+      "originalTitle": "The Unbearable Weight of Massive Talent",
+      "year": 2022,
+      "releaseDate": {
+        "day": 22,
+        "month": 4,
+        "year": 2022
+      },
+      "plot": "Movie star Nick Cage must channel his iconic screen characters when he finds himself caught in-between a dangerous super-fan and a CIA agent.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMWEzMTA3MjAtOTkwYS00ZTNlLWIzYzMtMDIxNzU0NTlkMGRlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Nicolas Cage, Neil Patrick Harris, Pedro Pascal, Ike Barinholtz, and Tiffany Haddish in The Unbearable Weight of Massive Talent (2022)",
+        "width": 2764,
+        "height": 4096
+      },
+      "imdbRating": 7,
+      "numVotes": 177167,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 6420,
+      "runtimeMinutes": 107,
+      "metascore": 68,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 39,
+      "titleId": "tt13320622",
+      "title": "The Lost City",
+      "originalTitle": "The Lost City",
+      "year": 2022,
+      "releaseDate": {
+        "day": 25,
+        "month": 3,
+        "year": 2022
+      },
+      "plot": "A reclusive romance novelist on a book tour with her cover model gets swept up in a kidnapping attempt that lands them both in a cutthroat jungle adventure.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjA4YmZjMWItZGNkNS00ODFkLWEwNjUtNGNhMzViZDRmMzgxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Brad Pitt, Sandra Bullock, Daniel Radcliffe, Oscar Nu\u00f1ez, Channing Tatum, and Da'Vine Joy Randolph in The Lost City (2022)",
+        "width": 2024,
+        "height": 3000
+      },
+      "imdbRating": 6.1,
+      "numVotes": 175049,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 6720,
+      "runtimeMinutes": 112,
+      "metascore": 60,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 40,
+      "titleId": "tt10731256",
+      "title": "Don't Worry Darling",
+      "originalTitle": "Don't Worry Darling",
+      "year": 2022,
+      "releaseDate": {
+        "day": 23,
+        "month": 9,
+        "year": 2022
+      },
+      "plot": "While her husband leaves home every day to work in a top secret facility, a young 1950s housewife begins to question her life when she notices strange behavior from the other wives in the neighborhood.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2I0ZDExM2EtZTQ4OC00NGQ0LWIzYjktYWE4MDMxZDZlY2MwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Harry Styles and Florence Pugh in Don't Worry Darling (2022)",
+        "width": 975,
+        "height": 1443
+      },
+      "imdbRating": 6.3,
+      "numVotes": 174544,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7380,
+      "runtimeMinutes": 123,
+      "metascore": 48,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 41,
+      "titleId": "tt8097030",
+      "title": "Turning Red",
+      "originalTitle": "Turning Red",
+      "year": 2022,
+      "releaseDate": {
+        "day": 11,
+        "month": 3,
+        "year": 2022
+      },
+      "plot": "A thirteen-year-old girl named Mei Lee is torn between staying her mother's dutiful daughter and the changes of adolescence. And as if the challenges were not enough, whenever she gets overly excited Mei transforms into a giant red panda.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODY2NjExYmUtZTQ4NS00NzM2LWE2NWYtZWY2NGIyOTBmNzI3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Maitreyi Ramakrishnan, Tristan Allerick Chen, Ava Morse, Hyein Park, and Rosalie Chiang in Turning Red (2022)",
+        "width": 1350,
+        "height": 2000
+      },
+      "imdbRating": 6.9,
+      "numVotes": 171546,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 6000,
+      "runtimeMinutes": 100,
+      "metascore": 83,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 42,
+      "titleId": "tt5108870",
+      "title": "Morbius",
+      "originalTitle": "Morbius",
+      "year": 2022,
+      "releaseDate": {
+        "day": 1,
+        "month": 4,
+        "year": 2022
+      },
+      "plot": "Biochemist Michael Morbius tries to cure himself of a rare blood disease, but he inadvertently infects himself with a form of vampirism instead.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2UzYzFiZWUtOGU5ZC00YTIxLWFlNGUtMGU1YmI4OWUzN2FmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jared Leto in Morbius (2022)",
+        "width": 1350,
+        "height": 2000
+      },
+      "imdbRating": 5.1,
+      "numVotes": 169967,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Horror"
+      ],
+      "runtimeSeconds": 6240,
+      "runtimeMinutes": 104,
+      "metascore": 35,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 43,
+      "titleId": "tt10698680",
+      "title": "K.G.F: Chapter 2",
+      "originalTitle": "K.G.F: Chapter 2",
+      "year": 2022,
+      "releaseDate": {
+        "day": 13,
+        "month": 4,
+        "year": 2022
+      },
+      "plot": "In the blood-soaked Kolar Gold Fields, Rocky's name strikes fear into his foes, while the government sees him as a threat to law and order. Rocky must battle threats from all sides for unchallenged supremacy.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZmQzZjVkZTUtYjI4ZC00ZDJmLWI0ZDUtZTFmMGM1Mzc5ZjIyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "K.G.F: Chapter 2 (2022)",
+        "width": 1700,
+        "height": 2408
+      },
+      "imdbRating": 8.2,
+      "numVotes": 167833,
+      "certificate": "Not Rated",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 9960,
+      "runtimeMinutes": 166,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 44,
+      "titleId": "tt8009428",
+      "title": "Hustle",
+      "originalTitle": "Hustle",
+      "year": 2022,
+      "releaseDate": {
+        "day": 8,
+        "month": 6,
+        "year": 2022
+      },
+      "plot": "A basketball scout discovers a phenomenal street ball player while in Spain and sees the prospect as his opportunity to get back into the NBA.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzA4ODRlMjktMDEyNS00NTg5LWEwYTAtNTExODI1ZDE2ZmYwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Adam Sandler in Hustle (2022)",
+        "width": 510,
+        "height": 755
+      },
+      "imdbRating": 7.3,
+      "numVotes": 162069,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Sport"
+      ],
+      "runtimeSeconds": 7020,
+      "runtimeMinutes": 117,
+      "metascore": 68,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 45,
+      "titleId": "tt18925334",
+      "title": "Pearl",
+      "originalTitle": "Pearl",
+      "year": 2022,
+      "releaseDate": {
+        "day": 16,
+        "month": 9,
+        "year": 2022
+      },
+      "plot": "In 1918, a young woman on the brink of madness pursues stardom in a desperate attempt to escape the drudgery, isolation, and lovelessness of life on her parents' farm.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzk0Y2RlZjItZDUzYi00Y2JhLTk5MzMtNjgzYWFmZmUxN2FmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Mia Goth in Pearl (2022)",
+        "width": 2000,
+        "height": 2963
+      },
+      "imdbRating": 7,
+      "numVotes": 156102,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6180,
+      "runtimeMinutes": 103,
+      "metascore": 76,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 46,
+      "titleId": "tt9411972",
+      "title": "Where the Crawdads Sing",
+      "originalTitle": "Where the Crawdads Sing",
+      "year": 2022,
+      "releaseDate": {
+        "day": 15,
+        "month": 7,
+        "year": 2022
+      },
+      "plot": "A woman who raised herself in the marshes of the Deep South becomes a suspect in the murder of a man with whom she was once involved.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZGM5ODU5YTktMGUxYi00YjQyLTk0MzgtZTg0MWQ2NDg0YTA0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Daisy Edgar-Jones in Where the Crawdads Sing (2022)",
+        "width": 600,
+        "height": 750
+      },
+      "imdbRating": 7.2,
+      "numVotes": 156055,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Romance"
+      ],
+      "runtimeSeconds": 7500,
+      "runtimeMinutes": 125,
+      "metascore": 43,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 47,
+      "titleId": "tt1488589",
+      "title": "Guillermo del Toro's Pinocchio",
+      "originalTitle": "Guillermo del Toro's Pinocchio",
+      "year": 2022,
+      "releaseDate": {
+        "day": 9,
+        "month": 12,
+        "year": 2022
+      },
+      "plot": "A father's wish magically brings a wooden boy to life in Italy, giving him a chance to care for the child.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BN2I3NDQzZmQtODJmOS00M2QyLWIxZTItYTA1ZTYzOWJlM2ZmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tilda Swinton and Gregory Mann in Guillermo del Toro's Pinocchio (2022)",
+        "width": 1200,
+        "height": 1778
+      },
+      "imdbRating": 7.6,
+      "numVotes": 142618,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Drama"
+      ],
+      "runtimeSeconds": 7020,
+      "runtimeMinutes": 117,
+      "metascore": 79,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 48,
+      "titleId": "tt14138650",
+      "title": "The Pale Blue Eye",
+      "originalTitle": "The Pale Blue Eye",
+      "year": 2022,
+      "releaseDate": {
+        "day": 6,
+        "month": 1,
+        "year": 2023
+      },
+      "plot": "A world-weary detective is hired to investigate the murder of a West Point cadet. Stymied by the cadets' code of silence, he enlists one of their own to help unravel the case - a young man the world would come to know as Edgar Allan Poe.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BN2EyM2QyZWUtMzUzOC00YTU4LTg4OGEtZWIwNWZiZjRjY2I3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Christian Bale in The Pale Blue Eye (2022)",
+        "width": 1080,
+        "height": 1350
+      },
+      "imdbRating": 6.6,
+      "numVotes": 139394,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Horror",
+        "Mystery"
+      ],
+      "runtimeSeconds": 7680,
+      "runtimeMinutes": 128,
+      "metascore": 56,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 49,
+      "titleId": "tt10298810",
+      "title": "Lightyear",
+      "originalTitle": "Lightyear",
+      "year": 2022,
+      "releaseDate": {
+        "day": 17,
+        "month": 6,
+        "year": 2022
+      },
+      "plot": "While spending years attempting to return home, marooned Space Ranger Buzz Lightyear encounters an army of ruthless robots commanded by Zurg who are attempting to steal the fuel source of his ship.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZGI3ZjUyM2ItNmFjYy00NGE3LTg2OTYtMTI2MDk0MjIxNDA1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Chris Evans in Lightyear (2022)",
+        "width": 4050,
+        "height": 6000
+      },
+      "imdbRating": 6.1,
+      "numVotes": 134862,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "runtimeSeconds": 6300,
+      "runtimeMinutes": 105,
+      "metascore": 60,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 50,
+      "titleId": "tt14208870",
+      "title": "The Fabelmans",
+      "originalTitle": "The Fabelmans",
+      "year": 2022,
+      "releaseDate": {
+        "day": 23,
+        "month": 11,
+        "year": 2022
+      },
+      "plot": "Growing up in post-World War II era Arizona, young Sammy Fabelman aspires to become a filmmaker as he reaches adolescence, but soon discovers a shattering family secret and explores how the power of films can help him see the truth.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDY5OWY4ZWYtYTM3OC00Zjg5LWFlYzYtYWI5ZGM1MDcxYzY4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "The Fabelmans (2022)",
+        "width": 546,
+        "height": 864
+      },
+      "imdbRating": 7.5,
+      "numVotes": 133197,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 9060,
+      "runtimeMinutes": 151,
+      "metascore": 85,
+      "credits": [],
+      "titleType": "movie"
+    }
+  ]
+}

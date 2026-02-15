@@ -1,0 +1,1586 @@
+{
+  "year": 2001,
+  "movies": [
+    {
+      "rank": 1,
+      "titleId": "tt0120737",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "originalTitle": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "releaseDate": {
+        "day": 19,
+        "month": 12,
+        "year": 2001
+      },
+      "plot": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzIxMDQ2YTctNDY4MC00ZTRhLTk4ODQtMTVlOWY4NTdiYmMwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Liv Tyler, Sean Astin, Sean Bean, Elijah Wood, Cate Blanchett, Viggo Mortensen, Ian McKellen, Orlando Bloom, Billy Boyd, Dominic Monaghan, and John Rhys-Davies in The Lord of the Rings: The Fellowship of the Ring (2001)",
+        "width": 1978,
+        "height": 2936
+      },
+      "imdbRating": 8.9,
+      "numVotes": 2183676,
+      "certificate": "PG-13",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 10680,
+      "runtimeMinutes": 178,
+      "metascore": 92,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 2,
+      "titleId": "tt0198781",
+      "title": "Monsters, Inc.",
+      "originalTitle": "Monsters, Inc.",
+      "year": 2001,
+      "releaseDate": {
+        "day": 2,
+        "month": 11,
+        "year": 2001
+      },
+      "plot": "In order to power the city, monsters have to scare children so that they scream. However, the children are toxic to the monsters, and after a child gets through, two monsters realize things may not be what they think.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_.jpg",
+        "caption": "Billy Crystal and John Goodman in Monsters, Inc. (2001)",
+        "width": 675,
+        "height": 1000
+      },
+      "imdbRating": 8.1,
+      "numVotes": 1063589,
+      "certificate": "G",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 5520,
+      "runtimeMinutes": 92,
+      "metascore": 79,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 3,
+      "titleId": "tt0268978",
+      "title": "A Beautiful Mind",
+      "originalTitle": "A Beautiful Mind",
+      "year": 2001,
+      "releaseDate": {
+        "day": 4,
+        "month": 1,
+        "year": 2002
+      },
+      "plot": "A mathematical genius, John Nash made an astonishing discovery early in his career and stood on the brink of international acclaim. But the handsome and arrogant Nash soon found himself on a harrowing journey of self-discovery.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzljZTk5ZDgtZTQ1Zi00NTM4LThlOGUtZDk2MGM4NDQ4NWQyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Russell Crowe in A Beautiful Mind (2001)",
+        "width": 1010,
+        "height": 1500
+      },
+      "imdbRating": 8.2,
+      "numVotes": 1046758,
+      "certificate": "PG-13",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Mystery"
+      ],
+      "runtimeSeconds": 8100,
+      "runtimeMinutes": 135,
+      "metascore": 72,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 4,
+      "titleId": "tt0245429",
+      "title": "Spirited Away",
+      "originalTitle": "Sen to Chihiro no kamikakushi",
+      "year": 2001,
+      "releaseDate": {
+        "day": 28,
+        "month": 3,
+        "year": 2003
+      },
+      "plot": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches and spirits, and where humans are changed into beasts.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTEyNmEwOWUtYzkyOC00ZTQ4LTllZmUtMjk0Y2YwOGUzYjRiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Spirited Away (2001)",
+        "width": 1956,
+        "height": 2900
+      },
+      "imdbRating": 8.6,
+      "numVotes": 954612,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ],
+      "runtimeSeconds": 7440,
+      "runtimeMinutes": 124,
+      "metascore": 96,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 5,
+      "titleId": "tt0241527",
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "originalTitle": "Harry Potter and the Sorcerer's Stone",
+      "year": 2001,
+      "releaseDate": {
+        "day": 16,
+        "month": 11,
+        "year": 2001
+      },
+      "plot": "An orphaned boy enrolls in a school of wizardry, where he learns the truth about himself, his family and the terrible evil that haunts the magical world.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTU1MzgyMDMtMzBlZS00YzczLThmYWEtMjU3YmFlOWEyMjE1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Robbie Coltrane, Warwick Davis, Richard Harris, Rupert Grint, Daniel Radcliffe, and Emma Watson in Harry Potter and the Sorcerer's Stone (2001)",
+        "width": 1972,
+        "height": 2902
+      },
+      "imdbRating": 7.7,
+      "numVotes": 941536,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 9120,
+      "runtimeMinutes": 152,
+      "metascore": 65,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 6,
+      "titleId": "tt0246578",
+      "title": "Donnie Darko",
+      "originalTitle": "Donnie Darko",
+      "year": 2001,
+      "releaseDate": {
+        "day": 19,
+        "month": 1,
+        "year": 2001
+      },
+      "plot": "After narrowly escaping a bizarre accident, a troubled teenager is plagued by visions of a man in a large rabbit suit who manipulates him to commit a series of crimes.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMWE3NTYzZmEtM2U5MS00MDZhLTk2ZTQtZTgzNjg0ZGQ5ZjM0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Drew Barrymore, Patrick Swayze, Mary McDonnell, Noah Wyle, Jake Gyllenhaal, Jena Malone, and Stuart Stone in Donnie Darko (2001)",
+        "width": 666,
+        "height": 1000
+      },
+      "imdbRating": 8,
+      "numVotes": 904669,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6780,
+      "runtimeMinutes": 113,
+      "metascore": 88,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 7,
+      "titleId": "tt0211915",
+      "title": "Am\u00e9lie",
+      "originalTitle": "Le fabuleux destin d'Am\u00e9lie Poulain",
+      "year": 2001,
+      "releaseDate": {
+        "day": 8,
+        "month": 2,
+        "year": 2002
+      },
+      "plot": "Despite being caught in her imaginative world, young waitress Amelie decides to help people find happiness. Her quest to spread joy leads her on a journey during which she finds true love.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTNmYzY0MWQtZGZmNy00Y2Y4LWFmMDQtMTZjYTdiYzEwZGQ2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Audrey Tautou in Am\u00e9lie (2001)",
+        "width": 1280,
+        "height": 1920
+      },
+      "imdbRating": 8.3,
+      "numVotes": 834710,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "runtimeSeconds": 7320,
+      "runtimeMinutes": 122,
+      "metascore": 70,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 8,
+      "titleId": "tt0126029",
+      "title": "Shrek",
+      "originalTitle": "Shrek",
+      "year": 2001,
+      "releaseDate": {
+        "day": 18,
+        "month": 5,
+        "year": 2001
+      },
+      "plot": "A mean lord exiles fairytale creatures to the swamp of a grumpy ogre, who must go on a quest and rescue a princess for the lord in order to get his land back.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BN2FkMTRkNTUtYTI0NC00ZjI4LWI5MzUtMDFmOGY0NmU2OGY1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Cameron Diaz, Mike Myers, Eddie Murphy, and John Lithgow in Shrek (2001)",
+        "width": 1007,
+        "height": 1500
+      },
+      "imdbRating": 7.9,
+      "numVotes": 802393,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 5400,
+      "runtimeMinutes": 90,
+      "metascore": 84,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 9,
+      "titleId": "tt0240772",
+      "title": "Ocean's Eleven",
+      "originalTitle": "Ocean's Eleven",
+      "year": 2001,
+      "releaseDate": {
+        "day": 7,
+        "month": 12,
+        "year": 2001
+      },
+      "plot": "Danny Ocean, a gangster, rounds up a gang of associates to stage a sophisticated and elaborate casino heist which involves robbing three Las Vegas casinos simultaneously during a popular boxing event.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMmNhZDkxYTgtMDM3ZC00NTQ3LWFjZTUtNzc1Y2QyNWZjNDRmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Brad Pitt, George Clooney, Julia Roberts, Matt Damon, and Andy Garcia in Ocean's Eleven (2001)",
+        "width": 936,
+        "height": 1386
+      },
+      "imdbRating": 7.7,
+      "numVotes": 667537,
+      "certificate": "PG-13",
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6960,
+      "runtimeMinutes": 116,
+      "metascore": 74,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 10,
+      "titleId": "tt0139654",
+      "title": "Training Day",
+      "originalTitle": "Training Day",
+      "year": 2001,
+      "releaseDate": {
+        "day": 5,
+        "month": 10,
+        "year": 2001
+      },
+      "plot": "A rookie cop spends his first day as a Los Angeles narcotics officer with a rogue detective who isn't what he appears to be.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjRlNjUwOGYtNGQxZS00ZjhkLTg0NDgtYjcwNzZlNDU2YjBlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ethan Hawke and Denzel Washington in Training Day (2001)",
+        "width": 960,
+        "height": 1440
+      },
+      "imdbRating": 7.8,
+      "numVotes": 511925,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7320,
+      "runtimeMinutes": 122,
+      "metascore": 71,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 11,
+      "titleId": "tt0232500",
+      "title": "The Fast and the Furious",
+      "originalTitle": "The Fast and the Furious",
+      "year": 2001,
+      "releaseDate": {
+        "day": 22,
+        "month": 6,
+        "year": 2001
+      },
+      "plot": "Los Angeles police officer Brian O'Conner must decide where his loyalty really lies when he becomes enamored with the street racing world he has been sent undercover to end it.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZGRiMDE1NTMtMThmZS00YjE4LWI1ODQtNjRkZGZlOTg2MGE1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Rob Cohen, Vin Diesel, David Ayer, Jordana Brewster, Chad Lindberg, Michelle Rodriguez, Johnny Strong, Gary Scott Thompson, and Paul Walker in The Fast and the Furious (2001)",
+        "width": 3092,
+        "height": 4598
+      },
+      "imdbRating": 6.8,
+      "numVotes": 452733,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6360,
+      "runtimeMinutes": 106,
+      "metascore": 58,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 12,
+      "titleId": "tt0265086",
+      "title": "Black Hawk Down",
+      "originalTitle": "Black Hawk Down",
+      "year": 2001,
+      "releaseDate": {
+        "day": 18,
+        "month": 1,
+        "year": 2002
+      },
+      "plot": "The story of one hundred and sixty elite U.S. soldiers who dropped into Mogadishu in October 1993 to capture two top lieutenants of a renegade warlord, but found themselves in a desperate battle with a large force of heavily armed Somalis.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTM3YTQ1M2MtNDEyNC00NzRlLWFmOTgtYjBhNDg2ODNjNTU0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Josh Hartnett in Black Hawk Down (2001)",
+        "width": 2025,
+        "height": 3000
+      },
+      "imdbRating": 7.7,
+      "numVotes": 451237,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Drama",
+        "History"
+      ],
+      "runtimeSeconds": 8640,
+      "runtimeMinutes": 144,
+      "metascore": 74,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 13,
+      "titleId": "tt0230600",
+      "title": "The Others",
+      "originalTitle": "The Others",
+      "year": 2001,
+      "releaseDate": {
+        "day": 10,
+        "month": 8,
+        "year": 2001
+      },
+      "plot": "In 1945, immediately following the end of Second World War, a woman who lives with her two photosensitive children on her darkened old family estate in the Channel Islands becomes convinced that the home is haunted.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTNhODBkODAtNDllYy00YTg1LWJmNDUtYjgzMzEzOWQ0YWNjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Nicole Kidman, Christopher Eccleston, and Fionnula Flanagan in The Others (2001)",
+        "width": 4050,
+        "height": 6000
+      },
+      "imdbRating": 7.6,
+      "numVotes": 423621,
+      "certificate": "PG-13",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6240,
+      "runtimeMinutes": 104,
+      "metascore": 74,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 14,
+      "titleId": "tt0166924",
+      "title": "Mulholland Drive",
+      "originalTitle": "Mulholland Dr.",
+      "year": 2001,
+      "releaseDate": {
+        "day": 19,
+        "month": 10,
+        "year": 2001
+      },
+      "plot": "After a car wreck on Mulholland Drive renders a woman amnesiac, she and a Hollywood-hopeful search for clues and answers across Los Angeles in a twisting venture beyond dreams and reality.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjliY2UwMjQtYjVlNi00NzExLTg1MDMtMjE2OTYwYjI0NTcxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Naomi Watts in Mulholland Drive (2001)",
+        "width": 1991,
+        "height": 2950
+      },
+      "imdbRating": 7.9,
+      "numVotes": 423464,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 8820,
+      "runtimeMinutes": 147,
+      "metascore": 87,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 15,
+      "titleId": "tt0213149",
+      "title": "Pearl Harbor",
+      "originalTitle": "Pearl Harbor",
+      "year": 2001,
+      "releaseDate": {
+        "day": 25,
+        "month": 5,
+        "year": 2001
+      },
+      "plot": "A tale of war and romance mixed in with history. The story follows two lifelong friends and a beautiful nurse who are caught up in the horror of an infamous Sunday morning in 1941.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTQ3MDc0MDc1NF5BMl5BanBnXkFtZTYwODI1ODY2._V1_.jpg",
+        "caption": "Publicity Poster",
+        "width": 450,
+        "height": 664
+      },
+      "imdbRating": 6.3,
+      "numVotes": 367463,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 10980,
+      "runtimeMinutes": 183,
+      "metascore": 44,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 16,
+      "titleId": "tt0163025",
+      "title": "Jurassic Park III",
+      "originalTitle": "Jurassic Park III",
+      "year": 2001,
+      "releaseDate": {
+        "day": 18,
+        "month": 7,
+        "year": 2001
+      },
+      "plot": "A decidedly odd couple with ulterior motives convince Dr. Grant to go to Isla Sorna for a holiday, but their unexpected landing startles the island's new inhabitants.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BN2FmMjhlZDYtNmYyMy00NTdjLTlhYzYtZWNlMDY2MmUzOGM2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jurassic Park III (2001)",
+        "width": 2035,
+        "height": 3000
+      },
+      "imdbRating": 6,
+      "numVotes": 366991,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 5520,
+      "runtimeMinutes": 92,
+      "metascore": 42,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 17,
+      "titleId": "tt0209163",
+      "title": "The Mummy Returns",
+      "originalTitle": "The Mummy Returns",
+      "year": 2001,
+      "releaseDate": {
+        "day": 4,
+        "month": 5,
+        "year": 2001
+      },
+      "plot": "The mummified body of Imhotep is shipped to a museum in London, where he once again wakes and begins his campaign of rage and terror.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjdiYzVlNjUtNGI5MC00MDE5LTk0MmQtNDc0YzIzOGRmMDNkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Brendan Fraser, Rachel Weisz, Oded Fehr, Dwayne Johnson, Patricia Velasquez, and Arnold Vosloo in The Mummy Returns (2001)",
+        "width": 1075,
+        "height": 1600
+      },
+      "imdbRating": 6.4,
+      "numVotes": 364759,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 7800,
+      "runtimeMinutes": 130,
+      "metascore": 48,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 18,
+      "titleId": "tt0212720",
+      "title": "A.I. Artificial Intelligence",
+      "originalTitle": "A.I. Artificial Intelligence",
+      "year": 2001,
+      "releaseDate": {
+        "day": 29,
+        "month": 6,
+        "year": 2001
+      },
+      "plot": "A highly advanced robotic boy longs to become \"real\" so that he can regain the love of his human mother.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODA1YjhhZDctM2Y1ZS00ODkyLWFmMTAtZGY5YWEzNzRjYzA1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Haley Joel Osment in A.I. Artificial Intelligence (2001)",
+        "width": 1000,
+        "height": 1500
+      },
+      "imdbRating": 7.2,
+      "numVotes": 337184,
+      "certificate": "PG-13",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 8760,
+      "runtimeMinutes": 146,
+      "metascore": 65,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 19,
+      "titleId": "tt0265666",
+      "title": "The Royal Tenenbaums",
+      "originalTitle": "The Royal Tenenbaums",
+      "year": 2001,
+      "releaseDate": {
+        "day": 4,
+        "month": 1,
+        "year": 2002
+      },
+      "plot": "The eccentric members of a dysfunctional family reluctantly gather under the same roof for various reasons.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTc1MzFlMjEtMzkyNC00NDgyLThjMjMtMzQzZGI5YjUyNzU5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Bill Murray, Danny Glover, Gene Hackman, Gwyneth Paltrow, Anjelica Huston, Ben Stiller, Luke Wilson, Owen Wilson, Jonah Meyerson, and Grant Rosenmeyer in The Royal Tenenbaums (2001)",
+        "width": 909,
+        "height": 1466
+      },
+      "imdbRating": 7.6,
+      "numVotes": 330626,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 6600,
+      "runtimeMinutes": 110,
+      "metascore": 76,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 20,
+      "titleId": "tt0196229",
+      "title": "Zoolander",
+      "originalTitle": "Zoolander",
+      "year": 2001,
+      "releaseDate": {
+        "day": 28,
+        "month": 9,
+        "year": 2001
+      },
+      "plot": "At the end of his career, a clueless fashion model is brainwashed to kill the Prime Minister of Malaysia.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODI4NDY2NDM5M15BMl5BanBnXkFtZTgwNzEwOTMxMDE@._V1_.jpg",
+        "caption": "Ben Stiller in Zoolander (2001)",
+        "width": 675,
+        "height": 1000
+      },
+      "imdbRating": 6.5,
+      "numVotes": 313983,
+      "certificate": "R",
+      "genres": [
+        "Comedy"
+      ],
+      "runtimeSeconds": 5400,
+      "runtimeMinutes": 90,
+      "metascore": 61,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 21,
+      "titleId": "tt0203009",
+      "title": "Moulin Rouge!",
+      "originalTitle": "Moulin Rouge!",
+      "year": 2001,
+      "releaseDate": {
+        "day": 1,
+        "month": 6,
+        "year": 2001
+      },
+      "plot": "A poor Bohemian poet in 1890s Paris falls for a beautiful courtesan and nightclub star coveted by a jealous duke.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTgyOGY4OTktZmZhMC00ZmIwLWI4YjUtNjYzNDg1Nzc3ZDg1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Nicole Kidman and Ewan McGregor in Moulin Rouge! (2001)",
+        "width": 1079,
+        "height": 1600
+      },
+      "imdbRating": 7.5,
+      "numVotes": 312504,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama",
+        "Musical",
+        "Romance"
+      ],
+      "runtimeSeconds": 7620,
+      "runtimeMinutes": 127,
+      "metascore": 66,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 22,
+      "titleId": "tt0212985",
+      "title": "Hannibal",
+      "originalTitle": "Hannibal",
+      "year": 2001,
+      "releaseDate": {
+        "day": 9,
+        "month": 2,
+        "year": 2001
+      },
+      "plot": "Living in exile, Dr. Hannibal Lecter tries to reconnect with now disgraced F.B.I. Agent Clarice Starling, and finds himself a target of revenge from a powerful victim.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTk3NGUzOWYtNTU5Yy00ZDNjLTg1YzItZDlmNWRhMmVlZTMxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Anthony Hopkins in Hannibal (2001)",
+        "width": 2012,
+        "height": 2898
+      },
+      "imdbRating": 6.8,
+      "numVotes": 311763,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7860,
+      "runtimeMinutes": 131,
+      "metascore": 57,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 23,
+      "titleId": "tt0259711",
+      "title": "Vanilla Sky",
+      "originalTitle": "Vanilla Sky",
+      "year": 2001,
+      "releaseDate": {
+        "day": 14,
+        "month": 12,
+        "year": 2001
+      },
+      "plot": "A self-indulgent and vain publishing magnate finds his privileged life upended after a vehicular accident with a resentful lover.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTg5YmYyMzAtYmEzZi00MzA2LWIxMTMtZTc1N2ZjNTA3ZDU2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tom Cruise in Vanilla Sky (2001)",
+        "width": 580,
+        "height": 862
+      },
+      "imdbRating": 6.9,
+      "numVotes": 306240,
+      "certificate": "R",
+      "genres": [
+        "Fantasy",
+        "Mystery",
+        "Romance"
+      ],
+      "runtimeSeconds": 8160,
+      "runtimeMinutes": 136,
+      "metascore": 45,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 24,
+      "titleId": "tt0215750",
+      "title": "Enemy at the Gates",
+      "originalTitle": "Enemy at the Gates",
+      "year": 2001,
+      "releaseDate": {
+        "day": 16,
+        "month": 3,
+        "year": 2001
+      },
+      "plot": "A Russian and a German sniper play a game of cat-and-mouse during the Battle of Stalingrad.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODM5MmQyYjktMzg5Ny00Y2Y1LThlNWQtNjQ5OGMwNmY2YjcyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jude Law and Joseph Fiennes in Enemy at the Gates (2001)",
+        "width": 800,
+        "height": 1194
+      },
+      "imdbRating": 7.5,
+      "numVotes": 291635,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Drama",
+        "War"
+      ],
+      "runtimeSeconds": 7860,
+      "runtimeMinutes": 131,
+      "metascore": 53,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 25,
+      "titleId": "tt0221027",
+      "title": "Blow",
+      "originalTitle": "Blow",
+      "year": 2001,
+      "releaseDate": {
+        "day": 6,
+        "month": 4,
+        "year": 2001
+      },
+      "plot": "The story of how George Jung, along with the Medell\u00edn Cartel headed by Pablo Escobar, established the American cocaine market in the 1970s in the United States.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTNkMzMwOWItM2FmYS00YmI2LWE4NjUtMmI5MDk0YTkwZjM2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Johnny Depp and Pen\u00e9lope Cruz in Blow (2001)",
+        "width": 2092,
+        "height": 2987
+      },
+      "imdbRating": 7.5,
+      "numVotes": 286298,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 7440,
+      "runtimeMinutes": 124,
+      "metascore": 52,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 26,
+      "titleId": "tt0252866",
+      "title": "American Pie 2",
+      "originalTitle": "American Pie 2",
+      "year": 2001,
+      "releaseDate": {
+        "day": 10,
+        "month": 8,
+        "year": 2001
+      },
+      "plot": "Jim and his friends are now in college, and they decide to meet up at the beach house for some fun.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BM2I4MDEwOTctNGE0Yi00NTJlLThiZGEtNzU1YjExNmRlYzI2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Shannon Elizabeth, Mena Suvari, Jason Biggs, Alyson Hannigan, Chris Klein, Thomas Ian Nicholas, Tara Reid, Seann William Scott, Eugene Levy, and Eddie Kaye Thomas in American Pie 2 (2001)",
+        "width": 810,
+        "height": 1200
+      },
+      "imdbRating": 6.5,
+      "numVotes": 285155,
+      "certificate": "R",
+      "genres": [
+        "Comedy"
+      ],
+      "runtimeSeconds": 6480,
+      "runtimeMinutes": 108,
+      "metascore": 43,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 27,
+      "titleId": "tt0243155",
+      "title": "Bridget Jones's Diary",
+      "originalTitle": "Bridget Jones's Diary",
+      "year": 2001,
+      "releaseDate": {
+        "day": 13,
+        "month": 4,
+        "year": 2001
+      },
+      "plot": "Bridget Jones is determined to improve herself while she looks for love in a year in which she keeps a personal diary.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTM1MTFiNDEtMGYzZC00MjM5LWEwMWMtN2VhNjg1MTEzOTg3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Colin Firth, Ren\u00e9e Zellweger, and Hugh Grant in Bridget Jones's Diary (2001)",
+        "width": 1013,
+        "height": 1500
+      },
+      "imdbRating": 6.8,
+      "numVotes": 285085,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 5820,
+      "runtimeMinutes": 97,
+      "metascore": 66,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 28,
+      "titleId": "tt0250494",
+      "title": "Legally Blonde",
+      "originalTitle": "Legally Blonde",
+      "year": 2001,
+      "releaseDate": {
+        "day": 13,
+        "month": 7,
+        "year": 2001
+      },
+      "plot": "Fashionable sorority queen Elle Woods follows her ex-boyfriend to law school, where she discovers that there is more to her than just looks.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTEyNjUwMTkxMV5BMl5BanBnXkFtZTcwNjk0NDk0NA@@._V1_.jpg",
+        "caption": "Reese Witherspoon, Selma Blair, Luke Wilson, Matthew Davis, Samantha Lemole, Meredith Scott Lynn, and Osgood Perkins in Legally Blonde (2001)",
+        "width": 682,
+        "height": 1023
+      },
+      "imdbRating": 6.5,
+      "numVotes": 280335,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "runtimeSeconds": 5760,
+      "runtimeMinutes": 96,
+      "metascore": 59,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 29,
+      "titleId": "tt0266915",
+      "title": "Rush Hour 2",
+      "originalTitle": "Rush Hour 2",
+      "year": 2001,
+      "releaseDate": {
+        "day": 3,
+        "month": 8,
+        "year": 2001
+      },
+      "plot": "Carter and Lee head to Hong Kong for a vacation, but become embroiled in a counterfeit money scam.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMGM0OTM4NGYtYzkzMC00OGZmLWEwZTItOTg4ZTdkYTIxOTc0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jackie Chan and Chris Tucker in Rush Hour 2 (2001)",
+        "width": 1011,
+        "height": 1500
+      },
+      "imdbRating": 6.7,
+      "numVotes": 258058,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 5400,
+      "runtimeMinutes": 90,
+      "metascore": 48,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 30,
+      "titleId": "tt0133152",
+      "title": "Planet of the Apes",
+      "originalTitle": "Planet of the Apes",
+      "year": 2001,
+      "releaseDate": {
+        "day": 27,
+        "month": 7,
+        "year": 2001
+      },
+      "plot": "In 2029, an Air Force astronaut crash-lands on a mysterious planet where evolved, talking apes dominate a race of primitive humans.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjczODRhOTQtZjdkYi00MmM2LTg1ZmEtZDQ3YjA5MDJhODNhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Planet of the Apes (2001)",
+        "width": 1000,
+        "height": 1500
+      },
+      "imdbRating": 5.7,
+      "numVotes": 240982,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 7200,
+      "runtimeMinutes": 120,
+      "metascore": 50,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 31,
+      "titleId": "tt0146316",
+      "title": "Lara Croft: Tomb Raider",
+      "originalTitle": "Lara Croft: Tomb Raider",
+      "year": 2001,
+      "releaseDate": {
+        "day": 15,
+        "month": 6,
+        "year": 2001
+      },
+      "plot": "Adventurer Lara Croft explores lost empires and discovers immeasurable treasures in her daily life, but a secret from the past of her father, a missing archaeologist, will lead her to one of her greatest challenges.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjcxYzIyZWItZWRiOS00ODliLWI3ZTEtZTA4NTg4OGQwZDY1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Angelina Jolie in Lara Croft: Tomb Raider (2001)",
+        "width": 792,
+        "height": 1178
+      },
+      "imdbRating": 5.8,
+      "numVotes": 229415,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 6000,
+      "runtimeMinutes": 100,
+      "metascore": 33,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 32,
+      "titleId": "tt0183790",
+      "title": "A Knight's Tale",
+      "originalTitle": "A Knight's Tale",
+      "year": 2001,
+      "releaseDate": {
+        "day": 11,
+        "month": 5,
+        "year": 2001
+      },
+      "plot": "After his master dies, a peasant squire, fueled by his desire for food and glory, creates a new identity for himself as a knight.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTE5OTE4OTE2Nl5BMl5BanBnXkFtZTYwMDkzMTQ3._V1_.jpg",
+        "caption": "Heath Ledger in A Knight's Tale (2001)",
+        "width": 450,
+        "height": 679
+      },
+      "imdbRating": 7,
+      "numVotes": 217478,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "runtimeSeconds": 7920,
+      "runtimeMinutes": 132,
+      "metascore": 56,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 33,
+      "titleId": "tt0244244",
+      "title": "Swordfish",
+      "originalTitle": "Swordfish",
+      "year": 2001,
+      "releaseDate": {
+        "day": 8,
+        "month": 6,
+        "year": 2001
+      },
+      "plot": "A covert counter-terrorist unit called Black Cell led by Gabriel Shear wants the money to help finance their war against international terrorism, but it's all locked away. Gabriel brings in convicted hacker Stanley Jobson to help him.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMmVlOGM1YjQtNzMzYS00ZmY5LTlkMDQtN2EyZTQ4NTExNjNjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "John Travolta, Don Cheadle, Halle Berry, and Hugh Jackman in Swordfish (2001)",
+        "width": 2020,
+        "height": 3000
+      },
+      "imdbRating": 6.5,
+      "numVotes": 202651,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5940,
+      "runtimeMinutes": 99,
+      "metascore": 32,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 34,
+      "titleId": "tt0272152",
+      "title": "K-PAX",
+      "originalTitle": "K-PAX",
+      "year": 2001,
+      "releaseDate": {
+        "day": 26,
+        "month": 10,
+        "year": 2001
+      },
+      "plot": "A psychiatrist tries to determine how best to help a patient who convincingly claims to be from a distant galaxy.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWU5MTJiNDMtMmI0Yy00MWRjLTgwZjktODEyY2NmZThhM2EwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Kevin Spacey and Jeff Bridges in K-PAX (2001)",
+        "width": 1083,
+        "height": 1600
+      },
+      "imdbRating": 7.4,
+      "numVotes": 201724,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 7200,
+      "runtimeMinutes": 120,
+      "metascore": 49,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 35,
+      "titleId": "tt0257106",
+      "title": "Scary Movie 2",
+      "originalTitle": "Scary Movie 2",
+      "year": 2001,
+      "releaseDate": {
+        "day": 4,
+        "month": 7,
+        "year": 2001
+      },
+      "plot": "Four teens are tricked by a professor into visiting a haunted house for a school project.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjZlOTgzNmUtNjZlYS00NWFjLTg4ZDktMWY4NDIxMjVjZjdhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Natasha Lyonne, Kathleen Robertson, Marlon Wayans, Chris Elliott, Anna Faris, Andy Richter, and Shawn Wayans in Scary Movie 2 (2001)",
+        "width": 420,
+        "height": 658
+      },
+      "imdbRating": 5.4,
+      "numVotes": 190068,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Horror"
+      ],
+      "runtimeSeconds": 4980,
+      "runtimeMinutes": 83,
+      "metascore": 29,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 36,
+      "titleId": "tt0247638",
+      "title": "The Princess Diaries",
+      "originalTitle": "The Princess Diaries",
+      "year": 2001,
+      "releaseDate": {
+        "day": 3,
+        "month": 8,
+        "year": 2001
+      },
+      "plot": "Mia Thermopolis has just found out that she is the heir apparent to the throne of Genovia. With her friends Lilly and Michael Moscovitz in tow, she tries to navigate through the rest of her fifteenth year.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzNiYWQ4NjUtZjliMS00MTllLWIxNDItNGU1MjBkMTE3ODg1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Julie Andrews and Anne Hathaway in The Princess Diaries (2001)",
+        "width": 671,
+        "height": 966
+      },
+      "imdbRating": 6.4,
+      "numVotes": 179995,
+      "certificate": "G",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Romance"
+      ],
+      "runtimeSeconds": 6900,
+      "runtimeMinutes": 115,
+      "metascore": 52,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 37,
+      "titleId": "tt0266987",
+      "title": "Spy Game",
+      "originalTitle": "Spy Game",
+      "year": 2001,
+      "releaseDate": {
+        "day": 21,
+        "month": 11,
+        "year": 2001
+      },
+      "plot": "A CIA agent tries to rescue his one-time protege who awaits execution in a Chinese prison.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTljZmI1MjctMWJmMC00ZjJmLTkwNzUtNGQxNWJhZGRjMjM3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Brad Pitt and Robert Redford in Spy Game (2001)",
+        "width": 999,
+        "height": 1474
+      },
+      "imdbRating": 7.1,
+      "numVotes": 176911,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7560,
+      "runtimeMinutes": 126,
+      "metascore": 63,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 38,
+      "titleId": "tt0120681",
+      "title": "From Hell",
+      "originalTitle": "From Hell",
+      "year": 2001,
+      "releaseDate": {
+        "day": 19,
+        "month": 10,
+        "year": 2001
+      },
+      "plot": "In 1888 London, a Scotland Yard investigator searches for Jack The Ripper.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzA5N2RlZDItNzc5My00YjIwLWFiMzktYTI1NDg0MDc1YTY1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Johnny Depp and Heather Graham in From Hell (2001)",
+        "width": 1042,
+        "height": 1536
+      },
+      "imdbRating": 6.7,
+      "numVotes": 171164,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Horror",
+        "Mystery"
+      ],
+      "runtimeSeconds": 7320,
+      "runtimeMinutes": 122,
+      "metascore": 54,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 39,
+      "titleId": "tt0261392",
+      "title": "Jay and Silent Bob Strike Back",
+      "originalTitle": "Jay and Silent Bob Strike Back",
+      "year": 2001,
+      "releaseDate": {
+        "day": 24,
+        "month": 8,
+        "year": 2001
+      },
+      "plot": "The comic \"Bluntman and Chronic\" is based on real-life stoners Jay and Silent Bob, so when they get no profit from a big-screen adaptation, they set out to wreck the movie.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjAxZDU1YjYtOGJjZC00NjQ2LWFhNjEtZGVhZDZhYTlhMzUyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ben Affleck, Chris Rock, Will Ferrell, Shannon Elizabeth, Kevin Smith, Jason Lee, and Jason Mewes in Jay and Silent Bob Strike Back (2001)",
+        "width": 580,
+        "height": 855
+      },
+      "imdbRating": 6.8,
+      "numVotes": 165854,
+      "certificate": "R",
+      "genres": [
+        "Comedy"
+      ],
+      "runtimeSeconds": 6240,
+      "runtimeMinutes": 104,
+      "metascore": 51,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 40,
+      "titleId": "tt0277027",
+      "title": "I Am Sam",
+      "originalTitle": "I Am Sam",
+      "year": 2001,
+      "releaseDate": {
+        "day": 25,
+        "month": 1,
+        "year": 2002
+      },
+      "plot": "An intellectually disabled man fights for custody of his 7-year-old daughter and in the process teaches his cold-hearted lawyer the value of love and family.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDBmMTY1YWEtMjc4Yy00YjhhLTliZjctMzBhN2U2NzRlNDQyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "I Am Sam (2001)",
+        "width": 1128,
+        "height": 1675
+      },
+      "imdbRating": 7.6,
+      "numVotes": 161363,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 7920,
+      "runtimeMinutes": 132,
+      "metascore": 28,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 41,
+      "titleId": "tt0263488",
+      "title": "Jeepers Creepers",
+      "originalTitle": "Jeepers Creepers",
+      "year": 2001,
+      "releaseDate": {
+        "day": 31,
+        "month": 8,
+        "year": 2001
+      },
+      "plot": "A brother and sister driving home through isolated countryside for spring break encounter a flesh-eating creature which is in the midst of its ritualistic eating spree.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTkwNDU0NTE0OV5BMl5BanBnXkFtZTgwNzAzNzQyMTI@._V1_.jpg",
+        "caption": "Jeepers Creepers (2001)",
+        "width": 1013,
+        "height": 1500
+      },
+      "imdbRating": 6.2,
+      "numVotes": 156134,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "runtimeSeconds": 5400,
+      "runtimeMinutes": 90,
+      "metascore": 49,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 42,
+      "titleId": "tt0256380",
+      "title": "Shallow Hal",
+      "originalTitle": "Shallow Hal",
+      "year": 2001,
+      "releaseDate": {
+        "day": 9,
+        "month": 11,
+        "year": 2001
+      },
+      "plot": "A superficial man now sees only the inner beauty of a very fat woman.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTcwMzY2NDE0NF5BMl5BanBnXkFtZTYwNjg2Njc2._V1_.jpg",
+        "caption": "Gwyneth Paltrow and Jack Black in Shallow Hal (2001)",
+        "width": 450,
+        "height": 666
+      },
+      "imdbRating": 6,
+      "numVotes": 153165,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 6840,
+      "runtimeMinutes": 114,
+      "metascore": 48,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 43,
+      "titleId": "tt0230011",
+      "title": "Atlantis: The Lost Empire",
+      "originalTitle": "Atlantis: The Lost Empire",
+      "year": 2001,
+      "releaseDate": {
+        "day": 15,
+        "month": 6,
+        "year": 2001
+      },
+      "plot": "A young linguist named Milo Thatch joins an intrepid group of explorers to find the mysterious lost continent of Atlantis.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODYwZTQwMDEtYjgyZS00NzNhLWFhYWMtN2Q1Y2JmZjlmZDlhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Michael J. Fox, Leonard Nimoy, James Garner, John Mahoney, David Ogden Stiers, Jim Varney, Jacqueline Obradors, Steven Barr, Corey Burton, Claudia Christian, Jim Cummings, Phil Morris, Don Novello, Patrick Pinney, Florence Stanley, Cree Summer, and Natalie Strom in Atlantis: The Lost Empire (2001)",
+        "width": 1864,
+        "height": 2752
+      },
+      "imdbRating": 6.9,
+      "numVotes": 146281,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "runtimeSeconds": 5700,
+      "runtimeMinutes": 95,
+      "metascore": 52,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 44,
+      "titleId": "tt0227445",
+      "title": "The Score",
+      "originalTitle": "The Score",
+      "year": 2001,
+      "releaseDate": {
+        "day": 13,
+        "month": 7,
+        "year": 2001
+      },
+      "plot": "An aging thief hopes to retire and live off his ill-gotten wealth with his lover when a young kid convinces him into doing one last heist that comes with a large payout.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZmI3Mjk4NGMtYjhmOC00NjYzLThhNWQtYWUwZDc3Y2ZkZTA1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Robert De Niro and Edward Norton in The Score (2001)",
+        "width": 750,
+        "height": 1112
+      },
+      "imdbRating": 6.8,
+      "numVotes": 142597,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7440,
+      "runtimeMinutes": 124,
+      "metascore": 71,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 45,
+      "titleId": "tt0251075",
+      "title": "Evolution",
+      "originalTitle": "Evolution",
+      "year": 2001,
+      "releaseDate": {
+        "day": 8,
+        "month": 6,
+        "year": 2001
+      },
+      "plot": "Two college professors team up with a fire-fighting cadet and a government scientist to combat an alien organism that has been rapidly evolving since its arrival on Earth inside a meteor.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjMwZjJjYzItZjUwZS00MTU5LTlmOTItMmE5MGFhZTg2MWM2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "David Duchovny, Julianne Moore, Seann William Scott, and Orlando Jones in Evolution (2001)",
+        "width": 960,
+        "height": 1440
+      },
+      "imdbRating": 6.1,
+      "numVotes": 142244,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6060,
+      "runtimeMinutes": 101,
+      "metascore": 40,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 46,
+      "titleId": "tt0245574",
+      "title": "Y tu mam\u00e1 tambi\u00e9n",
+      "originalTitle": "Y tu mam\u00e1 tambi\u00e9n",
+      "year": 2001,
+      "releaseDate": {
+        "day": 8,
+        "month": 6,
+        "year": 2001
+      },
+      "plot": "In Mexico, two teenage boys and an older woman embark on a road trip and learn a thing or two about life and each other.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTRmZmNlMjktZDRkMi00OGNjLWJkZGUtMDljNDViMGE3MjNhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Gael Garc\u00eda Bernal, Diego Luna, and Maribel Verd\u00fa in Y tu mam\u00e1 tambi\u00e9n (2001)",
+        "width": 1900,
+        "height": 2800
+      },
+      "imdbRating": 7.7,
+      "numVotes": 139676,
+      "certificate": "",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 6360,
+      "runtimeMinutes": 106,
+      "metascore": 89,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 47,
+      "titleId": "tt0227538",
+      "title": "Spy Kids",
+      "originalTitle": "Spy Kids",
+      "year": 2001,
+      "releaseDate": {
+        "day": 30,
+        "month": 3,
+        "year": 2001
+      },
+      "plot": "Two kids become spies in attempt to save their ex-spies parents from an evil mastermind. Armed with a bag of high tech gadgets, Carmen and Juni will bravely crisscross the globe on a mission to save their parents and maybe even the world.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTQyNDA0ZDctZjFkMC00NDA1LWI3Y2QtOWY5OWE0NTQ2YzJjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Antonio Banderas, Alan Cumming, Carla Gugino, Daryl Sabara, and Alexa PenaVega in Spy Kids (2001)",
+        "width": 1010,
+        "height": 1500
+      },
+      "imdbRating": 5.6,
+      "numVotes": 134840,
+      "certificate": "PG",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 5280,
+      "runtimeMinutes": 88,
+      "metascore": 71,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 48,
+      "titleId": "tt0162346",
+      "title": "Ghost World",
+      "originalTitle": "Ghost World",
+      "year": 2001,
+      "releaseDate": {
+        "day": 21,
+        "month": 9,
+        "year": 2001
+      },
+      "plot": "Two eccentric best friends graduate high school and respond to a man's romance-seeking newspaper ad as a gag, only to find their lives becoming increasingly complicated.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzQ4NmFmYzYtNGJmZi00NGNkLTk2YTktM2Q0MzQ5MWRlZGEyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Thora Birch and Scarlett Johansson in Ghost World (2001)",
+        "width": 781,
+        "height": 1161
+      },
+      "imdbRating": 7.3,
+      "numVotes": 131658,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 6660,
+      "runtimeMinutes": 111,
+      "metascore": 91,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 49,
+      "titleId": "tt0240890",
+      "title": "Serendipity",
+      "originalTitle": "Serendipity",
+      "year": 2001,
+      "releaseDate": {
+        "day": 5,
+        "month": 10,
+        "year": 2001
+      },
+      "plot": "A couple search for each other years after the night they first met, fell in love, and separated, convinced that one day they'd end up together.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTQzMjE3YTAtYzc2MC00OTk4LTg0NTYtYzg3YzQ2ZTM3ODY1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "John Cusack and Kate Beckinsale in Serendipity (2001)",
+        "width": 520,
+        "height": 772
+      },
+      "imdbRating": 6.8,
+      "numVotes": 130849,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "runtimeSeconds": 5400,
+      "runtimeMinutes": 90,
+      "metascore": 52,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 50,
+      "titleId": "tt0250687",
+      "title": "Rat Race",
+      "originalTitle": "Rat Race",
+      "year": 2001,
+      "releaseDate": {
+        "day": 17,
+        "month": 8,
+        "year": 2001
+      },
+      "plot": "A Las Vegas casino magnate determined to find a new avenue for wagering sets up a race for money.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZGY0NDk4ZjEtZmZiYS00ZTE5LTlmMDktNGI3NTYzYjdlYTE5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "John Cleese, Rowan Atkinson, Whoopi Goldberg, Cuba Gooding Jr., Seth Green, Jon Lovitz, Breckin Meyer, and Amy Smart in Rat Race (2001)",
+        "width": 580,
+        "height": 868
+      },
+      "imdbRating": 6.5,
+      "numVotes": 129697,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 6720,
+      "runtimeMinutes": 112,
+      "metascore": 52,
+      "credits": [],
+      "titleType": "movie"
+    }
+  ]
+}

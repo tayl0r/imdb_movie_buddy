@@ -1,0 +1,538 @@
+{
+  "source": "100 Greatest Movies of the 1980s.csv",
+  "movies": [
+    {
+      "rank": 1,
+      "titleId": "tt0097499",
+      "title": "Henry V",
+      "originalTitle": "Henry V",
+      "year": 1989,
+      "releaseDate": {
+        "day": 8,
+        "month": 11,
+        "year": 1989
+      },
+      "plot": "In the midst of the Hundred Years War, the young King Henry V of England embarks on the conquest of France in 1415.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzNiMWM3NGEtZWMxYi00NzM0LWE2ODItMzZlNTZmYTJhZWY1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Kenneth Branagh in Henry V (1989)",
+        "width": 1491,
+        "height": 2265
+      },
+      "imdbRating": 7.5,
+      "numVotes": 33199,
+      "certificate": "PG-13",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "runtimeSeconds": 8220,
+      "runtimeMinutes": 137,
+      "metascore": 83,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0086423",
+      "title": "Tender Mercies",
+      "originalTitle": "Tender Mercies",
+      "year": 1983,
+      "releaseDate": {
+        "day": 4,
+        "month": 3,
+        "year": 1983
+      },
+      "plot": "A broken-down, middle-aged country singer gets a new wife, reaches out to his long-lost daughter, and tries to put his troubled life back together.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2FkNDgyN2MtMDQ2YS00NTM1LWFhNDctNGEyMzBiYmI5NDRhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Robert Duvall, Tess Harper, and Allan Hubbard in Tender Mercies (1983)",
+        "width": 1495,
+        "height": 2260
+      },
+      "imdbRating": 7.3,
+      "numVotes": 13260,
+      "certificate": "PG",
+      "genres": [
+        "Drama",
+        "Music"
+      ],
+      "runtimeSeconds": 5520,
+      "runtimeMinutes": 92,
+      "metascore": 76,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0091886",
+      "title": "Salvador",
+      "originalTitle": "Salvador",
+      "year": 1986,
+      "releaseDate": {
+        "day": 23,
+        "month": 4,
+        "year": 1986
+      },
+      "plot": "A burnt-out photojournalist becomes involved in a Central American revolution.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDRiMjdlNDMtYjJiNC00MGQyLWE5NzQtZWZlNDY2MTY0Nzg4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "James Woods in Salvador (1986)",
+        "width": 2550,
+        "height": 3858
+      },
+      "imdbRating": 7.3,
+      "numVotes": 25022,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "History",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7320,
+      "runtimeMinutes": 122,
+      "metascore": 69,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0091288",
+      "title": "Jean de Florette",
+      "originalTitle": "Jean de Florette",
+      "year": 1986,
+      "releaseDate": {
+        "day": 28,
+        "month": 8,
+        "year": 1987
+      },
+      "plot": "A greedy landowner and his backward nephew conspire to block the only water source for an adjoining property in order to bankrupt the owner and force him to sell.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjliZjBkNTEtODcyOS00ZGFlLWFmMTAtMTBmOTJkNmQ4MDgwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "G\u00e9rard Depardieu, Ernestine Mazurowna, and Yves Montand in Jean de Florette (1986)",
+        "width": 2080,
+        "height": 3150
+      },
+      "imdbRating": 8.1,
+      "numVotes": 29157,
+      "certificate": "PG",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 7200,
+      "runtimeMinutes": 120,
+      "metascore": 75,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0087892",
+      "title": "A Passage to India",
+      "originalTitle": "A Passage to India",
+      "year": 1984,
+      "releaseDate": {
+        "day": 1,
+        "month": 2,
+        "year": 1985
+      },
+      "plot": "Cultural mistrust and false accusations doom a friendship in British colonial India between an Indian doctor, an Englishwoman engaged to marry a city magistrate, and an English educator.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDg5NTFiMGQtZTBhZS00Njc5LWE4NzAtNzVkNzVlNTVlMDExXkEyXkFqcGc@._V1_.jpg",
+        "caption": "A Passage to India (1984)",
+        "width": 500,
+        "height": 750
+      },
+      "imdbRating": 7.3,
+      "numVotes": 22909,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "History"
+      ],
+      "runtimeSeconds": 9840,
+      "runtimeMinutes": 164,
+      "metascore": 78,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0087921",
+      "title": "Places in the Heart",
+      "originalTitle": "Places in the Heart",
+      "year": 1984,
+      "releaseDate": {
+        "day": 5,
+        "month": 10,
+        "year": 1984
+      },
+      "plot": "In north Texas in the 1930s, a widow with two small children tries to save her small 40-acre farm with the help of a blind boarder and an itinerant black handyman.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOGU1OWVhZDMtNWI2My00OWM5LWE4YmUtOWYwZjcxZWY1NDJlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Sally Field, Yankton Hatten, and Gennie James in Places in the Heart (1984)",
+        "width": 4945,
+        "height": 7500
+      },
+      "imdbRating": 7.4,
+      "numVotes": 15243,
+      "certificate": "PG",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 6660,
+      "runtimeMinutes": 111,
+      "metascore": 70,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0088146",
+      "title": "A Soldier's Story",
+      "originalTitle": "A Soldier's Story",
+      "year": 1984,
+      "releaseDate": {
+        "day": 2,
+        "month": 11,
+        "year": 1984
+      },
+      "plot": "An African-American officer investigates a murder in a racially charged situation in World War II.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTY1NjhkMjMtNTQwZi00MjkzLThhNmItYTIwOTg3ODlkYzBkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "A Soldier's Story (1984)",
+        "width": 1483,
+        "height": 2265
+      },
+      "imdbRating": 7.2,
+      "numVotes": 12401,
+      "certificate": "PG",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "runtimeSeconds": 6060,
+      "runtimeMinutes": 101,
+      "metascore": 66,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0089841",
+      "title": "Prizzi's Honor",
+      "originalTitle": "Prizzi's Honor",
+      "year": 1985,
+      "releaseDate": {
+        "day": 14,
+        "month": 6,
+        "year": 1985
+      },
+      "plot": "Two professional assassins fall in love.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjFiYjUzZWEtZmQxMy00NzI1LWJiZjUtNjA4MTczOTY2MjM0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jack Nicholson and Kathleen Turner in Prizzi's Honor (1985)",
+        "width": 500,
+        "height": 759
+      },
+      "imdbRating": 6.7,
+      "numVotes": 28462,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 7800,
+      "runtimeMinutes": 130,
+      "metascore": 84,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0092699",
+      "title": "Broadcast News",
+      "originalTitle": "Broadcast News",
+      "year": 1987,
+      "releaseDate": {
+        "day": 25,
+        "month": 12,
+        "year": 1987
+      },
+      "plot": "A high-strung news producer finds herself in a love triangle between a talented but self-doubting reporter and a charming new anchor, who embodies the growing trivialization of news that she is determined to fight against.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMGVhZjNiYmUtMTAwYS00ZjQ0LWIyNGItNTU1OWNjYjA4ZDE5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Holly Hunter, William Hurt, and Albert Brooks in Broadcast News (1987)",
+        "width": 521,
+        "height": 798
+      },
+      "imdbRating": 7.3,
+      "numVotes": 36540,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 7980,
+      "runtimeMinutes": 133,
+      "metascore": 84,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0093209",
+      "title": "Hope and Glory",
+      "originalTitle": "Hope and Glory",
+      "year": 1987,
+      "releaseDate": {
+        "day": 19,
+        "month": 2,
+        "year": 1988
+      },
+      "plot": "A young boy living on the outskirts of London comes of age during the uncertain days of World War II.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDIyMTBjNGEtNDAxMy00ODI4LTgwZWYtMTBjYzFmNTY3ZTdiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Sebastian Rice-Edwards in Hope and Glory (1987)",
+        "width": 1460,
+        "height": 2221
+      },
+      "imdbRating": 7.3,
+      "numVotes": 15805,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 6780,
+      "runtimeMinutes": 113,
+      "metascore": 86,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0089424",
+      "title": "Kiss of the Spider Woman",
+      "originalTitle": "Kiss of the Spider Woman",
+      "year": 1985,
+      "releaseDate": {
+        "day": 26,
+        "month": 7,
+        "year": 1985
+      },
+      "plot": "A gay man and a political prisoner are together in a prison. The gay man narrates the stories of two fake movies and his own life.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzk4NTY2MWQtNDljZS00YjFkLTg5YmYtN2MxMWJiNmU2YWY0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Kiss of the Spider Woman (1985)",
+        "width": 1600,
+        "height": 2400
+      },
+      "imdbRating": 7.3,
+      "numVotes": 19153,
+      "certificate": "R",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 7200,
+      "runtimeMinutes": 120,
+      "metascore": 80,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0091939",
+      "title": "She's Gotta Have It",
+      "originalTitle": "She's Gotta Have It",
+      "year": 1986,
+      "releaseDate": {
+        "day": 8,
+        "month": 8,
+        "year": 1986
+      },
+      "plot": "Story of a woman and her three lovers.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMWVkYzgxNzgtNjY4NS00ZGFhLTlhMmYtNjM0Yzg5YmIyYmZkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Spike Lee, Tommy Redmond Hicks, Tracy Camilla Johns, and John Canada Terrell in She's Gotta Have It (1986)",
+        "width": 960,
+        "height": 1440
+      },
+      "imdbRating": 6.8,
+      "numVotes": 17526,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "runtimeSeconds": 5040,
+      "runtimeMinutes": 84,
+      "metascore": 79,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0083909",
+      "title": "The Executioner's Song",
+      "originalTitle": "The Executioner's Song",
+      "year": 1982,
+      "releaseDate": {
+        "day": 28,
+        "month": 11,
+        "year": 1982
+      },
+      "plot": "The story of Gary Gilmore, a convicted murderer who lobbied for his own execution.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDJjZmM2MTMtMDkyNS00N2Q3LWEyMmQtMzI3YzQ2NTM0ZjIwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "The Executioner's Song (1982)",
+        "width": 1000,
+        "height": 1500
+      },
+      "imdbRating": 7,
+      "numVotes": 2239,
+      "certificate": "Unrated",
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 8100,
+      "runtimeMinutes": 135,
+      "metascore": null,
+      "credits": [],
+      "titleType": "tvMovie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0081568",
+      "title": "The Stunt Man",
+      "originalTitle": "The Stunt Man",
+      "year": 1980,
+      "releaseDate": {
+        "day": 27,
+        "month": 6,
+        "year": 1980
+      },
+      "plot": "A fugitive stumbles onto a movie set just when they need a new stunt man, takes the job as a way to hide out and falls for the leading lady while facing off with his manipulative director.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2QyMjkxNTctYjc1ZS00MjliLTg0OTMtYjFhOTRmNzkyNzRjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "The Stunt Man (1980)",
+        "width": 1177,
+        "height": 1775
+      },
+      "imdbRating": 6.9,
+      "numVotes": 11433,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 7860,
+      "runtimeMinutes": 131,
+      "metascore": 75,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0081150",
+      "title": "Melvin and Howard",
+      "originalTitle": "Melvin and Howard",
+      "year": 1980,
+      "releaseDate": {
+        "day": 19,
+        "month": 9,
+        "year": 1980
+      },
+      "plot": "The story of hard-luck Melvin E. Dummar, who claimed to have received a will naming him an heir to the fortune of Howard Hughes.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTgwMWU5OTUtN2RkYi00Yjg4LThlMjUtMjNiMjkzNzFmYjc2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Melvin and Howard (1980)",
+        "width": 580,
+        "height": 907
+      },
+      "imdbRating": 6.8,
+      "numVotes": 5720,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 5700,
+      "runtimeMinutes": 95,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0091538",
+      "title": "Mona Lisa",
+      "originalTitle": "Mona Lisa",
+      "year": 1986,
+      "releaseDate": {
+        "day": 13,
+        "month": 6,
+        "year": 1986
+      },
+      "plot": "A man recently released from prison manages to get a job driving a call girl from customer to customer.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOGY5MDYyMjAtYzNhMy00YzU3LThmNjgtZDBjY2YwNWYyNzMxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Bob Hoskins and Cathy Tyson in Mona Lisa (1986)",
+        "width": 450,
+        "height": 685
+      },
+      "imdbRating": 7.3,
+      "numVotes": 20268,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 6240,
+      "runtimeMinutes": 104,
+      "metascore": 85,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 1,
+      "titleId": "tt0089504",
+      "title": "Lost in America",
+      "originalTitle": "Lost in America",
+      "year": 1985,
+      "releaseDate": {
+        "day": 8,
+        "month": 2,
+        "year": 1985
+      },
+      "plot": "A husband and wife in their 30s decide to quit their jobs, live as free spirits and cruise America in a Winnebago.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTkzZTk0NjQtODBkMi00ZDUxLWFjYmQtMWVjYmE0YzFmZDY4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Albert Brooks and Julie Hagerty in Lost in America (1985)",
+        "width": 909,
+        "height": 1421
+      },
+      "imdbRating": 7,
+      "numVotes": 11296,
+      "certificate": "R",
+      "genres": [
+        "Comedy"
+      ],
+      "runtimeSeconds": 5460,
+      "runtimeMinutes": 91,
+      "metascore": 78,
+      "credits": [],
+      "titleType": "movie"
+    }
+  ]
+}

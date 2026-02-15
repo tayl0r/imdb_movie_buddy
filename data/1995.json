@@ -1,0 +1,1585 @@
+{
+  "year": 1995,
+  "movies": [
+    {
+      "rank": 1,
+      "titleId": "tt0114369",
+      "title": "Se7en",
+      "originalTitle": "Se7en",
+      "year": 1995,
+      "releaseDate": {
+        "day": 22,
+        "month": 9,
+        "year": 1995
+      },
+      "plot": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2IzNzMxZjctZjUxZi00YzAxLTk3ZjMtODFjODdhMDU5NDM1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Brad Pitt and Morgan Freeman in Se7en (1995)",
+        "width": 1801,
+        "height": 2815
+      },
+      "imdbRating": 8.6,
+      "numVotes": 1995256,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "runtimeSeconds": 7620,
+      "runtimeMinutes": 127,
+      "metascore": 65,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 2,
+      "titleId": "tt0114814",
+      "title": "The Usual Suspects",
+      "originalTitle": "The Usual Suspects",
+      "year": 1995,
+      "releaseDate": {
+        "day": 16,
+        "month": 8,
+        "year": 1995
+      },
+      "plot": "The sole survivor of a pier shoot-out tells the story of how a notorious criminal influenced the events that began with five criminals meeting in a seemingly random police lineup.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTE5MDUxZDUtZWZmZC00NDVmLWFhOGQtNWI2YTc4NzY3MGQ0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Kevin Spacey, Stephen Baldwin, Gabriel Byrne, Benicio Del Toro, and Kevin Pollak in The Usual Suspects (1995)",
+        "width": 1150,
+        "height": 1715
+      },
+      "imdbRating": 8.5,
+      "numVotes": 1228196,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "runtimeSeconds": 6360,
+      "runtimeMinutes": 106,
+      "metascore": 76,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 3,
+      "titleId": "tt0114709",
+      "title": "Toy Story",
+      "originalTitle": "Toy Story",
+      "year": 1995,
+      "releaseDate": {
+        "day": 22,
+        "month": 11,
+        "year": 1995
+      },
+      "plot": "A cowboy doll is profoundly jealous when a new spaceman action figure supplants him as the top toy in a boy's bedroom. When circumstances separate them from their owner, the duo have to put aside their differences to return to him.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTA3OWVjOWItNjE1NS00NzZiLWE1MjgtZDZhMWI1ZTlkNzYwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tom Hanks, R. Lee Ermey, Tim Allen, Annie Potts, John Ratzenberger, Wallace Shawn, Jim Varney, and Don Rickles in Toy Story (1995)",
+        "width": 1005,
+        "height": 1500
+      },
+      "imdbRating": 8.3,
+      "numVotes": 1161388,
+      "certificate": "G",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 4860,
+      "runtimeMinutes": 81,
+      "metascore": 96,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 4,
+      "titleId": "tt0112573",
+      "title": "Braveheart",
+      "originalTitle": "Braveheart",
+      "year": 1995,
+      "releaseDate": {
+        "day": 24,
+        "month": 5,
+        "year": 1995
+      },
+      "plot": "Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the tyranny of King Edward I of England.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGMxZDBhNGQtYTZlNi00N2UzLWI4NDEtNmUzNWM2NTdmZDA0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Mel Gibson in Braveheart (1995)",
+        "width": 1981,
+        "height": 2924
+      },
+      "imdbRating": 8.3,
+      "numVotes": 1153602,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Drama",
+        "War"
+      ],
+      "runtimeSeconds": 10680,
+      "runtimeMinutes": 178,
+      "metascore": 68,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 5,
+      "titleId": "tt0113277",
+      "title": "Heat",
+      "originalTitle": "Heat",
+      "year": 1995,
+      "releaseDate": {
+        "day": 15,
+        "month": 12,
+        "year": 1995
+      },
+      "plot": "A group of high-end professional thieves start to feel the heat from the LAPD when they unknowingly leave a verbal clue at their latest heist.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTkxYjU1OTMtYWViZC00ZjAzLWI3MDktZGQ2N2VmMjVjNDRlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Robert De Niro, Val Kilmer, Al Pacino, Ted Levine, Wes Studi, Jerry Trimble, and Mykelti Williamson in Heat (1995)",
+        "width": 2057,
+        "height": 2956
+      },
+      "imdbRating": 8.3,
+      "numVotes": 792199,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 10200,
+      "runtimeMinutes": 170,
+      "metascore": 76,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 6,
+      "titleId": "tt0114746",
+      "title": "12 Monkeys",
+      "originalTitle": "Twelve Monkeys",
+      "year": 1995,
+      "releaseDate": {
+        "day": 5,
+        "month": 1,
+        "year": 1996
+      },
+      "plot": "In a future world devastated by disease, a convict is sent back in time to gather information about the man-made virus that wiped out most of the human population on the planet.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDQwNDY0M2MtOGFmNy00ZjI5LTkzN2ItMzg5M2IwZTZjY2MyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Brad Pitt, Bruce Willis, and Madeleine Stowe in 12 Monkeys (1995)",
+        "width": 1007,
+        "height": 1500
+      },
+      "imdbRating": 8,
+      "numVotes": 675685,
+      "certificate": "R",
+      "genres": [
+        "Mystery",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7740,
+      "runtimeMinutes": 129,
+      "metascore": 75,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 7,
+      "titleId": "tt0112641",
+      "title": "Casino",
+      "originalTitle": "Casino",
+      "year": 1995,
+      "releaseDate": {
+        "day": 22,
+        "month": 11,
+        "year": 1995
+      },
+      "plot": "In Las Vegas, two best friends--a casino executive and a Mafia enforcer--compete for a gambling empire and a fast-living, fast-loving socialite.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDRlZWZjZjYtYzY2NS00ZWVjLTkwYzAtZTA2ZDAzMGRiYmYwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Robert De Niro, Sharon Stone, and Joe Pesci in Casino (1995)",
+        "width": 800,
+        "height": 1200
+      },
+      "imdbRating": 8.2,
+      "numVotes": 612840,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 10680,
+      "runtimeMinutes": 178,
+      "metascore": 73,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 8,
+      "titleId": "tt0112864",
+      "title": "Die Hard with a Vengeance",
+      "originalTitle": "Die Hard with a Vengeance",
+      "year": 1995,
+      "releaseDate": {
+        "day": 19,
+        "month": 5,
+        "year": 1995
+      },
+      "plot": "John McClane is forced out of suspension to play a game of \"Simon Says\" by a terrorist who has planted bombs all around New York City and will detonate them if McClane doesn't do what he says.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjkzNzdkMTctNzMwMS00M2Q0LWIyOTMtNmM2NDY5NWZjNTJlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Bruce Willis in Die Hard with a Vengeance (1995)",
+        "width": 1005,
+        "height": 1500
+      },
+      "imdbRating": 7.6,
+      "numVotes": 428726,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7680,
+      "runtimeMinutes": 128,
+      "metascore": 58,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 9,
+      "titleId": "tt0113497",
+      "title": "Jumanji",
+      "originalTitle": "Jumanji",
+      "year": 1995,
+      "releaseDate": {
+        "day": 15,
+        "month": 12,
+        "year": 1995
+      },
+      "plot": "A magic board game summons jungle perils and a missing boy.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTFkMjFmODgtYzRiZi00NmQwLTliZWMtMzRhMWQ5ZmY3ZDExXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jumanji (1995)",
+        "width": 1131,
+        "height": 1500
+      },
+      "imdbRating": 7.1,
+      "numVotes": 408833,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family"
+      ],
+      "runtimeSeconds": 6240,
+      "runtimeMinutes": 104,
+      "metascore": 41,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 10,
+      "titleId": "tt0112471",
+      "title": "Before Sunrise",
+      "originalTitle": "Before Sunrise",
+      "year": 1995,
+      "releaseDate": {
+        "day": 27,
+        "month": 1,
+        "year": 1995
+      },
+      "plot": "A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDZhZmI1ZTUtYWI3NC00NTMwLTk3NWMtNDc0OGNjM2I0ZjlmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ethan Hawke and Julie Delpy in Before Sunrise (1995)",
+        "width": 2124,
+        "height": 3160
+      },
+      "imdbRating": 8.1,
+      "numVotes": 372789,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 6060,
+      "runtimeMinutes": 101,
+      "metascore": 79,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 11,
+      "titleId": "tt0112384",
+      "title": "Apollo 13",
+      "originalTitle": "Apollo 13",
+      "year": 1995,
+      "releaseDate": {
+        "day": 30,
+        "month": 6,
+        "year": 1995
+      },
+      "plot": "NASA must devise a strategy to return Apollo 13 to Earth safely after the spacecraft undergoes massive internal damage putting the lives of the three astronauts on board in jeopardy.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMGZmNGY1OTAtNjFkYS00MjcyLWFlZjUtYzEyMDllZGZhMzM3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tom Hanks in Apollo 13 (1995)",
+        "width": 1469,
+        "height": 2241
+      },
+      "imdbRating": 7.7,
+      "numVotes": 333935,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "History"
+      ],
+      "runtimeSeconds": 8400,
+      "runtimeMinutes": 140,
+      "metascore": 78,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 12,
+      "titleId": "tt0112442",
+      "title": "Bad Boys",
+      "originalTitle": "Bad Boys",
+      "year": 1995,
+      "releaseDate": {
+        "day": 7,
+        "month": 4,
+        "year": 1995
+      },
+      "plot": "Two hip detectives protect a witness to a murder while investigating a case of stolen heroin from the evidence storage room from their police precinct.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMWNjZWEwNDMtMWE1ZC00MTgwLTk2YzAtYmE0NTkwOWVhMDI0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Will Smith, T\u00e9a Leoni, and Martin Lawrence in Bad Boys (1995)",
+        "width": 1013,
+        "height": 1500
+      },
+      "imdbRating": 6.8,
+      "numVotes": 312994,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 7140,
+      "runtimeMinutes": 119,
+      "metascore": 41,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 13,
+      "titleId": "tt0113189",
+      "title": "GoldenEye",
+      "originalTitle": "GoldenEye",
+      "year": 1995,
+      "releaseDate": {
+        "day": 17,
+        "month": 11,
+        "year": 1995
+      },
+      "plot": "When a powerful secret defense system is stolen, James Bond is assigned to stop a Russian crime syndicate from using it.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOGQxNmYyY2YtZGIyNy00ODgxLThhZWEtZGIyNjJhYzFlOTllXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Pierce Brosnan, Famke Janssen, and Izabella Scorupco in GoldenEye (1995)",
+        "width": 1981,
+        "height": 2971
+      },
+      "imdbRating": 7.2,
+      "numVotes": 283769,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7800,
+      "runtimeMinutes": 130,
+      "metascore": 65,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 14,
+      "titleId": "tt0112462",
+      "title": "Batman Forever",
+      "originalTitle": "Batman Forever",
+      "year": 1995,
+      "releaseDate": {
+        "day": 16,
+        "month": 6,
+        "year": 1995
+      },
+      "plot": "Batman must battle former district attorney Harvey Dent, who is now Two-Face and Edward Nygma, The Riddler with help from an amorous psychologist and a young circus acrobat who becomes his sidekick, Robin.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTUyNjJhZWItMTZkNS00NDc4LTllNjUtYTg3NjczMzA5ZTViXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jim Carrey, Tommy Lee Jones, Nicole Kidman, Val Kilmer, and Chris O'Donnell in Batman Forever (1995)",
+        "width": 2001,
+        "height": 2961
+      },
+      "imdbRating": 5.5,
+      "numVotes": 280575,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "runtimeSeconds": 7260,
+      "runtimeMinutes": 121,
+      "metascore": 54,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 15,
+      "titleId": "tt0112697",
+      "title": "Clueless",
+      "originalTitle": "Clueless",
+      "year": 1995,
+      "releaseDate": {
+        "day": 19,
+        "month": 7,
+        "year": 1995
+      },
+      "plot": "Shallow, rich and socially successful Cher is at the top of her Beverly Hills high school's pecking scale. Seeing herself as a matchmaker, Cher first coaxes two teachers into dating each other.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTgwYjQ1NDktOTcwNi00MWZhLTliYWQtZDg5NjZhY2U5ZTNlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Alicia Silverstone, Stacey Dash, and Brittany Murphy in Clueless (1995)",
+        "width": 3025,
+        "height": 4515
+      },
+      "imdbRating": 6.9,
+      "numVotes": 274753,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "runtimeSeconds": 5820,
+      "runtimeMinutes": 97,
+      "metascore": 73,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 16,
+      "titleId": "tt0112281",
+      "title": "Ace Ventura: When Nature Calls",
+      "originalTitle": "Ace Ventura: When Nature Calls",
+      "year": 1995,
+      "releaseDate": {
+        "day": 10,
+        "month": 11,
+        "year": 1995
+      },
+      "plot": "Ace Ventura, Pet Detective, returns from a spiritual quest to investigate the disappearance of a rare white bat, the sacred animal of a tribe in Africa.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjk3ZDUwYTMtYmQyYy00NTg1LWExOTItNTcxODM3NDZiNjMyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jim Carrey in Ace Ventura: When Nature Calls (1995)",
+        "width": 630,
+        "height": 944
+      },
+      "imdbRating": 6.4,
+      "numVotes": 247499,
+      "certificate": "PG-13",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 5400,
+      "runtimeMinutes": 90,
+      "metascore": 43,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 17,
+      "titleId": "tt0114898",
+      "title": "Waterworld",
+      "originalTitle": "Waterworld",
+      "year": 1995,
+      "releaseDate": {
+        "day": 28,
+        "month": 7,
+        "year": 1995
+      },
+      "plot": "In a future where the polar ice-caps have melted and Earth is almost entirely submerged, a mutated mariner fights starvation and outlaw \"smokers,\" and reluctantly helps a woman and a young girl try to find dry land.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjI5ZmQ3NTAtNWVhMi00ZmI2LTg3YTMtN2Q1MmNjYzMwZGI1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Kevin Costner in Waterworld (1995)",
+        "width": 507,
+        "height": 755
+      },
+      "imdbRating": 6.3,
+      "numVotes": 222991,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 8100,
+      "runtimeMinutes": 135,
+      "metascore": 56,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 18,
+      "titleId": "tt0113247",
+      "title": "La haine",
+      "originalTitle": "La haine",
+      "year": 1995,
+      "releaseDate": {
+        "day": 23,
+        "month": 2,
+        "year": 1996
+      },
+      "plot": "24 hours in the lives of three young men in the French suburbs the day after a violent riot.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMThlMDA3NDYtZGM2Zi00NmJhLThlYWItZjViZTkzZWU1ZWRiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Vincent Cassel in La haine (1995)",
+        "width": 1579,
+        "height": 2349
+      },
+      "imdbRating": 8.1,
+      "numVotes": 222671,
+      "certificate": "Not Rated",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 5880,
+      "runtimeMinutes": 98,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 19,
+      "titleId": "tt0114148",
+      "title": "Pocahontas",
+      "originalTitle": "Pocahontas",
+      "year": 1995,
+      "releaseDate": {
+        "day": 23,
+        "month": 6,
+        "year": 1995
+      },
+      "plot": "An English soldier and the daughter of an Algonquin chief share a romance when English colonists invade seventeenth century Virginia.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2ZlNTUxM2MtYmJhYS00Y2E5LTlmYTItZDhlNWJmMmRiYTYzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Irene Bedard, John Kassir, Judy Kuhn, and Frank Welker in Pocahontas (1995)",
+        "width": 507,
+        "height": 755
+      },
+      "imdbRating": 6.7,
+      "numVotes": 215912,
+      "certificate": "G",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Drama"
+      ],
+      "runtimeSeconds": 4860,
+      "runtimeMinutes": 81,
+      "metascore": 59,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 20,
+      "titleId": "tt0112851",
+      "title": "Desperado",
+      "originalTitle": "Desperado",
+      "year": 1995,
+      "releaseDate": {
+        "day": 25,
+        "month": 8,
+        "year": 1995
+      },
+      "plot": "Former musician and gunslinger El Mariachi arrives at a small Mexican border town after being away for a long time. His past quickly catches up with him and he soon gets entangled with the local drug kingpin Bucho and his gang.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BN2IzOThmNTMtODE4My00NTI1LThkOWMtNTA4MTc4NWI1NTNlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Antonio Banderas in Desperado (1995)",
+        "width": 1006,
+        "height": 1500
+      },
+      "imdbRating": 7.1,
+      "numVotes": 207124,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 6240,
+      "runtimeMinutes": 104,
+      "metascore": 55,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 21,
+      "titleId": "tt0113568",
+      "title": "Ghost in the Shell",
+      "originalTitle": "K\u00f4kaku kid\u00f4tai",
+      "year": 1995,
+      "releaseDate": {
+        "day": 29,
+        "month": 3,
+        "year": 1996
+      },
+      "plot": "A cyborg policewoman and her partner hunt a mysterious and powerful hacker called the Puppet Master.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzljMjA3MTQtMjM1OS00OGJjLWJiYzctZDRiMTk1NWI5YzQ5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ghost in the Shell (1995)",
+        "width": 600,
+        "height": 889
+      },
+      "imdbRating": 7.9,
+      "numVotes": 171541,
+      "certificate": "TV-MA",
+      "genres": [
+        "Animation",
+        "Action",
+        "Crime"
+      ],
+      "runtimeSeconds": 4980,
+      "runtimeMinutes": 83,
+      "metascore": 76,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 22,
+      "titleId": "tt0112508",
+      "title": "Billy Madison",
+      "originalTitle": "Billy Madison",
+      "year": 1995,
+      "releaseDate": {
+        "day": 10,
+        "month": 2,
+        "year": 1995
+      },
+      "plot": "In order to inherit his fed-up father Brian's hotel empire, immature and lazy Billy Madison must repeat grades one through twelve all over again. The further Billy progresses, the harder his hated rival Eric Gordon tries to stop him.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2Y2ODczY2YtZTQ4NS00NWQxLTlhZWMtZWY4M2IyMmJhZGI1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Adam Sandler and Bridgette Wilson-Sampras in Billy Madison (1995)",
+        "width": 1007,
+        "height": 1500
+      },
+      "imdbRating": 6.4,
+      "numVotes": 166585,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy"
+      ],
+      "runtimeSeconds": 5340,
+      "runtimeMinutes": 89,
+      "metascore": 16,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 23,
+      "titleId": "tt0112642",
+      "title": "Casper",
+      "originalTitle": "Casper",
+      "year": 1995,
+      "releaseDate": {
+        "day": 26,
+        "month": 5,
+        "year": 1995
+      },
+      "plot": "An afterlife therapist and his daughter meet a friendly young ghost when they move into a crumbling mansion in order to rid the premises of wicked spirits.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjYzZWZlYzYtZWZkYy00YjRkLWIxN2EtNjY1MGZmYmQxYTIxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Brad Garrett, Joe Alaskey, Joe Nipote, and Malachi Pearson in Casper (1995)",
+        "width": 1666,
+        "height": 2483
+      },
+      "imdbRating": 6.2,
+      "numVotes": 158550,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 6000,
+      "runtimeMinutes": 100,
+      "metascore": 49,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 24,
+      "titleId": "tt0114069",
+      "title": "Outbreak",
+      "originalTitle": "Outbreak",
+      "year": 1995,
+      "releaseDate": {
+        "day": 10,
+        "month": 3,
+        "year": 1995
+      },
+      "plot": "A team of Army doctors struggle to find a cure for the deadly Motaba virus that was transported from Africa to North America by a white-headed Capuchin monkey and is now spreading quickly throughout a small California town.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGYxY2Q0YzUtMmE3OS00ZmQ5LWFiOGUtZDZmNTJlM2YyZjJmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Morgan Freeman, Dustin Hoffman, and Rene Russo in Outbreak (1995)",
+        "width": 1504,
+        "height": 2230
+      },
+      "imdbRating": 6.6,
+      "numVotes": 144749,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7620,
+      "runtimeMinutes": 127,
+      "metascore": 64,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 25,
+      "titleId": "tt0113627",
+      "title": "Leaving Las Vegas",
+      "originalTitle": "Leaving Las Vegas",
+      "year": 1995,
+      "releaseDate": {
+        "day": 9,
+        "month": 2,
+        "year": 1996
+      },
+      "plot": "Ben Sanderson, a Hollywood screenwriter who lost everything because of his alcoholism, arrives in Las Vegas to drink himself to death. There, he meets and forms an uneasy friendship and non-interference pact with prostitute Sera.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDg3MDM5NTI0MF5BMl5BanBnXkFtZTcwNDY0NDk0NA@@._V1_.jpg",
+        "caption": "Nicolas Cage and Elisabeth Shue in Leaving Las Vegas (1995)",
+        "width": 682,
+        "height": 1023
+      },
+      "imdbRating": 7.5,
+      "numVotes": 144077,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 6660,
+      "runtimeMinutes": 111,
+      "metascore": 82,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 26,
+      "titleId": "tt0112431",
+      "title": "Babe",
+      "originalTitle": "Babe",
+      "year": 1995,
+      "releaseDate": {
+        "day": 4,
+        "month": 8,
+        "year": 1995
+      },
+      "plot": "Gentle farmer Arthur Hoggett wins a piglet Babe at a county fair. Narrowly escaping his fate as Christmas dinner, Babe bonds with motherly border collie Fly and discovers that he too can herd sheep. But will the other animals accept him?",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODYxZWZiMTgtMjJhOC00OTE1LTk0MmQtMGFiOGY3ZTAwZGRjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "James Cromwell, Christine Cavanaugh, Charles Bartlett, Jacquie Brennan, Michael Edward-Stevens, Miriam Flynn, Danny Mann, Miriam Margolyes, and Magda Szubanski in Babe (1995)",
+        "width": 1521,
+        "height": 2265
+      },
+      "imdbRating": 6.9,
+      "numVotes": 141362,
+      "certificate": "G",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Family"
+      ],
+      "runtimeSeconds": 5460,
+      "runtimeMinutes": 91,
+      "metascore": 83,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 27,
+      "titleId": "tt0114388",
+      "title": "Sense and Sensibility",
+      "originalTitle": "Sense and Sensibility",
+      "year": 1995,
+      "releaseDate": {
+        "day": 26,
+        "month": 1,
+        "year": 1996
+      },
+      "plot": "In Georgian era England, wealthy Mr. Dashwood dies leaving his second wife and three daughters destitute. The ladies move to a modest cottage where the two older daughters vie for the attention of various suitors in search of true love.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2MyZWJhNjktMWQ2My00OTgwLWI1NjEtYjUzM2M2N2M4Mzc4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Emma Thompson and Kate Winslet in Sense and Sensibility (1995)",
+        "width": 1080,
+        "height": 1590
+      },
+      "imdbRating": 7.7,
+      "numVotes": 136076,
+      "certificate": "PG",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 8160,
+      "runtimeMinutes": 136,
+      "metascore": 84,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 28,
+      "titleId": "tt0113118",
+      "title": "Friday",
+      "originalTitle": "Friday",
+      "year": 1995,
+      "releaseDate": {
+        "day": 26,
+        "month": 4,
+        "year": 1995
+      },
+      "plot": "It's Friday, and Craig and Smokey must come up with $200 they owe a local bully or there won't be a Saturday.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMWI3MmM2MTItN2MxZS00Y2NhLWE5ZWEtMzU3YWNiNmU3NmFmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Chris Tucker and Ice Cube in Friday (1995)",
+        "width": 520,
+        "height": 804
+      },
+      "imdbRating": 7.2,
+      "numVotes": 135618,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 5460,
+      "runtimeMinutes": 91,
+      "metascore": 54,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 29,
+      "titleId": "tt0112740",
+      "title": "Crimson Tide",
+      "originalTitle": "Crimson Tide",
+      "year": 1995,
+      "releaseDate": {
+        "day": 12,
+        "month": 5,
+        "year": 1995
+      },
+      "plot": "On a U.S. nuclear missile sub, a young First Officer stages a mutiny to prevent his trigger-happy Captain from launching his missiles before confirming his orders to do so.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTNhZDk2NmQtNDc3ZC00Nzk3LWFmNTctYTc0OWMyNGM0ZWYyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Denzel Washington and Gene Hackman in Crimson Tide (1995)",
+        "width": 810,
+        "height": 1200
+      },
+      "imdbRating": 7.4,
+      "numVotes": 134937,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6960,
+      "runtimeMinutes": 116,
+      "metascore": 66,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 30,
+      "titleId": "tt0113749",
+      "title": "Mallrats",
+      "originalTitle": "Mallrats",
+      "year": 1995,
+      "releaseDate": {
+        "day": 20,
+        "month": 10,
+        "year": 1995
+      },
+      "plot": "Both dumped by their girlfriends, two best friends seek refuge in the local mall.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDM2MWVkMWItNjhjMy00MDUzLWEyOTAtN2I0MzNlZjc4Mjk0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Shannen Doherty, Claire Forlani, Kevin Smith, Jason Lee, Stan Lee, Jeremy London, Jason Mewes, Michael Rooker, Ethan Suplee, and Sven-Ole Thorsen in Mallrats (1995)",
+        "width": 1468,
+        "height": 2186
+      },
+      "imdbRating": 7,
+      "numVotes": 133682,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "runtimeSeconds": 5640,
+      "runtimeMinutes": 94,
+      "metascore": 41,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 31,
+      "titleId": "tt0113492",
+      "title": "Judge Dredd",
+      "originalTitle": "Judge Dredd",
+      "year": 1995,
+      "releaseDate": {
+        "day": 30,
+        "month": 6,
+        "year": 1995
+      },
+      "plot": "In a dystopian future, Joseph Dredd, the most famous Judge (a police officer with instant field judiciary powers), is convicted for a crime he did not commit and must face his murderous counterpart.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWM0MjExNzMtNGJkMy00MDNhLTlkOTctNDFiYzVjNTVmNGFjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Sylvester Stallone in Judge Dredd (1995)",
+        "width": 1531,
+        "height": 2265
+      },
+      "imdbRating": 5.6,
+      "numVotes": 131400,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 5760,
+      "runtimeMinutes": 96,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 32,
+      "titleId": "tt0112461",
+      "title": "The Basketball Diaries",
+      "originalTitle": "The Basketball Diaries",
+      "year": 1995,
+      "releaseDate": {
+        "day": 21,
+        "month": 4,
+        "year": 1995
+      },
+      "plot": "A teenager finds his dreams of becoming a basketball star threatened after he free falls into the harrowing world of drug addiction.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOGQ0YmUzZDctOThjOC00MWYzLWE2ZGEtZjQyNmEyZGI4YjVjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Leonardo DiCaprio in The Basketball Diaries (1995)",
+        "width": 493,
+        "height": 755
+      },
+      "imdbRating": 7.3,
+      "numVotes": 131128,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 6120,
+      "runtimeMinutes": 102,
+      "metascore": 46,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 33,
+      "titleId": "tt0113855",
+      "title": "Mortal Kombat",
+      "originalTitle": "Mortal Kombat",
+      "year": 1995,
+      "releaseDate": {
+        "day": 18,
+        "month": 8,
+        "year": 1995
+      },
+      "plot": "Smart Earthlings must win a martial-arts battle in another dimension or see their world enslaved.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjQyYjJjMzEtZTYzYy00ZjFmLTlkNTktNDI5ZjIwNTAxOWE0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Mortal Kombat (1995)",
+        "width": 1770,
+        "height": 2765
+      },
+      "imdbRating": 5.8,
+      "numVotes": 131023,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 6060,
+      "runtimeMinutes": 101,
+      "metascore": 60,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 34,
+      "titleId": "tt0114924",
+      "title": "While You Were Sleeping",
+      "originalTitle": "While You Were Sleeping",
+      "year": 1995,
+      "releaseDate": {
+        "day": 21,
+        "month": 4,
+        "year": 1995
+      },
+      "plot": "A Subway clerk falls for a comatose man's brother.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTJmOWIzY2YtYmE2ZC00NDRiLWIzYmMtNTkyNmNlMTA0N2NkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Sandra Bullock and Bill Pullman in While You Were Sleeping (1995)",
+        "width": 1045,
+        "height": 1556
+      },
+      "imdbRating": 6.8,
+      "numVotes": 125730,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 6180,
+      "runtimeMinutes": 103,
+      "metascore": 67,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 35,
+      "titleId": "tt0113101",
+      "title": "Four Rooms",
+      "originalTitle": "Four Rooms",
+      "year": 1995,
+      "releaseDate": {
+        "day": 25,
+        "month": 12,
+        "year": 1995
+      },
+      "plot": "Four interlocking tales that take place in a fading hotel on New Year's Eve.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMmNlMjE5YTEtZTU1My00MDc1LTgwNzctNTZlYmJmNTM3ZjYzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Antonio Banderas, Madonna, Valeria Golino, Tim Roth, Marisa Tomei, and Jennifer Beals in Four Rooms (1995)",
+        "width": 1240,
+        "height": 1753
+      },
+      "imdbRating": 6.7,
+      "numVotes": 116343,
+      "certificate": "R",
+      "genres": [
+        "Comedy"
+      ],
+      "runtimeSeconds": 5880,
+      "runtimeMinutes": 98,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 36,
+      "titleId": "tt0114214",
+      "title": "The Quick and the Dead",
+      "originalTitle": "The Quick and the Dead",
+      "year": 1995,
+      "releaseDate": {
+        "day": 10,
+        "month": 2,
+        "year": 1995
+      },
+      "plot": "A female gunfighter returns to a frontier town where a dueling tournament is being held, which she enters in an effort to avenge her father's death.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZGRlZTJmNTEtMzE3Yi00YTAwLWIyMjgtODU4NTExNjFmOTQwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Sharon Stone and Gene Hackman in The Quick and the Dead (1995)",
+        "width": 580,
+        "height": 864
+      },
+      "imdbRating": 6.5,
+      "numVotes": 111900,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 6480,
+      "runtimeMinutes": 108,
+      "metascore": 49,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 37,
+      "titleId": "tt0112817",
+      "title": "Dead Man",
+      "originalTitle": "Dead Man",
+      "year": 1995,
+      "releaseDate": {
+        "day": 10,
+        "month": 5,
+        "year": 1996
+      },
+      "plot": "On the run after murdering a man, accountant William Blake encounters a strange Native American man named Nobody who prepares him for his journey into the spiritual world.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjdjN2Q4MzctOWZjMS00ZjZkLTg5OWQtM2NjMTliYmE3MTY1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Johnny Depp in Dead Man (1995)",
+        "width": 1929,
+        "height": 2860
+      },
+      "imdbRating": 7.5,
+      "numVotes": 108427,
+      "certificate": "R",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Western"
+      ],
+      "runtimeSeconds": 7260,
+      "runtimeMinutes": 121,
+      "metascore": 62,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 38,
+      "titleId": "tt0112818",
+      "title": "Dead Man Walking",
+      "originalTitle": "Dead Man Walking",
+      "year": 1995,
+      "releaseDate": {
+        "day": 2,
+        "month": 2,
+        "year": 1996
+      },
+      "plot": "A nun, while comforting a convicted killer on death row, empathizes with both the killer and his victim's families.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTM3NzA1MjM2N15BMl5BanBnXkFtZTcwMzY3MTMzNA@@._V1_.jpg",
+        "caption": "Susan Sarandon and Sean Penn in Dead Man Walking (1995)",
+        "width": 682,
+        "height": 1023
+      },
+      "imdbRating": 7.5,
+      "numVotes": 107807,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 7320,
+      "runtimeMinutes": 122,
+      "metascore": 80,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 39,
+      "titleId": "tt0114694",
+      "title": "Tommy Boy",
+      "originalTitle": "Tommy Boy",
+      "year": 1995,
+      "releaseDate": {
+        "day": 31,
+        "month": 3,
+        "year": 1995
+      },
+      "plot": "After his auto-parts tycoon father dies, the overweight, underachieving son teams up with a snide accountant to try and save the family business.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMWMwOWU4NmYtZmU2Ny00MjM0LWI4NmQtN2YwNzdhYTI1MmFlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Chris Farley and David Spade in Tommy Boy (1995)",
+        "width": 675,
+        "height": 1000
+      },
+      "imdbRating": 7.1,
+      "numVotes": 104167,
+      "certificate": "PG-13",
+      "genres": [
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 5820,
+      "runtimeMinutes": 97,
+      "metascore": 46,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 40,
+      "titleId": "tt0113161",
+      "title": "Get Shorty",
+      "originalTitle": "Get Shorty",
+      "year": 1995,
+      "releaseDate": {
+        "day": 20,
+        "month": 10,
+        "year": 1995
+      },
+      "plot": "A mobster travels from Florida to Hollywood to collect a debt and discovers that the movie business is just as sleazy as the Miami underworld.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjAwODYzNDY4Ml5BMl5BanBnXkFtZTcwODkwNTgzNA@@._V1_.jpg",
+        "caption": "John Travolta, Danny DeVito, Gene Hackman, and Rene Russo in Get Shorty (1995)",
+        "width": 682,
+        "height": 1023
+      },
+      "imdbRating": 6.9,
+      "numVotes": 96669,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6300,
+      "runtimeMinutes": 105,
+      "metascore": 81,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 41,
+      "titleId": "tt0112579",
+      "title": "The Bridges of Madison County",
+      "originalTitle": "The Bridges of Madison County",
+      "year": 1995,
+      "releaseDate": {
+        "day": 2,
+        "month": 6,
+        "year": 1995
+      },
+      "plot": "Photographer Robert Kincaid wanders into the life of housewife Francesca Johnson for four days in the 1960s.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODBlMjVmOGYtZjY0Mi00MDgzLWE3MDYtNDk5ZmE1OGNkMGZjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Clint Eastwood and Meryl Streep in The Bridges of Madison County (1995)",
+        "width": 801,
+        "height": 1077
+      },
+      "imdbRating": 7.6,
+      "numVotes": 95749,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 8100,
+      "runtimeMinutes": 135,
+      "metascore": 69,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 42,
+      "titleId": "tt0112401",
+      "title": "Assassins",
+      "originalTitle": "Assassins",
+      "year": 1995,
+      "releaseDate": {
+        "day": 6,
+        "month": 10,
+        "year": 1995
+      },
+      "plot": "Professional hit-man Robert Rath wants to fulfill a few more contracts before retiring but unscrupulous ambitious newcomer hit-man Miguel Bain keeps killing Rath's targets.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjRmZDUzZTctMzkyMi00ZDY1LTk2MDgtMDI0MTM4ZTYzOWI4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Antonio Banderas, Julianne Moore, and Sylvester Stallone in Assassins (1995)",
+        "width": 1750,
+        "height": 2627
+      },
+      "imdbRating": 6.3,
+      "numVotes": 91986,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7980,
+      "runtimeMinutes": 133,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 43,
+      "titleId": "tt0114508",
+      "title": "Species",
+      "originalTitle": "Species",
+      "year": 1995,
+      "releaseDate": {
+        "day": 7,
+        "month": 7,
+        "year": 1995
+      },
+      "plot": "A group of scientists try to track down and trap a killer alien seductress before she successfully mates with a human.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjEzOTkxNTcyM15BMl5BanBnXkFtZTcwOTk0MjI3NA@@._V1_.jpg",
+        "caption": "Natasha Henstridge in Species (1995)",
+        "width": 682,
+        "height": 1023
+      },
+      "imdbRating": 5.9,
+      "numVotes": 91232,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6480,
+      "runtimeMinutes": 108,
+      "metascore": 49,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 44,
+      "titleId": "tt0113540",
+      "title": "Kids",
+      "originalTitle": "Kids",
+      "year": 1995,
+      "releaseDate": {
+        "day": 1,
+        "month": 9,
+        "year": 1995
+      },
+      "plot": "A day in the life of a group of teens as they travel around New York City skating, drinking, smoking and deflowering virgins.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDVlZjdkM2YtNTU3ZS00NjVmLWEwMWMtOWQ3MTM1Mzk4MWM2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Rosario Dawson, Carisa Glucksman, Michele Lockwood, and Yakira Peguero in Kids (1995)",
+        "width": 580,
+        "height": 859
+      },
+      "imdbRating": 7,
+      "numVotes": 91014,
+      "certificate": "NC-17",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 5460,
+      "runtimeMinutes": 91,
+      "metascore": 63,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 45,
+      "titleId": "tt0112870",
+      "title": "Dilwale Dulhania Le Jayenge",
+      "originalTitle": "Dilwale Dulhania Le Jayenge",
+      "year": 1995,
+      "releaseDate": {
+        "day": 1,
+        "month": 11,
+        "year": 2025
+      },
+      "plot": "When Raj meets Simran in Europe, it isn't love at first sight but when Simran moves to India for an arranged marriage, love makes its presence felt.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDQyMDI4ZGMtYjI5MS00YTk1LTk3ZDgtZTA3MzQ5YWQ4Y2Q4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Kajol and Shah Rukh Khan in Dilwale Dulhania Le Jayenge (1995)",
+        "width": 300,
+        "height": 400
+      },
+      "imdbRating": 8,
+      "numVotes": 84636,
+      "certificate": "Not Rated",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 10860,
+      "runtimeMinutes": 181,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 46,
+      "titleId": "tt0114558",
+      "title": "Strange Days",
+      "originalTitle": "Strange Days",
+      "year": 1995,
+      "releaseDate": {
+        "day": 13,
+        "month": 10,
+        "year": 1995
+      },
+      "plot": "A black-marketeer tries to save a woman in 1999 Los Angeles.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzk1NGY4ZGUtYzllYy00ODM0LTljNmItYTY5NGI4YWQxNTQxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ralph Fiennes, Angela Bassett, and Juliette Lewis in Strange Days (1995)",
+        "width": 742,
+        "height": 1125
+      },
+      "imdbRating": 7.2,
+      "numVotes": 84428,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 8700,
+      "runtimeMinutes": 145,
+      "metascore": 66,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 47,
+      "titleId": "tt0112722",
+      "title": "Copycat",
+      "originalTitle": "Copycat",
+      "year": 1995,
+      "releaseDate": {
+        "day": 27,
+        "month": 10,
+        "year": 1995
+      },
+      "plot": "A criminal psychologist who turned agoraphobic after a murder attempt agrees to help two San Francisco detectives hunt for a copycat serial killer who intends on making her his next victim.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2ZiODRlYWMtOGViYS00ZTNiLTlkMGQtZTAxY2IyMDAzYzU2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Sigourney Weaver, Holly Hunter, and William McNamara in Copycat (1995)",
+        "width": 800,
+        "height": 1200
+      },
+      "imdbRating": 6.6,
+      "numVotes": 84005,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7380,
+      "runtimeMinutes": 123,
+      "metascore": 54,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 48,
+      "titleId": "tt0113071",
+      "title": "First Knight",
+      "originalTitle": "First Knight",
+      "year": 1995,
+      "releaseDate": {
+        "day": 7,
+        "month": 7,
+        "year": 1995
+      },
+      "plot": "Lancelot falls in love with Guinevere, who is due to be married to King Arthur. Meanwhile, a violent warlord tries to seize power from Arthur and his Knights of the Round Table.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTNmNzJiOWItZTM4Mi00NmFjLWJkNzctZGE0YTA2ZjgwZmM0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Sean Connery, Richard Gere, and Julia Ormond in First Knight (1995)",
+        "width": 799,
+        "height": 1190
+      },
+      "imdbRating": 6,
+      "numVotes": 82284,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "runtimeSeconds": 8040,
+      "runtimeMinutes": 134,
+      "metascore": 57,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 49,
+      "titleId": "tt0113824",
+      "title": "Whisper of the Heart",
+      "originalTitle": "Mimi o sumaseba",
+      "year": 1995,
+      "releaseDate": {
+        "day": 13,
+        "month": 12,
+        "year": 1996
+      },
+      "plot": "A love story between a girl who loves reading books and a boy who has previously checked out all of the library books she chooses.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWVlOGNlYjgtYWE4Yi00MjdiLWE1MTEtZTRmNzI1ODk5NzMzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Whisper of the Heart (1995)",
+        "width": 1000,
+        "height": 1500
+      },
+      "imdbRating": 7.8,
+      "numVotes": 82010,
+      "certificate": "G",
+      "genres": [
+        "Animation",
+        "Drama",
+        "Family"
+      ],
+      "runtimeSeconds": 6660,
+      "runtimeMinutes": 111,
+      "metascore": 75,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 50,
+      "titleId": "tt0114436",
+      "title": "Showgirls",
+      "originalTitle": "Showgirls",
+      "year": 1995,
+      "releaseDate": {
+        "day": 22,
+        "month": 9,
+        "year": 1995
+      },
+      "plot": "A mysterious young drifter who calls herself Nomi Malone hitches a ride to Las Vegas, where she finds work as a stripper and sets about clawing her way to the top of the Vegas showgirls.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzcyMjExNjg3OF5BMl5BanBnXkFtZTgwOTY4Mjc1MDE@._V1_.jpg",
+        "caption": "Elizabeth Berkley in Showgirls (1995)",
+        "width": 674,
+        "height": 1000
+      },
+      "imdbRating": 5.2,
+      "numVotes": 81164,
+      "certificate": "NC-17",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 7860,
+      "runtimeMinutes": 131,
+      "metascore": 25,
+      "credits": [],
+      "titleType": "movie"
+    }
+  ]
+}

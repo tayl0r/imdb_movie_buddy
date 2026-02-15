@@ -1,0 +1,1582 @@
+{
+  "year": 1989,
+  "movies": [
+    {
+      "rank": 1,
+      "titleId": "tt0097576",
+      "title": "Indiana Jones and the Last Crusade",
+      "originalTitle": "Indiana Jones and the Last Crusade",
+      "year": 1989,
+      "releaseDate": {
+        "day": 24,
+        "month": 5,
+        "year": 1989
+      },
+      "plot": "In 1938, after his father goes missing while pursuing the Holy Grail, Indiana Jones finds himself up against the Nazis again to stop them from obtaining its powers.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGIxNzQ0YzYtMjNmYi00YjBlLWFjNzEtNGE3ZGFmYTczM2MwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Sean Connery, Harrison Ford, Denholm Elliott, Michael Byrne, Alison Doody, and John Rhys-Davies in Indiana Jones and the Last Crusade (1989)",
+        "width": 1009,
+        "height": 1500
+      },
+      "imdbRating": 8.2,
+      "numVotes": 858127,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "runtimeSeconds": 7620,
+      "runtimeMinutes": 127,
+      "metascore": 65,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 2,
+      "titleId": "tt0097165",
+      "title": "Dead Poets Society",
+      "originalTitle": "Dead Poets Society",
+      "year": 1989,
+      "releaseDate": {
+        "day": 9,
+        "month": 6,
+        "year": 1989
+      },
+      "plot": "Maverick teacher John Keating returns in 1959 to the prestigious New England boys' boarding school where he was once a star student, using poetry to embolden his pupils to new heights of self-expression.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDYwNGVlY2ItMWYxMS00YjZiLWE5MTAtYWM5NWQ2ZWJjY2Q3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Robin Williams in Dead Poets Society (1989)",
+        "width": 1016,
+        "height": 1500
+      },
+      "imdbRating": 8.1,
+      "numVotes": 639944,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 7680,
+      "runtimeMinutes": 128,
+      "metascore": 79,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 3,
+      "titleId": "tt0096874",
+      "title": "Back to the Future Part II",
+      "originalTitle": "Back to the Future Part II",
+      "year": 1989,
+      "releaseDate": {
+        "day": 22,
+        "month": 11,
+        "year": 1989
+      },
+      "plot": "After visiting 2015, Marty McFly must repeat his visit to 1955 to prevent disastrous changes to 1985, without interfering with his first trip.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTNlOTRmOTEtMTAyMi00NjFiLTk3NDMtNWI0YzA3ZTZlYjZiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Michael J. Fox and Christopher Lloyd in Back to the Future Part II (1989)",
+        "width": 580,
+        "height": 880
+      },
+      "imdbRating": 7.8,
+      "numVotes": 616073,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6480,
+      "runtimeMinutes": 108,
+      "metascore": 57,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 4,
+      "titleId": "tt0096895",
+      "title": "Batman",
+      "originalTitle": "Batman",
+      "year": 1989,
+      "releaseDate": {
+        "day": 23,
+        "month": 6,
+        "year": 1989
+      },
+      "plot": "The Dark Knight of Gotham City begins his war on crime with his first major enemy being Jack Napier, a criminal who becomes the clownishly homicidal Joker.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzZmZWViM2EtNzhlMi00NzBlLWE0MWEtZDFjMjk3YjIyNTBhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jack Nicholson and Michael Keaton in Batman (1989)",
+        "width": 894,
+        "height": 1337
+      },
+      "imdbRating": 7.5,
+      "numVotes": 429439,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "runtimeSeconds": 7560,
+      "runtimeMinutes": 126,
+      "metascore": 69,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 5,
+      "titleId": "tt0097757",
+      "title": "The Little Mermaid",
+      "originalTitle": "The Little Mermaid",
+      "year": 1989,
+      "releaseDate": {
+        "day": 17,
+        "month": 11,
+        "year": 1989
+      },
+      "plot": "A mermaid princess makes a Faustian bargain in an attempt to become human and win a prince's love.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNmQ3ODcyZGMtMjNlOS00YzhlLTg0YzAtZGVjNmQ0OTYyNDg0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jodi Benson in The Little Mermaid (1989)",
+        "width": 1001,
+        "height": 1500
+      },
+      "imdbRating": 7.6,
+      "numVotes": 309542,
+      "certificate": "G",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ],
+      "runtimeSeconds": 4980,
+      "runtimeMinutes": 83,
+      "metascore": 88,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 6,
+      "titleId": "tt0098635",
+      "title": "When Harry Met Sally...",
+      "originalTitle": "When Harry Met Sally...",
+      "year": 1989,
+      "releaseDate": {
+        "day": 21,
+        "month": 7,
+        "year": 1989
+      },
+      "plot": "Harry and Sally have known each other for years, and are very good friends, but they fear sex would ruin the friendship.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjE0ODEwNjM2NF5BMl5BanBnXkFtZTcwMjU2Mzg3NA@@._V1_.jpg",
+        "caption": "Meg Ryan and Billy Crystal in When Harry Met Sally... (1989)",
+        "width": 682,
+        "height": 1023
+      },
+      "imdbRating": 7.7,
+      "numVotes": 269354,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 5700,
+      "runtimeMinutes": 95,
+      "metascore": 76,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 7,
+      "titleId": "tt0097958",
+      "title": "National Lampoon's Christmas Vacation",
+      "originalTitle": "National Lampoon's Christmas Vacation",
+      "year": 1989,
+      "releaseDate": {
+        "day": 1,
+        "month": 12,
+        "year": 1989
+      },
+      "plot": "The Griswold family's plans for a big family Christmas predictably turn into a big disaster.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDgxYzI2YWItNmUyNS00ZWE4LWEzZDctYTk1M2VkYjhkOWVmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Chevy Chase in National Lampoon's Christmas Vacation (1989)",
+        "width": 1944,
+        "height": 2905
+      },
+      "imdbRating": 7.5,
+      "numVotes": 246248,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy"
+      ],
+      "runtimeSeconds": 5820,
+      "runtimeMinutes": 97,
+      "metascore": 49,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 8,
+      "titleId": "tt0097428",
+      "title": "Ghostbusters II",
+      "originalTitle": "Ghostbusters II",
+      "year": 1989,
+      "releaseDate": {
+        "day": 16,
+        "month": 6,
+        "year": 1989
+      },
+      "plot": "The discovery of a massive river of ectoplasm and a resurgence of spectral activity allows the staff of Ghostbusters to revive the business.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZThjODU5NTMtMWJiNC00NjNkLWJmM2YtM2EzNDg3NjMxYjU5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Dan Aykroyd, Bill Murray, Harold Ramis, and Ernie Hudson in Ghostbusters II (1989)",
+        "width": 1990,
+        "height": 3000
+      },
+      "imdbRating": 6.6,
+      "numVotes": 238385,
+      "certificate": "PG",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 6480,
+      "runtimeMinutes": 108,
+      "metascore": 56,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 9,
+      "titleId": "tt0096754",
+      "title": "The Abyss",
+      "originalTitle": "The Abyss",
+      "year": 1989,
+      "releaseDate": {
+        "day": 9,
+        "month": 8,
+        "year": 1989
+      },
+      "plot": "A civilian diving team is enlisted to search for a lost nuclear submarine and faces danger while encountering an alien aquatic species.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMGRkNzJlNjgtZmUwYS00Y2U3LTljZDctMTQxYWIxOWVjMzNjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "The Abyss (1989)",
+        "width": 1934,
+        "height": 2879
+      },
+      "imdbRating": 7.5,
+      "numVotes": 207669,
+      "certificate": "PG-13",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Mystery"
+      ],
+      "runtimeSeconds": 8400,
+      "runtimeMinutes": 140,
+      "metascore": 62,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 10,
+      "titleId": "tt0097733",
+      "title": "Lethal Weapon 2",
+      "originalTitle": "Lethal Weapon 2",
+      "year": 1989,
+      "releaseDate": {
+        "day": 7,
+        "month": 7,
+        "year": 1989
+      },
+      "plot": "Riggs and Murtaugh are on the trail of South African diplomats who are using their immunity to engage in criminal activities.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWE1OWYwZTAtMGUwMC00MGE3LWE1ODAtMTI0NGQ1NzU5YmYzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Mel Gibson and Danny Glover in Lethal Weapon 2 (1989)",
+        "width": 1516,
+        "height": 2260
+      },
+      "imdbRating": 7.3,
+      "numVotes": 200024,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6840,
+      "runtimeMinutes": 114,
+      "metascore": 70,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 11,
+      "titleId": "tt0097814",
+      "title": "Kiki's Delivery Service",
+      "originalTitle": "Majo no takky\u00fbbin",
+      "year": 1989,
+      "releaseDate": {
+        "day": 20,
+        "month": 12,
+        "year": 1990
+      },
+      "plot": "Along with her black cat Jiji, Kiki settles in a seaside town and starts a high-flying delivery service. Here begins her magical encounter with independence and responsibility, making lifelong friends and finding her place in the world.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTFhYWI1NGUtZWFhZS00MTdkLWIzZTItMDBhNWNiZDNlMjYyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Kirsten Dunst in Kiki's Delivery Service (1989)",
+        "width": 986,
+        "height": 1479
+      },
+      "imdbRating": 7.8,
+      "numVotes": 185336,
+      "certificate": "G",
+      "genres": [
+        "Animation",
+        "Family",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 6180,
+      "runtimeMinutes": 103,
+      "metascore": 85,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 12,
+      "titleId": "tt0097523",
+      "title": "Honey, I Shrunk the Kids",
+      "originalTitle": "Honey, I Shrunk the Kids",
+      "year": 1989,
+      "releaseDate": {
+        "day": 23,
+        "month": 6,
+        "year": 1989
+      },
+      "plot": "The scientist father of a teenage girl and boy accidentally shrinks his and two other neighborhood teens to the size of insects. Now the teens must fight diminutive dangers as the father searches for them.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMWZmMDA5OGUtNmUzZi00MTkyLWE2MTctNmRkOWUwMWViNjNkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Rick Moranis, Thomas Wilson Brown, Amy O'Neill, Robert Oliveri, and Jared Rushton in Honey, I Shrunk the Kids (1989)",
+        "width": 580,
+        "height": 859
+      },
+      "imdbRating": 6.4,
+      "numVotes": 175903,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family"
+      ],
+      "runtimeSeconds": 5580,
+      "runtimeMinutes": 93,
+      "metascore": 63,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 13,
+      "titleId": "tt0097441",
+      "title": "Glory",
+      "originalTitle": "Glory",
+      "year": 1989,
+      "releaseDate": {
+        "day": 16,
+        "month": 2,
+        "year": 1990
+      },
+      "plot": "Robert Gould Shaw leads the U.S. Civil War's first all-black volunteer company, fighting prejudices from both his own Union Army, and the Confederates.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTA1NDcyOGMtYTc0Zi00OTQ0LTllZTEtMTIxZDcxMWYxZTVhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Matthew Broderick in Glory (1989)",
+        "width": 1299,
+        "height": 1890
+      },
+      "imdbRating": 7.8,
+      "numVotes": 152698,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "runtimeSeconds": 7320,
+      "runtimeMinutes": 122,
+      "metascore": 78,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 14,
+      "titleId": "tt0096928",
+      "title": "Bill & Ted's Excellent Adventure",
+      "originalTitle": "Bill & Ted's Excellent Adventure",
+      "year": 1989,
+      "releaseDate": {
+        "day": 17,
+        "month": 2,
+        "year": 1989
+      },
+      "plot": "Two rock-'n-rolling teens, on the verge of failing their class, set out on a quest to make the ultimate school history report after being presented with a time machine.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTk3Mjk5MzI3OF5BMl5BanBnXkFtZTcwMTY4MzcyNA@@._V1_.jpg",
+        "caption": "Keanu Reeves, Robert V. Barron, Terry Camilleri, George Carlin, Al Leong, Tony Steedman, and Alex Winter in Bill & Ted's Excellent Adventure (1989)",
+        "width": 682,
+        "height": 1023
+      },
+      "imdbRating": 6.9,
+      "numVotes": 148583,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Music"
+      ],
+      "runtimeSeconds": 5400,
+      "runtimeMinutes": 90,
+      "metascore": 50,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 15,
+      "titleId": "tt0097351",
+      "title": "Field of Dreams",
+      "originalTitle": "Field of Dreams",
+      "year": 1989,
+      "releaseDate": {
+        "day": 5,
+        "month": 5,
+        "year": 1989
+      },
+      "plot": "Iowa farmer Ray Kinsella is inspired by a voice he can't ignore to pursue a dream he can hardly believe. Supported by his wife, Ray begins the quest by turning his ordinary cornfield into a place where dreams can come true.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTEwMGYzNDktOWEyMi00NTJjLWE5MGQtNmNlNDkxOTYyZDA5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Kevin Costner in Field of Dreams (1989)",
+        "width": 998,
+        "height": 1500
+      },
+      "imdbRating": 7.5,
+      "numVotes": 137777,
+      "certificate": "PG",
+      "genres": [
+        "Drama",
+        "Family",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 6420,
+      "runtimeMinutes": 107,
+      "metascore": 57,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 16,
+      "titleId": "tt0096969",
+      "title": "Born on the Fourth of July",
+      "originalTitle": "Born on the Fourth of July",
+      "year": 1989,
+      "releaseDate": {
+        "day": 5,
+        "month": 1,
+        "year": 1990
+      },
+      "plot": "The biography of Ron Kovic. Paralyzed in the Vietnam war, he becomes an anti-war and pro-human rights political activist after feeling betrayed by the country for which he fought.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTgwNDk5NTA0NF5BMl5BanBnXkFtZTgwMTkyMDUxMDE@._V1_.jpg",
+        "caption": "Tom Cruise in Born on the Fourth of July (1989)",
+        "width": 675,
+        "height": 1000
+      },
+      "imdbRating": 7.2,
+      "numVotes": 123696,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Drama",
+        "War"
+      ],
+      "runtimeSeconds": 8700,
+      "runtimeMinutes": 145,
+      "metascore": 75,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 17,
+      "titleId": "tt0097239",
+      "title": "Driving Miss Daisy",
+      "originalTitle": "Driving Miss Daisy",
+      "year": 1989,
+      "releaseDate": {
+        "day": 26,
+        "month": 1,
+        "year": 1990
+      },
+      "plot": "An old Jewish woman and her African-American chauffeur in the American South have a relationship that grows and improves over the years.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BN2M2MWUyZmQtMmI4Yi00NGE2LWFiZmEtNDZkZmYxNWRlM2Y1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Morgan Freeman and Jessica Tandy in Driving Miss Daisy (1989)",
+        "width": 985,
+        "height": 1500
+      },
+      "imdbRating": 7.3,
+      "numVotes": 123520,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 5940,
+      "runtimeMinutes": 99,
+      "metascore": 81,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 18,
+      "titleId": "tt0098084",
+      "title": "Pet Sematary",
+      "originalTitle": "Pet Sematary",
+      "year": 1989,
+      "releaseDate": {
+        "day": 21,
+        "month": 4,
+        "year": 1989
+      },
+      "plot": "After tragedy strikes, a grieving father discovers an ancient burial ground behind his home with the power to raise the dead.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTEyYWIyZWYtMTM5OC00M2ZmLWI5NzMtZjA0ZTI4MTQ4ZDZkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Brad Greenquist in Pet Sematary (1989)",
+        "width": 580,
+        "height": 885
+      },
+      "imdbRating": 6.5,
+      "numVotes": 123135,
+      "certificate": "R",
+      "genres": [
+        "Fantasy",
+        "Horror",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6180,
+      "runtimeMinutes": 103,
+      "metascore": 38,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 19,
+      "titleId": "tt0097216",
+      "title": "Do the Right Thing",
+      "originalTitle": "Do the Right Thing",
+      "year": 1989,
+      "releaseDate": {
+        "day": 21,
+        "month": 7,
+        "year": 1989
+      },
+      "plot": "On the hottest day of the year on a street in the Bedford-Stuyvesant section of Brooklyn, everyone's hate and bigotry smolders and builds until it explodes into violence.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODA2MjU1NTI1MV5BMl5BanBnXkFtZTgwOTU4ODIwMjE@._V1_.jpg",
+        "caption": "Spike Lee, Danny Aiello, Ossie Davis, John Turturro, Ruby Dee, Giancarlo Esposito, and Bill Nunn in Do the Right Thing (1989)",
+        "width": 3300,
+        "height": 4878
+      },
+      "imdbRating": 7.9,
+      "numVotes": 122803,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 7200,
+      "runtimeMinutes": 120,
+      "metascore": 93,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 20,
+      "titleId": "tt0098554",
+      "title": "Uncle Buck",
+      "originalTitle": "Uncle Buck",
+      "year": 1989,
+      "releaseDate": {
+        "day": 16,
+        "month": 8,
+        "year": 1989
+      },
+      "plot": "Laid back commitment-phobe Buck babysits his brother's rebellious teenage daughter and her cute younger brother and sister.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYmRjMTIxZDgtMGI2ZC00ZGYwLWFlMjUtYmE5MzllYWZjNWJmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Macaulay Culkin, Gaby Hoffmann, John Candy, Elaine Bromka, Garrett M. Brown, and Jean Louisa Kelly in Uncle Buck (1989)",
+        "width": 1953,
+        "height": 2899
+      },
+      "imdbRating": 7.1,
+      "numVotes": 120348,
+      "certificate": "PG",
+      "genres": [
+        "Comedy"
+      ],
+      "runtimeSeconds": 6000,
+      "runtimeMinutes": 100,
+      "metascore": 51,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 21,
+      "titleId": "tt0098439",
+      "title": "Tango & Cash",
+      "originalTitle": "Tango & Cash",
+      "year": 1989,
+      "releaseDate": {
+        "day": 22,
+        "month": 12,
+        "year": 1989
+      },
+      "plot": "Framed by their ruthless arch-nemesis, a pair of mismatched LAPD officers must put their differences aside to get even with the brutal crime baron who sent them to rot in a maximum-security prison.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjcwNzI2ZWQtMDE2Yy00MGU2LTljZGYtZmVjZmQ4NDYzZmI2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tango & Cash (1989)",
+        "width": 1509,
+        "height": 2260
+      },
+      "imdbRating": 6.4,
+      "numVotes": 120092,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 6240,
+      "runtimeMinutes": 104,
+      "metascore": 41,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 22,
+      "titleId": "tt0097742",
+      "title": "Licence to Kill",
+      "originalTitle": "Licence to Kill",
+      "year": 1989,
+      "releaseDate": {
+        "day": 14,
+        "month": 7,
+        "year": 1989
+      },
+      "plot": "A vengeful James Bond goes rogue to infiltrate and take down the organization of a drug lord who has murdered his friend's new wife and left him near death.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjY3OWJkMjMtYTgwYS00MjJjLWE4M2ItOWVhOWMxNGM1NDk3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Carey Lowell, Talisa Soto, Timothy Dalton, and Robert Davi in Licence to Kill (1989)",
+        "width": 1927,
+        "height": 2944
+      },
+      "imdbRating": 6.7,
+      "numVotes": 118995,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7980,
+      "runtimeMinutes": 133,
+      "metascore": 58,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 23,
+      "titleId": "tt0098206",
+      "title": "Road House",
+      "originalTitle": "Road House",
+      "year": 1989,
+      "releaseDate": {
+        "day": 19,
+        "month": 5,
+        "year": 1989
+      },
+      "plot": "A legendary bouncer comes to restore order at a notorious bar but runs afoul of a ruthless crime boss who controls the town.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTU1MTE2Mjk2OF5BMl5BanBnXkFtZTcwMTUzNjYzNA@@._V1_.jpg",
+        "caption": "Patrick Swayze and Kelly Lynch in Road House (1989)",
+        "width": 682,
+        "height": 1023
+      },
+      "imdbRating": 6.7,
+      "numVotes": 110700,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6840,
+      "runtimeMinutes": 114,
+      "metascore": 36,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 24,
+      "titleId": "tt0098258",
+      "title": "Say Anything",
+      "originalTitle": "Say Anything...",
+      "year": 1989,
+      "releaseDate": {
+        "day": 14,
+        "month": 4,
+        "year": 1989
+      },
+      "plot": "A noble underachiever and a beautiful valedictorian fall in love the summer before she goes off to college.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjY1N2QwZDItOWZjZC00MTg4LTg1YmUtZWMzMThhY2YxNmNiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "John Cusack and Ione Skye in Say Anything (1989)",
+        "width": 1494,
+        "height": 2265
+      },
+      "imdbRating": 7.3,
+      "numVotes": 101236,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 6000,
+      "runtimeMinutes": 100,
+      "metascore": 86,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 25,
+      "titleId": "tt0097778",
+      "title": "Look Who's Talking",
+      "originalTitle": "Look Who's Talking",
+      "year": 1989,
+      "releaseDate": {
+        "day": 13,
+        "month": 10,
+        "year": 1989
+      },
+      "plot": "After a single, career-minded woman is left on her own to give birth to the child of a married man, she finds a new romantic chance in a cab driver. Meanwhile, the point-of-view of the newborn baby is narrated through voice-over.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGFkMmRkOTEtNTZhZi00ODBkLWJjM2UtOTdiMjM5ZmM1M2VjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Bruce Willis and Jacob Haines in Look Who's Talking (1989)",
+        "width": 870,
+        "height": 1353
+      },
+      "imdbRating": 6,
+      "numVotes": 90548,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "runtimeSeconds": 5580,
+      "runtimeMinutes": 93,
+      "metascore": 51,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 26,
+      "titleId": "tt0096734",
+      "title": "The 'Burbs",
+      "originalTitle": "The 'Burbs",
+      "year": 1989,
+      "releaseDate": {
+        "day": 17,
+        "month": 2,
+        "year": 1989
+      },
+      "plot": "An overstressed suburbanite and his neighbors are convinced that the new family on the block is part of a murderous Satanic cult.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzAzYWE2NzYtMTMzNy00MmQzLTllMWItODA3ODk4MDg5MmY0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tom Hanks in The 'Burbs (1989)",
+        "width": 1000,
+        "height": 1500
+      },
+      "imdbRating": 6.8,
+      "numVotes": 90185,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6120,
+      "runtimeMinutes": 102,
+      "metascore": 45,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 27,
+      "titleId": "tt0097937",
+      "title": "My Left Foot",
+      "originalTitle": "My Left Foot: The Story of Christy Brown",
+      "year": 1989,
+      "releaseDate": {
+        "day": 30,
+        "month": 3,
+        "year": 1990
+      },
+      "plot": "Christy Brown, born with cerebral palsy, learns to paint and write with his only controllable limb - his left foot.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzU2NDY0YzItOTVhNS00Yzk4LTg0ZTktNjFiZDJmZTgwMDYyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "My Left Foot (1989)",
+        "width": 960,
+        "height": 1440
+      },
+      "imdbRating": 7.8,
+      "numVotes": 84569,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "runtimeSeconds": 6180,
+      "runtimeMinutes": 103,
+      "metascore": 97,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 28,
+      "titleId": "tt0097815",
+      "title": "Major League",
+      "originalTitle": "Major League",
+      "year": 1989,
+      "releaseDate": {
+        "day": 7,
+        "month": 4,
+        "year": 1989
+      },
+      "plot": "The new owner of the Cleveland Indians puts together a purposely horrible team so they'll lose and she can move the team. But when the plot is uncovered, they start winning just to spite her.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMmRiNjc2YWMtYzg4YS00Njg3LTg4YzgtNWVhM2RmMGIwNGFjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Charlie Sheen, Tom Berenger, and Corbin Bernsen in Major League (1989)",
+        "width": 1542,
+        "height": 2265
+      },
+      "imdbRating": 7.2,
+      "numVotes": 82372,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Sport"
+      ],
+      "runtimeSeconds": 6420,
+      "runtimeMinutes": 107,
+      "metascore": 62,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 29,
+      "titleId": "tt0098536",
+      "title": "Turner & Hooch",
+      "originalTitle": "Turner & Hooch",
+      "year": 1989,
+      "releaseDate": {
+        "day": 28,
+        "month": 7,
+        "year": 1989
+      },
+      "plot": "A detective must adopt a rambunctious dog in order to help him find a killer.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzYzYTliNGYtMGQzZS00ZGE0LWFmM2UtMzRlYWQ5NzI5ZTVlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tom Hanks and Beasley the Dog in Turner & Hooch (1989)",
+        "width": 1280,
+        "height": 1903
+      },
+      "imdbRating": 6.2,
+      "numVotes": 80390,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 5820,
+      "runtimeMinutes": 97,
+      "metascore": 36,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 30,
+      "titleId": "tt0097647",
+      "title": "The Karate Kid Part III",
+      "originalTitle": "The Karate Kid Part III",
+      "year": 1989,
+      "releaseDate": {
+        "day": 30,
+        "month": 6,
+        "year": 1989
+      },
+      "plot": "Ostracised villain John Kreese attempts to gain revenge on Daniel and Miyagi, with the help of a Vietnam War comrade, the wealthy owner of a toxic waste disposal business.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTc2NzYyYTktYTJhMi00OGY2LWE0YzYtNjgwNWU4ZGZiYjg0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ralph Macchio and Pat Morita in The Karate Kid Part III (1989)",
+        "width": 1004,
+        "height": 1500
+      },
+      "imdbRating": 5.4,
+      "numVotes": 76674,
+      "certificate": "PG",
+      "genres": [
+        "Action",
+        "Drama",
+        "Family"
+      ],
+      "runtimeSeconds": 6720,
+      "runtimeMinutes": 112,
+      "metascore": 36,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 31,
+      "titleId": "tt0098384",
+      "title": "Steel Magnolias",
+      "originalTitle": "Steel Magnolias",
+      "year": 1989,
+      "releaseDate": {
+        "day": 22,
+        "month": 11,
+        "year": 1989
+      },
+      "plot": "A young beautician, newly arrived in a small Louisiana town, finds work at the local salon, where a small group of women share a close bond of friendship, and welcome her into the fold.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjE4MTYyOWYtYjBjNy00NjBiLThhYWEtNzQ2MmE4MzY4ZGI2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Julia Roberts, Sally Field, Daryl Hannah, Shirley MacLaine, Dolly Parton, and Olympia Dukakis in Steel Magnolias (1989)",
+        "width": 953,
+        "height": 1500
+      },
+      "imdbRating": 7.3,
+      "numVotes": 68193,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 7020,
+      "runtimeMinutes": 117,
+      "metascore": 56,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 32,
+      "titleId": "tt0098627",
+      "title": "Weekend at Bernie's",
+      "originalTitle": "Weekend at Bernie's",
+      "year": 1989,
+      "releaseDate": {
+        "day": 5,
+        "month": 7,
+        "year": 1989
+      },
+      "plot": "Two idiots try to pretend that their murdered employer is really alive, leading the hitman to attempt to track him down to finish him off.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzM1NDkxOWQtNTVkOC00YjA5LTk3ZjQtZWM5OGE1ZjMxZTJlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Andrew McCarthy and Jonathan Silverman in Weekend at Bernie's (1989)",
+        "width": 1966,
+        "height": 2918
+      },
+      "imdbRating": 6.4,
+      "numVotes": 67630,
+      "certificate": "PG-13",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 5820,
+      "runtimeMinutes": 97,
+      "metascore": 32,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 33,
+      "titleId": "tt0098382",
+      "title": "Star Trek V: The Final Frontier",
+      "originalTitle": "Star Trek V: The Final Frontier",
+      "year": 1989,
+      "releaseDate": {
+        "day": 9,
+        "month": 6,
+        "year": 1989
+      },
+      "plot": "Captain Kirk and his crew must deal with Mr. Spock's long-lost half-brother who hijacks the Enterprise for an obsessive search for God at the center of the galaxy.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNWEzYmU4ZDYtNWMwMi00YWRmLTg3NDQtMWFhYTI3YWQ2OTQ3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Leonard Nimoy and William Shatner in Star Trek V: The Final Frontier (1989)",
+        "width": 1970,
+        "height": 2908
+      },
+      "imdbRating": 5.5,
+      "numVotes": 67480,
+      "certificate": "PG",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 6420,
+      "runtimeMinutes": 107,
+      "metascore": 43,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 34,
+      "titleId": "tt0097659",
+      "title": "Kickboxer",
+      "originalTitle": "Kickboxer",
+      "year": 1989,
+      "releaseDate": {
+        "day": 8,
+        "month": 9,
+        "year": 1989
+      },
+      "plot": "Kurt Sloane must learn the ancient kick boxing art of Muay Thai in order to avenge his brother.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjQ2NjVkMjAtNGYzZC00ZTZiLWJlZjYtMTNlYWNiZDVlMDZkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jean-Claude Van Damme and Michel Qissi in Kickboxer (1989)",
+        "width": 1238,
+        "height": 1857
+      },
+      "imdbRating": 6.4,
+      "numVotes": 65846,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Sport",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5820,
+      "runtimeMinutes": 97,
+      "metascore": 33,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 35,
+      "titleId": "tt0098724",
+      "title": "Sex, Lies, and Videotape",
+      "originalTitle": "Sex, Lies, and Videotape",
+      "year": 1989,
+      "releaseDate": {
+        "day": 22,
+        "month": 9,
+        "year": 1989
+      },
+      "plot": "A sexually repressed woman's husband is having an affair with her sister. The arrival of a visitor with a rather unusual fetish changes everything.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZmFjNjkyNmQtMDdkNy00YmQxLWFmZTYtZDQyYTY3ZGFjYmFiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Andie MacDowell, Laura San Giacomo, James Spader, and Peter Gallagher in Sex, Lies, and Videotape (1989)",
+        "width": 1530,
+        "height": 2265
+      },
+      "imdbRating": 7.2,
+      "numVotes": 63923,
+      "certificate": "R",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 6000,
+      "runtimeMinutes": 100,
+      "metascore": 86,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 36,
+      "titleId": "tt0096933",
+      "title": "Black Rain",
+      "originalTitle": "Black Rain",
+      "year": 1989,
+      "releaseDate": {
+        "day": 22,
+        "month": 9,
+        "year": 1989
+      },
+      "plot": "Two NYC cops arrest a Yakuza member and must escort him when he's extradited to Japan.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzIzNTAzN2EtNjY2ZC00MmFjLWJjMmEtOTY5MGFlYTgwYWUyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Michael Douglas in Black Rain (1989)",
+        "width": 1977,
+        "height": 2913
+      },
+      "imdbRating": 6.6,
+      "numVotes": 63846,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 7500,
+      "runtimeMinutes": 125,
+      "metascore": 56,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 37,
+      "titleId": "tt0098282",
+      "title": "See No Evil, Hear No Evil",
+      "originalTitle": "See No Evil, Hear No Evil",
+      "year": 1989,
+      "releaseDate": {
+        "day": 12,
+        "month": 5,
+        "year": 1989
+      },
+      "plot": "Dave is deaf, and Wally is blind. They witness a murder, but it was Dave who was looking at her, and Wally who was listening.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOThiYmVhMTItZGFiNS00MDRmLTkwZWUtODcyNGZlYmMzZGRlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Gene Wilder and Richard Pryor in See No Evil, Hear No Evil (1989)",
+        "width": 1000,
+        "height": 1500
+      },
+      "imdbRating": 6.8,
+      "numVotes": 63080,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 6180,
+      "runtimeMinutes": 103,
+      "metascore": 44,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 38,
+      "titleId": "tt0097123",
+      "title": "Crimes and Misdemeanors",
+      "originalTitle": "Crimes and Misdemeanors",
+      "year": 1989,
+      "releaseDate": {
+        "day": 3,
+        "month": 11,
+        "year": 1989
+      },
+      "plot": "An ophthalmologist's mistress threatens to reveal their affair to his wife while a married documentary filmmaker is infatuated with another woman.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTQwZjFjODItNzI3ZS00ODUzLWI3MWUtNjU2NDQwNjQxMjhlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Woody Allen and Martin Landau in Crimes and Misdemeanors (1989)",
+        "width": 1002,
+        "height": 1530
+      },
+      "imdbRating": 7.8,
+      "numVotes": 63002,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 6240,
+      "runtimeMinutes": 104,
+      "metascore": 77,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 39,
+      "titleId": "tt0098621",
+      "title": "The War of the Roses",
+      "originalTitle": "The War of the Roses",
+      "year": 1989,
+      "releaseDate": {
+        "day": 8,
+        "month": 12,
+        "year": 1989
+      },
+      "plot": "A married couple tries everything to drive each other out of the house in a vicious divorce battle.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMWZkOTA1YzAtZDM2MC00YTY5LTllNGMtOGExYTIxMTA2Y2FkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Michael Douglas, Danny DeVito, and Kathleen Turner in The War of the Roses (1989)",
+        "width": 1522,
+        "height": 2265
+      },
+      "imdbRating": 6.9,
+      "numVotes": 62358,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "runtimeSeconds": 6960,
+      "runtimeMinutes": 116,
+      "metascore": 80,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 40,
+      "titleId": "tt0098067",
+      "title": "Parenthood",
+      "originalTitle": "Parenthood",
+      "year": 1989,
+      "releaseDate": {
+        "day": 2,
+        "month": 8,
+        "year": 1989
+      },
+      "plot": "Four Buckman siblings attempt to raise their children - each in their own different style - and deal with the joys and sorrows that the process brings.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTEyOTQwOWQtNTA5Ny00N2ViLThkMzctY2Y3ZTkxNTQxZGRjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Steve Martin, Keanu Reeves, Martha Plimpton, Tom Hulce, Rick Moranis, Jason Robards, Dianne Wiest, and Mary Steenburgen in Parenthood (1989)",
+        "width": 800,
+        "height": 1180
+      },
+      "imdbRating": 7.1,
+      "numVotes": 58371,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 7440,
+      "runtimeMinutes": 124,
+      "metascore": 82,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 41,
+      "titleId": "tt0097981",
+      "title": "A Nightmare on Elm Street: The Dream Child",
+      "originalTitle": "A Nightmare on Elm Street: The Dream Child",
+      "year": 1989,
+      "releaseDate": {
+        "day": 11,
+        "month": 8,
+        "year": 1989
+      },
+      "plot": "The pregnant Alice finds Freddy Krueger striking through the sleeping mind of her unborn child, hoping to be reborn into the real world.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzVlNWFlMTItNjRkYS00Y2FhLTk5NDgtZDM0MWFiNDVlNWMxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "A Nightmare on Elm Street: The Dream Child (1989)",
+        "width": 1785,
+        "height": 2797
+      },
+      "imdbRating": 5,
+      "numVotes": 55498,
+      "certificate": "R",
+      "genres": [
+        "Fantasy",
+        "Horror"
+      ],
+      "runtimeSeconds": 5340,
+      "runtimeMinutes": 89,
+      "metascore": 54,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 42,
+      "titleId": "tt0097202",
+      "title": "The Killer",
+      "originalTitle": "Dip huet seung hung",
+      "year": 1989,
+      "releaseDate": {
+        "day": null,
+        "month": 9,
+        "year": 1990
+      },
+      "plot": "A disillusioned assassin accepts one last hit in hopes of using his earnings to restore the vision of a singer he accidentally blinded.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjQyZDJhNTktYjZiZC00ODU4LTg5OTYtYjc2MzA2OGFjMzZmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Chow Yun-Fat and Danny Lee in The Killer (1989)",
+        "width": 1963,
+        "height": 2899
+      },
+      "imdbRating": 7.7,
+      "numVotes": 54591,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 6660,
+      "runtimeMinutes": 111,
+      "metascore": 82,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 43,
+      "titleId": "tt0097474",
+      "title": "Halloween 5: The Revenge of Michael Myers",
+      "originalTitle": "Halloween 5: The Revenge of Michael Myers",
+      "year": 1989,
+      "releaseDate": {
+        "day": 13,
+        "month": 10,
+        "year": 1989
+      },
+      "plot": "One year after the events of Halloween 4: The Return of Michael Myers (1988), the Shape returns to Haddonfield once again in an attempt to kill his now-mute niece.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTI2MWRkMzUtNGI2OC00MzA1LTkwMjEtZGRkOTk3ZjU1MjIxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Halloween 5: The Revenge of Michael Myers (1989)",
+        "width": 580,
+        "height": 907
+      },
+      "imdbRating": 4.9,
+      "numVotes": 51638,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5760,
+      "runtimeMinutes": 96,
+      "metascore": 28,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 44,
+      "titleId": "tt0097027",
+      "title": "Casualties of War",
+      "originalTitle": "Casualties of War",
+      "year": 1989,
+      "releaseDate": {
+        "day": 18,
+        "month": 8,
+        "year": 1989
+      },
+      "plot": "During the Vietnam War, a soldier finds himself the outsider of his own squad when they kidnap a female villager for their sexual enjoyment.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNWE1ZTIzOWYtZjVmNC00NmQ2LWEyYmEtMGI4ZWE0YzU0M2IyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Michael J. Fox and Sean Penn in Casualties of War (1989)",
+        "width": 1004,
+        "height": 1500
+      },
+      "imdbRating": 7.1,
+      "numVotes": 51377,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 6780,
+      "runtimeMinutes": 113,
+      "metascore": 75,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 45,
+      "titleId": "tt0096787",
+      "title": "All Dogs Go to Heaven",
+      "originalTitle": "All Dogs Go to Heaven",
+      "year": 1989,
+      "releaseDate": {
+        "day": 17,
+        "month": 11,
+        "year": 1989
+      },
+      "plot": "A canine angel, Charlie, sneaks back to earth from heaven but ends up befriending an orphan girl who can speak to animals. In the process, Charlie learns that friendship is the most heavenly gift of all.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTBlYTA0ZDUtNjJhMS00Y2UxLTk5MzAtMjBlYTAyN2FkMmNlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Burt Reynolds, Dom DeLuise, Judith Barsi, Kelly Briley, Cyndi Cozzo, and Vic Tayback in All Dogs Go to Heaven (1989)",
+        "width": 488,
+        "height": 755
+      },
+      "imdbRating": 6.8,
+      "numVotes": 50265,
+      "certificate": "G",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 5040,
+      "runtimeMinutes": 84,
+      "metascore": 50,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 46,
+      "titleId": "tt0097770",
+      "title": "Lock Up",
+      "originalTitle": "Lock Up",
+      "year": 1989,
+      "releaseDate": {
+        "day": 4,
+        "month": 8,
+        "year": 1989
+      },
+      "plot": "With only six months left of his sentence, inmate Frank Leone is transferred from a minimum security prison to a maximum security prison by a vindictive warden.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDIwMzM4MDQtMmE2MC00YWEyLTk5NDYtMGQ2NzEzZWEwNjVkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Lock Up (1989)",
+        "width": 1996,
+        "height": 2906
+      },
+      "imdbRating": 6.4,
+      "numVotes": 49329,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 6540,
+      "runtimeMinutes": 109,
+      "metascore": 52,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 47,
+      "titleId": "tt0098273",
+      "title": "Sea of Love",
+      "originalTitle": "Sea of Love",
+      "year": 1989,
+      "releaseDate": {
+        "day": 15,
+        "month": 9,
+        "year": 1989
+      },
+      "plot": "A detective investigating a series of murders becomes involved with a woman who may be the culprit.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTQ4ODNhMmQtZDM3MC00MTUyLWIwN2MtYWNhZjE5MTljNjIyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Al Pacino and Ellen Barkin in Sea of Love (1989)",
+        "width": 1936,
+        "height": 2879
+      },
+      "imdbRating": 6.8,
+      "numVotes": 48203,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "runtimeSeconds": 6780,
+      "runtimeMinutes": 113,
+      "metascore": 66,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 48,
+      "titleId": "tt0097388",
+      "title": "Friday the 13th Part VIII: Jason Takes Manhattan",
+      "originalTitle": "Friday the 13th Part VIII: Jason Takes Manhattan",
+      "year": 1989,
+      "releaseDate": {
+        "day": 28,
+        "month": 7,
+        "year": 1989
+      },
+      "plot": "Jason Voorhees is accidentally awakened from his watery grave and ends up stalking a ship full of graduating high-school students headed to Manhattan, New York.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODg3MThhYjUtYzFmOC00NmI4LTkzODgtMjgxN2M2NmE0ZjViXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Rob Hedden and Kane Hodder in Friday the 13th Part VIII: Jason Takes Manhattan (1989)",
+        "width": 600,
+        "height": 888
+      },
+      "imdbRating": 4.5,
+      "numVotes": 47713,
+      "certificate": "R",
+      "genres": [
+        "Adventure",
+        "Horror",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6000,
+      "runtimeMinutes": 100,
+      "metascore": 14,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 49,
+      "titleId": "tt0097162",
+      "title": "Dead Calm",
+      "originalTitle": "Dead Calm",
+      "year": 1989,
+      "releaseDate": {
+        "day": 7,
+        "month": 4,
+        "year": 1989
+      },
+      "plot": "After a tragedy, John Ingram and his wife Rae are spending some time isolated at sea, when they come across a stranger who has abandoned a sinking ship.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDJiNDZmZDYtMjJlZi00MDFiLWE4MjQtOWIyNjc0ZGIyY2NlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Nicole Kidman in Dead Calm (1989)",
+        "width": 1958,
+        "height": 2932
+      },
+      "imdbRating": 6.8,
+      "numVotes": 47477,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5760,
+      "runtimeMinutes": 96,
+      "metascore": 70,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 50,
+      "titleId": "tt0097108",
+      "title": "The Cook, the Thief, His Wife & Her Lover",
+      "originalTitle": "The Cook, the Thief, His Wife & Her Lover",
+      "year": 1989,
+      "releaseDate": {
+        "day": 6,
+        "month": 4,
+        "year": 1990
+      },
+      "plot": "At an opulent gourmet restaurant, a woman carries on an affair with deadly consequences.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDc5ZWRmYzctODBlNy00Mjc1LWIyZGQtYWI5MTgyMDQzYjkzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Helen Mirren in The Cook, the Thief, His Wife & Her Lover (1989)",
+        "width": 2000,
+        "height": 2963
+      },
+      "imdbRating": 7.5,
+      "numVotes": 44631,
+      "certificate": "NC-17",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 7440,
+      "runtimeMinutes": 124,
+      "metascore": 62,
+      "credits": [],
+      "titleType": "movie"
+    }
+  ]
+}

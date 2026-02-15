@@ -1,0 +1,1591 @@
+{
+  "year": 2002,
+  "movies": [
+    {
+      "rank": 1,
+      "titleId": "tt0167261",
+      "title": "The Lord of the Rings: The Two Towers",
+      "originalTitle": "The Lord of the Rings: The Two Towers",
+      "year": 2002,
+      "releaseDate": {
+        "day": 18,
+        "month": 12,
+        "year": 2002
+      },
+      "plot": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMGQxMDdiOWUtYjc1Ni00YzM1LWE2NjMtZTg3Y2JkMjEzMTJjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Liv Tyler, Sean Astin, Christopher Lee, Elijah Wood, Viggo Mortensen, Miranda Otto, Ian McKellen, Orlando Bloom, John Rhys-Davies, and Andy Serkis in The Lord of the Rings: The Two Towers (2002)",
+        "width": 964,
+        "height": 1500
+      },
+      "imdbRating": 8.8,
+      "numVotes": 1936577,
+      "certificate": "PG-13",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 10740,
+      "runtimeMinutes": 179,
+      "metascore": 87,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 2,
+      "titleId": "tt0264464",
+      "title": "Catch Me If You Can",
+      "originalTitle": "Catch Me If You Can",
+      "year": 2002,
+      "releaseDate": {
+        "day": 25,
+        "month": 12,
+        "year": 2002
+      },
+      "plot": "Barely 17 yet, Frank is a skilled forger who has passed as a doctor, lawyer and pilot. FBI agent Carl becomes obsessed with tracking down the con man, who only revels in the pursuit.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_.jpg",
+        "caption": "Leonardo DiCaprio and Tom Hanks in Catch Me If You Can (2002)",
+        "width": 485,
+        "height": 719
+      },
+      "imdbRating": 8.1,
+      "numVotes": 1218412,
+      "certificate": "PG-13",
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 8460,
+      "runtimeMinutes": 141,
+      "metascore": 75,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 3,
+      "titleId": "tt0253474",
+      "title": "The Pianist",
+      "originalTitle": "The Pianist",
+      "year": 2002,
+      "releaseDate": {
+        "day": 28,
+        "month": 3,
+        "year": 2003
+      },
+      "plot": "During WWII, acclaimed Polish musician Wladyslaw faces various struggles as he loses contact with his family. As the situation worsens, he hides in the ruins of Warsaw in order to survive.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjEwNmEwYjgtNTk3ZC00NjljLTg5ZDctZTY3ZGQwZjRkZmQxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Adrien Brody in The Pianist (2002)",
+        "width": 787,
+        "height": 1087
+      },
+      "imdbRating": 8.5,
+      "numVotes": 1002785,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Music"
+      ],
+      "runtimeSeconds": 9000,
+      "runtimeMinutes": 150,
+      "metascore": 85,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 4,
+      "titleId": "tt0145487",
+      "title": "Spider-Man",
+      "originalTitle": "Spider-Man",
+      "year": 2002,
+      "releaseDate": {
+        "day": 3,
+        "month": 5,
+        "year": 2002
+      },
+      "plot": "After being bitten by a genetically-modified spider, a shy teenager gains spider-like abilities that he uses to fight injustice as a masked superhero and face a vengeful enemy.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWM0OWVmNTEtNWVkOS00MzgyLTkyMzgtMmE2ZTZiNjY4MmFiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tobey Maguire in Spider-Man (2002)",
+        "width": 511,
+        "height": 755
+      },
+      "imdbRating": 7.4,
+      "numVotes": 956280,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 7260,
+      "runtimeMinutes": 121,
+      "metascore": 73,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 5,
+      "titleId": "tt0317248",
+      "title": "City of God",
+      "originalTitle": "Cidade de Deus",
+      "year": 2002,
+      "releaseDate": {
+        "day": 13,
+        "month": 2,
+        "year": 2004
+      },
+      "plot": "In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjY4NGI5OTUtY2ZlZS00Zjk4LTk5N2MtN2JmYWVjNGNmMGRlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Inhabitants of Belo Vale Boa Morte and Cidade de Congonhas and Paige Ellens in City of God (2002)",
+        "width": 2000,
+        "height": 2950
+      },
+      "imdbRating": 8.6,
+      "numVotes": 863870,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 7800,
+      "runtimeMinutes": 130,
+      "metascore": 79,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 6,
+      "titleId": "tt0121765",
+      "title": "Star Wars: Episode II - Attack of the Clones",
+      "originalTitle": "Star Wars: Episode II - Attack of the Clones",
+      "year": 2002,
+      "releaseDate": {
+        "day": 16,
+        "month": 5,
+        "year": 2002
+      },
+      "plot": "Ten years after initially meeting, Anakin Skywalker shares a forbidden romance with Padm\u00e9 Amidala, while Obi-Wan Kenobi discovers a secret clone army crafted for the Jedi.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTgxMjY2YzUtZmVmNC00YjAwLWJlODMtNDBhNzllNzIzMjgxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Samuel L. Jackson, Ewan McGregor, Natalie Portman, Anthony Daniels, Frank Oz, Kenny Baker, Hayden Christensen, Temuera Morrison, Bodie Taylor, and Richard Stride in Star Wars: Episode II - Attack of the Clones (2002)",
+        "width": 2040,
+        "height": 3091
+      },
+      "imdbRating": 6.6,
+      "numVotes": 812963,
+      "certificate": "PG",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 8520,
+      "runtimeMinutes": 142,
+      "metascore": 54,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 7,
+      "titleId": "tt0295297",
+      "title": "Harry Potter and the Chamber of Secrets",
+      "originalTitle": "Harry Potter and the Chamber of Secrets",
+      "year": 2002,
+      "releaseDate": {
+        "day": 15,
+        "month": 11,
+        "year": 2002
+      },
+      "plot": "Harry Potter lives his second year at Hogwarts with Ron and Hermione when a message on the wall announces that the legendary Chamber of Secrets has been opened. The trio soon realize that, to save the school, it will take a lot of courage.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGJhM2M2MWYtZjIzMC00MDZmLThkY2EtOWViMDhhYjRhMzk4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Rupert Grint, Toby Jones, Daniel Radcliffe, and Emma Watson in Harry Potter and the Chamber of Secrets (2002)",
+        "width": 834,
+        "height": 1200
+      },
+      "imdbRating": 7.5,
+      "numVotes": 758249,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 9660,
+      "runtimeMinutes": 161,
+      "metascore": 63,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 8,
+      "titleId": "tt0181689",
+      "title": "Minority Report",
+      "originalTitle": "Minority Report",
+      "year": 2002,
+      "releaseDate": {
+        "day": 21,
+        "month": 6,
+        "year": 2002
+      },
+      "plot": "John works with the PreCrime police which stop crimes before they take place, with the help of three 'PreCogs' who can foresee crimes. Events ensue when John finds himself framed for a future murder.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTdmNzM3YzItZTRkYS00MTY5LTg4ZmItNjFmNTk2N2Q2NmNlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tom Cruise in Minority Report (2002)",
+        "width": 1000,
+        "height": 1500
+      },
+      "imdbRating": 7.6,
+      "numVotes": 617078,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Crime",
+        "Mystery"
+      ],
+      "runtimeSeconds": 8700,
+      "runtimeMinutes": 145,
+      "metascore": 80,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 9,
+      "titleId": "tt0258463",
+      "title": "The Bourne Identity",
+      "originalTitle": "The Bourne Identity",
+      "year": 2002,
+      "releaseDate": {
+        "day": 14,
+        "month": 6,
+        "year": 2002
+      },
+      "plot": "A man is picked up by a fishing boat, bullet-riddled and suffering from amnesia, before racing to elude assassins and attempting to regain his memory.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTk1ZTcyMWMtMWUxYS00MmEzLTlmODYtOTk1MGRjOTg1ZjlmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Matt Damon, Franka Potente, and Nicky Naud\u00e9 in The Bourne Identity (2002)",
+        "width": 1000,
+        "height": 1500
+      },
+      "imdbRating": 7.8,
+      "numVotes": 609297,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7140,
+      "runtimeMinutes": 119,
+      "metascore": 68,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 10,
+      "titleId": "tt0268380",
+      "title": "Ice Age",
+      "originalTitle": "Ice Age",
+      "year": 2002,
+      "releaseDate": {
+        "day": 15,
+        "month": 3,
+        "year": 2002
+      },
+      "plot": "Manny the mammoth, Sid the loquacious sloth, and Diego the sabre-toothed tiger go on a comical quest to return a human baby back to his father, across a world on the brink of an ice age.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDBlYzU2OGMtOGJjNi00ZGZjLWIwNjMtYzdiZjkwYWNjZDljXkEyXkFqcGc@._V1_.jpg",
+        "caption": "John Leguizamo, Denis Leary, and Ray Romano in Ice Age (2002)",
+        "width": 691,
+        "height": 1024
+      },
+      "imdbRating": 7.5,
+      "numVotes": 559613,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 4860,
+      "runtimeMinutes": 81,
+      "metascore": 61,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 11,
+      "titleId": "tt0289043",
+      "title": "28 Days Later",
+      "originalTitle": "28 Days Later",
+      "year": 2002,
+      "releaseDate": {
+        "day": 27,
+        "month": 6,
+        "year": 2003
+      },
+      "plot": "Four weeks after a mysterious, incurable virus spreads throughout the United Kingdom, a handful of survivors try to find sanctuary.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BM2I4NTI0ZGQtNGQ2ZC00ODIxLWI2N2QtMDBkNzI1NDhjYjE5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Cillian Murphy in 28 Days Later (2002)",
+        "width": 2000,
+        "height": 3000
+      },
+      "imdbRating": 7.5,
+      "numVotes": 537511,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6780,
+      "runtimeMinutes": 113,
+      "metascore": 73,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 12,
+      "titleId": "tt0217505",
+      "title": "Gangs of New York",
+      "originalTitle": "Gangs of New York",
+      "year": 2002,
+      "releaseDate": {
+        "day": 20,
+        "month": 12,
+        "year": 2002
+      },
+      "plot": "In 1862, Amsterdam Vallon returns to the Five Points area of New York City seeking revenge against Bill the Butcher; his father's killer.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTQ0MDA0MTUtYzkzMi00NDY3LThhZDEtNGM4MWUwYzMyZDk5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Leonardo DiCaprio, Cameron Diaz, and Daniel Day-Lewis in Gangs of New York (2002)",
+        "width": 512,
+        "height": 755
+      },
+      "imdbRating": 7.5,
+      "numVotes": 501357,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 10020,
+      "runtimeMinutes": 167,
+      "metascore": 72,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 13,
+      "titleId": "tt0120912",
+      "title": "Men in Black II",
+      "originalTitle": "Men in Black II",
+      "year": 2002,
+      "releaseDate": {
+        "day": 3,
+        "month": 7,
+        "year": 2002
+      },
+      "plot": "Agent J is sent to find Agent K and restore his memory after the re-appearance of a case from K's past.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTMxNDA0NTMxMV5BMl5BanBnXkFtZTYwMDE2NzY2._V1_.jpg",
+        "caption": "Tommy Lee Jones and Will Smith in Men in Black II (2002)",
+        "width": 600,
+        "height": 890
+      },
+      "imdbRating": 6.2,
+      "numVotes": 428511,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 5280,
+      "runtimeMinutes": 88,
+      "metascore": 49,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 14,
+      "titleId": "tt0286106",
+      "title": "Signs",
+      "originalTitle": "Signs",
+      "year": 2002,
+      "releaseDate": {
+        "day": 2,
+        "month": 8,
+        "year": 2002
+      },
+      "plot": "A widowed former reverend living with his children and brother on a Pennsylvania farm finds mysterious crop circles in their fields, which suggests something more frightening to come.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDUwMDUyMDAyNF5BMl5BanBnXkFtZTYwMDQ3NzM3._V1_.jpg",
+        "caption": "Signs (2002)",
+        "width": 485,
+        "height": 719
+      },
+      "imdbRating": 6.8,
+      "numVotes": 411330,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6360,
+      "runtimeMinutes": 106,
+      "metascore": 59,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 15,
+      "titleId": "tt0298130",
+      "title": "The Ring",
+      "originalTitle": "The Ring",
+      "year": 2002,
+      "releaseDate": {
+        "day": 18,
+        "month": 10,
+        "year": 2002
+      },
+      "plot": "A journalist must investigate a mysterious videotape which seems to cause the death of anyone one week to the day after they view it.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDA2NTg2NjE4Ml5BMl5BanBnXkFtZTYwMjYxMDg5._V1_.jpg",
+        "caption": "The Ring (2002)",
+        "width": 485,
+        "height": 717
+      },
+      "imdbRating": 7.1,
+      "numVotes": 399605,
+      "certificate": "PG-13",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "runtimeSeconds": 6900,
+      "runtimeMinutes": 115,
+      "metascore": 57,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 16,
+      "titleId": "tt0238380",
+      "title": "Equilibrium",
+      "originalTitle": "Equilibrium",
+      "year": 2002,
+      "releaseDate": {
+        "day": 6,
+        "month": 12,
+        "year": 2002
+      },
+      "plot": "In an oppressive future where all forms of feeling are illegal, a man in charge of enforcing the law rises to overthrow the system and state.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTkzMzA1OTI3N15BMl5BanBnXkFtZTYwMzUyMDg5._V1_.jpg",
+        "caption": "Christian Bale and Taye Diggs in Equilibrium (2002)",
+        "width": 450,
+        "height": 665
+      },
+      "imdbRating": 7.3,
+      "numVotes": 360700,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6420,
+      "runtimeMinutes": 107,
+      "metascore": 33,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 17,
+      "titleId": "tt0298203",
+      "title": "8 Mile",
+      "originalTitle": "8 Mile",
+      "year": 2002,
+      "releaseDate": {
+        "day": 8,
+        "month": 11,
+        "year": 2002
+      },
+      "plot": "Follows a young rapper in the Detroit area, struggling with every aspect of his life; he wants to make it big but his friends and foes make this odyssey of rap harder than it may seem.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzFhZDhjMDAtZWJlZS00ZWUyLWFlZGMtYTcwZjFlODcyMGE2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "8 Mile (2002)",
+        "width": 1529,
+        "height": 2265
+      },
+      "imdbRating": 7.2,
+      "numVotes": 348412,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Music"
+      ],
+      "runtimeSeconds": 6600,
+      "runtimeMinutes": 110,
+      "metascore": 77,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 18,
+      "titleId": "tt0278504",
+      "title": "Insomnia",
+      "originalTitle": "Insomnia",
+      "year": 2002,
+      "releaseDate": {
+        "day": 24,
+        "month": 5,
+        "year": 2002
+      },
+      "plot": "A Los Angeles detective chases a murder suspect in a remote Alaskan town.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTE2NzQ0MzQtMDRmZi00ZWRiLWE4MDEtY2M1Mjc3OGY5N2JkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Insomnia (2002)",
+        "width": 1014,
+        "height": 1500
+      },
+      "imdbRating": 7.2,
+      "numVotes": 339408,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7080,
+      "runtimeMinutes": 118,
+      "metascore": 78,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 19,
+      "titleId": "tt0293662",
+      "title": "The Transporter",
+      "originalTitle": "The Transporter",
+      "year": 2002,
+      "releaseDate": {
+        "day": 11,
+        "month": 10,
+        "year": 2002
+      },
+      "plot": "Frank Martin, who \"transports\" packages for unknown clients, is asked to move a package that soon begins moving, and complications arise.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTk2NDc2MDAxN15BMl5BanBnXkFtZTYwNDc1NDY2._V1_.jpg",
+        "caption": "Jason Statham in The Transporter (2002)",
+        "width": 484,
+        "height": 697
+      },
+      "imdbRating": 6.8,
+      "numVotes": 336432,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5520,
+      "runtimeMinutes": 92,
+      "metascore": 51,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 20,
+      "titleId": "tt0258000",
+      "title": "Panic Room",
+      "originalTitle": "Panic Room",
+      "year": 2002,
+      "releaseDate": {
+        "day": 29,
+        "month": 3,
+        "year": 2002
+      },
+      "plot": "A divorced woman and her diabetic daughter take refuge in their newly-purchased house's safe room when three men break-in, searching for a missing fortune.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODU0ZGM0MjctM2YxYy00OWY1LTk2N2YtNWE4ZWQ2ODQwMTI5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jodie Foster in Panic Room (2002)",
+        "width": 2100,
+        "height": 3125
+      },
+      "imdbRating": 6.8,
+      "numVotes": 312910,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6720,
+      "runtimeMinutes": 112,
+      "metascore": 65,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 21,
+      "titleId": "tt0289765",
+      "title": "Red Dragon",
+      "originalTitle": "Red Dragon",
+      "year": 2002,
+      "releaseDate": {
+        "day": 4,
+        "month": 10,
+        "year": 2002
+      },
+      "plot": "A retired FBI agent with psychological gifts is assigned to help track down \"The Tooth Fairy\", a mysterious serial killer. Aiding him is imprisoned forensic psychiatrist Dr. Hannibal \"The Cannibal\" Lecter.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNmI0MDEwZTktMzdjMy00NDhmLWI2YjMtNGI4YjY0NDc3MDZkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Anthony Hopkins and Edward Norton in Red Dragon (2002)",
+        "width": 1523,
+        "height": 2265
+      },
+      "imdbRating": 7.2,
+      "numVotes": 309918,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7440,
+      "runtimeMinutes": 124,
+      "metascore": 60,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 22,
+      "titleId": "tt0120804",
+      "title": "Resident Evil",
+      "originalTitle": "Resident Evil",
+      "year": 2002,
+      "releaseDate": {
+        "day": 15,
+        "month": 3,
+        "year": 2002
+      },
+      "plot": "A special military unit fights a powerful, out-of-control supercomputer and hundreds of scientists who have mutated into flesh-eating creatures after a laboratory accident.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYmI3YjJkN2ItY2ZmYS00Y2JhLTk2YTQtYzE5YWU5ODI1MzJmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Milla Jovovich and Michelle Rodriguez in Resident Evil (2002)",
+        "width": 550,
+        "height": 800
+      },
+      "imdbRating": 6.6,
+      "numVotes": 307244,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6000,
+      "runtimeMinutes": 100,
+      "metascore": 35,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 23,
+      "titleId": "tt0183649",
+      "title": "Phone Booth",
+      "originalTitle": "Phone Booth",
+      "year": 2002,
+      "releaseDate": {
+        "day": 4,
+        "month": 4,
+        "year": 2003
+      },
+      "plot": "Publicist Stuart Shepard finds himself trapped in a phone booth, pinned down by an extortionist's sniper rifle. Unable to leave or receive outside help, Stuart's negotiation with the caller leads to a jaw-dropping climax.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjJhYTNhYmEtODcyOS00ZGEwLWEwZTYtNzlkMmY0MjQ1OWQwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Forest Whitaker, Katie Holmes, Colin Farrell, and Radha Mitchell in Phone Booth (2002)",
+        "width": 1500,
+        "height": 2265
+      },
+      "imdbRating": 7.1,
+      "numVotes": 300323,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "runtimeSeconds": 4860,
+      "runtimeMinutes": 81,
+      "metascore": 56,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 24,
+      "titleId": "tt0257044",
+      "title": "Road to Perdition",
+      "originalTitle": "Road to Perdition",
+      "year": 2002,
+      "releaseDate": {
+        "day": 12,
+        "month": 7,
+        "year": 2002
+      },
+      "plot": "A mob enforcer's son in 1930s Illinois witnesses a murder, forcing him and his father to take to the road, and his father down a path of redemption and revenge.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjMyYjMyMzktMjlhZC00ZTZkLTkzMWQtZmEwMjdjNzJkM2RlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tom Hanks and Tyler Hoechlin in Road to Perdition (2002)",
+        "width": 1013,
+        "height": 1500
+      },
+      "imdbRating": 7.6,
+      "numVotes": 299017,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7020,
+      "runtimeMinutes": 117,
+      "metascore": 72,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 25,
+      "titleId": "tt0299658",
+      "title": "Chicago",
+      "originalTitle": "Chicago",
+      "year": 2002,
+      "releaseDate": {
+        "day": 24,
+        "month": 1,
+        "year": 2003
+      },
+      "plot": "Two death-row murderesses develop a fierce rivalry while competing for publicity, celebrity, and a sleazy lawyer's attention.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNmJmZDEyNTctOTM1MS00NWEwLWFkMjctMjhhODEzMjU1MjA0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Richard Gere, Ren\u00e9e Zellweger, and Catherine Zeta-Jones in Chicago (2002)",
+        "width": 1000,
+        "height": 1475
+      },
+      "imdbRating": 7.2,
+      "numVotes": 255136,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Musical"
+      ],
+      "runtimeSeconds": 6780,
+      "runtimeMinutes": 113,
+      "metascore": 81,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 26,
+      "titleId": "tt0187738",
+      "title": "Blade II",
+      "originalTitle": "Blade II",
+      "year": 2002,
+      "releaseDate": {
+        "day": 22,
+        "month": 3,
+        "year": 2002
+      },
+      "plot": "Blade forms an uneasy alliance with the vampire council in order to combat the Reapers, who are feeding on vampires.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMGE5ZmY2NzEtZTEyMi00MWIyLThmOWYtYzJkOTQ0Y2U3ZWU1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Wesley Snipes in Blade II (2002)",
+        "width": 800,
+        "height": 1184
+      },
+      "imdbRating": 6.7,
+      "numVotes": 250920,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 7020,
+      "runtimeMinutes": 117,
+      "metascore": 52,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 27,
+      "titleId": "tt0275847",
+      "title": "Lilo & Stitch",
+      "originalTitle": "Lilo & Stitch",
+      "year": 2002,
+      "releaseDate": {
+        "day": 21,
+        "month": 6,
+        "year": 2002
+      },
+      "plot": "A young and parentless girl adopts a 'dog' from the local pound, completely unaware that it's supposedly a dangerous scientific experiment that's taken refuge on Earth and is now hiding from its creator and those who see it as a menace.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzRiYTA1YTEtMjYwMi00NGVhLThkOGYtZDBlYjNjZDk2NDEwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Chris Sanders in Lilo & Stitch (2002)",
+        "width": 800,
+        "height": 1186
+      },
+      "imdbRating": 7.4,
+      "numVotes": 241444,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 5100,
+      "runtimeMinutes": 85,
+      "metascore": 75,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 28,
+      "titleId": "tt0246460",
+      "title": "Die Another Day",
+      "originalTitle": "Die Another Day",
+      "year": 2002,
+      "releaseDate": {
+        "day": 22,
+        "month": 11,
+        "year": 2002
+      },
+      "plot": "James Bond is sent to investigate the connection between a North Korean terrorist and a diamond mogul who's funding the development of an international space weapon.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDZiYWFmOTQtMTQ5Yy00MzA3LWFlNzktZTVmMGQ1MDA4MjEyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Pierce Brosnan and Halle Berry in Die Another Day (2002)",
+        "width": 1526,
+        "height": 2260
+      },
+      "imdbRating": 6.1,
+      "numVotes": 238978,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7980,
+      "runtimeMinutes": 133,
+      "metascore": 56,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 29,
+      "titleId": "tt0295178",
+      "title": "Austin Powers in Goldmember",
+      "originalTitle": "Austin Powers in Goldmember",
+      "year": 2002,
+      "releaseDate": {
+        "day": 26,
+        "month": 7,
+        "year": 2002
+      },
+      "plot": "Upon learning that his father has been kidnapped, Austin Powers must travel to 1975 and defeat the aptly named villain Goldmember, who is working with Dr. Evil.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTUwYjI0YzctMGI5Yy00NGU5LTgwMGUtMzE1OWZhYmRlMjMyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Mike Myers, Michael Caine, Beyonc\u00e9, and Verne Troyer in Austin Powers in Goldmember (2002)",
+        "width": 1200,
+        "height": 1800
+      },
+      "imdbRating": 6.3,
+      "numVotes": 233423,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 5640,
+      "runtimeMinutes": 94,
+      "metascore": 62,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 30,
+      "titleId": "tt0281358",
+      "title": "A Walk to Remember",
+      "originalTitle": "A Walk to Remember",
+      "year": 2002,
+      "releaseDate": {
+        "day": 25,
+        "month": 1,
+        "year": 2002
+      },
+      "plot": "Two North Carolina teens, Landon Carter and Jamie Sullivan, are thrown together after Landon gets into trouble and is sentenced to perform community service.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjkxZWE0YjMtYTk2OS00ZmFjLTk2YjEtY2M3MGY4MzE4MGNkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Mandy Moore and Shane West in A Walk to Remember (2002)",
+        "width": 1016,
+        "height": 1500
+      },
+      "imdbRating": 7.3,
+      "numVotes": 230161,
+      "certificate": "PG",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 6060,
+      "runtimeMinutes": 101,
+      "metascore": 35,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 31,
+      "titleId": "tt0268126",
+      "title": "Adaptation.",
+      "originalTitle": "Adaptation.",
+      "year": 2002,
+      "releaseDate": {
+        "day": 14,
+        "month": 2,
+        "year": 2003
+      },
+      "plot": "A lovelorn screenwriter becomes desperate as he tries and fails to adapt 'The Orchid Thief' by Susan Orlean for the screen.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMmQ1MWMxZjEtNmNmYi00ZGFhLWExZDItODcwNzlmZjg0YzNlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Nicolas Cage in Adaptation. (2002)",
+        "width": 1464,
+        "height": 2171
+      },
+      "imdbRating": 7.6,
+      "numVotes": 212963,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 6900,
+      "runtimeMinutes": 115,
+      "metascore": 83,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 32,
+      "titleId": "tt0276751",
+      "title": "About a Boy",
+      "originalTitle": "About a Boy",
+      "year": 2002,
+      "releaseDate": {
+        "day": 17,
+        "month": 5,
+        "year": 2002
+      },
+      "plot": "Will, who attends single parent meetings to woo women, meets Marcus, a troubled 12-year-old boy. As they become friends, Will learns to be responsible while he helps Marcus with his studies.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTQ2Mzg4MDAzNV5BMl5BanBnXkFtZTgwMjcxNTYxMTE@._V1_.jpg",
+        "caption": "Hugh Grant and Nicholas Hoult in About a Boy (2002)",
+        "width": 930,
+        "height": 1382
+      },
+      "imdbRating": 7.1,
+      "numVotes": 199289,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 6060,
+      "runtimeMinutes": 101,
+      "metascore": 75,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 33,
+      "titleId": "tt0272338",
+      "title": "Punch-Drunk Love",
+      "originalTitle": "Punch-Drunk Love",
+      "year": 2002,
+      "releaseDate": {
+        "day": 1,
+        "month": 11,
+        "year": 2002
+      },
+      "plot": "Socially frustrated Barry Egan calls a phone-sex line to curb his loneliness. Little does he know it will land him in deep trouble and will jeopardize his burgeoning romance with the mysterious Lena.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTYyMTQ2MDAtMzYzYS00YjZiLWJiNDUtZjEwNzM4YzE1ZDhhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Punch-Drunk Love (2002)",
+        "width": 620,
+        "height": 916
+      },
+      "imdbRating": 7.3,
+      "numVotes": 196129,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 5700,
+      "runtimeMinutes": 95,
+      "metascore": 78,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 34,
+      "titleId": "tt0299977",
+      "title": "Hero",
+      "originalTitle": "Ying xiong",
+      "year": 2002,
+      "releaseDate": {
+        "day": 27,
+        "month": 8,
+        "year": 2004
+      },
+      "plot": "A defense officer, Nameless, was summoned by the King of Qin regarding his success of terminating three warriors.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTlkZWVjYzQtZmI1My00MGM2LTlmZjEtNjU1M2Y1MTRkNmZjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Maggie Cheung, Jet Li, Tony Leung Chiu-wai, Donnie Yen, and Ziyi Zhang in Hero (2002)",
+        "width": 509,
+        "height": 755
+      },
+      "imdbRating": 7.9,
+      "numVotes": 193320,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "runtimeSeconds": 5640,
+      "runtimeMinutes": 94,
+      "metascore": 85,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 35,
+      "titleId": "tt0295701",
+      "title": "xXx",
+      "originalTitle": "xXx",
+      "year": 2002,
+      "releaseDate": {
+        "day": 9,
+        "month": 8,
+        "year": 2002
+      },
+      "plot": "The US government recruits extreme sports athlete Xander Cage to infiltrate a Russian criminal ring, which is plotting the destruction of the world.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjY0MTc4ZDEtY2MxYi00ODIxLWJlNzQtZTlmZDVkYTYwM2NhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "xXx (2002)",
+        "width": 1464,
+        "height": 2169
+      },
+      "imdbRating": 5.9,
+      "numVotes": 192908,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "runtimeSeconds": 7440,
+      "runtimeMinutes": 124,
+      "metascore": 48,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 36,
+      "titleId": "tt0307901",
+      "title": "25th Hour",
+      "originalTitle": "25th Hour",
+      "year": 2002,
+      "releaseDate": {
+        "day": 10,
+        "month": 1,
+        "year": 2003
+      },
+      "plot": "Cornered by the DEA, convicted New York drug dealer Montgomery Brogan reevaluates his life in the 24 remaining hours before facing a seven-year jail term.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjg0OWI0ZjktZTM0My00NmI3LTkzNDEtYzJiODE1ODM0MDk3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Edward Norton in 25th Hour (2002)",
+        "width": 846,
+        "height": 1190
+      },
+      "imdbRating": 7.6,
+      "numVotes": 190756,
+      "certificate": "R",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 8100,
+      "runtimeMinutes": 135,
+      "metascore": 69,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 37,
+      "titleId": "tt0280590",
+      "title": "Mr. Deeds",
+      "originalTitle": "Mr. Deeds",
+      "year": 2002,
+      "releaseDate": {
+        "day": 28,
+        "month": 6,
+        "year": 2002
+      },
+      "plot": "A sweet-natured small-town guy inherits a controlling stake in a media conglomerate and begins to do business his way.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzQwNjhjNTUtNDA3MS00MmI3LTgyMDgtNGE1ODA4YmNiZGQ3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Adam Sandler and John Turturro in Mr. Deeds (2002)",
+        "width": 1902,
+        "height": 2800
+      },
+      "imdbRating": 5.8,
+      "numVotes": 162772,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "runtimeSeconds": 5760,
+      "runtimeMinutes": 96,
+      "metascore": 24,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 38,
+      "titleId": "tt0290673",
+      "title": "Irreversible",
+      "originalTitle": "Irr\u00e9versible",
+      "year": 2002,
+      "releaseDate": {
+        "day": 22,
+        "month": 5,
+        "year": 2002
+      },
+      "plot": "Events over the course of one traumatic night in Paris unfold in reverse-chronological order.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTE2MWM1NTgtMGVjMy00ZGU2LWE4YTUtNTRlNWRhZWE2NmM0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Irreversible (2002)",
+        "width": 1440,
+        "height": 2160
+      },
+      "imdbRating": 7.3,
+      "numVotes": 161148,
+      "certificate": "Not Rated",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "runtimeSeconds": 5820,
+      "runtimeMinutes": 97,
+      "metascore": 51,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 39,
+      "titleId": "tt0277434",
+      "title": "We Were Soldiers",
+      "originalTitle": "We Were Soldiers",
+      "year": 2002,
+      "releaseDate": {
+        "day": 1,
+        "month": 3,
+        "year": 2002
+      },
+      "plot": "The story of the first major battle of the American phase of the Vietnam War, and the soldiers on both sides that fought it, while their wives wait nervously and anxiously at home for the good news or the bad news.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTU2ZDBmMDgtMTNiNC00ZGUyLWE3MGEtMmE5ODJmNDcxMmMyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Mel Gibson in We Were Soldiers (2002)",
+        "width": 1013,
+        "height": 1500
+      },
+      "imdbRating": 7.2,
+      "numVotes": 158751,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Drama",
+        "History"
+      ],
+      "runtimeSeconds": 8280,
+      "runtimeMinutes": 138,
+      "metascore": 65,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 40,
+      "titleId": "tt0245844",
+      "title": "The Count of Monte Cristo",
+      "originalTitle": "The Count of Monte Cristo",
+      "year": 2002,
+      "releaseDate": {
+        "day": 25,
+        "month": 1,
+        "year": 2002
+      },
+      "plot": "A young man, falsely imprisoned by his jealous \"friend\", escapes and uses a hidden treasure to exact his revenge.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjQ3NWUxNDMtNGUyYS00M2E4LThmYjgtZmQ3YTU4ZWZlNTk0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jim Caviezel in The Count of Monte Cristo (2002)",
+        "width": 1012,
+        "height": 1500
+      },
+      "imdbRating": 7.7,
+      "numVotes": 158646,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "runtimeSeconds": 7860,
+      "runtimeMinutes": 131,
+      "metascore": 61,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 41,
+      "titleId": "tt0251160",
+      "title": "John Q",
+      "originalTitle": "John Q",
+      "year": 2002,
+      "releaseDate": {
+        "day": 15,
+        "month": 2,
+        "year": 2002
+      },
+      "plot": "John Quincy Archibald takes a hospital emergency room hostage when his insurance won't cover his son's heart transplant.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTcxNTQ1MzAyOF5BMl5BanBnXkFtZTYwNDg0ODk4._V1_.jpg",
+        "caption": "Denzel Washington in John Q (2002)",
+        "width": 320,
+        "height": 475
+      },
+      "imdbRating": 7.1,
+      "numVotes": 152523,
+      "certificate": "PG-13",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6960,
+      "runtimeMinutes": 116,
+      "metascore": 30,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 42,
+      "titleId": "tt0310793",
+      "title": "Bowling for Columbine",
+      "originalTitle": "Bowling for Columbine",
+      "year": 2002,
+      "releaseDate": {
+        "day": 15,
+        "month": 11,
+        "year": 2002
+      },
+      "plot": "Filmmaker Michael Moore explores the roots of America's predilection for gun violence.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTNlYzY3NDEtNDk4OC00MzJjLWJmNWUtZTJjMTAzMTA1NWI1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Michael Moore in Bowling for Columbine (2002)",
+        "width": 1000,
+        "height": 1500
+      },
+      "imdbRating": 7.9,
+      "numVotes": 152066,
+      "certificate": "R",
+      "genres": [
+        "Documentary",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 7200,
+      "runtimeMinutes": 120,
+      "metascore": 72,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 43,
+      "titleId": "tt0253556",
+      "title": "Reign of Fire",
+      "originalTitle": "Reign of Fire",
+      "year": 2002,
+      "releaseDate": {
+        "day": 12,
+        "month": 7,
+        "year": 2002
+      },
+      "plot": "A brood of fire-breathing dragons emerges from the earth and begins setting everything ablaze, establishing dominance over the planet.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTFkMGVmZTUtMzcyMC00ZTBkLWExNzAtNTVmYTE3MjIzOTk1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Reign of Fire (2002)",
+        "width": 992,
+        "height": 1480
+      },
+      "imdbRating": 6.2,
+      "numVotes": 151899,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 6060,
+      "runtimeMinutes": 101,
+      "metascore": 39,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 44,
+      "titleId": "tt0277296",
+      "title": "The Scorpion King",
+      "originalTitle": "The Scorpion King",
+      "year": 2002,
+      "releaseDate": {
+        "day": 19,
+        "month": 4,
+        "year": 2002
+      },
+      "plot": "A desert warrior rises up against the evil army that is destroying his homeland. He captures the enemy's key sorcerer, takes her deep into the desert and prepares for a final showdown.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjkxNTAwNTQ0M15BMl5BanBnXkFtZTYwMTQwMjM3._V1_.jpg",
+        "caption": "Michael Clarke Duncan, Kelly Hu, Steven Brand, and Dwayne Johnson in The Scorpion King (2002)",
+        "width": 450,
+        "height": 669
+      },
+      "imdbRating": 5.5,
+      "numVotes": 151044,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 5520,
+      "runtimeMinutes": 92,
+      "metascore": 45,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 45,
+      "titleId": "tt0259446",
+      "title": "My Big Fat Greek Wedding",
+      "originalTitle": "My Big Fat Greek Wedding",
+      "year": 2002,
+      "releaseDate": {
+        "day": 2,
+        "month": 8,
+        "year": 2002
+      },
+      "plot": "A young Greek woman falls in love with a non-Greek and struggles to get her family to accept him while she comes to terms with her heritage and cultural identity.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNWVmZmM3ZmUtNTU5ZS00ZmUxLTk0NDYtNWIxZjY4Zjk0MjQyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Joey Fatone, Gia Carides, Michael Constantine, John Corbett, Lainie Kazan, Andrea Martin, and Nia Vardalos in My Big Fat Greek Wedding (2002)",
+        "width": 400,
+        "height": 600
+      },
+      "imdbRating": 6.6,
+      "numVotes": 150598,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 5700,
+      "runtimeMinutes": 95,
+      "metascore": 62,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 46,
+      "titleId": "tt0133240",
+      "title": "Treasure Planet",
+      "originalTitle": "Treasure Planet",
+      "year": 2002,
+      "releaseDate": {
+        "day": 29,
+        "month": 11,
+        "year": 2002
+      },
+      "plot": "Jim Hawkins is a teenager who finds the map of a great treasure hidden by a space pirate. Together with some friends, he sets off in a large spaceship, shaped like a caravel, on his quest.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BN2VjNjk5MTAtNDE3Ni00NjczLWFhN2EtNGQ1ZmZmOWRjZjIyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Treasure Planet (2002)",
+        "width": 1296,
+        "height": 1920
+      },
+      "imdbRating": 7.2,
+      "numVotes": 146502,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "runtimeSeconds": 5700,
+      "runtimeMinutes": 95,
+      "metascore": 60,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 47,
+      "titleId": "tt0274558",
+      "title": "The Hours",
+      "originalTitle": "The Hours",
+      "year": 2002,
+      "releaseDate": {
+        "day": 14,
+        "month": 2,
+        "year": 2003
+      },
+      "plot": "The story of how the novel \"Mrs. Dalloway\" affects three generations of women, all of whom, in one way or another, have had to deal with suicide in their lives.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODA0ZWVkZTktZDk3Ny00MTcwLWJhZTYtMTA3N2U2OTBiYzQ3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Nicole Kidman, Julianne Moore, and Meryl Streep in The Hours (2002)",
+        "width": 482,
+        "height": 755
+      },
+      "imdbRating": 7.5,
+      "numVotes": 146381,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 6840,
+      "runtimeMinutes": 114,
+      "metascore": 80,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 48,
+      "titleId": "tt0265459",
+      "title": "One Hour Photo",
+      "originalTitle": "One Hour Photo",
+      "year": 2002,
+      "releaseDate": {
+        "day": 13,
+        "month": 9,
+        "year": 2002
+      },
+      "plot": "A mentally unstable photo developer targets an upper middle-class family after his obsession with them becomes more sick and disturbing than any of them could imagine.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzZhYTZmMjYtNTg0Yy00NDhiLWIwMmItOTU1YmZhYWFiNWEzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Robin Williams in One Hour Photo (2002)",
+        "width": 1521,
+        "height": 2260
+      },
+      "imdbRating": 6.8,
+      "numVotes": 139014,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5760,
+      "runtimeMinutes": 96,
+      "metascore": 64,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 49,
+      "titleId": "tt0267913",
+      "title": "Scooby-Doo",
+      "originalTitle": "Scooby-Doo",
+      "year": 2002,
+      "releaseDate": {
+        "day": 14,
+        "month": 6,
+        "year": 2002
+      },
+      "plot": "After an acrimonious break up, the Mystery Inc. gang are individually brought to an island resort to investigate strange goings on.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTg4MzMzMTY0OF5BMl5BanBnXkFtZTYwNzM3MTg2._V1_.jpg",
+        "caption": "Matthew Lillard, Sarah Michelle Gellar, Linda Cardellini, Freddie Prinze Jr., Nicholas Hope, and Neil Fanning in Scooby-Doo (2002)",
+        "width": 485,
+        "height": 717
+      },
+      "imdbRating": 5.4,
+      "numVotes": 138971,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family"
+      ],
+      "runtimeSeconds": 5160,
+      "runtimeMinutes": 86,
+      "metascore": 35,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 50,
+      "titleId": "tt0257360",
+      "title": "About Schmidt",
+      "originalTitle": "About Schmidt",
+      "year": 2002,
+      "releaseDate": {
+        "day": 3,
+        "month": 1,
+        "year": 2003
+      },
+      "plot": "Newly retired from the insurance industry, Omaha native Warren Schmidt embarks on an RV journey to his estranged daughter Jeannie's wedding in Denver Colorado, only to discover more about himself and life than he ever expected.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTg3ODY2ODM3OF5BMl5BanBnXkFtZTYwOTQ5NTM3._V1_.jpg",
+        "caption": "Jack Nicholson in About Schmidt (2002)",
+        "width": 450,
+        "height": 668
+      },
+      "imdbRating": 7.2,
+      "numVotes": 137670,
+      "certificate": "R",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 7500,
+      "runtimeMinutes": 125,
+      "metascore": 85,
+      "credits": [],
+      "titleType": "movie"
+    }
+  ]
+}

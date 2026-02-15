@@ -1,0 +1,1593 @@
+{
+  "year": 2013,
+  "movies": [
+    {
+      "rank": 1,
+      "titleId": "tt0993846",
+      "title": "The Wolf of Wall Street",
+      "originalTitle": "The Wolf of Wall Street",
+      "year": 2013,
+      "releaseDate": {
+        "day": 25,
+        "month": 12,
+        "year": 2013
+      },
+      "plot": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_.jpg",
+        "caption": "Leonardo DiCaprio, Chris Kerson, and Jonah Hill in The Wolf of Wall Street (2013)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 8.2,
+      "numVotes": 1761568,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 10800,
+      "runtimeMinutes": 180,
+      "metascore": 75,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 2,
+      "titleId": "tt1300854",
+      "title": "Iron Man 3",
+      "originalTitle": "Iron Man Three",
+      "year": 2013,
+      "releaseDate": {
+        "day": 3,
+        "month": 5,
+        "year": 2013
+      },
+      "plot": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjIzMzAzMjQyM15BMl5BanBnXkFtZTcwNzM2NjcyOQ@@._V1_.jpg",
+        "caption": "Don Cheadle, Robert Downey Jr., Gwyneth Paltrow, Ben Kingsley, Guy Pearce, and Paul Bettany in Iron Man 3 (2013)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 7.1,
+      "numVotes": 957287,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 7800,
+      "runtimeMinutes": 130,
+      "metascore": 62,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 3,
+      "titleId": "tt1392214",
+      "title": "Prisoners",
+      "originalTitle": "Prisoners",
+      "year": 2013,
+      "releaseDate": {
+        "day": 20,
+        "month": 9,
+        "year": 2013
+      },
+      "plot": "A desperate father takes the law into his own hands after police fail to find two kidnapped girls.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_.jpg",
+        "caption": "Jake Gyllenhaal and Hugh Jackman in Prisoners (2013)",
+        "width": 1384,
+        "height": 2048
+      },
+      "imdbRating": 8.2,
+      "numVotes": 919614,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "runtimeSeconds": 9180,
+      "runtimeMinutes": 153,
+      "metascore": 70,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 4,
+      "titleId": "tt1454468",
+      "title": "Gravity",
+      "originalTitle": "Gravity",
+      "year": 2013,
+      "releaseDate": {
+        "day": 4,
+        "month": 10,
+        "year": 2013
+      },
+      "plot": "Dr Ryan Stone, an engineer on her first space mission, and Matt Kowalski, an astronaut on his final expedition, have to survive in space after they are hit by debris while spacewalking.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjE5MzYwMzYxMF5BMl5BanBnXkFtZTcwOTk4MTk0OQ@@._V1_.jpg",
+        "caption": "Gravity (2013)",
+        "width": 680,
+        "height": 1006
+      },
+      "imdbRating": 7.7,
+      "numVotes": 895078,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5460,
+      "runtimeMinutes": 91,
+      "metascore": 96,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 5,
+      "titleId": "tt0770828",
+      "title": "Man of Steel",
+      "originalTitle": "Man of Steel",
+      "year": 2013,
+      "releaseDate": {
+        "day": 14,
+        "month": 6,
+        "year": 2013
+      },
+      "plot": "An alien child is evacuated from his dying world and sent to Earth to live among humans. His peace is threatened when other survivors of his home planet invade Earth.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTk5ODk1NDkxMF5BMl5BanBnXkFtZTcwNTA5OTY0OQ@@._V1_.jpg",
+        "caption": "Henry Cavill in Man of Steel (2013)",
+        "width": 680,
+        "height": 1005
+      },
+      "imdbRating": 7.1,
+      "numVotes": 861207,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 8580,
+      "runtimeMinutes": 143,
+      "metascore": 55,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 6,
+      "titleId": "tt2024544",
+      "title": "12 Years a Slave",
+      "originalTitle": "12 Years a Slave",
+      "year": 2013,
+      "releaseDate": {
+        "day": 8,
+        "month": 11,
+        "year": 2013
+      },
+      "plot": "In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1_.jpg",
+        "caption": "Chiwetel Ejiofor in 12 Years a Slave (2013)",
+        "width": 509,
+        "height": 755
+      },
+      "imdbRating": 8.1,
+      "numVotes": 781425,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "runtimeSeconds": 8040,
+      "runtimeMinutes": 134,
+      "metascore": 96,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 7,
+      "titleId": "tt0816711",
+      "title": "World War Z",
+      "originalTitle": "World War Z",
+      "year": 2013,
+      "releaseDate": {
+        "day": 21,
+        "month": 6,
+        "year": 2013
+      },
+      "plot": "Former United Nations employee Gerry Lane traverses the world in a race against time to stop a zombie pandemic that is toppling armies and governments and threatens to destroy humanity itself.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODg3ZTM2YWQtZDE5Ny00NGNiLTkzYjgtYWVlYjNkOTg5NDI1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Brad Pitt in World War Z (2013)",
+        "width": 832,
+        "height": 1280
+      },
+      "imdbRating": 7,
+      "numVotes": 776249,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Horror"
+      ],
+      "runtimeSeconds": 6960,
+      "runtimeMinutes": 116,
+      "metascore": 63,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 8,
+      "titleId": "tt1981115",
+      "title": "Thor: The Dark World",
+      "originalTitle": "Thor: The Dark World",
+      "year": 2013,
+      "releaseDate": {
+        "day": 8,
+        "month": 11,
+        "year": 2013
+      },
+      "plot": "When the Dark Elves attempt to plunge the universe into darkness, Thor must embark on a perilous and personal journey that will reunite him with doctor Jane Foster.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTQyNzAwOTUxOF5BMl5BanBnXkFtZTcwMTE0OTc5OQ@@._V1_.jpg",
+        "caption": "Anthony Hopkins, Natalie Portman, Christopher Eccleston, Tadanobu Asano, Idris Elba, Ray Stevenson, Tom Hiddleston, Zachary Levi, Chris Hemsworth, and Jaimie Alexander in Thor: The Dark World (2013)",
+        "width": 770,
+        "height": 1100
+      },
+      "imdbRating": 6.7,
+      "numVotes": 771256,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 6720,
+      "runtimeMinutes": 112,
+      "metascore": 54,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 9,
+      "titleId": "tt1951264",
+      "title": "The Hunger Games: Catching Fire",
+      "originalTitle": "The Hunger Games: Catching Fire",
+      "year": 2013,
+      "releaseDate": {
+        "day": 22,
+        "month": 11,
+        "year": 2013
+      },
+      "plot": "Katniss Everdeen and Peeta Mellark become targets of the Capitol after their victory in the 74th Hunger Games sparks a rebellion in the Districts of Panem.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTAyMjQ3OTAxMzNeQTJeQWpwZ15BbWU4MDU0NzA1MzAx._V1_.jpg",
+        "caption": "Jennifer Lawrence in The Hunger Games: Catching Fire (2013)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 7.5,
+      "numVotes": 767631,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 8760,
+      "runtimeMinutes": 146,
+      "metascore": 76,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 10,
+      "titleId": "tt1670345",
+      "title": "Now You See Me",
+      "originalTitle": "Now You See Me",
+      "year": 2013,
+      "releaseDate": {
+        "day": 31,
+        "month": 5,
+        "year": 2013
+      },
+      "plot": "An FBI agent and an Interpol detective track a team of illusionists who pull off bank heists during their performances, and reward their audiences with the money.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTY0NDY3MDMxN15BMl5BanBnXkFtZTcwOTM5NzMzOQ@@._V1_.jpg",
+        "caption": "Morgan Freeman, Michael Caine, Woody Harrelson, Jesse Eisenberg, Isla Fisher, M\u00e9lanie Laurent, Mark Ruffalo, and Dave Franco in Now You See Me (2013)",
+        "width": 1315,
+        "height": 2048
+      },
+      "imdbRating": 7.2,
+      "numVotes": 764525,
+      "certificate": "PG-13",
+      "genres": [
+        "Crime",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6900,
+      "runtimeMinutes": 115,
+      "metascore": 50,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 11,
+      "titleId": "tt1170358",
+      "title": "The Hobbit: The Desolation of Smaug",
+      "originalTitle": "The Hobbit: The Desolation of Smaug",
+      "year": 2013,
+      "releaseDate": {
+        "day": 13,
+        "month": 12,
+        "year": 2013
+      },
+      "plot": "The dwarves, along with Bilbo Baggins and Gandalf the Grey, continue their quest to reclaim the Lonely Mountain, their homeland, from the dragon Smaug.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzU0NDY0NDEzNV5BMl5BanBnXkFtZTgwOTIxNDU1MDE@._V1_.jpg",
+        "caption": "Ian McKellen, Richard Armitage, Orlando Bloom, Martin Freeman, Lee Pace, Benedict Cumberbatch, Evangeline Lilly, and Luke Evans in The Hobbit: The Desolation of Smaug (2013)",
+        "width": 1384,
+        "height": 2048
+      },
+      "imdbRating": 7.8,
+      "numVotes": 748453,
+      "certificate": "PG-13",
+      "genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 9660,
+      "runtimeMinutes": 161,
+      "metascore": 66,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 12,
+      "titleId": "tt1798709",
+      "title": "Her",
+      "originalTitle": "Her",
+      "year": 2013,
+      "releaseDate": {
+        "day": 10,
+        "month": 1,
+        "year": 2014
+      },
+      "plot": "In the near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjA1Nzk0OTM2OF5BMl5BanBnXkFtZTgwNjU2NjEwMDE@._V1_.jpg",
+        "caption": "Joaquin Phoenix in Her (2013)",
+        "width": 510,
+        "height": 755
+      },
+      "imdbRating": 8,
+      "numVotes": 721564,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 7560,
+      "runtimeMinutes": 126,
+      "metascore": 91,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 13,
+      "titleId": "tt2294629",
+      "title": "Frozen",
+      "originalTitle": "Frozen",
+      "year": 2013,
+      "releaseDate": {
+        "day": 27,
+        "month": 11,
+        "year": 2013
+      },
+      "plot": "Fearless optimist Anna teams up with rugged mountain man Kristoff and his loyal reindeer Sven in an epic journey to find Anna's sister Elsa, whose icy powers have trapped the kingdom of Arendelle in eternal winter.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTQ1MjQwMTE5OF5BMl5BanBnXkFtZTgwNjk3MTcyMDE@._V1_.jpg",
+        "caption": "Kristen Bell, Idina Menzel, Josh Gad, Jonathan Groff, and Santino Fontana in Frozen 'Let It Go' in 25 Languages - Behind the Mic (2014)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 7.4,
+      "numVotes": 707089,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 6120,
+      "runtimeMinutes": 102,
+      "metascore": 75,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 14,
+      "titleId": "tt1343092",
+      "title": "The Great Gatsby",
+      "originalTitle": "The Great Gatsby",
+      "year": 2013,
+      "releaseDate": {
+        "day": 10,
+        "month": 5,
+        "year": 2013
+      },
+      "plot": "A writer and wall street trader, Nick Carraway, finds himself drawn to the past and lifestyle of his mysterious millionaire neighbor, Jay Gatsby, amid the riotous parties of the Jazz Age.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTkxNTk1ODcxNl5BMl5BanBnXkFtZTcwMDI1OTMzOQ@@._V1_.jpg",
+        "caption": "Leonardo DiCaprio, Tobey Maguire, Joel Edgerton, Isla Fisher, Carey Mulligan, and Elizabeth Debicki in The Great Gatsby (2013)",
+        "width": 999,
+        "height": 1500
+      },
+      "imdbRating": 7.2,
+      "numVotes": 637704,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 8580,
+      "runtimeMinutes": 143,
+      "metascore": 55,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 15,
+      "titleId": "tt1457767",
+      "title": "The Conjuring",
+      "originalTitle": "The Conjuring",
+      "year": 2013,
+      "releaseDate": {
+        "day": 19,
+        "month": 7,
+        "year": 2013
+      },
+      "plot": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTM3NjA1NDMyMV5BMl5BanBnXkFtZTcwMDQzNDMzOQ@@._V1_.jpg",
+        "caption": "Lili Taylor and Vera Farmiga in The Conjuring (2013)",
+        "width": 1200,
+        "height": 1778
+      },
+      "imdbRating": 7.5,
+      "numVotes": 615687,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6720,
+      "runtimeMinutes": 112,
+      "metascore": 68,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 16,
+      "titleId": "tt1483013",
+      "title": "Oblivion",
+      "originalTitle": "Oblivion",
+      "year": 2013,
+      "releaseDate": {
+        "day": 19,
+        "month": 4,
+        "year": 2013
+      },
+      "plot": "A stranger's arrival triggers one man's battle to save mankind.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTQwMDY0MTA4MF5BMl5BanBnXkFtZTcwNzI3MDgxOQ@@._V1_.jpg",
+        "caption": "Tom Cruise in Oblivion (2013)",
+        "width": 1000,
+        "height": 1583
+      },
+      "imdbRating": 7,
+      "numVotes": 582821,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 7440,
+      "runtimeMinutes": 124,
+      "metascore": 54,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 17,
+      "titleId": "tt1663662",
+      "title": "Pacific Rim",
+      "originalTitle": "Pacific Rim",
+      "year": 2013,
+      "releaseDate": {
+        "day": 12,
+        "month": 7,
+        "year": 2013
+      },
+      "plot": "As a war between humankind and monstrous sea creatures wages on, a former pilot and a trainee are paired up to drive a seemingly obsolete special weapon in a desperate effort to save the world from the apocalypse.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTY3MTI5NjQ4Nl5BMl5BanBnXkFtZTcwOTU1OTU0OQ@@._V1_.jpg",
+        "caption": "Pacific Rim (2013)",
+        "width": 999,
+        "height": 1477
+      },
+      "imdbRating": 6.9,
+      "numVotes": 555682,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 7860,
+      "runtimeMinutes": 131,
+      "metascore": 65,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 18,
+      "titleId": "tt1979320",
+      "title": "Rush",
+      "originalTitle": "Rush",
+      "year": 2013,
+      "releaseDate": {
+        "day": 27,
+        "month": 9,
+        "year": 2013
+      },
+      "plot": "James Hunt and Niki Lauda, two extremely skilled Formula One racers, have an intense rivalry with each other. However, it is their enmity that pushes them to their limits.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTZhOGQxM2ItNGQyYy00YzE5LWI5MjMtNmMzNGQzNDE1OTUzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Daniel Br\u00fchl and Chris Hemsworth in Rush (2013)",
+        "width": 1944,
+        "height": 2880
+      },
+      "imdbRating": 8.1,
+      "numVotes": 554082,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Sport"
+      ],
+      "runtimeSeconds": 7380,
+      "runtimeMinutes": 123,
+      "metascore": 74,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 19,
+      "titleId": "tt0790636",
+      "title": "Dallas Buyers Club",
+      "originalTitle": "Dallas Buyers Club",
+      "year": 2013,
+      "releaseDate": {
+        "day": 22,
+        "month": 11,
+        "year": 2013
+      },
+      "plot": "In 1985 Dallas, electrician and hustler Ron Woodroof works around the system to help AIDS patients get the medication they need after he is diagnosed with the disease.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTYwMTA4MzgyNF5BMl5BanBnXkFtZTgwMjEyMjE0MDE@._V1_.jpg",
+        "caption": "Matthew McConaughey in Dallas Buyers Club (2013)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 7.9,
+      "numVotes": 545011,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "runtimeSeconds": 7020,
+      "runtimeMinutes": 117,
+      "metascore": 77,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 20,
+      "titleId": "tt1430132",
+      "title": "The Wolverine",
+      "originalTitle": "The Wolverine",
+      "year": 2013,
+      "releaseDate": {
+        "day": 26,
+        "month": 7,
+        "year": 2013
+      },
+      "plot": "Wolverine comes to Japan to meet an old friend whose life he saved years ago, and gets embroiled in a conspiracy involving yakuza and mutants.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGU0MzRhMWEtYTBkNS00NzliLWJkMmUtMDFlMjkyOTkyYmZlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Hugh Jackman in The Wolverine (2013)",
+        "width": 2000,
+        "height": 3000
+      },
+      "imdbRating": 6.7,
+      "numVotes": 521162,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 7560,
+      "runtimeMinutes": 126,
+      "metascore": 61,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 21,
+      "titleId": "tt1723121",
+      "title": "We're the Millers",
+      "originalTitle": "We're the Millers",
+      "year": 2013,
+      "releaseDate": {
+        "day": 7,
+        "month": 8,
+        "year": 2013
+      },
+      "plot": "A veteran pot dealer creates a fake family as part of his plan to move a huge shipment of weed into the U.S. from Mexico.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDQ0NWI1ZGEtY2NlMy00MWYyLTk4NGEtMTY5MmQ4YTcyY2E0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jennifer Aniston, Emma Roberts, Jason Sudeikis, and Will Poulter in We're the Millers (2013)",
+        "width": 1384,
+        "height": 2048
+      },
+      "imdbRating": 7,
+      "numVotes": 520091,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 6600,
+      "runtimeMinutes": 110,
+      "metascore": 44,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 22,
+      "titleId": "tt1800241",
+      "title": "American Hustle",
+      "originalTitle": "American Hustle",
+      "year": 2013,
+      "releaseDate": {
+        "day": 20,
+        "month": 12,
+        "year": 2013
+      },
+      "plot": "A con man, Irving Rosenfeld, along with his seductive partner Sydney Prosser, is forced to work for a wild F.B.I. Agent, Richie DiMaso, who pushes them into a world of Jersey powerbrokers and the Mafia.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMGQ2NzEwZGEtYjk1MC00NWFmLTgyYTgtZmRhMTRmOTBlN2U5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Christian Bale, Amy Adams, Bradley Cooper, Jeremy Renner, and Jennifer Lawrence in American Hustle (2013)",
+        "width": 648,
+        "height": 960
+      },
+      "imdbRating": 7.2,
+      "numVotes": 516687,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 8280,
+      "runtimeMinutes": 138,
+      "metascore": 90,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 23,
+      "titleId": "tt1535109",
+      "title": "Captain Phillips",
+      "originalTitle": "Captain Phillips",
+      "year": 2013,
+      "releaseDate": {
+        "day": 11,
+        "month": 10,
+        "year": 2013
+      },
+      "plot": "The true story of Captain Richard Phillips and the 2009 hijacking by Somali pirates of the U.S.-flagged MV Maersk Alabama, the first American cargo ship to be hijacked in two hundred years.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMWYyNjI3ZjEtNGE5ZS00MDgxLWIzNGEtZTgzNDVlZjZjYWU5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Faysal Ahmed and Barkhad Abdirahman in Captain Phillips (2013)",
+        "width": 2025,
+        "height": 3000
+      },
+      "imdbRating": 7.8,
+      "numVotes": 516509,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Biography",
+        "Crime"
+      ],
+      "runtimeSeconds": 8040,
+      "runtimeMinutes": 134,
+      "metascore": 82,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 24,
+      "titleId": "tt1408101",
+      "title": "Star Trek Into Darkness",
+      "originalTitle": "Star Trek Into Darkness",
+      "year": 2013,
+      "releaseDate": {
+        "day": 16,
+        "month": 5,
+        "year": 2013
+      },
+      "plot": "After the crew of the Enterprise find an unstoppable force of terror from within their own organization, Captain Kirk leads a manhunt to a war-zone world to capture a one-man weapon of mass destruction.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTk2NzczOTgxNF5BMl5BanBnXkFtZTcwODQ5ODczOQ@@._V1_.jpg",
+        "caption": "Star Trek Into Darkness (2013)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 7.7,
+      "numVotes": 508823,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 7920,
+      "runtimeMinutes": 132,
+      "metascore": 72,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 25,
+      "titleId": "tt1535108",
+      "title": "Elysium",
+      "originalTitle": "Elysium",
+      "year": 2013,
+      "releaseDate": {
+        "day": 9,
+        "month": 8,
+        "year": 2013
+      },
+      "plot": "In the year 2154, the very wealthy live on a man-made space station while the rest of the population resides on a ruined Earth. A man takes on a mission that could bring equality to the polarized worlds.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDc2NjU0MTcwNV5BMl5BanBnXkFtZTcwMjg4MDg2OQ@@._V1_.jpg",
+        "caption": "Matt Damon in Elysium (2013)",
+        "width": 1012,
+        "height": 1500
+      },
+      "imdbRating": 6.6,
+      "numVotes": 489183,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6540,
+      "runtimeMinutes": 109,
+      "metascore": 61,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 26,
+      "titleId": "tt1690953",
+      "title": "Despicable Me 2",
+      "originalTitle": "Despicable Me 2",
+      "year": 2013,
+      "releaseDate": {
+        "day": 3,
+        "month": 7,
+        "year": 2013
+      },
+      "plot": "When a new criminal comes to town, the Anti-Villain League decides to hire Gru in order to fight him off. While Gru initially refuses, he eventually agrees after his aide goes back to his evil ways.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTQxNzY1MjI5NF5BMl5BanBnXkFtZTcwNTI0MDY1OQ@@._V1_.jpg",
+        "caption": "Steve Carell, Chris Renaud, and Pierre Coffin in Despicable Me 2 (2013)",
+        "width": 947,
+        "height": 1500
+      },
+      "imdbRating": 7.3,
+      "numVotes": 455604,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 5880,
+      "runtimeMinutes": 98,
+      "metascore": 62,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 27,
+      "titleId": "tt1245492",
+      "title": "This Is the End",
+      "originalTitle": "This Is the End",
+      "year": 2013,
+      "releaseDate": {
+        "day": 12,
+        "month": 6,
+        "year": 2013
+      },
+      "plot": "Six Los Angeles celebrities are stuck in James Franco's house after a series of devastating events just destroyed the city. Inside, the group not only have to face the apocalypse, but themselves.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTQxODE3NjM1Ml5BMl5BanBnXkFtZTcwMzkzNjc4OA@@._V1_.jpg",
+        "caption": "Jay Baruchel, James Franco, Craig Robinson, Seth Rogen, Danny McBride, and Jonah Hill in This Is the End (2013)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 6.6,
+      "numVotes": 452929,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6420,
+      "runtimeMinutes": 107,
+      "metascore": 67,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 28,
+      "titleId": "tt1905041",
+      "title": "Fast & Furious 6",
+      "originalTitle": "Furious 6",
+      "year": 2013,
+      "releaseDate": {
+        "day": 24,
+        "month": 5,
+        "year": 2013
+      },
+      "plot": "Hobbs has Dominic and Brian reassemble their crew to take down a team of mercenaries, but Dominic unexpectedly gets sidetracked with facing his presumed deceased girlfriend, Letty.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTM3NTg2NDQzOF5BMl5BanBnXkFtZTcwNjc2NzQzOQ@@._V1_.jpg",
+        "caption": "Fast & Furious 6 (2013)",
+        "width": 1012,
+        "height": 1500
+      },
+      "imdbRating": 7,
+      "numVotes": 437308,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7800,
+      "runtimeMinutes": 130,
+      "metascore": 61,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 29,
+      "titleId": "tt2194499",
+      "title": "About Time",
+      "originalTitle": "About Time",
+      "year": 2013,
+      "releaseDate": {
+        "day": 8,
+        "month": 11,
+        "year": 2013
+      },
+      "plot": "At the age of 21, Tim discovers he can travel in time and change what happens and has happened in his own life. His decision to make his world a better place by getting a girlfriend turns out not to be as easy as you might think.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTA1ODUzMDA3NzFeQTJeQWpwZ15BbWU3MDgxMTYxNTk@._V1_.jpg",
+        "caption": "Rachel McAdams and Domhnall Gleeson in About Time (2013)",
+        "width": 900,
+        "height": 1425
+      },
+      "imdbRating": 7.8,
+      "numVotes": 428322,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 7380,
+      "runtimeMinutes": 123,
+      "metascore": 55,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 30,
+      "titleId": "tt1453405",
+      "title": "Monsters University",
+      "originalTitle": "Monsters University",
+      "year": 2013,
+      "releaseDate": {
+        "day": 21,
+        "month": 6,
+        "year": 2013
+      },
+      "plot": "A look at the relationship between Mike Wazowski and James P. \"Sully\" Sullivan during their days at Monsters University, when they weren't necessarily the best of friends.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTUyODgwMDU3M15BMl5BanBnXkFtZTcwOTM4MjcxOQ@@._V1_.jpg",
+        "caption": "Steve Buscemi, Billy Crystal, John Goodman, Helen Mirren, Alfred Molina, Bonnie Hunt, John Ratzenberger, Dave Foley, Kathy Griffin, Sean Hayes, Jason Marsden, Randy Newman, Lori Alan, Carlos Alazraqui, Jack Angel, Robert L. Baird, Bob Bergen, Gregg Berger, Rodger Bumpass, Tara Strong, Dane Cook, John Cygan, Charlie Day, Walt Dohrn, Paul Eiding, Jessica Evans, Bill Farmer, Dannah Feinglass Phirman, Nathan Fillion, Donald Fullilove, Teresa Ganzel, Daniel Gerson, Jan Rabson, Bill Hader, Jess Harnell, Jean-Claude Kalache, John Kassir, Tyler Labine, Dawnn Lewis, Sherry Lynn, Danny Mann, Mona Marshall, Mickie McGowan, Alec Medlock, Joel Murray, Laraine Newman, Ricky Nierva, Colleen O'Shaughnessey, Bret 'Brook' Parker, Donovan Patton, Bob Peterson, Jeff Pidgeon, Kori Rae, Dan Scanlon, Greg Snyder, Peter Sohn, Mindy Sterling, Julia Sweeney, Marcia Wallace, Jim Ward, April Winchell, John Krasinski, Sean Conroy, Bobby Moynihan, Joel Spence, Patrick Seitz, Makenna Cowgill, Greg Dykstra, Keith Ferguson, Colette Whitaker, Cristina Pucelli, Brandon Johnson, Allan McLeod, Neil Campbell, Aubrey Plaza, Matthew Mercer, Andy Fischer-Price, Elissa Knight, Raymond Ochoa, Tyler Ganus, David Neher, Samantha Sadoff, Gage Davenport, Isabella Acres, Joseph John Schirle, Noah Johnston, Patrick Carlyle, Montse Hernandez, Mason Cook, Lindsay Lefler, Beth Behrs, Davin Ransom, Dave Theune, Tyree Brown, Jack Bright, Ava Acres, Madison Rothschild, Erica Teeple, Tricia McAlpin, Nikolas Michailidis, Betsy Sodaro, Aram\u00e9 Scott, Gia Michailidis, Mike Hanford, Kristen Li, Pam Murphy, Casey Barden, Natalie Jane Dang, Ethan Louis Samuels DiSalvio, Brooke Klinger, Alexis Poindexter, Ileanna Bravos, Clayton Drier, Faith Goblirsch, Calum John, Marley Pearson, Khiara Symone Threets, and Kristen Phaneuf in Monsters University (2013)",
+        "width": 1085,
+        "height": 1608
+      },
+      "imdbRating": 7.2,
+      "numVotes": 420635,
+      "certificate": "G",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 6240,
+      "runtimeMinutes": 104,
+      "metascore": 65,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 31,
+      "titleId": "tt1706620",
+      "title": "Snowpiercer",
+      "originalTitle": "Snowpiercer",
+      "year": 2013,
+      "releaseDate": {
+        "day": 11,
+        "month": 7,
+        "year": 2014
+      },
+      "plot": "In a future where a failed climate change experiment has killed all life except for the survivors who boarded the Snowpiercer (a train that travels around the globe), a new class system emerges.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTQ3NzA1MTY3MV5BMl5BanBnXkFtZTgwNzE2Mzg5MTE@._V1_.jpg",
+        "caption": "Ed Harris, John Hurt, Jamie Bell, Chris Evans, Song Kang-ho, Octavia Spencer, and Tilda Swinton in Snowpiercer (2013)",
+        "width": 1381,
+        "height": 2048
+      },
+      "imdbRating": 7.1,
+      "numVotes": 417456,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7560,
+      "runtimeMinutes": 126,
+      "metascore": 84,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 32,
+      "titleId": "tt0359950",
+      "title": "The Secret Life of Walter Mitty",
+      "originalTitle": "The Secret Life of Walter Mitty",
+      "year": 2013,
+      "releaseDate": {
+        "day": 25,
+        "month": 12,
+        "year": 2013
+      },
+      "plot": "When both he and a colleague are about to lose their job, Walter takes action by embarking on an adventure more extraordinary than anything he ever imagined.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODYwNDYxNDk1Nl5BMl5BanBnXkFtZTgwOTAwMTk2MDE@._V1_.jpg",
+        "caption": "Ben Stiller in The Secret Life of Walter Mitty (2013)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 7.3,
+      "numVotes": 367681,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 6840,
+      "runtimeMinutes": 114,
+      "metascore": 54,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 33,
+      "titleId": "tt1951261",
+      "title": "The Hangover Part III",
+      "originalTitle": "The Hangover Part III",
+      "year": 2013,
+      "releaseDate": {
+        "day": 23,
+        "month": 5,
+        "year": 2013
+      },
+      "plot": "When one of their own is kidnapped by an angry gangster, the Wolf Pack must track down Mr. Chow, who has escaped from prison and is on the run.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTA0NjE1MzMzODheQTJeQWpwZ15BbWU3MDY4MTQ3Mzk@._V1_.jpg",
+        "caption": "Bradley Cooper, Zach Galifianakis, and Ed Helms in The Hangover Part III (2013)",
+        "width": 1327,
+        "height": 2048
+      },
+      "imdbRating": 5.9,
+      "numVotes": 359614,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 6000,
+      "runtimeMinutes": 100,
+      "metascore": 30,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 34,
+      "titleId": "tt1091191",
+      "title": "Lone Survivor",
+      "originalTitle": "Lone Survivor",
+      "year": 2013,
+      "releaseDate": {
+        "day": 10,
+        "month": 1,
+        "year": 2014
+      },
+      "plot": "Marcus Luttrell and his team set out on a mission to capture or kill notorious Taliban leader Ahmad Shah, in late June 2005. Marcus and his team are left to fight for their lives in one of the most valiant efforts of modern warfare.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjA0NTgwOTk5Ml5BMl5BanBnXkFtZTcwMjE3NDc5OQ@@._V1_.jpg",
+        "caption": "Mark Wahlberg in Lone Survivor (2013)",
+        "width": 1080,
+        "height": 1600
+      },
+      "imdbRating": 7.5,
+      "numVotes": 321928,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Biography",
+        "Drama"
+      ],
+      "runtimeSeconds": 7260,
+      "runtimeMinutes": 121,
+      "metascore": 60,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 35,
+      "titleId": "tt1213663",
+      "title": "The World's End",
+      "originalTitle": "The World's End",
+      "year": 2013,
+      "releaseDate": {
+        "day": 23,
+        "month": 8,
+        "year": 2013
+      },
+      "plot": "Five friends who reunite in an attempt to top their epic pub crawl from twenty years earlier unwittingly become humanity's only hope for survival.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzA1MTk1MzY0OV5BMl5BanBnXkFtZTgwNjkzNTUwMDE@._V1_.jpg",
+        "caption": "Paddy Considine, Martin Freeman, Nick Frost, Eddie Marsan, Simon Pegg, and Rosamund Pike in The World's End (2013)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 6.9,
+      "numVotes": 311406,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6540,
+      "runtimeMinutes": 109,
+      "metascore": 81,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 36,
+      "titleId": "tt2302755",
+      "title": "Olympus Has Fallen",
+      "originalTitle": "Olympus Has Fallen",
+      "year": 2013,
+      "releaseDate": {
+        "day": 22,
+        "month": 3,
+        "year": 2013
+      },
+      "plot": "Secret Service agent Mike Banning finds himself trapped inside the White House in the wake of a terrorist attack and works with national security to rescue the President from his kidnappers.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzg3Mjc0YzItZWQyOS00ODY4LTgwZjUtYWRmYzM1MDg1ZDA5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Morgan Freeman, Aaron Eckhart, and Gerard Butler in Olympus Has Fallen (2013)",
+        "width": 1016,
+        "height": 1500
+      },
+      "imdbRating": 6.5,
+      "numVotes": 305291,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7140,
+      "runtimeMinutes": 119,
+      "metascore": 41,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 37,
+      "titleId": "tt1650554",
+      "title": "Kick-Ass 2",
+      "originalTitle": "Kick-Ass 2",
+      "year": 2013,
+      "releaseDate": {
+        "day": 16,
+        "month": 8,
+        "year": 2013
+      },
+      "plot": "Following Kick-Ass' heroics, other citizens are inspired to become masked crusaders, but Red Mist leads his own group of evil super-villains to get revenge, kill Kick-Ass, and destroy everything he stands for.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTQ4OTQxNzc0N15BMl5BanBnXkFtZTcwOTQxOTU5OQ@@._V1_.jpg",
+        "caption": "Jim Carrey, Aaron Taylor-Johnson, Chlo\u00eb Grace Moretz, and Christopher Mintz-Plasse in Kick-Ass 2 (2013)",
+        "width": 1410,
+        "height": 2048
+      },
+      "imdbRating": 6.5,
+      "numVotes": 299072,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 6180,
+      "runtimeMinutes": 103,
+      "metascore": 41,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 38,
+      "titleId": "tt1211956",
+      "title": "Escape Plan",
+      "originalTitle": "Escape Plan",
+      "year": 2013,
+      "releaseDate": {
+        "day": 18,
+        "month": 10,
+        "year": 2013
+      },
+      "plot": "When a structural-security authority finds himself set up and incarcerated in the world's most secret and secure prison, he has to use his skills to escape with help from the inside.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTk3OTcxMTEyNl5BMl5BanBnXkFtZTcwMDQ4MjQ2OQ@@._V1_.jpg",
+        "caption": "Arnold Schwarzenegger and Sylvester Stallone in Escape Plan (2013)",
+        "width": 1383,
+        "height": 2048
+      },
+      "imdbRating": 6.7,
+      "numVotes": 269449,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6900,
+      "runtimeMinutes": 115,
+      "metascore": 49,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 39,
+      "titleId": "tt1731141",
+      "title": "Ender's Game",
+      "originalTitle": "Ender's Game",
+      "year": 2013,
+      "releaseDate": {
+        "day": 1,
+        "month": 11,
+        "year": 2013
+      },
+      "plot": "Young Ender Wiggin is recruited by the International Military to lead the fight against the Formics, an insectoid alien race who had previously tried to invade Earth and had inflicted heavy losses on humankind.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjAzMzI5OTgzMl5BMl5BanBnXkFtZTgwMTU5MTAwMDE@._V1_.jpg",
+        "caption": "Harrison Ford, Ben Kingsley, Viola Davis, Abigail Breslin, Asa Butterfield, and Hailee Steinfeld in Ender's Game (2013)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 6.6,
+      "numVotes": 263793,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6840,
+      "runtimeMinutes": 114,
+      "metascore": 51,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 40,
+      "titleId": "tt2184339",
+      "title": "The Purge",
+      "originalTitle": "The Purge",
+      "year": 2013,
+      "releaseDate": {
+        "day": 7,
+        "month": 6,
+        "year": 2013
+      },
+      "plot": "A wealthy family is held hostage for harboring the target of a murderous syndicate during the Purge, a 12-hour period in which any and all crime is legal.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTQzNTcwODEyM15BMl5BanBnXkFtZTcwMjM1MDI0OQ@@._V1_.jpg",
+        "caption": "Rhys Wakefield in The Purge (2013)",
+        "width": 1293,
+        "height": 2048
+      },
+      "imdbRating": 5.8,
+      "numVotes": 258493,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5100,
+      "runtimeMinutes": 85,
+      "metascore": 41,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 41,
+      "titleId": "tt2229499",
+      "title": "Don Jon",
+      "originalTitle": "Don Jon",
+      "year": 2013,
+      "releaseDate": {
+        "day": 27,
+        "month": 9,
+        "year": 2013
+      },
+      "plot": "A New Jersey guy dedicated to his family, friends, and church, develops unrealistic expectations from watching porn and works to find happiness and intimacy with his potential true love.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDgwMTU2NDctODI0YS00ZmIxLWFiNjEtZDI2ZGE3NWFlZDY2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Julianne Moore, Joseph Gordon-Levitt, and Scarlett Johansson in Don Jon (2013)",
+        "width": 678,
+        "height": 1061
+      },
+      "imdbRating": 6.5,
+      "numVotes": 254257,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 5400,
+      "runtimeMinutes": 90,
+      "metascore": 66,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 42,
+      "titleId": "tt1588173",
+      "title": "Warm Bodies",
+      "originalTitle": "Warm Bodies",
+      "year": 2013,
+      "releaseDate": {
+        "day": 1,
+        "month": 2,
+        "year": 2013
+      },
+      "plot": "After a highly unusual zombie saves a still-living girl from an attack, the two form a relationship that sets in motion events that might transform the entire lifeless world.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTM2YWZhMDUtMzEzMi00YzUzLWI0ZjYtNzgzNTA4YWEzOTdkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Nicholas Hoult and Teresa Palmer in Warm Bodies (2013)",
+        "width": 989,
+        "height": 1400
+      },
+      "imdbRating": 6.8,
+      "numVotes": 253933,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Horror"
+      ],
+      "runtimeSeconds": 5880,
+      "runtimeMinutes": 98,
+      "metascore": 60,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 43,
+      "titleId": "tt1210819",
+      "title": "The Lone Ranger",
+      "originalTitle": "The Lone Ranger",
+      "year": 2013,
+      "releaseDate": {
+        "day": 3,
+        "month": 7,
+        "year": 2013
+      },
+      "plot": "Native American warrior Tonto recounts the untold tales that transformed John Reid, a man of the law, into a legend of justice.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjQ1YWE5NzktOWYyYS00MTBmLWE1NDUtMTU5Mzc2YWQyNzhjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Johnny Depp and Armie Hammer in The Lone Ranger (2013)",
+        "width": 800,
+        "height": 1185
+      },
+      "imdbRating": 6.4,
+      "numVotes": 251893,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "runtimeSeconds": 9000,
+      "runtimeMinutes": 150,
+      "metascore": 37,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 44,
+      "titleId": "tt0481499",
+      "title": "The Croods",
+      "originalTitle": "The Croods",
+      "year": 2013,
+      "releaseDate": {
+        "day": 22,
+        "month": 3,
+        "year": 2013
+      },
+      "plot": "In the primeval era, Grug and his family risk the dangers of their surroundings to find a new dwelling place. Along the way, they meet a modern boy who woos them with his adventurous ways.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTcyOTc2OTA1Ml5BMl5BanBnXkFtZTcwOTI1MjkzOQ@@._V1_.jpg",
+        "caption": "Nicolas Cage, Catherine Keener, Cloris Leachman, Ryan Reynolds, Clark Duke, Chris Sanders, Randy Thom, and Emma Stone in The Croods (2013)",
+        "width": 1383,
+        "height": 2048
+      },
+      "imdbRating": 7.1,
+      "numVotes": 249407,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 5880,
+      "runtimeMinutes": 98,
+      "metascore": 55,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 45,
+      "titleId": "tt2334879",
+      "title": "White House Down",
+      "originalTitle": "White House Down",
+      "year": 2013,
+      "releaseDate": {
+        "day": 28,
+        "month": 6,
+        "year": 2013
+      },
+      "plot": "While on a tour of the White House with his young daughter, a Capitol policeman springs into action to save his child and protect the president from a heavily armed group of dangerous terrorists.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTZkMmRiY2EtOTljZS00MjJjLWFiNDQtNjEwYWE0NWNkYjI4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jamie Foxx and Channing Tatum in White House Down (2013)",
+        "width": 773,
+        "height": 1146
+      },
+      "imdbRating": 6.3,
+      "numVotes": 247707,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7860,
+      "runtimeMinutes": 131,
+      "metascore": 52,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 46,
+      "titleId": "tt1980209",
+      "title": "Pain & Gain",
+      "originalTitle": "Pain & Gain",
+      "year": 2013,
+      "releaseDate": {
+        "day": 26,
+        "month": 4,
+        "year": 2013
+      },
+      "plot": "A trio of bodybuilders in Florida get caught up in an extortion ring and a kidnapping scheme that goes terribly wrong.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTU0NDE5NTU0OV5BMl5BanBnXkFtZTcwMzI1OTMzOQ@@._V1_.jpg",
+        "caption": "Mark Wahlberg, Dwayne Johnson, and Anthony Mackie in Pain & Gain (2013)",
+        "width": 1017,
+        "height": 1500
+      },
+      "imdbRating": 6.4,
+      "numVotes": 240192,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Biography",
+        "Comedy"
+      ],
+      "runtimeSeconds": 7740,
+      "runtimeMinutes": 129,
+      "metascore": 45,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 47,
+      "titleId": "tt2316411",
+      "title": "Enemy",
+      "originalTitle": "Enemy",
+      "year": 2013,
+      "releaseDate": {
+        "day": 6,
+        "month": 2,
+        "year": 2014
+      },
+      "plot": "A mild-mannered college professor investigates the life of an actor who looks exactly like him.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTQ2NzA5NjE4N15BMl5BanBnXkFtZTgwMjQ4NzMxMTE@._V1_.jpg",
+        "caption": "Enemy (2013)",
+        "width": 1980,
+        "height": 2916
+      },
+      "imdbRating": 6.9,
+      "numVotes": 236262,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5460,
+      "runtimeMinutes": 91,
+      "metascore": 61,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 48,
+      "titleId": "tt1272878",
+      "title": "2 Guns",
+      "originalTitle": "2 Guns",
+      "year": 2013,
+      "releaseDate": {
+        "day": 2,
+        "month": 8,
+        "year": 2013
+      },
+      "plot": "Two hardened criminals get into trouble with the US border patrol after meeting with a Mexican drug lord, and then revelations start to unfold.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTQ5MTgzNDg4OF5BMl5BanBnXkFtZTcwMjAyODEzOQ@@._V1_.jpg",
+        "caption": "Mark Wahlberg and Denzel Washington in 2 Guns (2013)",
+        "width": 1292,
+        "height": 2048
+      },
+      "imdbRating": 6.7,
+      "numVotes": 236254,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 6540,
+      "runtimeMinutes": 109,
+      "metascore": 55,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 49,
+      "titleId": "tt1321870",
+      "title": "Gangster Squad",
+      "originalTitle": "Gangster Squad",
+      "year": 2013,
+      "releaseDate": {
+        "day": 11,
+        "month": 1,
+        "year": 2013
+      },
+      "plot": "It's 1949 Los Angeles, the city is run by gangsters and a malicious mobster, Mickey Cohen. Determined to end the corruption, John O'Mara assembles a team of cops, ready to take down the ruthless leader and restore peace to the city.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTcwMjAyMTUzMl5BMl5BanBnXkFtZTcwODgxNzk1OA@@._V1_.jpg",
+        "caption": "Sean Penn, Josh Brolin, Ryan Gosling, and Emma Stone in Gangster Squad (2013)",
+        "width": 680,
+        "height": 1006
+      },
+      "imdbRating": 6.7,
+      "numVotes": 228159,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 6780,
+      "runtimeMinutes": 113,
+      "metascore": 40,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 50,
+      "titleId": "tt2234155",
+      "title": "The Internship",
+      "originalTitle": "The Internship",
+      "year": 2013,
+      "releaseDate": {
+        "day": 7,
+        "month": 6,
+        "year": 2013
+      },
+      "plot": "Two salesmen whose careers have been torpedoed by the digital age find their way into a coveted internship at Google, where they must compete with a group of young, tech-savvy geniuses for a shot at employment.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjM1MzczMDgwOV5BMl5BanBnXkFtZTcwMDM4NjM2OQ@@._V1_.jpg",
+        "caption": "Vince Vaughn and Owen Wilson in The Internship (2013)",
+        "width": 509,
+        "height": 755
+      },
+      "imdbRating": 6.3,
+      "numVotes": 226191,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy"
+      ],
+      "runtimeSeconds": 7140,
+      "runtimeMinutes": 119,
+      "metascore": 42,
+      "credits": [],
+      "titleType": "movie"
+    }
+  ]
+}

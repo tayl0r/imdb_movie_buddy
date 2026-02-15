@@ -1,0 +1,1598 @@
+{
+  "year": 2024,
+  "movies": [
+    {
+      "rank": 1,
+      "titleId": "tt15239678",
+      "title": "Dune: Part Two",
+      "originalTitle": "Dune: Part Two",
+      "year": 2024,
+      "releaseDate": {
+        "day": 1,
+        "month": 3,
+        "year": 2024
+      },
+      "plot": "Paul Atreides unites with the Fremen while on a warpath of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the universe, he endeavors to prevent a terrible future.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Javier Bardem, Josh Brolin, Stellan Skarsg\u00e5rd, Rebecca Ferguson, Dave Bautista, Austin Butler, Timoth\u00e9e Chalamet, Zendaya, Florence Pugh, and Souheila Yacoub in Dune: Part Two (2024)",
+        "width": 2764,
+        "height": 4096
+      },
+      "imdbRating": 8.4,
+      "numVotes": 714525,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "runtimeSeconds": 9960,
+      "runtimeMinutes": 166,
+      "metascore": 79,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 2,
+      "titleId": "tt6263850",
+      "title": "Deadpool & Wolverine",
+      "originalTitle": "Deadpool & Wolverine",
+      "year": 2024,
+      "releaseDate": {
+        "day": 26,
+        "month": 7,
+        "year": 2024
+      },
+      "plot": "Deadpool is offered a place in the Marvel Cinematic Universe by the Time Variance Authority, but instead recruits a variant of Wolverine to save his universe from extinction.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTk5ODY0MmQtMzA3Ni00NGY1LThiYzItZThiNjFiNDM4MTM3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ryan Reynolds and Hugh Jackman in Deadpool & Wolverine (2024)",
+        "width": 2025,
+        "height": 3000
+      },
+      "imdbRating": 7.5,
+      "numVotes": 553798,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 7680,
+      "runtimeMinutes": 128,
+      "metascore": 56,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 3,
+      "titleId": "tt17526714",
+      "title": "The Substance",
+      "originalTitle": "The Substance",
+      "year": 2024,
+      "releaseDate": {
+        "day": 20,
+        "month": 9,
+        "year": 2024
+      },
+      "plot": "A fading celebrity takes a black-market drug: a cell-replicating substance that helps her create a younger, better version of herself.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDQ1NGE5MGMtYzdlZC00ODExLWJlMDMtNWU4NjA5OWYwMDEwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "The Substance (2024)",
+        "width": 1944,
+        "height": 2844
+      },
+      "imdbRating": 7.2,
+      "numVotes": 401560,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 8460,
+      "runtimeMinutes": 141,
+      "metascore": 78,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 4,
+      "titleId": "tt12037194",
+      "title": "Furiosa: A Mad Max Saga",
+      "originalTitle": "Furiosa: A Mad Max Saga",
+      "year": 2024,
+      "releaseDate": {
+        "day": 24,
+        "month": 5,
+        "year": 2024
+      },
+      "plot": "After being snatched from the Green Place of Many Mothers, while the tyrants Dementus and Immortan Joe fight for power and control, the young Furiosa must survive many trials as she puts together the means to find her way home.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTcwYWE1NTYtOWNiYy00NzY3LWIwY2MtNjJmZDkxNDNmOWE1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Charlize Theron, Tom Burke, Lachy Hulme, Nathan Jones, Xanthia Marinelli, Ranjeet Manjrekar, Chris Hemsworth, Cyrus Ning, Shakriya Tarinyawat, Goran D. Kleut, Josh Helman, Hiroshi Kasuga, Anya Taylor-Joy, Robert McFarlane, and Cody Riley in Furiosa: A Mad Max Saga (2024)",
+        "width": 2764,
+        "height": 4096
+      },
+      "imdbRating": 7.5,
+      "numVotes": 314707,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 8880,
+      "runtimeMinutes": 148,
+      "metascore": 79,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 5,
+      "titleId": "tt9218128",
+      "title": "Gladiator II",
+      "originalTitle": "Gladiator II",
+      "year": 2024,
+      "releaseDate": {
+        "day": 22,
+        "month": 11,
+        "year": 2024
+      },
+      "plot": "After his home is conquered by the tyrannical emperors who now lead Rome, Lucius is forced to enter the Colosseum and must look to his past to find strength to return the glory of Rome to its people.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMWYzZTM5ZGQtOGE5My00NmM2LWFlMDEtMGNjYjdmOWM1MzA1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Denzel Washington, Connie Nielsen, Pedro Pascal, and Paul Mescal in Gladiator II (2024)",
+        "width": 878,
+        "height": 1300
+      },
+      "imdbRating": 6.5,
+      "numVotes": 288489,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "runtimeSeconds": 8880,
+      "runtimeMinutes": 148,
+      "metascore": 64,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 6,
+      "titleId": "tt18412256",
+      "title": "Alien: Romulus",
+      "originalTitle": "Alien: Romulus",
+      "year": 2024,
+      "releaseDate": {
+        "day": 16,
+        "month": 8,
+        "year": 2024
+      },
+      "plot": "While scavenging the deep ends of a derelict space station, a group of young space colonists come face to face with the most terrifying life form in the universe.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDU0NjcwOGQtNjNjOS00NzQ3LWIwM2YtYWVmODZjMzQzN2ExXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Aileen Wu in Alien: Romulus (2024)",
+        "width": 2025,
+        "height": 3000
+      },
+      "imdbRating": 7.1,
+      "numVotes": 280609,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7140,
+      "runtimeMinutes": 119,
+      "metascore": 64,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 7,
+      "titleId": "tt17279496",
+      "title": "Civil War",
+      "originalTitle": "Civil War",
+      "year": 2024,
+      "releaseDate": {
+        "day": 12,
+        "month": 4,
+        "year": 2024
+      },
+      "plot": "In a dystopian future, four journalists travel across the United States during a nation-wide conflict. While trying to survive, they aim to reach the White House to interview the president before he is overthrown.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTkzMjc0YzgtY2E0Yi00NDBlLWI0MWUtODY1ZjExMDAyOWZiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Civil War (2024)",
+        "width": 8100,
+        "height": 12000
+      },
+      "imdbRating": 7,
+      "numVotes": 263005,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Thriller",
+        "War"
+      ],
+      "runtimeSeconds": 6540,
+      "runtimeMinutes": 109,
+      "metascore": 75,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 8,
+      "titleId": "tt28607951",
+      "title": "Anora",
+      "originalTitle": "Anora",
+      "year": 2024,
+      "releaseDate": {
+        "day": 8,
+        "month": 11,
+        "year": 2024
+      },
+      "plot": "A young stripper from Brooklyn meets and impulsively marries the son of a Russian oligarch. Once the news reaches Russia, her fairy tale is threatened as his parents set out for New York to get the marriage annulled.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYThiN2M0NTItODRmNC00NDhlLWFiYTgtMWM2YTEyYzI3ZTY1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Mark Eydelshteyn and Mikey Madison in Anora (2024)",
+        "width": 3483,
+        "height": 5160
+      },
+      "imdbRating": 7.4,
+      "numVotes": 262552,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 8340,
+      "runtimeMinutes": 139,
+      "metascore": 91,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 9,
+      "titleId": "tt5040012",
+      "title": "Nosferatu",
+      "originalTitle": "Nosferatu",
+      "year": 2024,
+      "releaseDate": {
+        "day": 25,
+        "month": 12,
+        "year": 2024
+      },
+      "plot": "A gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2FhZGE3NmEtNWJjOC00NDI1LWFhMTQtMjcxNmQzZmEwNGIzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Lily-Rose Depp in Nosferatu (2024)",
+        "width": 1080,
+        "height": 1600
+      },
+      "imdbRating": 7.1,
+      "numVotes": 258671,
+      "certificate": "R",
+      "genres": [
+        "Fantasy",
+        "Horror",
+        "Mystery"
+      ],
+      "runtimeSeconds": 7920,
+      "runtimeMinutes": 132,
+      "metascore": 78,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 10,
+      "titleId": "tt20215234",
+      "title": "Conclave",
+      "originalTitle": "Conclave",
+      "year": 2024,
+      "releaseDate": {
+        "day": 25,
+        "month": 10,
+        "year": 2024
+      },
+      "plot": "When Cardinal Lawrence is tasked with leading the selection of a new Pope, he finds himself in a web of conspiracy and intrigue that could shake the very foundations of the Catholic Church.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjgxMDI5NmMtNTU3OS00ZDQxLTgxZmEtNzY1ZTBmMDY4NDRkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ralph Fiennes, Isabella Rossellini, John Lithgow, and Stanley Tucci in Conclave (2024)",
+        "width": 1080,
+        "height": 1600
+      },
+      "imdbRating": 7.4,
+      "numVotes": 251028,
+      "certificate": "PG",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7200,
+      "runtimeMinutes": 120,
+      "metascore": 79,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 11,
+      "titleId": "tt1684562",
+      "title": "The Fall Guy",
+      "originalTitle": "The Fall Guy",
+      "year": 2024,
+      "releaseDate": {
+        "day": 3,
+        "month": 5,
+        "year": 2024
+      },
+      "plot": "A stuntman, fresh off an almost career-ending accident, has to track down a missing movie star, solve a conspiracy and try to win back the love of his life while still doing his day job.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BM2U0MTJiYTItMjNiZS00MzU4LTkxYTAtYTU0ZGY1ODJhMjRhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ryan Gosling and Emily Blunt in The Fall Guy (2024)",
+        "width": 1579,
+        "height": 2500
+      },
+      "imdbRating": 6.8,
+      "numVotes": 250927,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 7560,
+      "runtimeMinutes": 126,
+      "metascore": 73,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 12,
+      "titleId": "tt22022452",
+      "title": "Inside Out 2",
+      "originalTitle": "Inside Out 2",
+      "year": 2024,
+      "releaseDate": {
+        "day": 14,
+        "month": 6,
+        "year": 2024
+      },
+      "plot": "A sequel that features Riley entering puberty and experiencing brand new, more complex emotions as a result. As Riley tries to adapt to her teenage years, her old emotions try to adapt to the possibility of being replaced.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYWY3MDE2Y2UtOTE3Zi00MGUzLTg2MTItZjE1ZWVkMGVlODRmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Lewis Black, Tony Hale, Liza Lapira, Amy Poehler, Phyllis Smith, Maya Hawke, Ad\u00e8le Exarchopoulos, Paul Walter Hauser, and Ayo Edebiri in Inside Out 2 (2024)",
+        "width": 4050,
+        "height": 6000
+      },
+      "imdbRating": 7.5,
+      "numVotes": 243764,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 5760,
+      "runtimeMinutes": 96,
+      "metascore": 73,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 13,
+      "titleId": "tt1262426",
+      "title": "Wicked",
+      "originalTitle": "Wicked: Part I",
+      "year": 2024,
+      "releaseDate": {
+        "day": 22,
+        "month": 11,
+        "year": 2024
+      },
+      "plot": "Elphaba, a young woman ridiculed for her green skin, and Galinda, a popular girl, become friends at Shiz University in the Land of Oz. After an encounter with the Wonderful Wizard of Oz, their friendship reaches a crossroads.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWMwYjYzYmMtMWQ2Ni00NWUwLTg2MzAtYzkzMDBiZDIwOTMwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ariana Grande and Cynthia Erivo in Wicked (2024)",
+        "width": 758,
+        "height": 1200
+      },
+      "imdbRating": 7.3,
+      "numVotes": 224187,
+      "certificate": "PG",
+      "genres": [
+        "Fantasy",
+        "Musical",
+        "Romance"
+      ],
+      "runtimeSeconds": 9600,
+      "runtimeMinutes": 160,
+      "metascore": 73,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 14,
+      "titleId": "tt23468450",
+      "title": "Longlegs",
+      "originalTitle": "Longlegs",
+      "year": 2024,
+      "releaseDate": {
+        "day": 12,
+        "month": 7,
+        "year": 2024
+      },
+      "plot": "In pursuit of a serial killer, an FBI agent uncovers a series of occult clues that she must solve to end his terrifying killing spree.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMmJkNGNiNjgtMzFlYy00ZDI5LWI2YzktZGVjYjI5MjQyMGU3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Maika Monroe in Longlegs (2024)",
+        "width": 3600,
+        "height": 5334
+      },
+      "imdbRating": 6.6,
+      "numVotes": 217578,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Horror",
+        "Mystery"
+      ],
+      "runtimeSeconds": 6060,
+      "runtimeMinutes": 101,
+      "metascore": 77,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 15,
+      "titleId": "tt28015403",
+      "title": "Heretic",
+      "originalTitle": "Heretic",
+      "year": 2024,
+      "releaseDate": {
+        "day": 8,
+        "month": 11,
+        "year": 2024
+      },
+      "plot": "Two young religious women are drawn into a game of cat-and-mouse in the house of a strange man.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzFiMWM4YjAtY2Y3Yi00MDIzLTk0N2MtYTAwNGM3ZmMwODhlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Hugh Grant in Heretic (2024)",
+        "width": 1944,
+        "height": 2880
+      },
+      "imdbRating": 7,
+      "numVotes": 216271,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6660,
+      "runtimeMinutes": 111,
+      "metascore": 71,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 16,
+      "titleId": "tt29623480",
+      "title": "The Wild Robot",
+      "originalTitle": "The Wild Robot",
+      "year": 2024,
+      "releaseDate": {
+        "day": 27,
+        "month": 9,
+        "year": 2024
+      },
+      "plot": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWNiZjVlZTUtNGUwYi00MjJmLTg2MDctNWEzYTJiMzY1ODc4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Mark Hamill, Pedro Pascal, Lupita Nyong'o, Piotr Michael, and Kit Connor in The Wild Robot (2024)",
+        "width": 1579,
+        "height": 2500
+      },
+      "imdbRating": 8.2,
+      "numVotes": 213773,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ],
+      "runtimeSeconds": 6120,
+      "runtimeMinutes": 102,
+      "metascore": 85,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 17,
+      "titleId": "tt12584954",
+      "title": "Twisters",
+      "originalTitle": "Twisters",
+      "year": 2024,
+      "releaseDate": {
+        "day": 19,
+        "month": 7,
+        "year": 2024
+      },
+      "plot": "Kate Carter, a retired tornado-chaser and meteorologist, is persuaded to return to Oklahoma to work with a new team and new technologies.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjM4MWEwMTEtNTcwYi00ZDI4LWEwMzUtNDMzODBhZmI5MWE1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Glen Powell, Anthony Ramos, and Daisy Edgar-Jones in Twisters (2024)",
+        "width": 2025,
+        "height": 3000
+      },
+      "imdbRating": 6.5,
+      "numVotes": 190987,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7320,
+      "runtimeMinutes": 122,
+      "metascore": 65,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 18,
+      "titleId": "tt21382296",
+      "title": "Carry-On",
+      "originalTitle": "Carry-On",
+      "year": 2024,
+      "releaseDate": {
+        "day": 13,
+        "month": 12,
+        "year": 2024
+      },
+      "plot": "A mysterious traveler blackmails a young TSA agent into letting a dangerous package slip through security and onto a Christmas Eve flight.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTNkMjQzNmQtNzE4ZC00NDlmLTkyYjAtZDZkYTQ5NjBmYThlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jason Bateman and Taron Egerton in Carry-On (2024)",
+        "width": 1350,
+        "height": 2000
+      },
+      "imdbRating": 6.5,
+      "numVotes": 189879,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7140,
+      "runtimeMinutes": 119,
+      "metascore": 69,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 19,
+      "titleId": "tt3359350",
+      "title": "Road House",
+      "originalTitle": "Road House",
+      "year": 2024,
+      "releaseDate": {
+        "day": 21,
+        "month": 3,
+        "year": 2024
+      },
+      "plot": "Ex-UFC fighter Dalton takes a job as a bouncer at a Florida Keys roadhouse, only to discover that this paradise is not all it seems.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODVkYjlkM2UtNWVlMS00N2U1LTgxOTYtODlmNmE1YTgzMjczXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jake Gyllenhaal in Road House (2024)",
+        "width": 1944,
+        "height": 2880
+      },
+      "imdbRating": 6.2,
+      "numVotes": 181522,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7260,
+      "runtimeMinutes": 121,
+      "metascore": 57,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 20,
+      "titleId": "tt11315808",
+      "title": "Joker: Folie \u00e0 Deux",
+      "originalTitle": "Joker: Folie \u00e0 Deux",
+      "year": 2024,
+      "releaseDate": {
+        "day": 4,
+        "month": 10,
+        "year": 2024
+      },
+      "plot": "Struggling with his dual identity, failed comedian Arthur Fleck meets the love of his life, Harley Quinn, while incarcerated at Arkham State Hospital.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTRlNmU1NzEtODNkNC00ZGM3LWFmNzQtMjBlMWRiYTcyMGRhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Joaquin Phoenix and Lady Gaga in Joker: Folie \u00e0 Deux (2024)",
+        "width": 2764,
+        "height": 4096
+      },
+      "imdbRating": 5.2,
+      "numVotes": 178783,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Musical",
+        "Thriller"
+      ],
+      "runtimeSeconds": 8280,
+      "runtimeMinutes": 138,
+      "metascore": 45,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 21,
+      "titleId": "tt15314262",
+      "title": "The Beekeeper",
+      "originalTitle": "The Beekeeper",
+      "year": 2024,
+      "releaseDate": {
+        "day": 12,
+        "month": 1,
+        "year": 2024
+      },
+      "plot": "A former operative of a powerful organization embarks on a brutal campaign for vengeance.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzg3YjVmZGYtOTc5MC00MDdiLTllOTYtZWQ0ODQ1MmMyNTExXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jason Statham in The Beekeeper (2024)",
+        "width": 2765,
+        "height": 4096
+      },
+      "imdbRating": 6.3,
+      "numVotes": 176005,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6300,
+      "runtimeMinutes": 105,
+      "metascore": 53,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 22,
+      "titleId": "tt16426418",
+      "title": "Challengers",
+      "originalTitle": "Challengers",
+      "year": 2024,
+      "releaseDate": {
+        "day": 26,
+        "month": 4,
+        "year": 2024
+      },
+      "plot": "Tashi, a former tennis prodigy turned coach, transformed her husband into a champion. But to overcome a recent losing streak and redeem himself, he'll need to face off against his former best friend and Tashi's ex-boyfriend.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTcyZGIyODctZGJhOS00MWUyLWI5ZWEtMjg4YzhkMDczMDBhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Zendaya, Mike Faist, and Josh O'Connor in Challengers (2024)",
+        "width": 2765,
+        "height": 4096
+      },
+      "imdbRating": 7,
+      "numVotes": 174363,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 7860,
+      "runtimeMinutes": 131,
+      "metascore": 82,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 23,
+      "titleId": "tt13433802",
+      "title": "A Quiet Place: Day One",
+      "originalTitle": "A Quiet Place: Day One",
+      "year": 2024,
+      "releaseDate": {
+        "day": 28,
+        "month": 6,
+        "year": 2024
+      },
+      "plot": "A young woman named Sam finds herself trapped in New York City during the early stages of an invasion by alien creatures with ultra-sensitive hearing.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDdjZTljZWMtMDIwNi00MTA5LTkxZmItNmY0NDA3ZDM0N2M2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Lupita Nyong'o and Joseph Quinn in A Quiet Place: Day One (2024)",
+        "width": 2025,
+        "height": 3000
+      },
+      "imdbRating": 6.3,
+      "numVotes": 171147,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 5940,
+      "runtimeMinutes": 99,
+      "metascore": 68,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 24,
+      "titleId": "tt2049403",
+      "title": "Beetlejuice Beetlejuice",
+      "originalTitle": "Beetlejuice Beetlejuice",
+      "year": 2024,
+      "releaseDate": {
+        "day": 6,
+        "month": 9,
+        "year": 2024
+      },
+      "plot": "After a family tragedy, three generations of the Deetz family return home to Winter River. Still haunted by Beetlejuice, Lydia's life is turned upside down when her teenage daughter, Astrid, accidentally opens the portal to the Afterlife.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTQ4Y2MzY2MtYzQyMS00ZTQ3LWIzZGQtNjVjYzgwYzA1MDkzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Beetlejuice Beetlejuice (2024)",
+        "width": 1012,
+        "height": 1500
+      },
+      "imdbRating": 6.6,
+      "numVotes": 170536,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Horror"
+      ],
+      "runtimeSeconds": 6300,
+      "runtimeMinutes": 105,
+      "metascore": 62,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 25,
+      "titleId": "tt11389872",
+      "title": "Kingdom of the Planet of the Apes",
+      "originalTitle": "Kingdom of the Planet of the Apes",
+      "year": 2024,
+      "releaseDate": {
+        "day": 10,
+        "month": 5,
+        "year": 2024
+      },
+      "plot": "Many years after the reign of Caesar, a young ape goes on a journey that will lead him to question everything he's been taught about the past and make choices that will define a future for apes and humans alike.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDRlZTc3YTItOTk3Yi00NmU4LWFiOGUtNjgwMDZjNjIzNTU1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Peter Macon, Owen Teague, and Freya Allan in Kingdom of the Planet of the Apes (2024)",
+        "width": 2025,
+        "height": 3000
+      },
+      "imdbRating": 6.8,
+      "numVotes": 166133,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "runtimeSeconds": 8700,
+      "runtimeMinutes": 145,
+      "metascore": 66,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 26,
+      "titleId": "tt26753003",
+      "title": "Trap",
+      "originalTitle": "Trap",
+      "year": 2024,
+      "releaseDate": {
+        "day": 2,
+        "month": 8,
+        "year": 2024
+      },
+      "plot": "A father and his teen daughter attend a pop concert only to realize they've entered the center of a dark and sinister event.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzJiN2UyZjgtMjQ3MS00MDhhLTg5ZDItZmVjMTU3MTcwNzE4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Josh Hartnett in Trap (2024)",
+        "width": 2764,
+        "height": 4096
+      },
+      "imdbRating": 5.8,
+      "numVotes": 159737,
+      "certificate": "PG-13",
+      "genres": [
+        "Crime",
+        "Horror",
+        "Mystery"
+      ],
+      "runtimeSeconds": 6300,
+      "runtimeMinutes": 105,
+      "metascore": 52,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 27,
+      "titleId": "tt14948432",
+      "title": "Red One",
+      "originalTitle": "Red One",
+      "year": 2024,
+      "releaseDate": {
+        "day": 15,
+        "month": 11,
+        "year": 2024
+      },
+      "plot": "After Santa Claus is kidnapped, the North Pole's Head of Security must team up with a notorious hacker in a globe-trotting, action-packed mission to save Christmas.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZmFkMjE4NjQtZTVmZS00MDZjLWE2ZmEtZTkzODljNjhlNWUxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Lucy Liu, Chris Evans, Dwayne Johnson, J.K. Simmons, and Reinaldo Faberlle in Red One (2024)",
+        "width": 2765,
+        "height": 4096
+      },
+      "imdbRating": 6.2,
+      "numVotes": 157774,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 7380,
+      "runtimeMinutes": 123,
+      "metascore": 34,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 28,
+      "titleId": "tt5177120",
+      "title": "The Ministry of Ungentlemanly Warfare",
+      "originalTitle": "The Ministry of Ungentlemanly Warfare",
+      "year": 2024,
+      "releaseDate": {
+        "day": 19,
+        "month": 4,
+        "year": 2024
+      },
+      "plot": "The British military recruits a small group of highly skilled soldiers to strike against German forces behind enemy lines during World War II.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYmIxODc5ZjMtYzZmZS00OTE5LThkZDktNWNmODNiZjFhMDgyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Henry Cavill, Alex Pettyfer, Alan Ritchson, Babs Olusanmokun, Eiza Gonz\u00e1lez, Hero Fiennes Tiffin, and Henry Golding in The Ministry of Ungentlemanly Warfare (2024)",
+        "width": 2025,
+        "height": 3000
+      },
+      "imdbRating": 6.8,
+      "numVotes": 153596,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Comedy",
+        "War"
+      ],
+      "runtimeSeconds": 7320,
+      "runtimeMinutes": 122,
+      "metascore": 55,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 29,
+      "titleId": "tt16366836",
+      "title": "Venom: The Last Dance",
+      "originalTitle": "Venom: The Last Dance",
+      "year": 2024,
+      "releaseDate": {
+        "day": 25,
+        "month": 10,
+        "year": 2024
+      },
+      "plot": "Eddie Brock and Venom must make a devastating decision as they're pursued by a mysterious military man and alien monsters from Venom's home world.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDMyYWU4NzItZDY0MC00ODE2LTkyYTMtMzNkNDdmYmFhZDg0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tom Hardy in Venom: The Last Dance (2024)",
+        "width": 1080,
+        "height": 1619
+      },
+      "imdbRating": 6,
+      "numVotes": 150256,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Horror"
+      ],
+      "runtimeSeconds": 6600,
+      "runtimeMinutes": 110,
+      "metascore": 41,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 30,
+      "titleId": "tt14961016",
+      "title": "I'm Still Here",
+      "originalTitle": "Ainda Estou Aqui",
+      "year": 2024,
+      "releaseDate": {
+        "day": 7,
+        "month": 2,
+        "year": 2025
+      },
+      "plot": "A woman married to a former politician during the military dictatorship in Brazil is forced to reinvent herself and chart a new course for her family after a violent and arbitrary act.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BM2FjMjBiZjgtZDkyYy00YTRlLTk5N2QtODE2ZWIyYWE0Yzg0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Fernanda Torres in I'm Still Here (2024)",
+        "width": 1934,
+        "height": 2866
+      },
+      "imdbRating": 8.1,
+      "numVotes": 144077,
+      "certificate": "PG-13",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "runtimeSeconds": 8220,
+      "runtimeMinutes": 137,
+      "metascore": 85,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 31,
+      "titleId": "tt21823606",
+      "title": "A Real Pain",
+      "originalTitle": "A Real Pain",
+      "year": 2024,
+      "releaseDate": {
+        "day": 15,
+        "month": 11,
+        "year": 2024
+      },
+      "plot": "Mismatched cousins reunite for a tour through Poland to honor their beloved grandmother, but their old tensions resurface against the backdrop of their family history.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODY2YWYwM2YtZTVlNC00MjgyLTgzYTgtNmFmYWE5ZmY1MDM5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Kieran Culkin and Jesse Eisenberg in A Real Pain (2024)",
+        "width": 540,
+        "height": 800
+      },
+      "imdbRating": 7,
+      "numVotes": 137900,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 5400,
+      "runtimeMinutes": 90,
+      "metascore": 85,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 32,
+      "titleId": "tt29268110",
+      "title": "Smile 2",
+      "originalTitle": "Smile 2",
+      "year": 2024,
+      "releaseDate": {
+        "day": 18,
+        "month": 10,
+        "year": 2024
+      },
+      "plot": "About to embark on a world tour, global pop sensation Skye Riley begins experiencing increasingly terrifying and inexplicable events. Overwhelmed by the escalating horrors and the pressures of fame, Skye is forced to face her past.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTg5OTMyMGMtYzMwNC00NDMyLWE0OGUtMTQ1ODcwM2FjOTM4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Naomi Scott in Smile 2 (2024)",
+        "width": 2025,
+        "height": 3000
+      },
+      "imdbRating": 6.7,
+      "numVotes": 135442,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7620,
+      "runtimeMinutes": 127,
+      "metascore": 67,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 33,
+      "titleId": "tt8999762",
+      "title": "The Brutalist",
+      "originalTitle": "The Brutalist",
+      "year": 2024,
+      "releaseDate": {
+        "day": 24,
+        "month": 1,
+        "year": 2025
+      },
+      "plot": "A visionary architect flees post-war Europe in 1947 for a brighter future in the United States and finds his life forever changed by a wealthy client.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BM2U0MWRjZTMtMDVhNC00MzY4LTgwOTktZGQ2MDdiYTI4OWMxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Adrien Brody in The Brutalist (2024)",
+        "width": 1922,
+        "height": 3000
+      },
+      "imdbRating": 7.2,
+      "numVotes": 132660,
+      "certificate": "R",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 12960,
+      "runtimeMinutes": 216,
+      "metascore": 90,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 34,
+      "titleId": "tt14539740",
+      "title": "Godzilla x Kong: The New Empire",
+      "originalTitle": "Godzilla x Kong: The New Empire",
+      "year": 2024,
+      "releaseDate": {
+        "day": 29,
+        "month": 3,
+        "year": 2024
+      },
+      "plot": "Two ancient titans, Godzilla and Kong, clash in an epic battle as humans unravel their intertwined origins and connection to Skull Island's mysteries.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTY0N2MzODctY2ExYy00OWYxLTkyNDItMTVhZGIxZjliZjU5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Godzilla x Kong: The New Empire (2024)",
+        "width": 1920,
+        "height": 2880
+      },
+      "imdbRating": 6,
+      "numVotes": 132308,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 6900,
+      "runtimeMinutes": 115,
+      "metascore": 47,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 35,
+      "titleId": "tt27534307",
+      "title": "Speak No Evil",
+      "originalTitle": "Speak No Evil",
+      "year": 2024,
+      "releaseDate": {
+        "day": 13,
+        "month": 9,
+        "year": 2024
+      },
+      "plot": "A family is invited to spend a whole weekend in a lonely home in the countryside, but as the weekend progresses, they realize that a dark side lies within the family who invited them.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMWI2OWFjNjgtOTQ2Zi00MjlmLTg2MGYtNmE4MjMyZjIzMDA0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "James McAvoy in Speak No Evil (2024)",
+        "width": 3158,
+        "height": 5000
+      },
+      "imdbRating": 6.8,
+      "numVotes": 128774,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6600,
+      "runtimeMinutes": 110,
+      "metascore": 66,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 36,
+      "titleId": "tt14858658",
+      "title": "Blink Twice",
+      "originalTitle": "Blink Twice",
+      "year": 2024,
+      "releaseDate": {
+        "day": 23,
+        "month": 8,
+        "year": 2024
+      },
+      "plot": "When tech billionaire Slater King meets cocktail waitress Frida at his fundraising gala, he invites her to join him and his friends on a dream vacation on his private island. As strange things start to happen, Frida questions her reality.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzczYmQ0NTUtMTM5OS00Mzc4LWExZDYtOWE4YjRkOWJkYWRlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Channing Tatum and Naomi Ackie in Blink Twice (2024)",
+        "width": 2000,
+        "height": 3000
+      },
+      "imdbRating": 6.5,
+      "numVotes": 125293,
+      "certificate": "R",
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6120,
+      "runtimeMinutes": 102,
+      "metascore": 66,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 37,
+      "titleId": "tt13622970",
+      "title": "Moana 2",
+      "originalTitle": "Moana 2",
+      "year": 2024,
+      "releaseDate": {
+        "day": 27,
+        "month": 11,
+        "year": 2024
+      },
+      "plot": "After receiving an unexpected call from her wayfinding ancestors, Moana must journey to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDUxNThhYTUtYjgxNy00MGQ4LTgzOTEtZjg1YTU5NTcwNThlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Dwayne Johnson, Alan Tudyk, Maui, Moana, and Auli'i Cravalho in Moana 2 (2024)",
+        "width": 4050,
+        "height": 6000
+      },
+      "imdbRating": 6.3,
+      "numVotes": 122382,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 6000,
+      "runtimeMinutes": 100,
+      "metascore": 58,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 38,
+      "titleId": "tt4772188",
+      "title": "Flow",
+      "originalTitle": "Straume",
+      "year": 2024,
+      "releaseDate": {
+        "day": 14,
+        "month": 2,
+        "year": 2025
+      },
+      "plot": "Cat is a solitary animal, but as its home is devastated by a great flood, he finds refuge on a boat populated by various species, and will have to team up with them despite their differences.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTM5ODBlOTAtYjcwZi00YzkzLWIzODEtMTM2MTZlNDFmMWU2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Gregory Zalcman and George Robert Bailey in Please Try Again (2012)",
+        "width": 1000,
+        "height": 1500
+      },
+      "imdbRating": 7.9,
+      "numVotes": 122244,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ],
+      "runtimeSeconds": 5100,
+      "runtimeMinutes": 85,
+      "metascore": 87,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 39,
+      "titleId": "tt27403986",
+      "title": "Juror #2",
+      "originalTitle": "Juror #2",
+      "year": 2024,
+      "releaseDate": {
+        "day": 20,
+        "month": 12,
+        "year": 2024
+      },
+      "plot": "While serving as a juror in a high-profile murder trial, a family man finds himself struggling with a serious moral dilemma, one he could use to sway the jury verdict and potentially convict or free the wrong killer.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjM4YjA1NTItOWI3Ni00MzAwLThmMjMtNmM2MWY2Y2ZmOGIzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Nicholas Hoult in Juror #2 (2024)",
+        "width": 1339,
+        "height": 2036
+      },
+      "imdbRating": 7,
+      "numVotes": 121976,
+      "certificate": "PG-13",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "runtimeSeconds": 6840,
+      "runtimeMinutes": 114,
+      "metascore": 72,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 40,
+      "titleId": "tt13452446",
+      "title": "Damsel",
+      "originalTitle": "Damsel",
+      "year": 2024,
+      "releaseDate": {
+        "day": 8,
+        "month": 3,
+        "year": 2024
+      },
+      "plot": "A dutiful damsel agrees to marry a handsome prince, only to find the royal family has recruited her as a sacrifice to repay an ancient debt.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTAzODc1ZjUtNGQwZS00YTc2LTliNzQtMDdlNzllNmU5Yzk4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Millie Bobby Brown in Damsel (2024)",
+        "width": 604,
+        "height": 755
+      },
+      "imdbRating": 6.1,
+      "numVotes": 117542,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 6600,
+      "runtimeMinutes": 110,
+      "metascore": 46,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 41,
+      "titleId": "tt27489557",
+      "title": "Abigail",
+      "originalTitle": "Abigail",
+      "year": 2024,
+      "releaseDate": {
+        "day": 19,
+        "month": 4,
+        "year": 2024
+      },
+      "plot": "After a group of criminals kidnap the ballerina daughter of a powerful underworld figure, they retreat to an isolated mansion, unaware that they're locked inside with no normal little girl.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNmUxMDRiNjQtYjE0NS00OWZkLTlhZjktYjQ1MmNjNDlhNDdkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Alisha Weir in Abigail (2024)",
+        "width": 3158,
+        "height": 5000
+      },
+      "imdbRating": 6.5,
+      "numVotes": 113275,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 6540,
+      "runtimeMinutes": 109,
+      "metascore": 62,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 42,
+      "titleId": "tt11563598",
+      "title": "A Complete Unknown",
+      "originalTitle": "A Complete Unknown",
+      "year": 2024,
+      "releaseDate": {
+        "day": 25,
+        "month": 12,
+        "year": 2024
+      },
+      "plot": "In 1961, an unknown 19-year-old Bob Dylan arrives in New York City with his guitar and forges relationships with musical icons on his meteoric rise, culminating in a groundbreaking performance that reverberates around the world.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTA2NTA5NDYtMzlkOC00MTQxLWI0NDQtMzk2M2YzMGE4MTkxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Timoth\u00e9e Chalamet in A Complete Unknown (2024)",
+        "width": 1334,
+        "height": 2000
+      },
+      "imdbRating": 7.3,
+      "numVotes": 113160,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Music"
+      ],
+      "runtimeSeconds": 8460,
+      "runtimeMinutes": 141,
+      "metascore": 70,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 43,
+      "titleId": "tt11057302",
+      "title": "Madame Web",
+      "originalTitle": "Madame Web",
+      "year": 2024,
+      "releaseDate": {
+        "day": 14,
+        "month": 2,
+        "year": 2024
+      },
+      "plot": "Forced to confront her past, Cassandra Webb, a Manhattan paramedic that may have clairvoyant abilities, forms a relationship with three young women destined for powerful futures, if they can survive their threatening present.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODViOTZiOTQtOTc4ZC00ZjUxLWEzMjItY2ExMmNlNDliNjE4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Dakota Johnson, Tahar Rahim, Sydney Sweeney, Isabela Merced, and Celeste O'Connor in Madame Web (2024)",
+        "width": 1400,
+        "height": 2075
+      },
+      "imdbRating": 4.1,
+      "numVotes": 112624,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6960,
+      "runtimeMinutes": 116,
+      "metascore": 26,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 44,
+      "titleId": "tt20221436",
+      "title": "Emilia P\u00e9rez",
+      "originalTitle": "Emilia P\u00e9rez",
+      "year": 2024,
+      "releaseDate": {
+        "day": 13,
+        "month": 11,
+        "year": 2024
+      },
+      "plot": "It follows three remarkable women in Mexico, each pursuing their own happiness. Cartel leader Emilia enlists unappreciated lawyer Rita to help fake her death so that she can finally live authentically as her true self.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjBhMWVmYjQtYmI2NC00NjdiLTliMjQtODliYjI5OTZmMzczXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Zoe Salda\u00f1a, Karla Sof\u00eda Gasc\u00f3n, and Selena Gomez in Emilia P\u00e9rez (2024)",
+        "width": 1500,
+        "height": 2222
+      },
+      "imdbRating": 5.3,
+      "numVotes": 112094,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Musical"
+      ],
+      "runtimeSeconds": 7920,
+      "runtimeMinutes": 132,
+      "metascore": 70,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 45,
+      "titleId": "tt4919268",
+      "title": "Bad Boys: Ride or Die",
+      "originalTitle": "Bad Boys: Ride or Die",
+      "year": 2024,
+      "releaseDate": {
+        "day": 7,
+        "month": 6,
+        "year": 2024
+      },
+      "plot": "When their late police captain gets linked to drug cartels, wisecracking Miami cops Mike Lowrey and Marcus Burnett embark on a dangerous mission to clear his name.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWNjZWUwNDgtYTM4ZC00Zjk0LTg3ZWItNGEyZmVkZTIxZDk0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Will Smith and Martin Lawrence in Bad Boys: Ride or Die (2024)",
+        "width": 2000,
+        "height": 3000
+      },
+      "imdbRating": 6.5,
+      "numVotes": 110919,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 6900,
+      "runtimeMinutes": 115,
+      "metascore": 54,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 46,
+      "titleId": "tt21235248",
+      "title": "Ghostbusters: Frozen Empire",
+      "originalTitle": "Ghostbusters: Frozen Empire",
+      "year": 2024,
+      "releaseDate": {
+        "day": 22,
+        "month": 3,
+        "year": 2024
+      },
+      "plot": "When the discovery of an ancient artifact unleashes an evil force, Ghostbusters new and old must join forces to protect their home and save the world from a second ice age.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWI5NGUyMzUtMGFiNi00ZTc3LTk1YTQtMDU0NGRjNGIxZTZmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Dan Aykroyd, Bill Murray, Ernie Hudson, Annie Potts, Paul Rudd, Logan Kim, Ian Whyte, Kumail Nanjiani, Carrie Coon, Mckenna Grace, Finn Wolfhard, and Celeste O'Connor in Ghostbusters: Frozen Empire (2024)",
+        "width": 2024,
+        "height": 3000
+      },
+      "imdbRating": 6.1,
+      "numVotes": 103711,
+      "certificate": "PG-13",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 6900,
+      "runtimeMinutes": 115,
+      "metascore": 46,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 47,
+      "titleId": "tt14257582",
+      "title": "Wolfs",
+      "originalTitle": "Wolfs",
+      "year": 2024,
+      "releaseDate": {
+        "day": 27,
+        "month": 9,
+        "year": 2024
+      },
+      "plot": "Two rival fixers cross paths when they're both called in to help cover up a prominent New York official's misstep. Over one explosive night, they'll have to set aside their petty grievances and their egos to finish the job.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNWI2MzdiM2ItMTg2Zi00MTYwLThlZmItM2FkNWI4NjE3ZjRhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Brad Pitt and George Clooney in Wolfs (2024)",
+        "width": 1080,
+        "height": 1350
+      },
+      "imdbRating": 6.5,
+      "numVotes": 100761,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6480,
+      "runtimeMinutes": 108,
+      "metascore": 60,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 48,
+      "titleId": "tt11301886",
+      "title": "Rebel Ridge",
+      "originalTitle": "Rebel Ridge",
+      "year": 2024,
+      "releaseDate": {
+        "day": 6,
+        "month": 9,
+        "year": 2024
+      },
+      "plot": "A former Marine grapples his way through a web of small-town corruption when an attempt to post bail for his cousin escalates into a violent standoff with the local police chief.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTE4ZDE5ZTktZWZkMC00MGY4LWFkZDUtZTc5YWU3NzM2YmM3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Don Johnson and Aaron Pierre in Rebel Ridge (2024)",
+        "width": 1080,
+        "height": 1350
+      },
+      "imdbRating": 6.8,
+      "numVotes": 100466,
+      "certificate": "TV-MA",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 7860,
+      "runtimeMinutes": 131,
+      "metascore": 76,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 49,
+      "titleId": "tt9214772",
+      "title": "Monkey Man",
+      "originalTitle": "Monkey Man",
+      "year": 2024,
+      "releaseDate": {
+        "day": 5,
+        "month": 4,
+        "year": 2024
+      },
+      "plot": "An anonymous young man unleashes a campaign of vengeance against the corrupt leaders who murdered his mother and continue to systematically victimize the poor and powerless.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODM2ZmZjYmQtNTA3NC00MmYzLWEwOTItMDNjYzc3MzI1NWNmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Dev Patel in Monkey Man (2024)",
+        "width": 800,
+        "height": 1182
+      },
+      "imdbRating": 6.8,
+      "numVotes": 98801,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7260,
+      "runtimeMinutes": 121,
+      "metascore": 70,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 50,
+      "titleId": "tt15009428",
+      "title": "Argylle",
+      "originalTitle": "Argylle",
+      "year": 2024,
+      "releaseDate": {
+        "day": 2,
+        "month": 2,
+        "year": 2024
+      },
+      "plot": "A reclusive author who writes espionage novels about a secret agent and a global spy syndicate realizes that the plot of the new book she's writing starts to mirror real-world events in real time.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDkzMTU2OWUtZjA2ZS00ZmYxLWE2MzgtZDlhZDc1YjM4Yjk5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Samuel L. Jackson, Catherine O'Hara, Sam Rockwell, Henry Cavill, Bryan Cranston, Bryce Dallas Howard, John Cena, Chip, Ariana DeBose, and Dua Lipa in Argylle (2024)",
+        "width": 1895,
+        "height": 3000
+      },
+      "imdbRating": 5.6,
+      "numVotes": 98583,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Thriller"
+      ],
+      "runtimeSeconds": 8340,
+      "runtimeMinutes": 139,
+      "metascore": 35,
+      "credits": [],
+      "titleType": "movie"
+    }
+  ]
+}

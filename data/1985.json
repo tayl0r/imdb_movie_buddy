@@ -1,0 +1,1583 @@
+{
+  "year": 1985,
+  "movies": [
+    {
+      "rank": 1,
+      "titleId": "tt0088763",
+      "title": "Back to the Future",
+      "originalTitle": "Back to the Future",
+      "year": 1985,
+      "releaseDate": {
+        "day": 3,
+        "month": 7,
+        "year": 1985
+      },
+      "plot": "Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZmM3ZjE0NzctNjBiOC00MDZmLTgzMTUtNGVlOWFlOTNiZDJiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Michael J. Fox in Back to the Future (1985)",
+        "width": 1218,
+        "height": 1893
+      },
+      "imdbRating": 8.5,
+      "numVotes": 1436072,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6960,
+      "runtimeMinutes": 116,
+      "metascore": 88,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 2,
+      "titleId": "tt0088847",
+      "title": "The Breakfast Club",
+      "originalTitle": "The Breakfast Club",
+      "year": 1985,
+      "releaseDate": {
+        "day": 15,
+        "month": 2,
+        "year": 1985
+      },
+      "plot": "Five high school students meet in Saturday detention and discover how they have a great deal more in common than they thought.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTZiMGU1MWMtNjk0Yi00ZjNjLTljMDEtMDhkNGE2OWY3YzZiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Molly Ringwald, Emilio Estevez, Judd Nelson, Ally Sheedy, and Anthony Michael Hall in The Breakfast Club (1985)",
+        "width": 909,
+        "height": 1422
+      },
+      "imdbRating": 7.8,
+      "numVotes": 469139,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 5820,
+      "runtimeMinutes": 97,
+      "metascore": 66,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 3,
+      "titleId": "tt0089218",
+      "title": "The Goonies",
+      "originalTitle": "The Goonies",
+      "year": 1985,
+      "releaseDate": {
+        "day": 7,
+        "month": 6,
+        "year": 1985
+      },
+      "plot": "A group of young misfits called The Goonies discover an ancient map and set out on an adventure to find a legendary pirate's long-lost treasure.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjE1OWU4ODEtZmEzMC00NTcwLWFlMWUtYjhlNzExOTIxYzVlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Sean Astin, Corey Feldman, Martha Plimpton, Josh Brolin, Jeff Cohen, Kerri Green, and Ke Huy Quan in The Goonies (1985)",
+        "width": 1487,
+        "height": 2260
+      },
+      "imdbRating": 7.7,
+      "numVotes": 324037,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family"
+      ],
+      "runtimeSeconds": 6840,
+      "runtimeMinutes": 114,
+      "metascore": 62,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 4,
+      "titleId": "tt0089927",
+      "title": "Rocky IV",
+      "originalTitle": "Rocky IV",
+      "year": 1985,
+      "releaseDate": {
+        "day": 27,
+        "month": 11,
+        "year": 1985
+      },
+      "plot": "Rocky Balboa proudly holds the world heavyweight boxing championship, but a new challenger has stepped forward: Drago, a six-foot-six, 261-pound fighter who has the backing of the Soviet Union.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjJiYzRiYWMtZTgyZC00YjliLWIwZWMtZTJlYjkyYzc2MDMxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Sylvester Stallone, Tony Burton, and Burt Young in Rocky IV (1985)",
+        "width": 1499,
+        "height": 2265
+      },
+      "imdbRating": 6.9,
+      "numVotes": 242824,
+      "certificate": "PG",
+      "genres": [
+        "Drama",
+        "Sport"
+      ],
+      "runtimeSeconds": 5460,
+      "runtimeMinutes": 91,
+      "metascore": 40,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 5,
+      "titleId": "tt0088846",
+      "title": "Brazil",
+      "originalTitle": "Brazil",
+      "year": 1985,
+      "releaseDate": {
+        "day": 18,
+        "month": 12,
+        "year": 1985
+      },
+      "plot": "A bureaucrat in a dystopic society becomes an enemy of the state as he pursues the woman of his dreams.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjI1MTAzNmYtYzQ3Zi00ZWE0LWJiZmQtY2UwZWU3ZTE4OGQ3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Brazil (1985)",
+        "width": 500,
+        "height": 730
+      },
+      "imdbRating": 7.8,
+      "numVotes": 221264,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7920,
+      "runtimeMinutes": 132,
+      "metascore": 84,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 6,
+      "titleId": "tt0089880",
+      "title": "Rambo: First Blood Part II",
+      "originalTitle": "Rambo: First Blood Part II",
+      "year": 1985,
+      "releaseDate": {
+        "day": 22,
+        "month": 5,
+        "year": 1985
+      },
+      "plot": "Ex-Green Beret goes on a reconnaissance mission to spring MIAs from a Viet Cong prison.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTNiMzUyZjQtY2RlOS00MjIxLWFlMjAtNjI1NjkzY2JjN2M3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Sylvester Stallone in Rambo: First Blood Part II (1985)",
+        "width": 912,
+        "height": 1424
+      },
+      "imdbRating": 6.5,
+      "numVotes": 194490,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5760,
+      "runtimeMinutes": 96,
+      "metascore": 47,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 7,
+      "titleId": "tt0088944",
+      "title": "Commando",
+      "originalTitle": "Commando",
+      "year": 1985,
+      "releaseDate": {
+        "day": 4,
+        "month": 10,
+        "year": 1985
+      },
+      "plot": "A retired Special Forces colonel tries to save his daughter, who was abducted by his former subordinate.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjAyNTRiMTEtNzNlZS00YTZhLThmNzQtZjBkOWQ4N2Y4YjQzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Arnold Schwarzenegger in Commando (1985)",
+        "width": 1000,
+        "height": 1500
+      },
+      "imdbRating": 6.7,
+      "numVotes": 186450,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5400,
+      "runtimeMinutes": 90,
+      "metascore": 51,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 8,
+      "titleId": "tt0089530",
+      "title": "Mad Max Beyond Thunderdome",
+      "originalTitle": "Mad Max Beyond Thunderdome",
+      "year": 1985,
+      "releaseDate": {
+        "day": 10,
+        "month": 7,
+        "year": 1985
+      },
+      "plot": "After being exiled from the most advanced town in post-apocalyptic Australia, a drifter travels with a group of abandoned children to rebel against the town's queen.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTNkOGZjMGMtNDI4Zi00ZDBjLWJhY2UtMzA2YWI1ZGI5OWVhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Mel Gibson, Toni Allaylis, Helen Buday, Justine Clarke, Adam Cockburn, Mark Kounnas, Adam Scougall, Shane Tickner, Tina Turner, James Wingrove, and Rod Zuanic in Mad Max Beyond Thunderdome (1985)",
+        "width": 986,
+        "height": 1500
+      },
+      "imdbRating": 6.2,
+      "numVotes": 161260,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6420,
+      "runtimeMinutes": 107,
+      "metascore": 71,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 9,
+      "titleId": "tt0089881",
+      "title": "Ran",
+      "originalTitle": "Ran",
+      "year": 1985,
+      "releaseDate": {
+        "day": 1,
+        "month": 6,
+        "year": 1985
+      },
+      "plot": "In Medieval Japan, an elderly warlord retires, handing over his empire to his three sons. However, he vastly underestimates how the new-found power will corrupt them and cause them to turn on each other...and him.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDk2NDY5YjktMjEyMC00OTJhLTkzM2EtY2Q4Y2RjYzc2Yjk4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ran (1985)",
+        "width": 1894,
+        "height": 2883
+      },
+      "imdbRating": 8.2,
+      "numVotes": 150274,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Drama",
+        "War"
+      ],
+      "runtimeSeconds": 9600,
+      "runtimeMinutes": 160,
+      "metascore": 97,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 10,
+      "titleId": "tt0088930",
+      "title": "Clue",
+      "originalTitle": "Clue",
+      "year": 1985,
+      "releaseDate": {
+        "day": 13,
+        "month": 12,
+        "year": 1985
+      },
+      "plot": "Six guests are anonymously invited to a strange mansion for dinner, but after their host is killed, they must cooperate with the staff to identify the murderer as the bodies pile up.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzMwZTY3ZGItYTY3Zi00YTRmLWE3Y2UtYWE1NmMwZDVjMmYxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tim Curry, Christopher Lloyd, Lesley Ann Warren, Madeline Kahn, Eileen Brennan, Michael McKean, and Martin Mull in Clue (1985)",
+        "width": 1405,
+        "height": 2133
+      },
+      "imdbRating": 7.3,
+      "numVotes": 121377,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Mystery"
+      ],
+      "runtimeSeconds": 5640,
+      "runtimeMinutes": 94,
+      "metascore": 41,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 11,
+      "titleId": "tt0091251",
+      "title": "Come and See",
+      "originalTitle": "Idi i smotri",
+      "year": 1985,
+      "releaseDate": {
+        "day": 3,
+        "month": 9,
+        "year": 1985
+      },
+      "plot": "After finding an old rifle, a young boy joins the Soviet resistance movement against ruthless German forces and experiences the horrors of World War II.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDlkZmVkZDAtZGFmMS00OWIzLWJkY2YtNWE5NjNhNjhiZGE3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Aleksey Kravchenko in Come and See (1985)",
+        "width": 1080,
+        "height": 1658
+      },
+      "imdbRating": 8.3,
+      "numVotes": 120472,
+      "certificate": "Not Rated",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "War"
+      ],
+      "runtimeSeconds": 8520,
+      "runtimeMinutes": 142,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 12,
+      "titleId": "tt0090329",
+      "title": "Witness",
+      "originalTitle": "Witness",
+      "year": 1985,
+      "releaseDate": {
+        "day": 8,
+        "month": 2,
+        "year": 1985
+      },
+      "plot": "While protecting an Amish boy - the sole witness to a brutal murder - and his mother, a detective is forced to seek refuge within their rural community when his own life is threatened.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDcyNjU5MWMtNDZiYy00Yjc4LWE4YjItMTA5ODBlOGU1NzRhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Harrison Ford and Lukas Haas in Witness (1985)",
+        "width": 1913,
+        "height": 2834
+      },
+      "imdbRating": 7.3,
+      "numVotes": 112878,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 6720,
+      "runtimeMinutes": 112,
+      "metascore": 76,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 13,
+      "titleId": "tt0090264",
+      "title": "A View to a Kill",
+      "originalTitle": "A View to a Kill",
+      "year": 1985,
+      "releaseDate": {
+        "day": 24,
+        "month": 5,
+        "year": 1985
+      },
+      "plot": "The recovery of a microchip from the body of a fellow British secret agent leads James Bond to mad industrialist Max Zorin, who is scheming to cause massive destruction.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjc3ZTJkZjUtM2E4Mi00YzA1LWJkZTAtM2U0OWUyYTE4YTFiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Roger Moore, Tanya Roberts, and Christopher Walken in A View to a Kill (1985)",
+        "width": 1946,
+        "height": 3000
+      },
+      "imdbRating": 6.3,
+      "numVotes": 111411,
+      "certificate": "PG",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7860,
+      "runtimeMinutes": 131,
+      "metascore": 40,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 14,
+      "titleId": "tt0090305",
+      "title": "Weird Science",
+      "originalTitle": "Weird Science",
+      "year": 1985,
+      "releaseDate": {
+        "day": 2,
+        "month": 8,
+        "year": 1985
+      },
+      "plot": "Two high-school nerds use a computer program to literally create the perfect woman, who promptly turns their lives upside-down.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjI2N2Q4ZjEtZjMyNC00MDM5LTkxZTQtNzA4MTE1ZGQyYTgwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Anthony Michael Hall, Kelly LeBrock, and Ilan Mitchell-Smith in Weird Science (1985)",
+        "width": 1787,
+        "height": 2797
+      },
+      "imdbRating": 6.6,
+      "numVotes": 104977,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 5640,
+      "runtimeMinutes": 94,
+      "metascore": 46,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 15,
+      "titleId": "tt0088939",
+      "title": "The Color Purple",
+      "originalTitle": "The Color Purple",
+      "year": 1985,
+      "releaseDate": {
+        "day": 7,
+        "month": 2,
+        "year": 1986
+      },
+      "plot": "A tale spanning forty years in the life of Celie, an African-American woman living in the South who survives incredible abuse and bigotry.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BM2MyZjBlMGItNThkMi00YWExLThlZmUtZmI2MGM3YWE3YTY1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Whoopi Goldberg in The Color Purple (1985)",
+        "width": 665,
+        "height": 1000
+      },
+      "imdbRating": 7.7,
+      "numVotes": 103368,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 9240,
+      "runtimeMinutes": 154,
+      "metascore": 78,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 16,
+      "titleId": "tt0088680",
+      "title": "After Hours",
+      "originalTitle": "After Hours",
+      "year": 1985,
+      "releaseDate": {
+        "day": 11,
+        "month": 10,
+        "year": 1985
+      },
+      "plot": "Ordinary word processor Paul Hackett experiences the worst night of his life after he agrees to visit Marcy, a Soho resident that he met that evening at a coffee shop.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTUxMjEzMzI2MV5BMl5BanBnXkFtZTgwNTU3ODAxMDE@._V1_.jpg",
+        "caption": "Griffin Dunne in After Hours (1985)",
+        "width": 675,
+        "height": 1000
+      },
+      "imdbRating": 7.6,
+      "numVotes": 94703,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 5820,
+      "runtimeMinutes": 97,
+      "metascore": 89,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 17,
+      "titleId": "tt0089755",
+      "title": "Out of Africa",
+      "originalTitle": "Out of Africa",
+      "year": 1985,
+      "releaseDate": {
+        "day": 20,
+        "month": 12,
+        "year": 1985
+      },
+      "plot": "In 20th-century colonial Kenya, a Danish baroness/plantation owner has a passionate love affair with a free-spirited big-game hunter.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWQ5MGI3NWYtMmVjNS00OWIzLWEzMGQtMGZhMzY3NjI2YjhiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Robert Redford and Meryl Streep in Out of Africa (1985)",
+        "width": 1272,
+        "height": 1896
+      },
+      "imdbRating": 7.2,
+      "numVotes": 92152,
+      "certificate": "PG",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 9660,
+      "runtimeMinutes": 161,
+      "metascore": 69,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 18,
+      "titleId": "tt0089175",
+      "title": "Fright Night",
+      "originalTitle": "Fright Night",
+      "year": 1985,
+      "releaseDate": {
+        "day": 2,
+        "month": 8,
+        "year": 1985
+      },
+      "plot": "\"Fright Night\" sees a teenager believing that the newcomer in his neighborhood is a vampire. He turns to an actor in a television hosted horror movie show for help to deal with the undead.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjQzMTM4NzUyM15BMl5BanBnXkFtZTgwNDYyODgwNzE@._V1_.jpg",
+        "caption": "Fright Night (1985)",
+        "width": 1343,
+        "height": 2048
+      },
+      "imdbRating": 7.1,
+      "numVotes": 87477,
+      "certificate": "R",
+      "genres": [
+        "Horror"
+      ],
+      "runtimeSeconds": 6360,
+      "runtimeMinutes": 106,
+      "metascore": 62,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 19,
+      "titleId": "tt0089686",
+      "title": "A Nightmare on Elm Street 2: Freddy's Revenge",
+      "originalTitle": "A Nightmare on Elm Street Part 2: Freddy's Revenge",
+      "year": 1985,
+      "releaseDate": {
+        "day": 1,
+        "month": 11,
+        "year": 1985
+      },
+      "plot": "A teenage boy is haunted in his dreams by deceased child murderer Freddy Krueger, who is out to possess him in order to continue his reign of terror in the real world.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzA0OTk4OWQtYWZlYy00Y2M4LWFmNzctZmU4OWVkMTI1NjJkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Kim Myers and Mark Patton in A Nightmare on Elm Street 2: Freddy's Revenge (1985)",
+        "width": 567,
+        "height": 848
+      },
+      "imdbRating": 5.5,
+      "numVotes": 85452,
+      "certificate": "R",
+      "genres": [
+        "Horror"
+      ],
+      "runtimeSeconds": 5220,
+      "runtimeMinutes": 87,
+      "metascore": 43,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 20,
+      "titleId": "tt0088993",
+      "title": "Day of the Dead",
+      "originalTitle": "Day of the Dead",
+      "year": 1985,
+      "releaseDate": {
+        "day": 19,
+        "month": 7,
+        "year": 1985
+      },
+      "plot": "As the world is overrun by zombies, a group of scientists and military personnel sheltering in an underground bunker in Florida must decide on how they should deal with the undead horde.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTg0ZTVmMDMtMTkxZC00MDY1LTliZTUtNjg5NTAzNjAxY2Y0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "John Paul in Day of the Dead (1985)",
+        "width": 580,
+        "height": 905
+      },
+      "imdbRating": 7.1,
+      "numVotes": 79195,
+      "certificate": "Not Rated",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6060,
+      "runtimeMinutes": 101,
+      "metascore": 60,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 21,
+      "titleId": "tt0089469",
+      "title": "Legend",
+      "originalTitle": "Legend",
+      "year": 1985,
+      "releaseDate": {
+        "day": 18,
+        "month": 4,
+        "year": 1986
+      },
+      "plot": "A young man must stop the Lord of Darkness from destroying daylight and marrying the woman he loves.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTc0MGI5MmItZGIwOS00NGZmLWJjZWUtMjAxYzFkOTJkNWVmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tom Cruise, Mia Sara, and Tim Curry in Legend (1985)",
+        "width": 1936,
+        "height": 2950
+      },
+      "imdbRating": 6.3,
+      "numVotes": 79115,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Romance"
+      ],
+      "runtimeSeconds": 5340,
+      "runtimeMinutes": 89,
+      "metascore": 30,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 22,
+      "titleId": "tt0089885",
+      "title": "Re-Animator",
+      "originalTitle": "Re-Animator",
+      "year": 1985,
+      "releaseDate": {
+        "day": 18,
+        "month": 10,
+        "year": 1985
+      },
+      "plot": "After an odd new medical student arrives on campus, a dedicated local and his girlfriend become involved in bizarre experiments centering around the re-animation of dead tissue.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZGZhYzk5MDEtOTc2Yi00ZTAyLWI1MjctZDYzYzhmNzgyZThlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jeffrey Combs in Re-Animator (1985)",
+        "width": 1239,
+        "height": 1907
+      },
+      "imdbRating": 7.1,
+      "numVotes": 77898,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 5040,
+      "runtimeMinutes": 84,
+      "metascore": 73,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 23,
+      "titleId": "tt0089907",
+      "title": "The Return of the Living Dead",
+      "originalTitle": "The Return of the Living Dead",
+      "year": 1985,
+      "releaseDate": {
+        "day": 16,
+        "month": 8,
+        "year": 1985
+      },
+      "plot": "When two bumbling employees at a medical supply warehouse accidentally release a deadly gas into the air, the vapors cause the dead to rise again as zombies.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYmQ4MTIwNzgtYzM4Zi00NWU4LWJmNjQtZGNhOTFiNDM2NmM2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "The Return of the Living Dead (1985)",
+        "width": 1901,
+        "height": 2894
+      },
+      "imdbRating": 7.3,
+      "numVotes": 76599,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 5460,
+      "runtimeMinutes": 91,
+      "metascore": 66,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 24,
+      "titleId": "tt0089670",
+      "title": "National Lampoon's European Vacation",
+      "originalTitle": "National Lampoon's European Vacation",
+      "year": 1985,
+      "releaseDate": {
+        "day": 26,
+        "month": 7,
+        "year": 1985
+      },
+      "plot": "The Griswolds win a vacation tour across Europe where the usual havoc ensues.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGIwMGZlZDUtOWVlNS00Nzg3LWI2MjUtZTUxYjVmNTVlZTE0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Chevy Chase, Beverly D'Angelo, Dana Hill, and Jason Lively in National Lampoon's European Vacation (1985)",
+        "width": 540,
+        "height": 808
+      },
+      "imdbRating": 6.2,
+      "numVotes": 75720,
+      "certificate": "PG-13",
+      "genres": [
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 5700,
+      "runtimeMinutes": 95,
+      "metascore": 47,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 25,
+      "titleId": "tt0088933",
+      "title": "Cocoon",
+      "originalTitle": "Cocoon",
+      "year": 1985,
+      "releaseDate": {
+        "day": 21,
+        "month": 6,
+        "year": 1985
+      },
+      "plot": "When a group of trespassing seniors swim in a pool containing alien cocoons, they find themselves energized with youthful vigor.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2VkNzdkMTktODZlYi00NzMzLWEzZDQtZTJmYmFkOGQyMWU4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Cocoon (1985)",
+        "width": 914,
+        "height": 1425
+      },
+      "imdbRating": 6.7,
+      "numVotes": 72739,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 7020,
+      "runtimeMinutes": 117,
+      "metascore": 65,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 26,
+      "titleId": "tt0089767",
+      "title": "Pale Rider",
+      "originalTitle": "Pale Rider",
+      "year": 1985,
+      "releaseDate": {
+        "day": 28,
+        "month": 6,
+        "year": 1985
+      },
+      "plot": "A mysterious preacher protects gold miners from villains.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMWY2YjMwODAtZTllMC00OTZhLTg3N2EtMjcxNzg0ZjYwODY2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Clint Eastwood in Pale Rider (1985)",
+        "width": 487,
+        "height": 755
+      },
+      "imdbRating": 7.3,
+      "numVotes": 70265,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Western"
+      ],
+      "runtimeSeconds": 6900,
+      "runtimeMinutes": 115,
+      "metascore": 61,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 27,
+      "titleId": "tt0089370",
+      "title": "The Jewel of the Nile",
+      "originalTitle": "The Jewel of the Nile",
+      "year": 1985,
+      "releaseDate": {
+        "day": 11,
+        "month": 12,
+        "year": 1985
+      },
+      "plot": "When Joan Wilder is abducted while on a trip along the Nile, her boyfriend, Jack Colton, and pal Ralph rush to rescue her and retrieve a fabled jewel.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNmNlMjE0NDAtYmE4MS00OTEzLTljYjYtODM4MjUwNjM1N2RhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Michael Douglas, Danny DeVito, and Kathleen Turner in The Jewel of the Nile (1985)",
+        "width": 1666,
+        "height": 2500
+      },
+      "imdbRating": 6.1,
+      "numVotes": 65806,
+      "certificate": "PG",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 6360,
+      "runtimeMinutes": 106,
+      "metascore": 53,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 28,
+      "titleId": "tt0090142",
+      "title": "Teen Wolf",
+      "originalTitle": "Teen Wolf",
+      "year": 1985,
+      "releaseDate": {
+        "day": 23,
+        "month": 8,
+        "year": 1985
+      },
+      "plot": "An ordinary high school student discovers that his family has an unusual pedigree.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzNmYWJkMzktNGUxMS00ZGY1LTllNTAtNGY3YTg1YjliM2Q3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Michael J. Fox in Teen Wolf (1985)",
+        "width": 1000,
+        "height": 1500
+      },
+      "imdbRating": 6.1,
+      "numVotes": 65022,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Romance"
+      ],
+      "runtimeSeconds": 5460,
+      "runtimeMinutes": 91,
+      "metascore": 25,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 29,
+      "titleId": "tt0089791",
+      "title": "Pee-wee's Big Adventure",
+      "originalTitle": "Pee-wee's Big Adventure",
+      "year": 1985,
+      "releaseDate": {
+        "day": 9,
+        "month": 8,
+        "year": 1985
+      },
+      "plot": "When eccentric man-child Pee-wee Herman gets his beloved bike stolen in broad daylight, he sets out across the U.S. on the adventure of his life.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTQ2ZTUzZjktMWVmNC00MzBmLTg1ZjMtYzQyNmE1YzY1MDFiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Paul Reubens in Pee-wee's Big Adventure (1985)",
+        "width": 497,
+        "height": 755
+      },
+      "imdbRating": 7.1,
+      "numVotes": 63290,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family"
+      ],
+      "runtimeSeconds": 5460,
+      "runtimeMinutes": 91,
+      "metascore": 47,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 30,
+      "titleId": "tt0089822",
+      "title": "Police Academy 2: Their First Assignment",
+      "originalTitle": "Police Academy 2: Their First Assignment",
+      "year": 1985,
+      "releaseDate": {
+        "day": 29,
+        "month": 3,
+        "year": 1985
+      },
+      "plot": "Six Police Academy graduates are assigned to the 16th precinct, and their Captain desperately wants them to clean up the crime ridden neighborhood, but his second in command schemes to become captain himself by sabotaging the rookies.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTc4Zjc4NzAtODA3My00ODQ4LWJiY2YtZDI4MjMwZmI3YzgwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Police Academy 2: Their First Assignment (1985)",
+        "width": 1932,
+        "height": 2862
+      },
+      "imdbRating": 5.8,
+      "numVotes": 62952,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy"
+      ],
+      "runtimeSeconds": 5220,
+      "runtimeMinutes": 87,
+      "metascore": 39,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 31,
+      "titleId": "tt0089155",
+      "title": "Fletch",
+      "originalTitle": "Fletch",
+      "year": 1985,
+      "releaseDate": {
+        "day": 31,
+        "month": 5,
+        "year": 1985
+      },
+      "plot": "While working undercover wisecracking newspaper reporter Irwin \"Fletch\" Fletcher is offered a large sum by a millionaire with a terminal disease to kill him. Intrigued, Fletch decides to unearth the full story behind the offer.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYmM2MDEyMjQtOGQwYS00M2NjLWIwODgtYzRmYjQ5ZDMxZDEyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Chevy Chase in Fletch (1985)",
+        "width": 500,
+        "height": 767
+      },
+      "imdbRating": 6.9,
+      "numVotes": 61034,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Mystery"
+      ],
+      "runtimeSeconds": 5880,
+      "runtimeMinutes": 98,
+      "metascore": 68,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 32,
+      "titleId": "tt0089853",
+      "title": "The Purple Rose of Cairo",
+      "originalTitle": "The Purple Rose of Cairo",
+      "year": 1985,
+      "releaseDate": {
+        "day": 19,
+        "month": 4,
+        "year": 1985
+      },
+      "plot": "During the Depression in 1935 New Jersey, a lonely waitress with an abusive husband who takes comfort from the movies is stunned when a movie character walks off the screen and into the real world, offering her the hope of a happier life.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDQ3NjE3YTMtYWY3ZC00NjcyLThlNDYtNTVmMDE2YjZjYzliXkEyXkFqcGc@._V1_.jpg",
+        "caption": "The Purple Rose of Cairo (1985)",
+        "width": 495,
+        "height": 755
+      },
+      "imdbRating": 7.6,
+      "numVotes": 58804,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Romance"
+      ],
+      "runtimeSeconds": 4920,
+      "runtimeMinutes": 82,
+      "metascore": 75,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 33,
+      "titleId": "tt0090056",
+      "title": "Spies Like Us",
+      "originalTitle": "Spies Like Us",
+      "year": 1985,
+      "releaseDate": {
+        "day": 6,
+        "month": 12,
+        "year": 1985
+      },
+      "plot": "Two bumbling government employees think they are U.S. spies, only to discover that they are actually decoys for Nuclear War.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTA1NzQ1ZTUtNDdjZS00OTk1LWE2ZjUtNTRkODIyYzBmODljXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Dan Aykroyd and Chevy Chase in Spies Like Us (1985)",
+        "width": 1000,
+        "height": 1500
+      },
+      "imdbRating": 6.4,
+      "numVotes": 55747,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 6120,
+      "runtimeMinutes": 102,
+      "metascore": 22,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 34,
+      "titleId": "tt0089457",
+      "title": "Ladyhawke",
+      "originalTitle": "Ladyhawke",
+      "year": 1985,
+      "releaseDate": {
+        "day": 12,
+        "month": 4,
+        "year": 1985
+      },
+      "plot": "The thief Gaston escapes the dungeon of medieval Aquila through the latrine. Soldiers are about to kill him when Navarre saves him. Navarre, traveling with his spirited hawk, plans to kill the bishop of Aquila with help from Gaston.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjBjYTRlN2UtZjg4Zi00NGU5LWI1MmMtMTdmZjg0NjhkYTg2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ladyhawke (1985)",
+        "width": 1500,
+        "height": 2282
+      },
+      "imdbRating": 6.9,
+      "numVotes": 54807,
+      "certificate": "PG-13",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 7260,
+      "runtimeMinutes": 121,
+      "metascore": 64,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 35,
+      "titleId": "tt0089092",
+      "title": "Enemy Mine",
+      "originalTitle": "Enemy Mine",
+      "year": 1985,
+      "releaseDate": {
+        "day": 20,
+        "month": 12,
+        "year": 1985
+      },
+      "plot": "During a long space war, the lives of two wounded enemies become dependent on their ability to forgive and to trust.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjBjYzc3MTgtNTI2YS00YzNjLWEzM2YtMDQxYTU3YzE0OTkxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Dennis Quaid and Louis Gossett Jr. in Enemy Mine (1985)",
+        "width": 1498,
+        "height": 2275
+      },
+      "imdbRating": 6.9,
+      "numVotes": 54466,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "runtimeSeconds": 6480,
+      "runtimeMinutes": 108,
+      "metascore": 59,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 36,
+      "titleId": "tt0090022",
+      "title": "Silverado",
+      "originalTitle": "Silverado",
+      "year": 1985,
+      "releaseDate": {
+        "day": 10,
+        "month": 7,
+        "year": 1985
+      },
+      "plot": "A band of misfit friends come together to right the injustices which exist in a small town.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZGVkZDVlNzktNzBiOC00NGIwLTgyOTktODk2NTYxNDA3MTQ3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Kevin Costner, Kevin Kline, Danny Glover, and Scott Glenn in Silverado (1985)",
+        "width": 500,
+        "height": 766
+      },
+      "imdbRating": 7.2,
+      "numVotes": 53809,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Drama",
+        "Western"
+      ],
+      "runtimeSeconds": 7980,
+      "runtimeMinutes": 133,
+      "metascore": 64,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 37,
+      "titleId": "tt0088794",
+      "title": "Better Off Dead",
+      "originalTitle": "Better Off Dead...",
+      "year": 1985,
+      "releaseDate": {
+        "day": 11,
+        "month": 10,
+        "year": 1985
+      },
+      "plot": "After his girlfriend dumps him for a boorish ski jock, a depressed high-school student begins to ineptly attempt suicide, which brings him nothing but embarrassment. A French exchange student starts to change his outlook on life.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZGQzNmQ3MmItZjQyOS00NmEyLTgwMTQtOTM3ZTE5NGY5N2M5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "John Cusack, Curtis Armstrong, Diane Franklin, Yuji Okumoto, Dan Schneider, and Amanda Wyss in Better Off Dead (1985)",
+        "width": 1492,
+        "height": 2265
+      },
+      "imdbRating": 7.1,
+      "numVotes": 53352,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "runtimeSeconds": 5820,
+      "runtimeMinutes": 97,
+      "metascore": 51,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 38,
+      "titleId": "tt0091867",
+      "title": "A Room with a View",
+      "originalTitle": "A Room with a View",
+      "year": 1985,
+      "releaseDate": {
+        "day": 11,
+        "month": 4,
+        "year": 1986
+      },
+      "plot": "Lucy Honeychurch shares a brief romance with George Emerson in Florence. Yet as she tries to move on with her life and look for marriage elsewhere, can she truly forget the events of that summer?",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTkwNTZhMWUtOTNmZC00NmE0LWExOGItMzJiNzEyNWNmODI1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Helena Bonham Carter and Julian Sands in A Room with a View (1985)",
+        "width": 1107,
+        "height": 1680
+      },
+      "imdbRating": 7.2,
+      "numVotes": 51870,
+      "certificate": "Not Rated",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 7020,
+      "runtimeMinutes": 117,
+      "metascore": 83,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 39,
+      "titleId": "tt0090060",
+      "title": "St. Elmo's Fire",
+      "originalTitle": "St. Elmo's Fire",
+      "year": 1985,
+      "releaseDate": {
+        "day": 28,
+        "month": 6,
+        "year": 1985
+      },
+      "plot": "Seven friends, recent college graduates, are searching for a place in the real world, as they face issues. Against the backdrop of St. Elmo's, their local hang-out, they save, betray and love one another as only the closest of friends can.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDU2ODMyNDctOGNlMC00OGJmLTg3MDgtZTYzZGMwMTBiYWM1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Demi Moore, Emilio Estevez, Rob Lowe, Andrew McCarthy, Judd Nelson, Ally Sheedy, and Mare Winningham in St. Elmo's Fire (1985)",
+        "width": 1493,
+        "height": 2265
+      },
+      "imdbRating": 6.4,
+      "numVotes": 51340,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 6480,
+      "runtimeMinutes": 108,
+      "metascore": 35,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 40,
+      "titleId": "tt0089173",
+      "title": "Friday the 13th: A New Beginning",
+      "originalTitle": "Friday the 13th: A New Beginning",
+      "year": 1985,
+      "releaseDate": {
+        "day": 22,
+        "month": 3,
+        "year": 1985
+      },
+      "plot": "Still haunted by his past, Tommy Jarvis, who, as a child, killed Jason Voorhees, is sent to a secluded halfway house in the countryside, where the killing of a young man triggers a brutal series of murders in the area.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BM2IyZjc2YWYtMDQ3ZS00MzVlLTk1ZmUtYTdhMjhmMzY1OTMzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Friday the 13th: A New Beginning (1985)",
+        "width": 1500,
+        "height": 2240
+      },
+      "imdbRating": 4.8,
+      "numVotes": 48898,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5520,
+      "runtimeMinutes": 92,
+      "metascore": 16,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 41,
+      "titleId": "tt0089893",
+      "title": "Red Sonja",
+      "originalTitle": "Red Sonja",
+      "year": 1985,
+      "releaseDate": {
+        "day": 3,
+        "month": 7,
+        "year": 1985
+      },
+      "plot": "The fearless warrior Red Sonja sets out to avenge her family's murder and rid her kingdom from the tyrannical rule of evil Queen Gedren.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDkyOWJhYTktNDdlZC00MzEzLWJhY2ItYmMzYzlmMGQyNzNmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Arnold Schwarzenegger, Brigitte Nielsen, Sandahl Bergman, Janet Agren, Clive Exton, Christian Ferry, Richard Fleischer, George MacDonald Fraser, Robert E. Howard, Ronald Lacey, Donna Osterbuhr, Ernie Reyes Jr., Terry Richards, Pat Roach, Paul L. Smith, Roy Thomas, and Barry Windsor-Smith in Red Sonja (1985)",
+        "width": 1912,
+        "height": 2868
+      },
+      "imdbRating": 5.1,
+      "numVotes": 47838,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 5340,
+      "runtimeMinutes": 89,
+      "metascore": 35,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 42,
+      "titleId": "tt0089374",
+      "title": "Police Story",
+      "originalTitle": "Ging chaat goo si",
+      "year": 1985,
+      "releaseDate": {
+        "day": 14,
+        "month": 12,
+        "year": 1985
+      },
+      "plot": "A virtuous Hong Kong Police Officer must clear his good name when the drug lord he is after frames him for the murder of a dirty cop.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTMxMWUxNjctOGNiOC00MzRkLWI1NjktZWUzOGJiZTM2ZDg1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jackie Chan and Maggie Cheung in Police Story (1985)",
+        "width": 1050,
+        "height": 1500
+      },
+      "imdbRating": 7.5,
+      "numVotes": 46858,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 6000,
+      "runtimeMinutes": 100,
+      "metascore": 78,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 43,
+      "titleId": "tt0088850",
+      "title": "Brewster's Millions",
+      "originalTitle": "Brewster's Millions",
+      "year": 1985,
+      "releaseDate": {
+        "day": 22,
+        "month": 5,
+        "year": 1985
+      },
+      "plot": "A minor-league baseball player must spend $30 million in 30 days in order to inherit $300 million. However, he's not allowed to own any assets, destroy the money, gift it, give it to charity, or tell anyone about the deal.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzE5MTRjYWItZDc5OC00MWQ5LWI5ZGUtZGRkMDk0NTg2ZjNlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "John Candy and Richard Pryor in Brewster's Millions (1985)",
+        "width": 792,
+        "height": 1224
+      },
+      "imdbRating": 6.5,
+      "numVotes": 46670,
+      "certificate": "PG",
+      "genres": [
+        "Comedy"
+      ],
+      "runtimeSeconds": 6120,
+      "runtimeMinutes": 102,
+      "metascore": 37,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 44,
+      "titleId": "tt0090180",
+      "title": "To Live and Die in L.A.",
+      "originalTitle": "To Live and Die in L.A.",
+      "year": 1985,
+      "releaseDate": {
+        "day": 1,
+        "month": 11,
+        "year": 1985
+      },
+      "plot": "A fearless Secret Service agent will stop at nothing to bring down the counterfeiter who killed his partner.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjk1ODQ4NTgtNjAyZi00NjMyLTg4MzktOWQ3YTU3N2MxMTdlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "William Petersen in To Live and Die in L.A. (1985)",
+        "width": 1020,
+        "height": 1500
+      },
+      "imdbRating": 7.3,
+      "numVotes": 46442,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 6960,
+      "runtimeMinutes": 116,
+      "metascore": 81,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 45,
+      "titleId": "tt0088814",
+      "title": "The Black Cauldron",
+      "originalTitle": "The Black Cauldron",
+      "year": 1985,
+      "releaseDate": {
+        "day": 24,
+        "month": 7,
+        "year": 1985
+      },
+      "plot": "A young boy and a group of misfit friends embark on a quest to find a dark magic item of ultimate power before a diabolical tyrant can.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjEzNjJkNzktYmNmMy00ZmUzLWE3OTMtZTM2ZDU3ODNjOGMyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "John Hurt, Nigel Hawthorne, Grant Bardsley, John Byner, Phil Fondacaro, and Susan Sheridan in The Black Cauldron (1985)",
+        "width": 1963,
+        "height": 2968
+      },
+      "imdbRating": 6.3,
+      "numVotes": 44727,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "runtimeSeconds": 4800,
+      "runtimeMinutes": 80,
+      "metascore": 59,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 46,
+      "titleId": "tt0089886",
+      "title": "Real Genius",
+      "originalTitle": "Real Genius",
+      "year": 1985,
+      "releaseDate": {
+        "day": 7,
+        "month": 8,
+        "year": 1985
+      },
+      "plot": "An uptight teenage prodigy enters a top engineering college, but feels awkward among the freewheeling students. When a professor aims to turn their laser project into a military weapon, he and his offbeat roommate plot to ruin the plan.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTQ5MzU3ODg0OF5BMl5BanBnXkFtZTgwODM0MzQxMDE@._V1_.jpg",
+        "caption": "Val Kilmer in Real Genius (1985)",
+        "width": 333,
+        "height": 500
+      },
+      "imdbRating": 6.9,
+      "numVotes": 41047,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6480,
+      "runtimeMinutes": 108,
+      "metascore": 71,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 47,
+      "titleId": "tt0089941",
+      "title": "Runaway Train",
+      "originalTitle": "Runaway Train",
+      "year": 1985,
+      "releaseDate": {
+        "day": 17,
+        "month": 1,
+        "year": 1986
+      },
+      "plot": "Two escaped convicts and a female railway worker find themselves trapped on a speeding train with no brakes and nobody driving.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjRlMzU3Y2ItYzU5YS00NTc4LTlmMjItZjk1YTc0M2I0OGMxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Rebecca De Mornay, Eric Roberts, and Jon Voight in Runaway Train (1985)",
+        "width": 900,
+        "height": 1379
+      },
+      "imdbRating": 7.2,
+      "numVotes": 36294,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "runtimeSeconds": 6660,
+      "runtimeMinutes": 111,
+      "metascore": 67,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 48,
+      "titleId": "tt0090021",
+      "title": "Silver Bullet",
+      "originalTitle": "Silver Bullet",
+      "year": 1985,
+      "releaseDate": {
+        "day": 11,
+        "month": 10,
+        "year": 1985
+      },
+      "plot": "In a small town, brutal killings start to plague the close-knit community. Marty Coslaw, a paraplegic boy, is convinced the murders are the doings of a werewolf.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzYzOTllMGMtZjQ1Ni00ZDJhLWFhNjctYTlmYjY3NWRkZjk5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Silver Bullet (1985)",
+        "width": 1479,
+        "height": 2260
+      },
+      "imdbRating": 6.4,
+      "numVotes": 35090,
+      "certificate": "R",
+      "genres": [
+        "Horror"
+      ],
+      "runtimeSeconds": 5700,
+      "runtimeMinutes": 95,
+      "metascore": 26,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 49,
+      "titleId": "tt0089560",
+      "title": "Mask",
+      "originalTitle": "Mask",
+      "year": 1985,
+      "releaseDate": {
+        "day": 22,
+        "month": 3,
+        "year": 1985
+      },
+      "plot": "A teenager with a massive facial skull deformity and biker gang mother attempt to live as normal a life as possible under the circumstances.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzU1ZDFkYjAtZGMzNC00MjJjLWI5ZjQtZTE4Y2QzOWVhNjcxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Eric Stoltz in Mask (1985)",
+        "width": 500,
+        "height": 755
+      },
+      "imdbRating": 7.2,
+      "numVotes": 34831,
+      "certificate": "PG-13",
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "runtimeSeconds": 7200,
+      "runtimeMinutes": 120,
+      "metascore": 73,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 50,
+      "titleId": "tt0089489",
+      "title": "Lifeforce",
+      "originalTitle": "Lifeforce",
+      "year": 1985,
+      "releaseDate": {
+        "day": 21,
+        "month": 6,
+        "year": 1985
+      },
+      "plot": "A race of space vampires arrives in London and infects the populace, beginning an apocalyptic descent into chaos.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNWNmN2Y4ZTAtNGRkMC00ODk2LTkwZjItNDU3N2VjMmEzMDk4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Lifeforce (1985)",
+        "width": 1519,
+        "height": 2265
+      },
+      "imdbRating": 6.2,
+      "numVotes": 34011,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Horror",
+        "Mystery"
+      ],
+      "runtimeSeconds": 6060,
+      "runtimeMinutes": 101,
+      "metascore": 50,
+      "credits": [],
+      "titleType": "movie"
+    }
+  ]
+}

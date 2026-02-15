@@ -1,0 +1,1602 @@
+{
+  "year": 2018,
+  "movies": [
+    {
+      "rank": 1,
+      "titleId": "tt4154756",
+      "title": "Avengers: Infinity War",
+      "originalTitle": "Avengers: Infinity War",
+      "year": 2018,
+      "releaseDate": {
+        "day": 27,
+        "month": 4,
+        "year": 2018
+      },
+      "plot": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_.jpg",
+        "caption": "Kenneth Branagh, Samuel L. Jackson, Don Cheadle, Robert Downey Jr., William Hurt, Gwyneth Paltrow, Josh Brolin, Benicio Del Toro, Vin Diesel, Alan Silvestri, Paul Bettany, Kerry Condon, Bradley Cooper, Keith Splinter Davis, Peter Dinklage, Idris Elba, Chris Evans, Kevin Feige, Jeffrey Ford, Keith Giffen, Sean Gunn, Scarlett Johansson, Ameenah Kaplan, Florence Kasumba, Jack Kirby, Stan Lee, Tim McAdams, Elizabeth Olsen, Chris Pratt, Mark Ruffalo, Anthony Russo, Joe Russo, Zoe Salda\u00f1a, Matthew Schmidt, Joe Simon, Benedict Wong, Charles Wood, Trent Opaloch, Terry Notary, Tom Hiddleston, Anthony Mackie, Robert Pralgo, Cobie Smulders, Chris Hemsworth, Dave Bautista, Benedict Cumberbatch, Monique Ganderton, Larry Lieber, Christopher Markus, Stephen McFeely, Don Heck, Carlos Guity, Chadwick Boseman, Aaron Lazar, Sebastian Stan, Danai Gurira, Steve Englehart, Jeremy Sample, Precious Jenkins, Karen Gillan, Dominique Elijah Smith, Tom Vaughan-Lawlor, Tiffany Espensen, Steven Essani, Ross Marquand, Bill Mantlo, Matthew Zuk, Pom Klementieff, Steve Gan, Blair Jasin, Femi Olagoke, Ethan Dizon, Michael Pierino Miller, Taraja Ramsess, J\u00e9nel Stevens, Michael Anthony Rogers, Gee Alexander, Janeshia Adams-Ginyard, Letitia Wright, James Sterling, Tom Holland, Jim Starlin, Isabella Amara, Ryan Robertson, Kevin D Wilson, Daniel Graham, Joseph Singletary, Michael James Shaw, David Dman Escobar, Solomon Glave, Kevin Montgomery, Rabon Hutcherson, Carrie Coon, Gayles Martavius, Kirk A. Jenkins, Tanya Wheelock, Andrew S. McMillan, Marcus Lewis, Donny Carrington, Gary Peebles, Floyd Anthony Johns Jr., Tye Claybrook Jr., Khalil' La'Marr Pickett, Marie Mouroum, Jazzy Ellis, Marija Juliette Abney, Phedra Syndelle, Winston Duke, Antjuan Rhames, Jefferson Lewis, Jared Moser, Zola Williams, Dawit Gulilat, Denisha Gillespie, Harrison Osterfield, James Siderits, Brandon M. Shaw, Hamid-Reza Benjamin Thompson, Chris Moore, Ariana Greenblatt, Annie Pisapia, Matthew Christensen, Simeon Freeman, Branden Arnold, Michael David Yuhl, Daniela Gaskie, Jamel D. Chambers, John Gettier, Sergio Briones, Nathaniel Perry, Jacob Batalon, Matthew Excel Simmons, Lucie Carroll, Bobby James, Bobby Hoskins, Jacob Evans, Olaniyan Thurmon, Edward Parker, Cecil M. Henry, Cory Dunson, Bruce Anthony Shepperson, Perla Middleton, Laurel O Wagner, Jachin Myers, Elgin Lee, Demetri Landell, Tony Dupar, Shawn South, Mallory Kidwell, Devin Koehler, Chase Ledgerwood, Jomahl Gildersleve, Frank David Monroe, Granger Summerset II, Austin Rospert, Lady Cardinal, Luke Maher, Laura Miller, Joe Maitland, Dylan Gajai, and Robert Tinsley in Avengers: Infinity War (2018)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 8.4,
+      "numVotes": 1351412,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 8940,
+      "runtimeMinutes": 149,
+      "metascore": 68,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 2,
+      "titleId": "tt1825683",
+      "title": "Black Panther",
+      "originalTitle": "Black Panther",
+      "year": 2018,
+      "releaseDate": {
+        "day": 16,
+        "month": 2,
+        "year": 2018
+      },
+      "plot": "T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_.jpg",
+        "caption": "Angela Bassett, Forest Whitaker, Martin Freeman, Michael B. Jordan, Andy Serkis, Chadwick Boseman, Danai Gurira, Lupita Nyong'o, Daniel Kaluuya, and Letitia Wright in Black Panther (2018)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 7.3,
+      "numVotes": 901341,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 8040,
+      "runtimeMinutes": 134,
+      "metascore": 88,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 3,
+      "titleId": "tt4633694",
+      "title": "Spider-Man: Into the Spider-Verse",
+      "originalTitle": "Spider-Man: Into the Spider-Verse",
+      "year": 2018,
+      "releaseDate": {
+        "day": 14,
+        "month": 12,
+        "year": 2018
+      },
+      "plot": "Teen Miles Morales becomes the Spider-Man of his universe and must join with five spider-powered individuals from other dimensions to stop a threat for all realities.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_.jpg",
+        "caption": "Spider-Man: Into the Spider-Verse (2018)",
+        "width": 1381,
+        "height": 2048
+      },
+      "imdbRating": 8.4,
+      "numVotes": 775022,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "runtimeSeconds": 7020,
+      "runtimeMinutes": 117,
+      "metascore": 87,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 4,
+      "titleId": "tt5463162",
+      "title": "Deadpool 2",
+      "originalTitle": "Deadpool 2",
+      "year": 2018,
+      "releaseDate": {
+        "day": 18,
+        "month": 5,
+        "year": 2018
+      },
+      "plot": "Foul-mouthed mutant mercenary Wade Wilson (a.k.a. Deadpool) assembles a team of fellow mutant rogues to protect a young boy with abilities from the brutal, time-traveling cyborg Cable.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGY3N2ZhYmMtYTlmYi00ZWIzLWJiZWMtMjgxMjljYTk3MDAwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Josh Brolin, Ryan Reynolds, Terry Crews, Bill Skarsg\u00e5rd, Leslie Uggams, Morena Baccarin, Lewis Tan, Stefan Kapicic, Rob Delaney, Shioli Kutsuna, Zazie Beetz, and Brianna Hildebrand in Deadpool 2 (2018)",
+        "width": 2025,
+        "height": 3000
+      },
+      "imdbRating": 7.6,
+      "numVotes": 737105,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 7140,
+      "runtimeMinutes": 119,
+      "metascore": 66,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 5,
+      "titleId": "tt6966692",
+      "title": "Green Book",
+      "originalTitle": "Green Book",
+      "year": 2018,
+      "releaseDate": {
+        "day": 16,
+        "month": 11,
+        "year": 2018
+      },
+      "plot": "A working-class Italian-American bouncer becomes the driver for an African-American classical pianist on a tour of venues through the 1960s American South.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDU5YTNmMmItN2QxNy00OGQ0LTg5MTctNzFmYjEzZjcwN2UwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Viggo Mortensen and Mahershala Ali in Green Book (2018)",
+        "width": 1000,
+        "height": 1500
+      },
+      "imdbRating": 8.2,
+      "numVotes": 673185,
+      "certificate": "PG-13",
+      "genres": [
+        "Biography",
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 7800,
+      "runtimeMinutes": 130,
+      "metascore": 69,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 6,
+      "titleId": "tt6644200",
+      "title": "A Quiet Place",
+      "originalTitle": "A Quiet Place",
+      "year": 2018,
+      "releaseDate": {
+        "day": 6,
+        "month": 4,
+        "year": 2018
+      },
+      "plot": "A family struggles for survival in a world invaded by blind alien creatures with ultra-sensitive hearing.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjI0MDMzNTQ0M15BMl5BanBnXkFtZTgwMTM5NzM3NDM@._V1_.jpg",
+        "caption": "Emily Blunt in A Quiet Place (2018)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 7.5,
+      "numVotes": 650908,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 5400,
+      "runtimeMinutes": 90,
+      "metascore": 82,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 7,
+      "titleId": "tt1727824",
+      "title": "Bohemian Rhapsody",
+      "originalTitle": "Bohemian Rhapsody",
+      "year": 2018,
+      "releaseDate": {
+        "day": 2,
+        "month": 11,
+        "year": 2018
+      },
+      "plot": "With his impeccable vocal abilities, Freddie Mercury and his rock band, Queen, achieve superstardom. However, amidst his skyrocketing success, he grapples with his ego, sexuality and a fatal illness.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTA2NDc3Njg5NDVeQTJeQWpwZ15BbWU4MDc1NDcxNTUz._V1_.jpg",
+        "caption": "Rami Malek in Bohemian Rhapsody (2018)",
+        "width": 1381,
+        "height": 2048
+      },
+      "imdbRating": 7.9,
+      "numVotes": 639235,
+      "certificate": "PG-13",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Music"
+      ],
+      "runtimeSeconds": 8040,
+      "runtimeMinutes": 134,
+      "metascore": 49,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 8,
+      "titleId": "tt1270797",
+      "title": "Venom",
+      "originalTitle": "Venom",
+      "year": 2018,
+      "releaseDate": {
+        "day": 5,
+        "month": 10,
+        "year": 2018
+      },
+      "plot": "A failed reporter is bonded to an alien entity, one of many symbiotes who have invaded Earth. But the being takes a liking to Earth and decides to protect it.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTYwMDg5MDItNjhmZi00NmVmLThjNWItMmNkMjVkMWRhNzI2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tom Hardy, Michelle Williams, and Riz Ahmed in Venom (2018)",
+        "width": 1080,
+        "height": 1596
+      },
+      "imdbRating": 6.6,
+      "numVotes": 600605,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6720,
+      "runtimeMinutes": 112,
+      "metascore": 35,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 9,
+      "titleId": "tt1477834",
+      "title": "Aquaman",
+      "originalTitle": "Aquaman",
+      "year": 2018,
+      "releaseDate": {
+        "day": 21,
+        "month": 12,
+        "year": 2018
+      },
+      "plot": "Arthur Curry, the human-born heir to the underwater kingdom of Atlantis, goes on a quest to prevent a war between the worlds of ocean and land.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTk5ODg0OTU5M15BMl5BanBnXkFtZTgwMDQ3MDY3NjM@._V1_.jpg",
+        "caption": "Jason Momoa and Amber Heard in Aquaman (2018)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 6.8,
+      "numVotes": 549605,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 8580,
+      "runtimeMinutes": 143,
+      "metascore": 55,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 10,
+      "titleId": "tt1677720",
+      "title": "Ready Player One",
+      "originalTitle": "Ready Player One",
+      "year": 2018,
+      "releaseDate": {
+        "day": 29,
+        "month": 3,
+        "year": 2018
+      },
+      "plot": "When the creator of a virtual reality called the OASIS dies, he makes a posthumous challenge to all OASIS users to find his Easter Egg, which will give the finder his fortune and control of his world.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzVkMTgzODQtMWIwZC00NzE4LTgzZjYtMzAwM2I5OGZhNjE4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Steven Spielberg, Ben Mendelsohn, George Michael, Simon Pegg, Mark Rylance, Perdita Weeks, Kamara Benjamin Barnett, Mandy June Turpin, T.J. Miller, Lena Waithe, Stephen Mitchell, Neet Mohan, Win Morisaki, Elliot Barnes-Worrell, Kae Alexander, Sarah Sharman, Robert Gilbert, Raed Abbas, Letitia Wright, Tye Sheridan, Asan N'Jie, Hannah John-Kamen, Cara Theobold, Olivia Cooke, Alphonso Austin, Amy Clare Beales, Jane Leaney, Kathryn Wilder, and Philip Zhao in Ready Player One (2018)",
+        "width": 2764,
+        "height": 4096
+      },
+      "imdbRating": 7.4,
+      "numVotes": 536420,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 8400,
+      "runtimeMinutes": 140,
+      "metascore": 64,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 11,
+      "titleId": "tt5095030",
+      "title": "Ant-Man and the Wasp",
+      "originalTitle": "Ant-Man and the Wasp",
+      "year": 2018,
+      "releaseDate": {
+        "day": 6,
+        "month": 7,
+        "year": 2018
+      },
+      "plot": "As Scott Lang balances being both a superhero and a father, Hope van Dyne and Dr. Hank Pym present an urgent new mission that finds the Ant-Man fighting alongside The Wasp to uncover secrets from their past.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODVkY2ZmZTAtYzFhMi00YzZlLWE2YWMtMDBiYjY2OTU4ZWM0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Michael Douglas, Michelle Pfeiffer, Laurence Fishburne, Walton Goggins, Michael Pe\u00f1a, Paul Rudd, Evangeline Lilly, and Hannah John-Kamen in Ant-Man and the Wasp (2018)",
+        "width": 1688,
+        "height": 2500
+      },
+      "imdbRating": 7,
+      "numVotes": 489669,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 7080,
+      "runtimeMinutes": 118,
+      "metascore": 70,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 12,
+      "titleId": "tt7784604",
+      "title": "Hereditary",
+      "originalTitle": "Hereditary",
+      "year": 2018,
+      "releaseDate": {
+        "day": 8,
+        "month": 6,
+        "year": 2018
+      },
+      "plot": "A grieving family is haunted by tragic and disturbing occurrences.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTEyZGQwODctYWJjZi00NjFmLTg3YmEtMzlhNjljOGZhMWMyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Toni Collette and Milly Shapiro in Hereditary (2018)",
+        "width": 2025,
+        "height": 3000
+      },
+      "imdbRating": 7.3,
+      "numVotes": 447985,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Mystery"
+      ],
+      "runtimeSeconds": 7620,
+      "runtimeMinutes": 127,
+      "metascore": 87,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 13,
+      "titleId": "tt1517451",
+      "title": "A Star Is Born",
+      "originalTitle": "A Star Is Born",
+      "year": 2018,
+      "releaseDate": {
+        "day": 5,
+        "month": 10,
+        "year": 2018
+      },
+      "plot": "A hard-drinking country music star falls in love with a singer whose career quickly takes off.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGUxZTc0NTAtNzQwMy00MmM2LTgzMGYtZWIyY2E1MGFjYmM5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Bradley Cooper and Lady Gaga in A Star Is Born (2018)",
+        "width": 960,
+        "height": 1440
+      },
+      "imdbRating": 7.6,
+      "numVotes": 445757,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Music",
+        "Romance"
+      ],
+      "runtimeSeconds": 8160,
+      "runtimeMinutes": 136,
+      "metascore": 88,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 14,
+      "titleId": "tt2737304",
+      "title": "Bird Box",
+      "originalTitle": "Bird Box",
+      "year": 2018,
+      "releaseDate": {
+        "day": 21,
+        "month": 12,
+        "year": 2018
+      },
+      "plot": "Five years after an ominous unseen presence drives most of society to suicide, a mother and her two children make a desperate bid to reach safety.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjAzMTI1MjMyN15BMl5BanBnXkFtZTgwNzU5MTE2NjM@._V1_.jpg",
+        "caption": "Sandra Bullock, Julian Edwards, and Vivien Lyra Blair in Bird Box (2018)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 6.6,
+      "numVotes": 418107,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 7440,
+      "runtimeMinutes": 124,
+      "metascore": 51,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 15,
+      "titleId": "tt4912910",
+      "title": "Mission: Impossible - Fallout",
+      "originalTitle": "Mission: Impossible - Fallout",
+      "year": 2018,
+      "releaseDate": {
+        "day": 27,
+        "month": 7,
+        "year": 2018
+      },
+      "plot": "A group of terrorists plans to detonate three plutonium cores for a simultaneous nuclear attack on different cities. Ethan Hunt, along with his IMF team, sets out to stop the carnage.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZmUwZTg2YmMtMmZjOS00ZDYwLWI2ZDgtZDcyY2ZmMWMwZDdlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tom Cruise, Alec Baldwin, Angela Bassett, Ving Rhames, Henry Cavill, Rebecca Ferguson, and Simon Pegg in Mission: Impossible - Fallout (2018)",
+        "width": 3374,
+        "height": 4998
+      },
+      "imdbRating": 7.7,
+      "numVotes": 416419,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "runtimeSeconds": 8820,
+      "runtimeMinutes": 147,
+      "metascore": 87,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 16,
+      "titleId": "tt3778644",
+      "title": "Solo: A Star Wars Story",
+      "originalTitle": "Solo: A Star Wars Story",
+      "year": 2018,
+      "releaseDate": {
+        "day": 25,
+        "month": 5,
+        "year": 2018
+      },
+      "plot": "During an adventure in the criminal underworld, Han Solo meets his future co-pilot Chewbacca and Lando Calrissian years before joining the Rebel Alliance.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTM2NTI3NTc3Nl5BMl5BanBnXkFtZTgwNzM1OTQyNTM@._V1_.jpg",
+        "caption": "Woody Harrelson, Paul Bettany, Thandiwe Newton, Donald Glover, Alden Ehrenreich, Phoebe Waller-Bridge, Emilia Clarke, Charlotte Louise, and Joonas Suotamo in Solo: A Star Wars Story (2018)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 6.9,
+      "numVotes": 405664,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 8100,
+      "runtimeMinutes": 135,
+      "metascore": 62,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 17,
+      "titleId": "tt2798920",
+      "title": "Annihilation",
+      "originalTitle": "Annihilation",
+      "year": 2018,
+      "releaseDate": {
+        "day": 23,
+        "month": 2,
+        "year": 2018
+      },
+      "plot": "A biologist signs up for a dangerous, secret expedition in which the laws of nature don't apply.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTk2Mjc2NzYxNl5BMl5BanBnXkFtZTgwMTA2OTA1NDM@._V1_.jpg",
+        "caption": "Natalie Portman, Jennifer Jason Leigh, Tuva Novotny, Gina Rodriguez, and Tessa Thompson in Annihilation (2018)",
+        "width": 1312,
+        "height": 2048
+      },
+      "imdbRating": 6.8,
+      "numVotes": 390358,
+      "certificate": "R",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Horror"
+      ],
+      "runtimeSeconds": 6900,
+      "runtimeMinutes": 115,
+      "metascore": 79,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 18,
+      "titleId": "tt4881806",
+      "title": "Jurassic World: Fallen Kingdom",
+      "originalTitle": "Jurassic World: Fallen Kingdom",
+      "year": 2018,
+      "releaseDate": {
+        "day": 22,
+        "month": 6,
+        "year": 2018
+      },
+      "plot": "When the island's dormant volcano begins roaring to life, Owen and Claire mount a campaign to rescue the remaining dinosaurs from this extinction-level event.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzIxMjYwNDEwN15BMl5BanBnXkFtZTgwMzk5MDI3NTM@._V1_.jpg",
+        "caption": "Bryce Dallas Howard and Chris Pratt in Jurassic World: Fallen Kingdom (2018)",
+        "width": 675,
+        "height": 1000
+      },
+      "imdbRating": 6.1,
+      "numVotes": 376946,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 7680,
+      "runtimeMinutes": 128,
+      "metascore": 51,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 19,
+      "titleId": "tt3606756",
+      "title": "Incredibles 2",
+      "originalTitle": "Incredibles 2",
+      "year": 2018,
+      "releaseDate": {
+        "day": 15,
+        "month": 6,
+        "year": 2018
+      },
+      "plot": "The Incredibles family takes on a new mission which involves a change in family roles: Bob Parr (Mr. Incredible) must manage the house while his wife Helen (Elastigirl) goes out to save the world.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTEzNzY0OTg0NTdeQTJeQWpwZ15BbWU4MDU3OTg3MjUz._V1_.jpg",
+        "caption": "Samuel L. Jackson, Holly Hunter, Craig T. Nelson, Brad Bird, Michelle Rodriguez, Bill Wise, Sarah Vowell, Eli Fucile, Mina Sundwall, Clarke Wolfe, Gillian Flynn, and Huck Milner in Incredibles 2 (2018)",
+        "width": 1086,
+        "height": 1609
+      },
+      "imdbRating": 7.5,
+      "numVotes": 365660,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "runtimeSeconds": 7080,
+      "runtimeMinutes": 118,
+      "metascore": 80,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 20,
+      "titleId": "tt4123430",
+      "title": "Fantastic Beasts: The Crimes of Grindelwald",
+      "originalTitle": "Fantastic Beasts: The Crimes of Grindelwald",
+      "year": 2018,
+      "releaseDate": {
+        "day": 16,
+        "month": 11,
+        "year": 2018
+      },
+      "plot": "Gellert Grindelwald plans to raise an army of wizards to rule over non-magical beings. In response, Newt Scamander's former professor, Albus Dumbledore, seeks his help to stop him.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZGIyZjk5ODctNDg3MC00YTgyLThmYTAtNjZkNzk4Y2JhMDRhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Johnny Depp, Jude Law, Dan Fogler, William Nadylam, Alison Sudol, Eddie Redmayne, Katherine Waterston, Claudia Kim, Zo\u00eb Kravitz, Ezra Miller, and Callum Turner in Fantastic Beasts: The Crimes of Grindelwald (2018)",
+        "width": 509,
+        "height": 755
+      },
+      "imdbRating": 6.5,
+      "numVotes": 329308,
+      "certificate": "PG-13",
+      "genres": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 8040,
+      "runtimeMinutes": 134,
+      "metascore": 52,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 21,
+      "titleId": "tt7349662",
+      "title": "BlacKkKlansman",
+      "originalTitle": "BlacKkKlansman",
+      "year": 2018,
+      "releaseDate": {
+        "day": 10,
+        "month": 8,
+        "year": 2018
+      },
+      "plot": "In this story inspired by true events, Ron Stallworth, an African-American Colorado police officer, successfully infiltrates the local branch of the Ku Klux Klan with the help of a white Jewish colleague.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjUyOTE1NjI0OF5BMl5BanBnXkFtZTgwMTM4ODQ5NTM@._V1_.jpg",
+        "caption": "John David Washington in BlacKkKlansman (2018)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 7.5,
+      "numVotes": 311076,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 8100,
+      "runtimeMinutes": 135,
+      "metascore": 83,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 22,
+      "titleId": "tt2704998",
+      "title": "Game Night",
+      "originalTitle": "Game Night",
+      "year": 2018,
+      "releaseDate": {
+        "day": 23,
+        "month": 2,
+        "year": 2018
+      },
+      "plot": "A group of friends who meet regularly for game nights find themselves entangled in a real-life mystery when the shady brother of one of them is seemingly kidnapped by dangerous gangsters.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjI3ODkzNDk5MF5BMl5BanBnXkFtZTgwNTEyNjY2NDM@._V1_.jpg",
+        "caption": "Jason Bateman, Rachel McAdams, and Olivia in Game Night (2018)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 6.9,
+      "numVotes": 275102,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 6000,
+      "runtimeMinutes": 100,
+      "metascore": 66,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 23,
+      "titleId": "tt5164214",
+      "title": "Ocean's Eight",
+      "originalTitle": "Ocean's Eight",
+      "year": 2018,
+      "releaseDate": {
+        "day": 8,
+        "month": 6,
+        "year": 2018
+      },
+      "plot": "Debbie Ocean gathers an all-female crew to attempt an impossible heist at New York City's annual Met Gala.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjAyNDEyMzc4Ml5BMl5BanBnXkFtZTgwMjEzNjM0NTM@._V1_.jpg",
+        "caption": "Sandra Bullock, Helena Bonham Carter, Cate Blanchett, Anne Hathaway, Sarah Paulson, Mindy Kaling, Rihanna, and Awkwafina in Ocean's Eight (2018)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 6.3,
+      "numVotes": 259376,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6600,
+      "runtimeMinutes": 110,
+      "metascore": 61,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 24,
+      "titleId": "tt5083738",
+      "title": "The Favourite",
+      "originalTitle": "The Favourite",
+      "year": 2018,
+      "releaseDate": {
+        "day": 21,
+        "month": 12,
+        "year": 2018
+      },
+      "plot": "In early 18th-century England, the status quo at the court is upset when a new servant arrives and endears herself to a frail Queen Anne.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTg1NzQwMDQxNV5BMl5BanBnXkFtZTgwNDg2NDYyNjM@._V1_.jpg",
+        "caption": "Rachel Weisz, Emma Stone, and Olivia Colman in The Favourite (2018)",
+        "width": 1374,
+        "height": 2048
+      },
+      "imdbRating": 7.5,
+      "numVotes": 256212,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 7140,
+      "runtimeMinutes": 119,
+      "metascore": 91,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 25,
+      "titleId": "tt1365519",
+      "title": "Tomb Raider",
+      "originalTitle": "Tomb Raider",
+      "year": 2018,
+      "releaseDate": {
+        "day": 16,
+        "month": 3,
+        "year": 2018
+      },
+      "plot": "Lara Croft, the fiercely independent daughter of a missing adventurer, must push herself beyond her limits when she discovers the island where her father, Lord Richard Croft disappeared.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTIwNWU2NTEtMDQ0Yi00MjFkLThhN2UtMjJhOGVjN2UyYzFkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Alicia Vikander in Tomb Raider (2018)",
+        "width": 1327,
+        "height": 1966
+      },
+      "imdbRating": 6.3,
+      "numVotes": 239988,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 7140,
+      "runtimeMinutes": 119,
+      "metascore": 48,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 26,
+      "titleId": "tt6499752",
+      "title": "Upgrade",
+      "originalTitle": "Upgrade",
+      "year": 2018,
+      "releaseDate": {
+        "day": 1,
+        "month": 6,
+        "year": 2018
+      },
+      "plot": "Set in the near-future, technology controls nearly all aspects of life. But when the world of Grey, a self-labeled technophobe, is turned upside down, his only hope for revenge is an experimental computer chip implant.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjI0NzcyMjM5Ml5BMl5BanBnXkFtZTgwMzk2NzAyNTM@._V1_.jpg",
+        "caption": "Logan Marshall-Green in Upgrade (2018)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 7.5,
+      "numVotes": 231210,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6000,
+      "runtimeMinutes": 100,
+      "metascore": 67,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 27,
+      "titleId": "tt3766354",
+      "title": "The Equalizer 2",
+      "originalTitle": "The Equalizer 2",
+      "year": 2018,
+      "releaseDate": {
+        "day": 20,
+        "month": 7,
+        "year": 2018
+      },
+      "plot": "Robert McCall serves an unflinching justice for the exploited and oppressed, but how far will he go when that is someone he loves?",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTU2OTYzODQyMF5BMl5BanBnXkFtZTgwNjU3Njk5NTM@._V1_.jpg",
+        "caption": "Denzel Washington, Pedro Pascal, and Ashton Sanders in The Equalizer 2 (2018)",
+        "width": 675,
+        "height": 1000
+      },
+      "imdbRating": 6.7,
+      "numVotes": 226282,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Mystery"
+      ],
+      "runtimeSeconds": 7260,
+      "runtimeMinutes": 121,
+      "metascore": 50,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 28,
+      "titleId": "tt4779682",
+      "title": "The Meg",
+      "originalTitle": "The Meg",
+      "year": 2018,
+      "releaseDate": {
+        "day": 10,
+        "month": 8,
+        "year": 2018
+      },
+      "plot": "A rescue mission to the bottom of the ocean is terrorized by a massive prehistoric shark.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMWZjYjgxMzEtYTE1MS00M2RlLWJjOTUtZDA5ODM2YWQ4Y2FhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "The Meg (2018)",
+        "width": 2764,
+        "height": 4096
+      },
+      "imdbRating": 5.7,
+      "numVotes": 225767,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Horror"
+      ],
+      "runtimeSeconds": 6780,
+      "runtimeMinutes": 113,
+      "metascore": 46,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 29,
+      "titleId": "tt2873282",
+      "title": "Red Sparrow",
+      "originalTitle": "Red Sparrow",
+      "year": 2018,
+      "releaseDate": {
+        "day": 2,
+        "month": 3,
+        "year": 2018
+      },
+      "plot": "Prima ballerina Dominika Egorova turns dangerous Sparrow.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTA3MDkxOTc4NDdeQTJeQWpwZ15BbWU4MDAxNzgyNTQz._V1_.jpg",
+        "caption": "Jennifer Lawrence in Red Sparrow (2018)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 6.6,
+      "numVotes": 216426,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 8400,
+      "runtimeMinutes": 140,
+      "metascore": 53,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 30,
+      "titleId": "tt1213641",
+      "title": "First Man",
+      "originalTitle": "First Man",
+      "year": 2018,
+      "releaseDate": {
+        "day": 12,
+        "month": 10,
+        "year": 2018
+      },
+      "plot": "A look back at the life of astronaut Neil Armstrong and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYmIzYmViN2UtMDRhYy00OTMwLWI5YzctMTQxYzg2ODMwMTIwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ryan Gosling in First Man (2018)",
+        "width": 758,
+        "height": 1200
+      },
+      "imdbRating": 7.3,
+      "numVotes": 214487,
+      "certificate": "PG-13",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "runtimeSeconds": 8460,
+      "runtimeMinutes": 141,
+      "metascore": 84,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 31,
+      "titleId": "tt5104604",
+      "title": "Isle of Dogs",
+      "originalTitle": "Isle of Dogs",
+      "year": 2018,
+      "releaseDate": {
+        "day": 13,
+        "month": 4,
+        "year": 2018
+      },
+      "plot": "Set in Japan, Isle of Dogs follows a boy's odyssey in search of his lost dog.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTVmZWFmYWYtZTY1NC00Yjg5LTkxZGItZjhiYTExNTExNjA3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jeff Goldblum, Bill Murray, Bob Balaban, Edward Norton, Bryan Cranston, and Koyu Rankin in Isle of Dogs (2018)",
+        "width": 2000,
+        "height": 3000
+      },
+      "imdbRating": 7.8,
+      "numVotes": 208808,
+      "certificate": "PG-13",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 6060,
+      "runtimeMinutes": 101,
+      "metascore": 82,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 32,
+      "titleId": "tt3104988",
+      "title": "Crazy Rich Asians",
+      "originalTitle": "Crazy Rich Asians",
+      "year": 2018,
+      "releaseDate": {
+        "day": 15,
+        "month": 8,
+        "year": 2018
+      },
+      "plot": "This contemporary romantic comedy based on a global bestseller follows native New Yorker Rachel Chu to Singapore to meet her boyfriend's family.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTYxNDMyOTAxN15BMl5BanBnXkFtZTgwMDg1ODYzNTM@._V1_.jpg",
+        "caption": "Constance Wu and Henry Golding in Crazy Rich Asians (2018)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 6.9,
+      "numVotes": 207052,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 7200,
+      "runtimeMinutes": 120,
+      "metascore": 74,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 33,
+      "titleId": "tt4701182",
+      "title": "Bumblebee",
+      "originalTitle": "Bumblebee",
+      "year": 2018,
+      "releaseDate": {
+        "day": 21,
+        "month": 12,
+        "year": 2018
+      },
+      "plot": "Bumblebee teams up with a teenage girl to protect the world while the Decepticons hunt him with the help of a secret agency.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjUwNjU5NDMyNF5BMl5BanBnXkFtZTgwNzgxNjM2NzM@._V1_.jpg",
+        "caption": "John Cena, Hailee Steinfeld, and Dylan O'Brien in Bumblebee (2018)",
+        "width": 1365,
+        "height": 2048
+      },
+      "imdbRating": 6.7,
+      "numVotes": 206065,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6840,
+      "runtimeMinutes": 114,
+      "metascore": 66,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 34,
+      "titleId": "tt5848272",
+      "title": "Ralph Breaks the Internet",
+      "originalTitle": "Ralph Breaks the Internet",
+      "year": 2018,
+      "releaseDate": {
+        "day": 21,
+        "month": 11,
+        "year": 2018
+      },
+      "plot": "On a quest to save the video game 'Sugar Rush' and to find a replacement, Ralph and his best friend Vanellope travel to the World Wide Web through a Wi-Fi router they find at the arcade.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTYyNzEyNDAzOV5BMl5BanBnXkFtZTgwNTk3NDczNjM@._V1_.jpg",
+        "caption": "Anthony Daniels, Alfred Molina, John C. Reilly, Tim Allen, Ming-Na Wen, Gabriel Guy, Vin Diesel, Brad Garrett, Kim Raver, Sof\u00eda Vergara, Maurice LaMarche, Dave Grusin, Dave Allen, Irene Bedard, Kristen Bell, Jodi Benson, Jenica Bergere, Corey Burton, Peggy Dale, Raven Dauda, Peggy Davis, William 'Wee Willie' Davis, John DiMaggio, Jamie Elman, Fuschia!, Michael Giacchino, Ella Gombasz\u00f6gi, Kim Gordon, Paul Gruwell, Caroline Gruber, David Gruner, Cheryl Grunwald, Bill Hader, Jennifer Hale, June Haver, Taraji P. Henson, Linda Larkin, Veronica Lauren, Jane Lynch, Kelly Macdonald, Idina Menzel, Jeremy Milton, Mandy Moore, Rich Moore, Paige O'Hara, Ed O'Neill, Ana Ortiz, Viveca Paulin, Raymond S. Persi, Jack Rader, Henry Ramer, Harry Raver, Lorna Raver, Fabienne Rawley, William Raynor, Jim Reardon, Linda Robson, Anika Noni Rose, Horatio Sanz, Sarah Silverman, June Squibb, Bill Travers, Alan Tudyk, Rafer Weigel, Dean Wellins, Rebecca Wisocky, Pamela Ribon, Nicole Scherzinger, Peggy-Sue Sydora, River Archer, Joe Raver, Gruff Lovgreen, Brian Curless, Ann Barry Colgin, Raver Eda, Chris Rager, Emmett Johnston, Fia Johnston, Nathan Warner, Emerson Thomas-Gregory, James Raver, Molly Reardon, Greg Raver-Lampman, Seth Adam Braverman, River Rayne Thomas, Sasha Perl-Raver, Clark Spencer, Matt Graver, Brad Simonsen, Madeleine Lemay, Peggy Dinneen, Olivier B\u00e9nard, Raven Rigor, Fidel Osvaldo Castro, Grusha Kapoor, Liz Raver, Jack McBrayer, Gru, Raven Dean, Kate Higgins, Tanja Grunwald, Raver, Jim Gruzalski, Hamish Blake, Peggy Dell, Phil Johnston, John Lavelle, Peggy the Dog, Peggy the Dog, Katie Lowes, Jason Mantzoukas, Desiree Gruber, Peggy Drane, Dianna Agron, Roger Craig Smith, Gunvor Nelson, Dalibor Grubacevic, Flula Borg, Russell Reynolds, Julie Grundtvig Wester, Kevin Deters, Jesse Averna, Henry Jackman, Danny Grunes, Lito Gruet, Peggy Dogani, William C. Rader, Miranda Gruss, Ruth Strother, Merv Doyle, Josie Trinidad, Gal Gadot, Elise Aliberti, Alice Raver, Carroll Raver, Mickey River, Michael Raver, Jason Hightower, Daniel Platzman, Anne-Laure Gruet, Melissa Villase\u00f1or, Brandon Graver, Grumazescu Cezar, Sam Richardson, GloZell Green, Timothy Simons, Teilor Grubbs, Tucker Gilmore, Diane Raver, Colleen Ballinger, Bobby Bosko Grubic, Ali Wong, Bonnie Gruesen, Sean Giambrone, Chase River McGhee, Della Saba, Grup Yorum, Brittany Kikuchi, Agne Grudyte, Wayne Sermon, Dan Reynolds, Ben McKee, Cory Loftis, Tiffany Herrera, Nate Raven, Michaela Zee, Alex Moffat, Carolyn Braver, Kurt Grube, Jaboukie Young-White, Bud Raver, Dani Fernandez, Joel Haver, Cezar Grumazescu, Auli'i Cravalho, Emmy Raver-Lampman, Maddix Robinson, Peggy Davis, Bodhi Rader, Michael Herrera, Adrian Gr\u00fcnewald, and Wilson Raver in Ralph Breaks the Internet (2018)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 7,
+      "numVotes": 202959,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 6720,
+      "runtimeMinutes": 112,
+      "metascore": 71,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 35,
+      "titleId": "tt2231461",
+      "title": "Rampage",
+      "originalTitle": "Rampage",
+      "year": 2018,
+      "releaseDate": {
+        "day": 13,
+        "month": 4,
+        "year": 2018
+      },
+      "plot": "When three different animals become infected with a dangerous pathogen, a primatologist and a geneticist team up to stop them from destroying Chicago.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDA1NjA3ODU3OV5BMl5BanBnXkFtZTgwOTg3MTIwNTM@._V1_.jpg",
+        "caption": "Dwayne Johnson in Rampage (2018)",
+        "width": 1012,
+        "height": 1500
+      },
+      "imdbRating": 6.1,
+      "numVotes": 199749,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6420,
+      "runtimeMinutes": 107,
+      "metascore": 45,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 36,
+      "titleId": "tt5814060",
+      "title": "The Nun",
+      "originalTitle": "The Nun",
+      "year": 2018,
+      "releaseDate": {
+        "day": 7,
+        "month": 9,
+        "year": 2018
+      },
+      "plot": "A priest with a haunted past and a novice on the threshold of her final vows are sent by the Vatican to investigate the death of a young nun in Romania and confront a malevolent force in the form of a demonic nun.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjM3NzQ5NDcxOF5BMl5BanBnXkFtZTgwNzM4MTQ5NTM@._V1_.jpg",
+        "caption": "Bonnie Aarons and Taissa Farmiga in The Nun (2018)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 5.4,
+      "numVotes": 193257,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5760,
+      "runtimeMinutes": 96,
+      "metascore": 46,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 37,
+      "titleId": "tt7668870",
+      "title": "Searching",
+      "originalTitle": "Searching",
+      "year": 2018,
+      "releaseDate": {
+        "day": 31,
+        "month": 8,
+        "year": 2018
+      },
+      "plot": "After his teenage daughter goes missing, a desperate father tries to find clues on her laptop.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjA2ZTk3NDEtZDQ2Mi00MzhjLTgwZWYtOTBkMjUyMGYwMjI4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Searching (2018)",
+        "width": 1350,
+        "height": 2000
+      },
+      "imdbRating": 7.6,
+      "numVotes": 190876,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6120,
+      "runtimeMinutes": 102,
+      "metascore": 71,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 38,
+      "titleId": "tt7040874",
+      "title": "A Simple Favor",
+      "originalTitle": "A Simple Favor",
+      "year": 2018,
+      "releaseDate": {
+        "day": 14,
+        "month": 9,
+        "year": 2018
+      },
+      "plot": "Stephanie, a single mother with a parenting vlog, befriends Emily, a secretive upper-class woman who has a child at the same elementary school as Stephanie's. When Emily goes missing, Stephanie takes it upon herself to investigate.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZmM4MGFkMTItNzI1ZS00ODZlLThjYjktMTQyYmQzM2M2M2Y3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Anna Kendrick and Blake Lively in A Simple Favor (2018)",
+        "width": 3750,
+        "height": 5700
+      },
+      "imdbRating": 6.7,
+      "numVotes": 188963,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Mystery"
+      ],
+      "runtimeSeconds": 7020,
+      "runtimeMinutes": 117,
+      "metascore": 67,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 39,
+      "titleId": "tt5052474",
+      "title": "Sicario: Day of the Soldado",
+      "originalTitle": "Sicario: Day of the Soldado",
+      "year": 2018,
+      "releaseDate": {
+        "day": 29,
+        "month": 6,
+        "year": 2018
+      },
+      "plot": "The drug war on the U.S.-Mexico border has escalated as the cartels have begun trafficking terrorists across the US border. To fight the war, federal agent Matt Graver re-teams with the mercurial Alejandro.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTEzNjM2NTYxMjReQTJeQWpwZ15BbWU4MDU2NzAxNTUz._V1_.jpg",
+        "caption": "Josh Brolin and Benicio Del Toro in Sicario: Day of the Soldado (2018)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 7.1,
+      "numVotes": 188742,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 7320,
+      "runtimeMinutes": 122,
+      "metascore": 61,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 40,
+      "titleId": "tt4500922",
+      "title": "Maze Runner: The Death Cure",
+      "originalTitle": "Maze Runner: The Death Cure",
+      "year": 2018,
+      "releaseDate": {
+        "day": 26,
+        "month": 1,
+        "year": 2018
+      },
+      "plot": "In a desperate attempt to save their friends, the Gladers try to infiltrate a fortified city and make it out alive.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTYyNzk3MDc2NF5BMl5BanBnXkFtZTgwMDk3OTM1NDM@._V1_.jpg",
+        "caption": "Giancarlo Esposito, Thomas Brodie-Sangster, Dexter Darden, Dylan O'Brien, Ki Hong Lee, and Rosa Salazar in Maze Runner: The Death Cure (2018)",
+        "width": 1012,
+        "height": 1500
+      },
+      "imdbRating": 6.3,
+      "numVotes": 188206,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 8580,
+      "runtimeMinutes": 143,
+      "metascore": 50,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 41,
+      "titleId": "tt1502407",
+      "title": "Halloween",
+      "originalTitle": "Halloween",
+      "year": 2018,
+      "releaseDate": {
+        "day": 19,
+        "month": 10,
+        "year": 2018
+      },
+      "plot": "Laurie Strode confronts her long-time foe, Michael Myers, the masked figure who has haunted her since she narrowly escaped his killing spree on Halloween night four decades ago.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2FlMzdkZTMtN2MwOS00NjQzLTlkMGYtMTRiYWUxZjM2M2ZiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jamie Lee Curtis and Nick Castle in Halloween (2018)",
+        "width": 555,
+        "height": 820
+      },
+      "imdbRating": 6.5,
+      "numVotes": 185457,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Horror"
+      ],
+      "runtimeSeconds": 6360,
+      "runtimeMinutes": 106,
+      "metascore": 67,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 42,
+      "titleId": "tt6412452",
+      "title": "The Ballad of Buster Scruggs",
+      "originalTitle": "The Ballad of Buster Scruggs",
+      "year": 2018,
+      "releaseDate": {
+        "day": 9,
+        "month": 11,
+        "year": 2018
+      },
+      "plot": "Six tales of life and violence in the Old West, following a singing gunslinger, a bank robber, a traveling impresario, an elderly prospector, a wagon train and a perverse pair of bounty hunters.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTc0MzZjYTktYzBlZC00MmViLTgyNDYtNjljNTcxMzdjODRkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "The Ballad of Buster Scruggs (2018)",
+        "width": 1944,
+        "height": 2880
+      },
+      "imdbRating": 7.2,
+      "numVotes": 182508,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Musical"
+      ],
+      "runtimeSeconds": 7980,
+      "runtimeMinutes": 133,
+      "metascore": 79,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 43,
+      "titleId": "tt6155172",
+      "title": "Roma",
+      "originalTitle": "Roma",
+      "year": 2018,
+      "releaseDate": {
+        "day": 14,
+        "month": 12,
+        "year": 2018
+      },
+      "plot": "A year in the life of an upper-middle-class family's maid in Mexico City in the early 1970s.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTU0OTc3ODk4Ml5BMl5BanBnXkFtZTgwMzM4NzI5NjM@._V1_.jpg",
+        "caption": "Marina de Tavira, Marco Graf, Yalitza Aparicio, Daniela Demesa, Diego Cortina Autrey, and Carlos Peralta in Roma (2018)",
+        "width": 675,
+        "height": 1000
+      },
+      "imdbRating": 7.6,
+      "numVotes": 177558,
+      "certificate": "R",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 8100,
+      "runtimeMinutes": 135,
+      "metascore": 96,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 44,
+      "titleId": "tt6628394",
+      "title": "Bad Times at the El Royale",
+      "originalTitle": "Bad Times at the El Royale",
+      "year": 2018,
+      "releaseDate": {
+        "day": 12,
+        "month": 10,
+        "year": 2018
+      },
+      "plot": "1969. Four strangers check in at the El Royale Hotel. The hotel is deserted, staffed by a single desk clerk. Some of the new guests' reasons for being there are less than innocent and some are not who they appear to be.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTk1Nzk1MDc1MF5BMl5BanBnXkFtZTgwNjU2NDExNjM@._V1_.jpg",
+        "caption": "Jeff Bridges, Jon Hamm, Dakota Johnson, Chris Hemsworth, Lewis Pullman, Cynthia Erivo, and Cailee Spaeny in Bad Times at the El Royale (2018)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 7.1,
+      "numVotes": 177383,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "runtimeSeconds": 8460,
+      "runtimeMinutes": 141,
+      "metascore": 60,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 45,
+      "titleId": "tt6266538",
+      "title": "Vice",
+      "originalTitle": "Vice",
+      "year": 2018,
+      "releaseDate": {
+        "day": 25,
+        "month": 12,
+        "year": 2018
+      },
+      "plot": "The story of Dick Cheney, an unassuming bureaucratic Washington insider, who quietly wielded immense power as Vice President to George W. Bush, reshaping the country and the globe in ways that are still felt today.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTY1NjM0MzgxMV5BMl5BanBnXkFtZTgwNDc4NTY0NjM@._V1_.jpg",
+        "caption": "Christian Bale in Vice (2018)",
+        "width": 1312,
+        "height": 2048
+      },
+      "imdbRating": 7.2,
+      "numVotes": 173544,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 7920,
+      "runtimeMinutes": 132,
+      "metascore": 61,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 46,
+      "titleId": "tt6343314",
+      "title": "Creed II",
+      "originalTitle": "Creed II",
+      "year": 2018,
+      "releaseDate": {
+        "day": 21,
+        "month": 11,
+        "year": 2018
+      },
+      "plot": "Under the tutelage of Rocky Balboa, newly crowned heavyweight champion Adonis Creed faces off against Viktor Drago, the son of Ivan Drago.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTBmYTg3YTItZjUzYi00MGU2LThiNDUtMDA3NjNmMTFiYzZkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Sylvester Stallone and Michael B. Jordan in Creed II (2018)",
+        "width": 1275,
+        "height": 1889
+      },
+      "imdbRating": 7.1,
+      "numVotes": 168447,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Drama",
+        "Sport"
+      ],
+      "runtimeSeconds": 7800,
+      "runtimeMinutes": 130,
+      "metascore": 66,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 47,
+      "titleId": "tt7959026",
+      "title": "The Mule",
+      "originalTitle": "The Mule",
+      "year": 2018,
+      "releaseDate": {
+        "day": 14,
+        "month": 12,
+        "year": 2018
+      },
+      "plot": "A ninety-year-old horticulturist and Korean War veteran turns drug mule for a Mexican cartel.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTc1OTc5NzA4OF5BMl5BanBnXkFtZTgwOTAzMzE2NjM@._V1_.jpg",
+        "caption": "Clint Eastwood in The Mule (2018)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 7,
+      "numVotes": 167279,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6960,
+      "runtimeMinutes": 116,
+      "metascore": 58,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 48,
+      "titleId": "tt3829266",
+      "title": "The Predator",
+      "originalTitle": "The Predator",
+      "year": 2018,
+      "releaseDate": {
+        "day": 14,
+        "month": 9,
+        "year": 2018
+      },
+      "plot": "When a young boy accidentally triggers the universe's most lethal hunters' return to Earth, only a ragtag crew of ex-soldiers and a disgruntled scientist can prevent the end of the human race.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjM5MDk2NDIxMF5BMl5BanBnXkFtZTgwNjU5NDk3NTM@._V1_.jpg",
+        "caption": "The Predator (2018)",
+        "width": 1000,
+        "height": 1480
+      },
+      "imdbRating": 5.3,
+      "numVotes": 160963,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6420,
+      "runtimeMinutes": 107,
+      "metascore": 48,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 49,
+      "titleId": "tt2854926",
+      "title": "Tag",
+      "originalTitle": "Tag",
+      "year": 2018,
+      "releaseDate": {
+        "day": 15,
+        "month": 6,
+        "year": 2018
+      },
+      "plot": "A small group of former classmates organize an elaborate, annual game of tag that requires some to travel all over the country.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BM2VhYTg4M2MtMWJiNS00ZTExLWI4MTMtNjE1NTQ1ODA0MTJjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jon Hamm, Jeremy Renner, Ed Helms, Jake Johnson, and Hannibal Buress in Tag (2018)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 6.5,
+      "numVotes": 159963,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "runtimeSeconds": 6000,
+      "runtimeMinutes": 100,
+      "metascore": 56,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 50,
+      "titleId": "tt1259528",
+      "title": "Den of Thieves",
+      "originalTitle": "Den of Thieves",
+      "year": 2018,
+      "releaseDate": {
+        "day": 19,
+        "month": 1,
+        "year": 2018
+      },
+      "plot": "An elite unit of the LA County Sheriff's Dept. and the state's most successful bank robbery crew clash as the outlaws plan a seemingly impossible heist on the Federal Reserve Bank.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzYyODcwMDAyM15BMl5BanBnXkFtZTgwOTA4MjIwNDI@._V1_.jpg",
+        "caption": "Gerard Butler, Maurice Compte, Evan Jones, Mo McRae, Brian Van Holt, Pablo Schreiber, 50 Cent, Kaiwi Lyman, and O'Shea Jackson Jr. in Den of Thieves (2018)",
+        "width": 540,
+        "height": 800
+      },
+      "imdbRating": 7,
+      "numVotes": 151858,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 8400,
+      "runtimeMinutes": 140,
+      "metascore": 49,
+      "credits": [],
+      "titleType": "movie"
+    }
+  ]
+}

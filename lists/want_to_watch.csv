@@ -1,0 +1,213 @@
+year,rank,title,imdb_score,num_ratings
+1980,4,Airplane!,7.7,284492
+1980,21,Popeye,5.4,37312
+1982,16,The Dark Crystal,7.1,76512
+1982,26,The Secret of NIMH,7.5,49441
+1982,29,Grease 2,4.6,41014
+1982,34,The Beastmaster,6.2,27092
+1983,4,A Christmas Story,7.9,180332
+1983,10,The Outsiders,7,108392
+1983,14,Superman III,5,80866
+1984,2,Indiana Jones and the Temple of Doom,7.5,564294
+1984,3,Ghostbusters,7.8,483513
+1984,7,Gremlins,7.3,272406
+1984,11,Dune,6.2,191629
+1984,12,The NeverEnding Story,7.3,168783
+1984,16,Sixteen Candles,7,134560
+1984,18,Romancing the Stone,6.9,111126
+1984,21,Conan the Destroyer,5.9,89906
+1984,25,Red Dawn,6.3,68114
+1984,33,The Last Starfighter,6.7,49392
+1985,1,Back to the Future,8.5,1436072
+1985,3,The Goonies,7.7,324037
+1985,8,Mad Max Beyond Thunderdome,6.2,161260
+1985,24,National Lampoon's European Vacation,6.2,75720
+1985,37,Better Off Dead,7.1,53352
+1986,2,Top Gun,7,545656
+1986,5,Ferris Bueller's Day Off,7.8,412672
+1986,8,Castle in the Sky,8,196340
+1986,9,Big Trouble in Little China,7.2,165504
+1986,10,Labyrinth,7.3,162887
+1986,13,Crocodile Dundee,6.7,123460
+1986,17,Pretty in Pink,6.7,94512
+1986,18,Little Shop of Horrors,7.1,93857
+1986,19,Three Amigos!,6.5,91500
+1986,24,Short Circuit,6.6,70094
+1986,25,The Money Pit,6.4,66465
+1986,26,The Golden Child,6,63066
+1986,27,An American Tail,6.9,61206
+1986,33,Flight of the Navigator,6.9,54895
+1986,38,The Transformers: The Movie,7.2,44374
+1987,3,The Princess Bride,8,481978
+1987,8,Spaceballs,7.1,224667
+1987,15,Raising Arizona,7.3,159550
+1987,28,Innerspace,6.8,69206
+1987,31,Superman IV: The Quest for Peace,3.8,58030
+1987,34,Adventures in Babysitting,6.9,53547
+1987,42,Can't Buy Me Love,6.8,45535
+1987,44,Harry and the Hendersons,6.1,40402
+1988,3,My Neighbor Totoro,8.1,425739
+1988,4,Beetlejuice,7.4,415362
+1988,5,Grave of the Fireflies,8.5,377452
+1988,7,Big,7.3,258121
+1988,9,Who Framed Roger Rabbit,7.7,231803
+1988,16,Willow,7.2,138497
+1988,21,The Land Before Time,7.4,106298
+1988,25,Dirty Rotten Scoundrels,7.4,85367
+1988,33,Crocodile Dundee II,5.7,64061
+1988,41,The Great Outdoors,6.6,56602
+1989,1,Indiana Jones and the Last Crusade,8.2,858127
+1989,2,Dead Poets Society,8.1,639944
+1989,3,Back to the Future Part II,7.8,616073
+1989,7,National Lampoon's Christmas Vacation,7.5,246248
+1989,8,Ghostbusters II,6.6,238385
+1989,9,The Abyss,7.5,207669
+1989,12,"Honey, I Shrunk the Kids",6.4,175903
+1989,14,Bill & Ted's Excellent Adventure,6.9,148583
+1989,17,Driving Miss Daisy,7.3,123520
+1989,20,Uncle Buck,7.1,120348
+1989,25,Look Who's Talking,6,90548
+1989,29,Turner & Hooch,6.2,80390
+1989,32,Weekend at Bernie's,6.4,67630
+1989,40,Parenthood,7.1,58371
+1990,2,Home Alone,7.8,736998
+1990,3,Edward Scissorhands,7.8,561379
+1990,4,Back to the Future Part III,7.5,515518
+1990,9,Dances with Wolves,8,307744
+1990,11,Ghost,7.1,254382
+1990,12,The Hunt for Red October,7.5,229271
+1990,15,Kindergarten Cop,6.3,174069
+1990,16,Tremors,7.2,164481
+1990,20,Gremlins 2: The New Batch,6.5,119934
+1990,21,Teenage Mutant Ninja Turtles,6.8,111654
+1990,27,Arachnophobia,6.5,80235
+1990,32,The Witches,6.8,58913
+1990,34,Look Who's Talking Too,4.7,50811
+1990,35,The Rescuers Down Under,6.8,50744
+1990,47,Problem Child,5.5,35229
+1991,4,Hook,6.8,289062
+1991,7,Robin Hood: Prince of Thieves,6.9,220534
+1991,8,The Addams Family,7,199927
+1991,14,Hot Shots!,6.7,124274
+1991,17,My Girl,6.9,96747
+1991,21,Father of the Bride,6.6,91943
+1991,24,Bill & Ted's Bogus Journey,6.3,84615
+1991,31,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,6,64043
+1991,44,Don't Tell Mom the Babysitter's Dead,6.4,41053
+1992,2,Aladdin,8,497012
+1992,4,Home Alone 2: Lost in New York,6.9,451932
+1992,14,Wayne's World,7,181108
+1992,18,A League of Their Own,7.4,129268
+1992,22,Sister Act,6.5,117426
+1992,30,The Muppet Christmas Carol,7.8,81693
+1992,31,Beethoven,5.7,80845
+1992,32,The Mighty Ducks,6.6,76120
+1992,37,Sneakers,7.1,67554
+1992,42,Buffy the Vampire Slayer,5.7,53420
+1993,2,Jurassic Park,8.2,1164630
+1993,3,Groundhog Day,8,733516
+1993,5,The Fugitive,7.8,343414
+1993,6,Mrs. Doubtfire,7.1,312956
+1993,7,Philadelphia,7.7,272208
+1993,14,Sleepless in Seattle,6.8,205251
+1993,18,Last Action Hero,6.5,173420
+1993,19,Hocus Pocus,6.9,171808
+1993,22,Robin Hood: Men in Tights,6.7,144925
+1993,23,Addams Family Values,6.9,122635
+1993,25,Cool Runnings,7,121547
+1993,27,The Sandlot,7.8,113376
+1993,28,Hot Shots! Part Deux,6.6,103280
+1993,33,Wayne's World 2,6.2,91698
+1994,6,The Mask,7,464822
+1994,7,Dumb and Dumber,7.3,440164
+1994,10,Ace Ventura: Pet Detective,6.9,350382
+1994,15,Stargate,7,217630
+1995,3,Toy Story,8.3,1161388
+1995,9,Jumanji,7.1,408833
+1995,11,Apollo 13,7.7,333935
+1995,16,Ace Ventura: When Nature Calls,6.4,247499
+1995,22,Billy Madison,6.4,166585
+1995,39,Tommy Boy,7.1,104167
+1996,3,Independence Day,7,642162
+1996,4,Mission: Impossible,7.2,513729
+1996,9,Happy Gilmore,7,303466
+1996,11,Romeo + Juliet,6.7,258245
+1996,12,Mars Attacks!,6.4,257062
+1996,18,Matilda,7,193299
+1996,19,The Cable Guy,6.1,188498
+1997,1,Titanic,8,1379330
+1997,3,Life Is Beautiful,8.6,805478
+1997,4,Men in Black,7.3,658283
+1997,6,The Fifth Element,7.6,539868
+1997,8,The Lost World: Jurassic Park,6.6,474246
+1997,15,Gattaca,7.7,344258
+1997,19,Contact,7.5,310417
+1997,33,My Best Friend's Wedding,6.4,165349
+1998,2,The Truman Show,8.2,1351456
+1998,6,Armageddon,6.7,475997
+1998,8,Mulan,7.7,342713
+1998,11,Rush Hour,7.1,324806
+1998,13,Meet Joe Black,7.2,296773
+1998,26,The Waterboy,6.2,190672
+1998,29,The Wedding Singer,6.9,172232
+1998,30,The Parent Trap,6.7,171708
+1998,42,Sphere,6.1,117938
+1999,5,The Sixth Sense,8.2,1134051
+1999,7,Toy Story 2,7.9,663069
+1999,8,The Mummy,7.1,496199
+1999,10,10 Things I Hate About You,7.4,442511
+1999,22,The Iron Giant,8.1,256746
+1999,23,Big Daddy,6.5,249863
+1999,45,Entrapment,6.3,129223
+2000,6,X-Men,7.3,687481
+2000,7,Cast Away,7.8,683606
+2000,8,Unbreakable,7.3,465131
+2000,9,Mission: Impossible II,6.1,411066
+2000,10,Meet the Parents,7,375814
+2000,11,"O Brother, Where Art Thou?",7.7,349413
+2000,18,"Crouching Tiger, Hidden Dragon",7.9,292808
+2000,32,Battle Royale,7.5,205921
+2001,17,The Mummy Returns,6.4,364759
+2001,18,A.I. Artificial Intelligence,7.2,337184
+2002,2,Catch Me If You Can,8.1,1218412
+2002,8,Minority Report,7.6,617078
+2002,9,The Bourne Identity,7.8,609297
+2002,15,The Ring,7.1,399605
+2002,19,The Transporter,6.8,336432
+2003,2,Pirates of the Caribbean: The Curse of the Black Pearl,8.1,1310318
+2003,17,School of Rock,7.2,355345
+2004,14,The Bourne Supremacy,7.7,509973
+2004,26,Anchorman: The Legend of Ron Burgundy,7.1,398795
+2004,28,Hotel Rwanda,8.1,390146
+2004,32,Van Helsing,6.1,304964
+2004,36,Dodgeball: A True Underdog Story,6.7,283416
+2005,21,The Island,6.8,340439
+2005,23,Serenity,7.8,314108
+2006,4,Pirates of the Caribbean: Dead Man's Chest,7.4,818925
+2006,6,Casino Royale,8,738007
+2006,8,The Pursuit of Happyness,8,613601
+2006,34,Stranger Than Fiction,7.5,244245
+2006,40,Talladega Nights: The Ballad of Ricky Bobby,6.6,212304
+2007,3,I Am Legend,7.2,869596
+2007,4,Pirates of the Caribbean: At World's End,7.1,737905
+2007,11,The Bourne Ultimatum,8,681001
+2007,13,Juno,7.4,570185
+2007,31,Stardust,7.6,297200
+2007,34,Disturbia,6.8,272920
+2007,46,The Man from Earth,7.8,216870
+2008,2,WALL·E,8.4,1306345
+2008,3,Iron Man,7.9,1211859
+2008,6,The Curious Case of Benjamin Button,7.8,739934
+2008,7,Taken,7.7,668032
+2008,29,21,6.8,279607
+2008,35,The Boy in the Striped Pajamas,7.7,271091
+2009,6,Sherlock Holmes,7.5,702749
+2009,13,3 Idiots,8.4,476772
+2009,16,The Proposal,6.8,392615
+2011,7,Limitless,7.4,642422
+2011,11,Source Code,7.5,578693
+2011,21,In Time,6.7,479945
+2012,23,Moonrise Kingdom,7.8,381114
+2024,11,The Fall Guy,6.8,250927
+2024,37,Moana 2,6.3,122382
+2025,12,Wake Up Dead Man,7.3,201958

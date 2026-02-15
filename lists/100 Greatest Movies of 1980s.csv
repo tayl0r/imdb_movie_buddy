@@ -1,0 +1,101 @@
+year,rank,title,imdb_score,num_ratings
+1980,1,Raging Bull,8.1,407273
+1980,2,Star Wars: Episode V - The Empire Strikes Back,8.7,1491921
+1985,3,Back to the Future,8.5,1437106
+1981,4,Raiders of the Lost Ark,8.4,1103401
+1984,5,Blood Simple,7.5,112977
+1982,6,Fast Times at Ridgemont High,7.1,123987
+1986,7,Platoon,8.1,469027
+1984,8,This Is Spinal Tap,7.9,159800
+1982,9,E.T. the Extra-Terrestrial,7.9,468416
+1980,10,The Shining,8.4,1214101
+1987,11,The Princess Bride,8,482260
+1980,12,Caddyshack,7.2,133752
+1986,13,Aliens,8.4,835090
+1984,14,Amadeus,8.4,464600
+1984,15,Once Upon a Time in America,8.3,406010
+1980,16,Airplane!,7.7,284640
+1984,17,Sixteen Candles,7,134624
+1987,18,Full Metal Jacket,8.2,844702
+1983,19,Star Wars: Episode VI - Return of the Jedi,8.3,1199537
+1983,20,A Christmas Story,7.9,180359
+1982,21,Blade Runner,8.1,875805
+1988,22,Die Hard,8.2,1022949
+1986,23,Blue Velvet,7.7,242384
+1986,24,Stand by Me,8.1,482384
+1987,25,The Untouchables,7.8,351715
+1988,26,Cinema Paradiso,8.5,314915
+1982,27,Gandhi,8,246610
+1986,28,Hoosiers,7.4,56562
+1987,29,Raising Arizona,7.3,159623
+1989,30,Indiana Jones and the Last Crusade,8.2,858473
+1989,31,Do the Right Thing,7.9,122886
+1984,32,The Terminator,8.1,995323
+1988,33,Who Framed Roger Rabbit,7.7,231896
+1988,34,Rain Man,8,580456
+1989,35,Say Anything,7.3,101262
+1985,36,Brazil,7.8,221360
+1988,37,Big,7.3,258236
+1981,38,Stripes,6.8,85311
+1984,39,Ghostbusters,7.8,483777
+1980,40,Ordinary People,7.7,61430
+1982,41,Tootsie,7.4,121376
+1983,42,The Big Chill,7.1,45144
+1985,43,The Breakfast Club,7.8,469320
+1989,44,Batman,7.5,429645
+1985,45,After Hours,7.6,95015
+1989,46,Glory,7.8,152814
+1989,47,Field of Dreams,7.5,137839
+1987,48,The Last Emperor,7.7,118708
+1986,49,Ferris Bueller's Day Off,7.8,412877
+1982,50,Poltergeist,7.3,193633
+1986,51,The Color of Money,7,100328
+1980,52,Kagemusha: The Shadow Warrior,7.9,40680
+1982,53,The King of Comedy,7.8,131257
+1988,54,Mississippi Burning,7.8,126801
+1983,55,National Lampoon's Vacation,7.3,127648
+1989,56,My Left Foot,7.8,84612
+1985,57,The Color Purple,7.7,103424
+1989,58,"Sex, Lies, and Videotape",7.2,63965
+1987,59,"Planes, Trains & Automobiles",7.6,179451
+1988,60,Coming to America,7.1,238524
+1988,61,A Fish Called Wanda,7.5,164482
+1988,62,Beetlejuice,7.4,415589
+1987,63,Broadcast News,7.3,36540
+1980,64,Atlantic City,7.3,19536
+1984,65,A Nightmare on Elm Street,7.4,288680
+1982,66,Missing,7.7,25429
+1983,67,Risky Business,6.8,107414
+1980,68,Superman II,6.8,123945
+1985,69,Witness,7.3,112949
+1988,70,Dangerous Liaisons,7.5,79487
+1987,71,Wall Street,7.3,173684
+1983,72,Trading Places,7.5,181097
+1989,73,Uncle Buck,7.1,120403
+1985,74,The Goonies,7.7,324200
+1989,75,Heathers,7.1,126113
+1984,76,Beverly Hills Cop,7.4,230482
+1985,77,Lost in America,7,11296
+1980,78,The Blues Brothers,7.9,227947
+1986,79,Manhunter,7.2,90516
+1989,80,Lethal Weapon 2,7.3,200112
+1981,81,The Road Warrior,7.6,212003
+1987,82,"Good Morning, Vietnam",7.3,164300
+1984,83,The Karate Kid,7.3,268910
+1987,84,Lethal Weapon,7.6,294014
+1988,85,The Naked Gun: From the Files of Police Squad!,7.6,219759
+1985,86,Rocky IV,6.9,242968
+1989,87,Born on the Fourth of July,7.2,123746
+1988,88,Eight Men Out,7.2,23799
+1985,89,Fletch,6.9,61073
+1982,90,The Thing,8.2,520677
+1981,91,Reds,7.3,26573
+1985,92,Prizzi's Honor,6.7,28462
+1988,93,Midnight Run,7.5,102919
+1989,94,The Fabulous Baker Boys,6.9,27489
+1986,95,Hannah and Her Sisters,7.8,81128
+1981,96,On Golden Pond,7.6,37390
+1983,97,Gorky Park,6.7,18126
+1981,98,Blow Out,7.4,74605
+1988,99,The Accused,7.1,42777
+1985,100,Kiss of the Spider Woman,7.3,19153

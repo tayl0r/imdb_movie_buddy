@@ -1,0 +1,1590 @@
+{
+  "year": 1994,
+  "movies": [
+    {
+      "rank": 1,
+      "titleId": "tt0111161",
+      "title": "The Shawshank Redemption",
+      "originalTitle": "The Shawshank Redemption",
+      "year": 1994,
+      "releaseDate": {
+        "day": 14,
+        "month": 10,
+        "year": 1994
+      },
+      "plot": "A banker convicted of uxoricide forms a friendship over a quarter century with a hardened convict, while maintaining his innocence and trying to remain hopeful through simple compassion.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tim Robbins in The Shawshank Redemption (1994)",
+        "width": 1200,
+        "height": 1800
+      },
+      "imdbRating": 9.3,
+      "numVotes": 3155021,
+      "certificate": "R",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 8520,
+      "runtimeMinutes": 142,
+      "metascore": 82,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 2,
+      "titleId": "tt0109830",
+      "title": "Forrest Gump",
+      "originalTitle": "Forrest Gump",
+      "year": 1994,
+      "releaseDate": {
+        "day": 6,
+        "month": 7,
+        "year": 1994
+      },
+      "plot": "The history of the United States from the 1950s to the '70s unfolds from the perspective of an Alabama man with an IQ of 75, who yearns to be reunited with his childhood sweetheart.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDYwNzVjMTItZmU5YS00YjQ5LTljYjgtMjY2NDVmYWMyNWFmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tom Hanks in Forrest Gump (1994)",
+        "width": 558,
+        "height": 809
+      },
+      "imdbRating": 8.8,
+      "numVotes": 2469696,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 8520,
+      "runtimeMinutes": 142,
+      "metascore": 82,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 3,
+      "titleId": "tt0110912",
+      "title": "Pulp Fiction",
+      "originalTitle": "Pulp Fiction",
+      "year": 1994,
+      "releaseDate": {
+        "day": 14,
+        "month": 10,
+        "year": 1994
+      },
+      "plot": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTViYTE3ZGQtNDBlMC00ZTAyLTkyODMtZGRiZDg0MjA2YThkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Uma Thurman in Pulp Fiction (1994)",
+        "width": 1055,
+        "height": 1536
+      },
+      "imdbRating": 8.8,
+      "numVotes": 2411467,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 9240,
+      "runtimeMinutes": 154,
+      "metascore": 95,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 4,
+      "titleId": "tt0110413",
+      "title": "L\u00e9on: The Professional",
+      "originalTitle": "L\u00e9on",
+      "year": 1994,
+      "releaseDate": {
+        "day": 18,
+        "month": 11,
+        "year": 1994
+      },
+      "plot": "When her family is murdered by a group of corrupt officers led by the tyrannical Norman Stansfield, a young 12-year-old girl enlists the help of an Italian-American hitman to seek revenge.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGRkYTNhOWQtYmI0Ni00MjZhLWJmMzAtMTA2Mjg4NGNiNDU0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Natalie Portman and Jean Reno in L\u00e9on: The Professional (1994)",
+        "width": 1942,
+        "height": 2898
+      },
+      "imdbRating": 8.5,
+      "numVotes": 1340701,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 6600,
+      "runtimeMinutes": 110,
+      "metascore": 64,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 5,
+      "titleId": "tt0110357",
+      "title": "The Lion King",
+      "originalTitle": "The Lion King",
+      "year": 1994,
+      "releaseDate": {
+        "day": 24,
+        "month": 6,
+        "year": 1994
+      },
+      "plot": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZGRiZDZhZjItM2M3ZC00Y2IyLTk3Y2MtMWY5YjliNDFkZTJlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Matthew Broderick and James Earl Jones in The Lion King (1994)",
+        "width": 1995,
+        "height": 2964
+      },
+      "imdbRating": 8.5,
+      "numVotes": 1246531,
+      "certificate": "G",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Drama"
+      ],
+      "runtimeSeconds": 5280,
+      "runtimeMinutes": 88,
+      "metascore": 88,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 6,
+      "titleId": "tt0110475",
+      "title": "The Mask",
+      "originalTitle": "The Mask",
+      "year": 1994,
+      "releaseDate": {
+        "day": 29,
+        "month": 7,
+        "year": 1994
+      },
+      "plot": "Bank clerk Stanley Ipkiss is transformed into a manic superhero when he wears a mysterious mask.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGNmNjI0ZmMtMzI5MC00ZjUyLWFlZDEtYjUyMGZlN2E3N2E2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jim Carrey in The Mask (1994)",
+        "width": 1009,
+        "height": 1500
+      },
+      "imdbRating": 7,
+      "numVotes": 464822,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 6060,
+      "runtimeMinutes": 101,
+      "metascore": 59,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 7,
+      "titleId": "tt0109686",
+      "title": "Dumb and Dumber",
+      "originalTitle": "Dumb and Dumber",
+      "year": 1994,
+      "releaseDate": {
+        "day": 16,
+        "month": 12,
+        "year": 1994
+      },
+      "plot": "After a woman leaves a briefcase at the airport terminal, a dumb limo driver and his dumber friend set out on a hilarious cross-country road trip to Aspen to return it.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGQxZDA1MmMtYWQ1Ni00NTJmLTljMjgtZWVmODllODVhMzgyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jim Carrey and Jeff Daniels in Dumb and Dumber (1994)",
+        "width": 580,
+        "height": 853
+      },
+      "imdbRating": 7.3,
+      "numVotes": 440164,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy"
+      ],
+      "runtimeSeconds": 6420,
+      "runtimeMinutes": 107,
+      "metascore": 41,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 8,
+      "titleId": "tt0111257",
+      "title": "Speed",
+      "originalTitle": "Speed",
+      "year": 1994,
+      "releaseDate": {
+        "day": 10,
+        "month": 6,
+        "year": 1994
+      },
+      "plot": "An extortionist bomber rigs a Los Angeles city bus to explode if its speed drops below 50 mph, forcing a young cop and a female passenger to keep it moving and save everyone on board.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDc2ODI5YWQtMmM2ZS00MTdmLWEyNWEtNmRmOGE5NGZlYWMzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Keanu Reeves in Speed (1994)",
+        "width": 1013,
+        "height": 1500
+      },
+      "imdbRating": 7.3,
+      "numVotes": 419782,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6960,
+      "runtimeMinutes": 116,
+      "metascore": 78,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 9,
+      "titleId": "tt0110148",
+      "title": "Interview with the Vampire",
+      "originalTitle": "Interview with the Vampire: The Vampire Chronicles",
+      "year": 1994,
+      "releaseDate": {
+        "day": 11,
+        "month": 11,
+        "year": 1994
+      },
+      "plot": "A vampire tells his epic life story: love, betrayal, loneliness, and hunger.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzJlN2NiZDQtZmI4NC00ZWFiLWFmMTUtMWM4ODVlOGFlODY1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tom Cruise and Kirsten Dunst in Interview with the Vampire (1994)",
+        "width": 1001,
+        "height": 1500
+      },
+      "imdbRating": 7.5,
+      "numVotes": 373746,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Horror"
+      ],
+      "runtimeSeconds": 7380,
+      "runtimeMinutes": 123,
+      "metascore": 62,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 10,
+      "titleId": "tt0109040",
+      "title": "Ace Ventura: Pet Detective",
+      "originalTitle": "Ace Ventura: Pet Detective",
+      "year": 1994,
+      "releaseDate": {
+        "day": 4,
+        "month": 2,
+        "year": 1994
+      },
+      "plot": "A goofy detective specializing in animals goes in search of the missing mascot of the Miami Dolphins.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWU1M2Q5MDgtOTkxZS00NjdmLWFlNWEtOGEyOTNlNGYyYTZlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jim Carrey in Ace Ventura: Pet Detective (1994)",
+        "width": 1088,
+        "height": 1600
+      },
+      "imdbRating": 6.9,
+      "numVotes": 350382,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy"
+      ],
+      "runtimeSeconds": 5160,
+      "runtimeMinutes": 86,
+      "metascore": 37,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 11,
+      "titleId": "tt0111503",
+      "title": "True Lies",
+      "originalTitle": "True Lies",
+      "year": 1994,
+      "releaseDate": {
+        "day": 15,
+        "month": 7,
+        "year": 1994
+      },
+      "plot": "A fearless, globe-trotting, terrorist-battling secret agent has his life turned upside down when he discovers his wife might be having an affair with a used-car salesman while terrorists smuggle nuclear war heads into the United States.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjU1ZjNhMjMtOTMxZS00MDc1LTlkNzQtZTdjNGQyYjQ4YTA4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Arnold Schwarzenegger in True Lies (1994)",
+        "width": 1343,
+        "height": 2000
+      },
+      "imdbRating": 7.3,
+      "numVotes": 299488,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Thriller"
+      ],
+      "runtimeSeconds": 8460,
+      "runtimeMinutes": 141,
+      "metascore": 63,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 12,
+      "titleId": "tt0110632",
+      "title": "Natural Born Killers",
+      "originalTitle": "Natural Born Killers",
+      "year": 1994,
+      "releaseDate": {
+        "day": 26,
+        "month": 8,
+        "year": 1994
+      },
+      "plot": "Two victims of traumatized childhoods become lovers and psychopathic serial murderers irresponsibly glorified by the mass media.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTlmYjkxNzYtYWMwMC00NTNhLWExZjEtNmUwMzlmYWJhOGFjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Woody Harrelson and Juliette Lewis in Natural Born Killers (1994)",
+        "width": 2445,
+        "height": 3244
+      },
+      "imdbRating": 7.2,
+      "numVotes": 266190,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Romance"
+      ],
+      "runtimeSeconds": 7140,
+      "runtimeMinutes": 119,
+      "metascore": 74,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 13,
+      "titleId": "tt0109445",
+      "title": "Clerks",
+      "originalTitle": "Clerks",
+      "year": 1994,
+      "releaseDate": {
+        "day": 9,
+        "month": 11,
+        "year": 1994
+      },
+      "plot": "A day in the lives of two convenience clerks named Dante and Randal as they annoy customers, discuss movies, and play hockey on the store roof.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzcwZTU5NzMtMGIxYi00NjRhLThkYTItNjhlYWQ0MjdhYWFmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Kevin Smith, Marilyn Ghigliotti, Jeff Anderson, Brian O'Halloran, and Lisa Spoonauer in Clerks (1994)",
+        "width": 1000,
+        "height": 1500
+      },
+      "imdbRating": 7.7,
+      "numVotes": 239532,
+      "certificate": "R",
+      "genres": [
+        "Comedy"
+      ],
+      "runtimeSeconds": 5520,
+      "runtimeMinutes": 92,
+      "metascore": 70,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 14,
+      "titleId": "tt0109506",
+      "title": "The Crow",
+      "originalTitle": "The Crow",
+      "year": 1994,
+      "releaseDate": {
+        "day": 13,
+        "month": 5,
+        "year": 1994
+      },
+      "plot": "The night before his wedding, musician Eric Draven and his fianc\u00e9e are brutally murdered by members of a violent gang. On the anniversary of their death, Eric rises from the grave and assumes the mantle of the Crow, a supernatural avenger.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTBiNzhkZTItZWUwZS00YTJkLTg0YTEtN2I0ZDI5ODI2MWFjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Brandon Lee in The Crow (1994)",
+        "width": 1941,
+        "height": 2911
+      },
+      "imdbRating": 7.5,
+      "numVotes": 229167,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 6120,
+      "runtimeMinutes": 102,
+      "metascore": 72,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 15,
+      "titleId": "tt0111282",
+      "title": "Stargate",
+      "originalTitle": "Stargate",
+      "year": 1994,
+      "releaseDate": {
+        "day": 28,
+        "month": 10,
+        "year": 1994
+      },
+      "plot": "An interstellar teleportation device, found in Egypt, leads to a planet with humans resembling ancient Egyptians who worship the god Ra.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGRmZmNhMTctZTBiMy00ZmJhLWE3MmMtMDNmZWRkZjczMGVkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Stargate (1994)",
+        "width": 1000,
+        "height": 1500
+      },
+      "imdbRating": 7,
+      "numVotes": 217630,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 7260,
+      "runtimeMinutes": 121,
+      "metascore": 42,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 16,
+      "titleId": "tt0110322",
+      "title": "Legends of the Fall",
+      "originalTitle": "Legends of the Fall",
+      "year": 1994,
+      "releaseDate": {
+        "day": 13,
+        "month": 1,
+        "year": 1995
+      },
+      "plot": "In the early 1900s, three brothers and their father living in the remote wilderness of Montana are affected by betrayal, history, love, nature, and war.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzFlMjE3NjYtYjIwMC00YTVhLWJlOWMtZjM1NDdmMTk1OGRlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Brad Pitt, Anthony Hopkins, Julia Ormond, and Aidan Quinn in Legends of the Fall (1994)",
+        "width": 1525,
+        "height": 2265
+      },
+      "imdbRating": 7.5,
+      "numVotes": 197804,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Romance",
+        "War"
+      ],
+      "runtimeSeconds": 7980,
+      "runtimeMinutes": 133,
+      "metascore": 45,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 17,
+      "titleId": "tt0109707",
+      "title": "Ed Wood",
+      "originalTitle": "Ed Wood",
+      "year": 1994,
+      "releaseDate": {
+        "day": 7,
+        "month": 10,
+        "year": 1994
+      },
+      "plot": "Ambitious but troubled movie director Edward D. Wood Jr. tries his best to fulfill his dreams despite his lack of talent.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWU4NzlkZGEtODNmYi00YTVhLWJhYjAtZjBkN2Q1Y2U5NjE4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Patricia Arquette, Johnny Depp, Bill Murray, Jeffrey Jones, Sarah Jessica Parker, Martin Landau, Lisa Marie, and George 'The Animal' Steele in Ed Wood (1994)",
+        "width": 1013,
+        "height": 1500
+      },
+      "imdbRating": 7.8,
+      "numVotes": 190766,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 7620,
+      "runtimeMinutes": 127,
+      "metascore": 71,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 18,
+      "titleId": "tt0109831",
+      "title": "Four Weddings and a Funeral",
+      "originalTitle": "Four Weddings and a Funeral",
+      "year": 1994,
+      "releaseDate": {
+        "day": 15,
+        "month": 4,
+        "year": 1994
+      },
+      "plot": "Over the course of five social occasions, a committed bachelor must consider the notion that he may have discovered love.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTMyNzg2NzgxNV5BMl5BanBnXkFtZTcwMTcxNzczNA@@._V1_.jpg",
+        "caption": "Rowan Atkinson, Kristin Scott Thomas, Hugh Grant, Andie MacDowell, Simon Callow, John Hannah, and Charlotte Coleman in Four Weddings and a Funeral (1994)",
+        "width": 682,
+        "height": 1023
+      },
+      "imdbRating": 7.1,
+      "numVotes": 180494,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 7020,
+      "runtimeMinutes": 117,
+      "metascore": 81,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 19,
+      "titleId": "tt0111070",
+      "title": "The Santa Clause",
+      "originalTitle": "The Santa Clause",
+      "year": 1994,
+      "releaseDate": {
+        "day": 11,
+        "month": 11,
+        "year": 1994
+      },
+      "plot": "When a man inadvertently makes Santa fall off his roof on Christmas Eve, he finds himself magically recruited to take his place.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTYwZWUxNmUtNzdmMS00MDBiLWFhN2EtNjBmYjM1ZWFiNDUzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tim Allen and Eric Lloyd in The Santa Clause (1994)",
+        "width": 1013,
+        "height": 1500
+      },
+      "imdbRating": 6.6,
+      "numVotes": 147098,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Family"
+      ],
+      "runtimeSeconds": 5820,
+      "runtimeMinutes": 97,
+      "metascore": 57,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 20,
+      "titleId": "tt0110622",
+      "title": "Naked Gun 33 1/3: The Final Insult",
+      "originalTitle": "Naked Gun 33 1/3: The Final Insult",
+      "year": 1994,
+      "releaseDate": {
+        "day": 18,
+        "month": 3,
+        "year": 1994
+      },
+      "plot": "Frank Drebin comes out of retirement to help Police Squad infiltrate a gang of terrorists planning to detonate a bomb at the Academy Awards.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BM2ViYTFhMTktMjU0OC00ZWY3LWEzZDItMTExNDc2NDNjN2I3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Leslie Nielsen in Naked Gun 33 1/3: The Final Insult (1994)",
+        "width": 580,
+        "height": 852
+      },
+      "imdbRating": 6.5,
+      "numVotes": 126930,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 4980,
+      "runtimeMinutes": 83,
+      "metascore": 63,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 21,
+      "titleId": "tt0110478",
+      "title": "Maverick",
+      "originalTitle": "Maverick",
+      "year": 1994,
+      "releaseDate": {
+        "day": 20,
+        "month": 5,
+        "year": 1994
+      },
+      "plot": "Bret Maverick, needing money for a poker tournament, faces various comic mishaps and challenges, including a charming woman thief.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjk5MzdhYWMtOWU3Yi00MTE5LWEyYTEtOGU5NWM0NWNmZDE1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jodie Foster, Mel Gibson, and James Garner in Maverick (1994)",
+        "width": 1118,
+        "height": 1650
+      },
+      "imdbRating": 7,
+      "numVotes": 125487,
+      "certificate": "PG",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 7620,
+      "runtimeMinutes": 127,
+      "metascore": 62,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 22,
+      "titleId": "tt0111495",
+      "title": "Three Colors: Red",
+      "originalTitle": "Trois couleurs: Rouge",
+      "year": 1994,
+      "releaseDate": {
+        "day": 23,
+        "month": 11,
+        "year": 1994
+      },
+      "plot": "A model discovers a retired judge is keen on invading people's privacy.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTQ0YTQyYzItNGEzMi00NmI4LWJkOTMtOWMyMjAwMWEzYTZhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ir\u00e8ne Jacob in Three Colors: Red (1994)",
+        "width": 960,
+        "height": 1440
+      },
+      "imdbRating": 8.1,
+      "numVotes": 116185,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Romance"
+      ],
+      "runtimeSeconds": 5940,
+      "runtimeMinutes": 99,
+      "metascore": 100,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 23,
+      "titleId": "tt0109444",
+      "title": "Clear and Present Danger",
+      "originalTitle": "Clear and Present Danger",
+      "year": 1994,
+      "releaseDate": {
+        "day": 3,
+        "month": 8,
+        "year": 1994
+      },
+      "plot": "An acting CIA Chief learns the President has triggered a war with Colombian drug cartels.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZmRhZWJhZTctZjE4OS00NzM0LWIyYzEtNTM2MDgyY2MwNTQzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Clear and Present Danger (1994)",
+        "width": 1952,
+        "height": 2904
+      },
+      "imdbRating": 6.9,
+      "numVotes": 115493,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 8460,
+      "runtimeMinutes": 141,
+      "metascore": 72,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 24,
+      "titleId": "tt0109424",
+      "title": "Chungking Express",
+      "originalTitle": "Chung Hing sam lam",
+      "year": 1994,
+      "releaseDate": {
+        "day": 8,
+        "month": 3,
+        "year": 1996
+      },
+      "plot": "Two melancholic Hong Kong policemen fall in love: one with a mysterious female underworld figure, the other with a beautiful and ethereal waitress at a late-night restaurant he frequents.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDQ4ZmYxODctZDVlZC00OTcxLWJjOGItZjRlMzk4MDA1Yjg1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Takeshi Kaneshiro, Brigitte Lin, and Faye Wong in Chungking Express (1994)",
+        "width": 1155,
+        "height": 1709
+      },
+      "imdbRating": 7.9,
+      "numVotes": 109201,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 6120,
+      "runtimeMinutes": 102,
+      "metascore": 78,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 25,
+      "titleId": "tt0109254",
+      "title": "Beverly Hills Cop III",
+      "originalTitle": "Beverly Hills Cop III",
+      "year": 1994,
+      "releaseDate": {
+        "day": 25,
+        "month": 5,
+        "year": 1994
+      },
+      "plot": "While investigating a car theft ring, Axel Foley comes across a much bigger crime; the same men who killed his boss are running a counterfeit money ring out of a theme park in Los Angeles.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMGY2ZWQ2MDUtMzcyYS00ZDJmLThiNTUtOGM5MzM0NWMyNDY0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Beverly Hills Cop III (1994)",
+        "width": 1526,
+        "height": 2265
+      },
+      "imdbRating": 5.5,
+      "numVotes": 99790,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 6240,
+      "runtimeMinutes": 104,
+      "metascore": 16,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 26,
+      "titleId": "tt0109813",
+      "title": "The Flintstones",
+      "originalTitle": "The Flintstones",
+      "year": 1994,
+      "releaseDate": {
+        "day": 27,
+        "month": 5,
+        "year": 1994
+      },
+      "plot": "In a parallel modern-day Stone Age world, a working-class family, the Flintstones, are set up for an executive job. But they learn that money can't buy happiness.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZmQwYjljNjUtYjA0NC00MTEyLWE0YmItNGViNGU5ZDEzMWRiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Mel Blanc, John Goodman, Rick Moranis, Elizabeth Perkins, Rosie O'Donnell, Elizabeth Daily, Harvey Korman, Hlynur Sigur\u00f0sson, Marin\u00f3 Sigur\u00f0sson, Elaine Silver, and Melanie Silver in The Flintstones (1994)",
+        "width": 1000,
+        "height": 1500
+      },
+      "imdbRating": 5.1,
+      "numVotes": 91407,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 5460,
+      "runtimeMinutes": 91,
+      "metascore": 38,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 27,
+      "titleId": "tt0111280",
+      "title": "Star Trek: Generations",
+      "originalTitle": "Star Trek: Generations",
+      "year": 1994,
+      "releaseDate": {
+        "day": 18,
+        "month": 11,
+        "year": 1994
+      },
+      "plot": "With the help of long presumed dead Captain Kirk, Captain Picard must stop a deranged scientist willing to murder on a planetary scale in order to enter a space matrix.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDFjYmFmNmItODM5Ny00YzhlLWEzNjEtNTBlNjRiN2RlYTRhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "William Shatner and Patrick Stewart in Star Trek: Generations (1994)",
+        "width": 1949,
+        "height": 2897
+      },
+      "imdbRating": 6.6,
+      "numVotes": 90764,
+      "certificate": "PG",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Mystery"
+      ],
+      "runtimeSeconds": 7080,
+      "runtimeMinutes": 118,
+      "metascore": 55,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 28,
+      "titleId": "tt0110074",
+      "title": "The Hudsucker Proxy",
+      "originalTitle": "The Hudsucker Proxy",
+      "year": 1994,
+      "releaseDate": {
+        "day": 11,
+        "month": 3,
+        "year": 1994
+      },
+      "plot": "A naive business graduate is installed as president of a manufacturing company as part of a stock scam.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTc0YmNlMmQtNWQ4Yy00ZWZlLTgxYzItOWI2MGQyZGNmMWUzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Paul Newman, Tim Robbins, and Jennifer Jason Leigh in The Hudsucker Proxy (1994)",
+        "width": 2025,
+        "height": 3000
+      },
+      "imdbRating": 7.2,
+      "numVotes": 89894,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 6660,
+      "runtimeMinutes": 111,
+      "metascore": 53,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 29,
+      "titleId": "tt0113409",
+      "title": "In the Mouth of Madness",
+      "originalTitle": "In the Mouth of Madness",
+      "year": 1994,
+      "releaseDate": {
+        "day": 3,
+        "month": 2,
+        "year": 1995
+      },
+      "plot": "An insurance investigator begins discovering that the impact a horror writer's books have on his fans is more than inspirational.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMmE2OTY3MWMtNTY5ZS00MGFhLWFhYzAtZWQ3MGMyY2M5MDRjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Sam Neill in In the Mouth of Madness (1994)",
+        "width": 1000,
+        "height": 1500
+      },
+      "imdbRating": 7.1,
+      "numVotes": 88135,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Horror"
+      ],
+      "runtimeSeconds": 5700,
+      "runtimeMinutes": 95,
+      "metascore": 53,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 30,
+      "titleId": "tt0111507",
+      "title": "Three Colors: White",
+      "originalTitle": "Trois couleurs: Blanc",
+      "year": 1994,
+      "releaseDate": {
+        "day": 10,
+        "month": 6,
+        "year": 1994
+      },
+      "plot": "After his wife divorces him, a Polish immigrant plots to get even with her.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMWUyMWJiYTEtNmIzYi00OTYxLTlkYjEtMGFjMjY3NDc5Mjk0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Julie Delpy and Zbigniew Zamachowski in Three Colors: White (1994)",
+        "width": 1262,
+        "height": 1920
+      },
+      "imdbRating": 7.6,
+      "numVotes": 84968,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 5520,
+      "runtimeMinutes": 92,
+      "metascore": 91,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 31,
+      "titleId": "tt0109446",
+      "title": "The Client",
+      "originalTitle": "The Client",
+      "year": 1994,
+      "releaseDate": {
+        "day": 20,
+        "month": 7,
+        "year": 1994
+      },
+      "plot": "A young boy who witnessed the suicide of a mafia lawyer hires an attorney to protect him when the District Attorney tries to use him to take down a mob family.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNWQzNGEyODctZGY4My00ZjA3LWI0OWUtMWQ3NzVkMzQyN2ZjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tommy Lee Jones, Susan Sarandon, and Brad Renfro in The Client (1994)",
+        "width": 2646,
+        "height": 3955
+      },
+      "imdbRating": 6.7,
+      "numVotes": 83904,
+      "certificate": "PG-13",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "runtimeSeconds": 7140,
+      "runtimeMinutes": 119,
+      "metascore": 65,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 32,
+      "titleId": "tt0111301",
+      "title": "Street Fighter",
+      "originalTitle": "Street Fighter",
+      "year": 1994,
+      "releaseDate": {
+        "day": 23,
+        "month": 12,
+        "year": 1994
+      },
+      "plot": "In the midst of a civil war in Southeast Asia, a general raises the stakes by kidnapping 63 UN relief workers. To free the hostages, a colonel leads a group of fighters, who will have to use all their skills to be successful.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTliMDFmNDQtZjRlYS00MDE3LWJmOTktNjA0ZDUwZjcyNTdiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jean-Claude Van Damme, Raul Julia, Kylie Minogue, Ming-Na Wen, Grand L. Bush, Andrew Bryniarski, Byron Mann, Wes Studi, Jay Tavare, and Peter Navy Tuiasosopo in Street Fighter (1994)",
+        "width": 808,
+        "height": 1200
+      },
+      "imdbRating": 4.1,
+      "numVotes": 79575,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 6120,
+      "runtimeMinutes": 102,
+      "metascore": 34,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 33,
+      "titleId": "tt0110989",
+      "title": "Richie Rich",
+      "originalTitle": "Ri\u00a2hie Ri\u00a2h",
+      "year": 1994,
+      "releaseDate": {
+        "day": 21,
+        "month": 12,
+        "year": 1994
+      },
+      "plot": "Richie Rich is the richest kid in the world. The one thing Richie doesn't have is friends. When his parents suddenly go missing, Richie hooks up with a group of kids who just might fill the void in his life, while helping save his folks.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWEyNTYzNmMtMTFkNC00Zjk4LWI4MzUtMjAzMjZjOTJmMjVmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Macaulay Culkin, Jonathan Hilario, Jonathan Hyde, John Larroquette, Stephi Lineburg, Michael Maccarone, and Joel Robinson in Richie Rich (1994)",
+        "width": 940,
+        "height": 1400
+      },
+      "imdbRating": 5.5,
+      "numVotes": 78625,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Family"
+      ],
+      "runtimeSeconds": 5700,
+      "runtimeMinutes": 95,
+      "metascore": 49,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 34,
+      "titleId": "tt0110216",
+      "title": "Junior",
+      "originalTitle": "Junior",
+      "year": 1994,
+      "releaseDate": {
+        "day": 23,
+        "month": 11,
+        "year": 1994
+      },
+      "plot": "As part of a fertility research project, a male scientist agrees to carry a pregnancy in his own body.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYmY3YWMyMWYtN2UyYS00YjgwLWEyOTktMmNjY2JiN2MyNWY5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Arnold Schwarzenegger, Danny DeVito, and Emma Thompson in Junior (1994)",
+        "width": 1152,
+        "height": 1722
+      },
+      "imdbRating": 4.8,
+      "numVotes": 77572,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6540,
+      "runtimeMinutes": 109,
+      "metascore": 59,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 35,
+      "titleId": "tt0110932",
+      "title": "Quiz Show",
+      "originalTitle": "Quiz Show",
+      "year": 1994,
+      "releaseDate": {
+        "day": 7,
+        "month": 10,
+        "year": 1994
+      },
+      "plot": "A young lawyer, Richard Goodwin, investigates a potentially fixed game show. Charles Van Doren, a big time show winner, is under Goodwin's investigation.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzYyMjAzN2YtYTJiNC00MDhhLWE0MmUtZTE0ZmUxODU3MzkyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ralph Fiennes in Quiz Show (1994)",
+        "width": 1994,
+        "height": 2938
+      },
+      "imdbRating": 7.5,
+      "numVotes": 77275,
+      "certificate": "PG-13",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "runtimeSeconds": 7980,
+      "runtimeMinutes": 133,
+      "metascore": 92,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 36,
+      "titleId": "tt0111255",
+      "title": "The Specialist",
+      "originalTitle": "The Specialist",
+      "year": 1994,
+      "releaseDate": {
+        "day": 7,
+        "month": 10,
+        "year": 1994
+      },
+      "plot": "A woman entices a bomb expert she's involved with into destroying the mafia that killed her family.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTI4MTYxYzItNmMyOC00MzBmLTg4MmUtNjM1OTlhM2IzMTc1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Sylvester Stallone and Sharon Stone in The Specialist (1994)",
+        "width": 1510,
+        "height": 2265
+      },
+      "imdbRating": 5.6,
+      "numVotes": 73146,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6600,
+      "runtimeMinutes": 110,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 37,
+      "titleId": "tt0110005",
+      "title": "Heavenly Creatures",
+      "originalTitle": "Heavenly Creatures",
+      "year": 1994,
+      "releaseDate": {
+        "day": 14,
+        "month": 10,
+        "year": 1994
+      },
+      "plot": "Two teenage girls share a unique bond: their parents, concerned that the friendship is too intense, separate them, and the girls take revenge.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjY2OTgyMjMtZGEwYy00NGNjLTg3NmQtNzBmMDRkZmRiYzlhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Kate Winslet and Melanie Lynskey in Heavenly Creatures (1994)",
+        "width": 498,
+        "height": 755
+      },
+      "imdbRating": 7.2,
+      "numVotes": 70620,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 5940,
+      "runtimeMinutes": 99,
+      "metascore": 86,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 38,
+      "titleId": "tt0111149",
+      "title": "Shallow Grave",
+      "originalTitle": "Shallow Grave",
+      "year": 1994,
+      "releaseDate": {
+        "day": 10,
+        "month": 2,
+        "year": 1995
+      },
+      "plot": "Three friends discover their new flatmate dead but loaded with cash.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjgyZDcwOGYtZDVmMi00NWY0LWI0NDUtMGFiMzA1YjRlMjZlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ewan McGregor, Christopher Eccleston, and Kerry Fox in Shallow Grave (1994)",
+        "width": 1857,
+        "height": 2785
+      },
+      "imdbRating": 7.2,
+      "numVotes": 70330,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5340,
+      "runtimeMinutes": 89,
+      "metascore": 69,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 39,
+      "titleId": "tt0111686",
+      "title": "New Nightmare",
+      "originalTitle": "Wes Craven's New Nightmare",
+      "year": 1994,
+      "releaseDate": {
+        "day": 14,
+        "month": 10,
+        "year": 1994
+      },
+      "plot": "A demonic force has chosen Freddy Krueger as its portal to the real world. Can Heather Langenkamp play the part of Nancy one last time and trap the evil trying to enter our world?",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDgxY2MzYjctYWJlOS00OWU4LWEzYTAtOGFmYTIzNmFjNGJiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "New Nightmare (1994)",
+        "width": 1795,
+        "height": 2811
+      },
+      "imdbRating": 6.4,
+      "numVotes": 69236,
+      "certificate": "R",
+      "genres": [
+        "Fantasy",
+        "Horror",
+        "Mystery"
+      ],
+      "runtimeSeconds": 6720,
+      "runtimeMinutes": 112,
+      "metascore": 64,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 40,
+      "titleId": "tt0111438",
+      "title": "Timecop",
+      "originalTitle": "Timecop",
+      "year": 1994,
+      "releaseDate": {
+        "day": 16,
+        "month": 9,
+        "year": 1994
+      },
+      "plot": "Max Walker, an officer for a security agency that regulates time travel, must fend for his life against a shady politician who's intent on changing the past to control the future.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDdkOWRjYzktYTA3Ny00YWFkLWFkYTItNTE5ZDk2MDQxMjI3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jean-Claude Van Damme in Timecop (1994)",
+        "width": 1973,
+        "height": 2959
+      },
+      "imdbRating": 6,
+      "numVotes": 69096,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 5940,
+      "runtimeMinutes": 99,
+      "metascore": 48,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 41,
+      "titleId": "tt0110367",
+      "title": "Little Women",
+      "originalTitle": "Little Women",
+      "year": 1994,
+      "releaseDate": {
+        "day": 25,
+        "month": 12,
+        "year": 1994
+      },
+      "plot": "Jo struggles for independence and sometimes clashes with her beloved mother and sisters Meg, Amy and Beth. She also contends with their cranky Aunt March, their impulsive neighbor Laurie and kindly linguistics professor Friedrich Bhaer.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjk0MGY3Y2ItMDQzMy00MGNlLThmOWMtNzE3N2ZhMTQ2YTkwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Claire Danes, Winona Ryder, Susan Sarandon, Kirsten Dunst, and Trini Alvarado in Little Women (1994)",
+        "width": 1284,
+        "height": 1842
+      },
+      "imdbRating": 7.3,
+      "numVotes": 68516,
+      "certificate": "PG",
+      "genres": [
+        "Drama",
+        "Family",
+        "Romance"
+      ],
+      "runtimeSeconds": 6900,
+      "runtimeMinutes": 115,
+      "metascore": 87,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 42,
+      "titleId": "tt0111742",
+      "title": "Wolf",
+      "originalTitle": "Wolf",
+      "year": 1994,
+      "releaseDate": {
+        "day": 17,
+        "month": 6,
+        "year": 1994
+      },
+      "plot": "Publisher Will Randall becomes a demon wolf and has to fight to keep his job.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjJkYmE5NjItMGMyNi00NjNmLTg3MDMtNzg5NWU4MmVhZmQ0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jack Nicholson and Michelle Pfeiffer in Wolf (1994)",
+        "width": 1525,
+        "height": 2260
+      },
+      "imdbRating": 6.3,
+      "numVotes": 64022,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Romance"
+      ],
+      "runtimeSeconds": 7500,
+      "runtimeMinutes": 125,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 43,
+      "titleId": "tt0109836",
+      "title": "Frankenstein",
+      "originalTitle": "Mary Shelley's Frankenstein",
+      "year": 1994,
+      "releaseDate": {
+        "day": 4,
+        "month": 11,
+        "year": 1994
+      },
+      "plot": "When the brilliant but unorthodox scientist Dr. Victor Frankenstein rejects the artificial man that he has created, the Creature escapes and later swears revenge.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMGQ2MWNjYWMtYmUxMy00MmMzLThhOTktMTc4MjRiOTM0N2VmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Frankenstein (1994)",
+        "width": 1523,
+        "height": 2260
+      },
+      "imdbRating": 6.3,
+      "numVotes": 63373,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Romance"
+      ],
+      "runtimeSeconds": 7380,
+      "runtimeMinutes": 123,
+      "metascore": 49,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 44,
+      "titleId": "tt0109045",
+      "title": "The Adventures of Priscilla, Queen of the Desert",
+      "originalTitle": "The Adventures of Priscilla, Queen of the Desert",
+      "year": 1994,
+      "releaseDate": {
+        "day": 10,
+        "month": 8,
+        "year": 1994
+      },
+      "plot": "Two drag performers and a transgender woman travel across the desert to perform their unique style of cabaret.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTc5MDU1NzcyN15BMl5BanBnXkFtZTcwMDA0ODYyNA@@._V1_.jpg",
+        "caption": "Terence Stamp, Guy Pearce, and Hugo Weaving in The Adventures of Priscilla, Queen of the Desert (1994)",
+        "width": 682,
+        "height": 1023
+      },
+      "imdbRating": 7.5,
+      "numVotes": 60789,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Music"
+      ],
+      "runtimeSeconds": 6240,
+      "runtimeMinutes": 104,
+      "metascore": 70,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 45,
+      "titleId": "tt0110366",
+      "title": "The Little Rascals",
+      "originalTitle": "The Little Rascals",
+      "year": 1994,
+      "releaseDate": {
+        "day": 5,
+        "month": 8,
+        "year": 1994
+      },
+      "plot": "Alfalfa is wooing Darla and his \"He-Man-Woman-Hating\" friends attempt to sabotage the relationship.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTlhMjA5MGYtZDYyNS00MDQ4LWI0ZDAtZjJiODJjODI0N2I3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ross Bagley, Blake Collins, Blake Ewing, Bug Hall, Brittany Ashton Holmes, Zachary Mabry, Petey, Sam Saletta, Travis Tedford, and Kevin Jamal Woods in The Little Rascals (1994)",
+        "width": 1468,
+        "height": 2206
+      },
+      "imdbRating": 6.3,
+      "numVotes": 60745,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Romance"
+      ],
+      "runtimeSeconds": 4920,
+      "runtimeMinutes": 82,
+      "metascore": 45,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 46,
+      "titleId": "tt0109190",
+      "title": "Baby's Day Out",
+      "originalTitle": "Baby's Day Out",
+      "year": 1994,
+      "releaseDate": {
+        "day": 1,
+        "month": 7,
+        "year": 1994
+      },
+      "plot": "After three kidnappers lose the baby they have kidnapped, both the cops and kidnappers go looking for the baby.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWY5ZTI5YjUtZjQ2Ny00MzExLWEwMjUtYmUxNTE3MGJlNGQwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Adam Robert Worton and Jacob Joseph Worton in Baby's Day Out (1994)",
+        "width": 494,
+        "height": 733
+      },
+      "imdbRating": 6.2,
+      "numVotes": 60060,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 5940,
+      "runtimeMinutes": 99,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 47,
+      "titleId": "tt0109068",
+      "title": "Airheads",
+      "originalTitle": "Airheads",
+      "year": 1994,
+      "releaseDate": {
+        "day": 5,
+        "month": 8,
+        "year": 1994
+      },
+      "plot": "Three band members hoping for a big break head to a radio station to play their demo tape and wind up holding everyone hostage with plastic guns when the head D.J. refuses to play them.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZmVkZjI2NWMtZGY5Mi00YTNjLTgwZDQtMzM4NDUzZGQ5YTFjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Brendan Fraser in Airheads (1994)",
+        "width": 789,
+        "height": 1189
+      },
+      "imdbRating": 6.2,
+      "numVotes": 59404,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Music"
+      ],
+      "runtimeSeconds": 5520,
+      "runtimeMinutes": 92,
+      "metascore": 46,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 48,
+      "titleId": "tt0111756",
+      "title": "Wyatt Earp",
+      "originalTitle": "Wyatt Earp",
+      "year": 1994,
+      "releaseDate": {
+        "day": 24,
+        "month": 6,
+        "year": 1994
+      },
+      "plot": "From Wichita to Dodge City, to the OK Corral in Tombstone, a man becomes a myth in this thrilling journey of romance, adventure, and desperate heroic action.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjQ5YzJmMjktMmYwNi00ZTU4LWFhMDgtZWRhZDAxZTA2MzIxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Kevin Costner in Wyatt Earp (1994)",
+        "width": 1376,
+        "height": 2048
+      },
+      "imdbRating": 6.7,
+      "numVotes": 58924,
+      "certificate": "PG-13",
+      "genres": [
+        "Adventure",
+        "Biography",
+        "Drama"
+      ],
+      "runtimeSeconds": 11460,
+      "runtimeMinutes": 191,
+      "metascore": 47,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 49,
+      "titleId": "tt0109635",
+      "title": "Disclosure",
+      "originalTitle": "Disclosure",
+      "year": 1994,
+      "releaseDate": {
+        "day": 9,
+        "month": 12,
+        "year": 1994
+      },
+      "plot": "A computer specialist is sued for sexual harassment by a former lover turned boss who initiated the act forcefully, which threatens both his career and his personal life.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYmRlNTA4NGQtOTFlYy00NDk5LWEzOWYtNjMyMjI3NDdlNjRmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Michael Douglas and Demi Moore in Disclosure (1994)",
+        "width": 800,
+        "height": 1196
+      },
+      "imdbRating": 6.2,
+      "numVotes": 57768,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7680,
+      "runtimeMinutes": 128,
+      "metascore": 58,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 50,
+      "titleId": "tt0109117",
+      "title": "Andaz Apna Apna",
+      "originalTitle": "Andaz Apna Apna",
+      "year": 1994,
+      "releaseDate": {
+        "day": 4,
+        "month": 11,
+        "year": 1994
+      },
+      "plot": "Two slackers competing for the affections of an heiress inadvertently become her protectors from an evil criminal.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjdiNGRmY2UtMjhkNy00OGQyLWIxNWQtMTJhMWM5YTNiMzVhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Andaz Apna Apna (1994)",
+        "width": 4000,
+        "height": 6000
+      },
+      "imdbRating": 8,
+      "numVotes": 57673,
+      "certificate": "Not Rated",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Romance"
+      ],
+      "runtimeSeconds": 9600,
+      "runtimeMinutes": 160,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    }
+  ]
+}

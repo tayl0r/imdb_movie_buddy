@@ -1,0 +1,1595 @@
+{
+  "year": 2016,
+  "movies": [
+    {
+      "rank": 1,
+      "titleId": "tt1431045",
+      "title": "Deadpool",
+      "originalTitle": "Deadpool",
+      "year": 2016,
+      "releaseDate": {
+        "day": 12,
+        "month": 2,
+        "year": 2016
+      },
+      "plot": "A wisecracking mercenary gets experimented on and becomes immortal yet hideously scarred, and sets out to track down the man who ruined his looks.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzY3ZWU5NGQtOTViNC00ZWVmLTliNjAtNzViNzlkZWQ4YzQ4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ryan Reynolds in Deadpool (2016)",
+        "width": 2000,
+        "height": 3000
+      },
+      "imdbRating": 8,
+      "numVotes": 1241184,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6480,
+      "runtimeMinutes": 108,
+      "metascore": 65,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 2,
+      "titleId": "tt3498820",
+      "title": "Captain America: Civil War",
+      "originalTitle": "Captain America: Civil War",
+      "year": 2016,
+      "releaseDate": {
+        "day": 6,
+        "month": 5,
+        "year": 2016
+      },
+      "plot": "Political involvement in the Avengers' affairs causes a rift between Captain America and Iron Man.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_.jpg",
+        "caption": "Don Cheadle, Robert Downey Jr., Paul Bettany, Chris Evans, Scarlett Johansson, Elizabeth Olsen, Jeremy Renner, Anthony Mackie, Chadwick Boseman, and Sebastian Stan in Captain America: Civil War (2016)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 7.8,
+      "numVotes": 917869,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 8820,
+      "runtimeMinutes": 147,
+      "metascore": 75,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 3,
+      "titleId": "tt1211837",
+      "title": "Doctor Strange",
+      "originalTitle": "Doctor Strange",
+      "year": 2016,
+      "releaseDate": {
+        "day": 4,
+        "month": 11,
+        "year": 2016
+      },
+      "plot": "While on a journey of physical and spiritual healing, a brilliant neurosurgeon is drawn into the world of the mystic arts.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_.jpg",
+        "caption": "Chiwetel Ejiofor, Mads Mikkelsen, Tilda Swinton, Benedict Wong, Rachel McAdams, and Benedict Cumberbatch in Doctor Strange (2016)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 7.5,
+      "numVotes": 871678,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 6900,
+      "runtimeMinutes": 115,
+      "metascore": 72,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 4,
+      "titleId": "tt2543164",
+      "title": "Arrival",
+      "originalTitle": "Arrival",
+      "year": 2016,
+      "releaseDate": {
+        "day": 11,
+        "month": 11,
+        "year": 2016
+      },
+      "plot": "Linguist Louise Banks leads a team of investigators when gigantic spaceships touch down around the world. As nations teeter on the verge of global war, Banks and her crew must find a way to communicate with the extraterrestrial visitors.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTExMzU0ODcxNDheQTJeQWpwZ15BbWU4MDE1OTI4MzAy._V1_.jpg",
+        "caption": "Forest Whitaker, Amy Adams, and Jeremy Renner in Arrival (2016)",
+        "width": 1311,
+        "height": 2048
+      },
+      "imdbRating": 7.9,
+      "numVotes": 851930,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6960,
+      "runtimeMinutes": 116,
+      "metascore": 81,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 5,
+      "titleId": "tt2975590",
+      "title": "Batman v Superman: Dawn of Justice",
+      "originalTitle": "Batman v Superman: Dawn of Justice",
+      "year": 2016,
+      "releaseDate": {
+        "day": 25,
+        "month": 3,
+        "year": 2016
+      },
+      "plot": "Batman is manipulated by Lex Luthor to fear Superman. Superman\u00b4s existence is meanwhile dividing the world and he is framed for murder during an international crisis. The heroes clash and force the neutral Wonder Woman to reemerge.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTJkYjdmYjYtOGMyNC00ZGU1LThkY2ItYTc1OTVlMmE2YWY1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ben Affleck and Henry Cavill in Batman v Superman: Dawn of Justice (2016)",
+        "width": 1823,
+        "height": 2700
+      },
+      "imdbRating": 6.4,
+      "numVotes": 787439,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 9060,
+      "runtimeMinutes": 151,
+      "metascore": 44,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 6,
+      "titleId": "tt1386697",
+      "title": "Suicide Squad",
+      "originalTitle": "Suicide Squad",
+      "year": 2016,
+      "releaseDate": {
+        "day": 5,
+        "month": 8,
+        "year": 2016
+      },
+      "plot": "A secret government agency recruits some of the most dangerous incarcerated super-villains to form a defensive task force. Their first mission: save the world from the apocalypse.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjM1OTMxNzUyM15BMl5BanBnXkFtZTgwNjYzMTIzOTE@._V1_.jpg",
+        "caption": "Will Smith, Jared Leto, Adewale Akinnuoye-Agbaje, Adam Beach, Viola Davis, Jay Hernandez, Joel Kinnaman, Jai Courtney, Margot Robbie, Cara Delevingne, and Karen Fukuhara in Suicide Squad (2016)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 5.9,
+      "numVotes": 755367,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 7380,
+      "runtimeMinutes": 123,
+      "metascore": 40,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 7,
+      "titleId": "tt3783958",
+      "title": "La La Land",
+      "originalTitle": "La La Land",
+      "year": 2016,
+      "releaseDate": {
+        "day": 25,
+        "month": 12,
+        "year": 2016
+      },
+      "plot": "When Sebastian, a pianist, and Mia, an actress, follow their passion and achieve success in their respective fields, they find themselves torn between their love for each other and their careers.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_.jpg",
+        "caption": "Ryan Gosling and Emma Stone in La La Land (2016)",
+        "width": 4050,
+        "height": 6000
+      },
+      "imdbRating": 8,
+      "numVotes": 750062,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Music"
+      ],
+      "runtimeSeconds": 7680,
+      "runtimeMinutes": 128,
+      "metascore": 94,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 8,
+      "titleId": "tt3748528",
+      "title": "Rogue One: A Star Wars Story",
+      "originalTitle": "Rogue One",
+      "year": 2016,
+      "releaseDate": {
+        "day": 16,
+        "month": 12,
+        "year": 2016
+      },
+      "plot": "In a time of conflict, a group of unlikely heroes band together on a mission to steal the plans to the Death Star, the Empire's ultimate weapon of destruction.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjEwMzMxODIzOV5BMl5BanBnXkFtZTgwNzg3OTAzMDI@._V1_.jpg",
+        "caption": "James Earl Jones, Forest Whitaker, Wen Jiang, Felicity Jones, Diego Luna, Ben Mendelsohn, Daniel Naprous, Alan Tudyk, Donnie Yen, Spencer Wilding, and Riz Ahmed in Rogue One: A Star Wars Story (2016)",
+        "width": 864,
+        "height": 1280
+      },
+      "imdbRating": 7.8,
+      "numVotes": 748306,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 7980,
+      "runtimeMinutes": 133,
+      "metascore": 65,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 9,
+      "titleId": "tt2119532",
+      "title": "Hacksaw Ridge",
+      "originalTitle": "Hacksaw Ridge",
+      "year": 2016,
+      "releaseDate": {
+        "day": 4,
+        "month": 11,
+        "year": 2016
+      },
+      "plot": "World War II American Army Medic Desmond T. Doss, serving during the Battle of Okinawa, refuses to kill people and becomes the first man in American history to receive the Medal of Honor without firing a shot.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_.jpg",
+        "caption": "Andrew Garfield in Hacksaw Ridge (2016)",
+        "width": 971,
+        "height": 1500
+      },
+      "imdbRating": 8.1,
+      "numVotes": 670522,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "runtimeSeconds": 8340,
+      "runtimeMinutes": 139,
+      "metascore": 71,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 10,
+      "titleId": "tt2948356",
+      "title": "Zootopia",
+      "originalTitle": "Zootopia",
+      "year": 2016,
+      "releaseDate": {
+        "day": 4,
+        "month": 3,
+        "year": 2016
+      },
+      "plot": "In a city of anthropomorphic animals, a rookie bunny cop and a cynical con artist fox must work together to uncover a conspiracy.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTMyMjEyNzIzMV5BMl5BanBnXkFtZTgwNzIyNjU0NzE@._V1_.jpg",
+        "caption": "Jason Bateman, Tommy Chong, Bonnie Hunt, Tom Lister Jr., Maurice LaMarche, Kristen Bell, Bono, Chaz Bono, C\u00e9sar Bono, James Bono, Joseph Bono, Mary Bono, Sonny Bono, Steven Scot Bono, Steve Bono, Sebastian Cavazza, Bonar Colleano, Dan Cooper, Jesse Corti, Yves De Bono, Eurilla del Bono, John DiMaggio, Terri Douglas, Idris Elba, Fuschia!, Michael Giacchino, David Goetz, Ginnifer Goodwin, Byron Howard, Don Lake, Peter Mansbridge, Jeremy Milton, Rich Moore, Pace Paulsen, Raymond S. Persi, Fabienne Rawley, Jim Reardon, Shakira, J.K. Simmons, Kath Soucie, Octavia Spencer, Alan Tudyk, Gita Reddy, D\u00eddac Bono, Nathan Warner, Kellie D. Lewis, Sofia Bono Prado, Jared Bush, Mark Rhino Smith, Clark Spencer, Brad Simonsen, Alan Bono, Chianna Bono, Chesare Bono, Novo Bono Jr., Josephine Bono, Bono, John Bono, Nate Torrence, Jill Cordes, Larry Herrera, Jennifer Lee, Phil Johnston, John Lavelle, Sara de Bono, Katie Lowes, Salvatore Bono, Melissa Goodwin Shepherd, Dave Kohut, Stacie Bono, Josh Dallas, Jenny Slate, Josie Trinidad, Thomas Bono, Leah Latham, Zach King, Christy Bono, Della Saba, Alyssa Ann Bono, Steven Bono Jr., Madeleine Curry, Krystle Bono, Evelyn Wilson Bresee, Hewitt Bush, Claire K. Smith, David A. Thibodeau, John Wheeler, Hannah G. Williams, Jackson Stein, Andr\u00e9s Di Bono, Fernando Gonzalez, Valeria Bono, JoAnn Bono, Chiara Bono, and Amelia Bono in Zootopia (2016)",
+        "width": 1080,
+        "height": 1600
+      },
+      "imdbRating": 8,
+      "numVotes": 621287,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "runtimeSeconds": 6480,
+      "runtimeMinutes": 108,
+      "metascore": 78,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 11,
+      "titleId": "tt4972582",
+      "title": "Split",
+      "originalTitle": "Split",
+      "year": 2016,
+      "releaseDate": {
+        "day": 20,
+        "month": 1,
+        "year": 2017
+      },
+      "plot": "Three girls are kidnapped by a man with a diagnosed 23 distinct personalities. They must try to escape before the apparent emergence of a frightful new 24th.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTZjNmVjMzAtZjg2Mi00MWNmLTk5NTItOTExZDYwNTE2YmExXkEyXkFqcGc@._V1_.jpg",
+        "caption": "James McAvoy in Split (2016)",
+        "width": 1383,
+        "height": 2048
+      },
+      "imdbRating": 7.3,
+      "numVotes": 615082,
+      "certificate": "PG-13",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7020,
+      "runtimeMinutes": 117,
+      "metascore": 63,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 12,
+      "titleId": "tt3183660",
+      "title": "Fantastic Beasts and Where to Find Them",
+      "originalTitle": "Fantastic Beasts and Where to Find Them",
+      "year": 2016,
+      "releaseDate": {
+        "day": 18,
+        "month": 11,
+        "year": 2016
+      },
+      "plot": "In 1926, magizoologist Newt Scamander arrives in New York during his worldwide tour to research and rescue magical creatures as something mysterious leaves trails of destruction in the city, threatening to expose the wizarding world.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjMxOTM1OTI4MV5BMl5BanBnXkFtZTgwODE5OTYxMDI@._V1_.jpg",
+        "caption": "Dan Fogler, Alison Sudol, Eddie Redmayne, and Katherine Waterston in Fantastic Beasts and Where to Find Them (2016)",
+        "width": 1012,
+        "height": 1500
+      },
+      "imdbRating": 7.2,
+      "numVotes": 537195,
+      "certificate": "PG-13",
+      "genres": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 7920,
+      "runtimeMinutes": 132,
+      "metascore": 66,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 13,
+      "titleId": "tt1355644",
+      "title": "Passengers",
+      "originalTitle": "Passengers",
+      "year": 2016,
+      "releaseDate": {
+        "day": 21,
+        "month": 12,
+        "year": 2016
+      },
+      "plot": "A malfunction in a sleeping pod on a spacecraft traveling to a distant colony planet wakes one passenger 90 years early.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzRjNTFmMzQtM2JhZi00ZTI0LTlhMjMtNzQ4YWRhZGVmZWRmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Chris Pratt and Jennifer Lawrence in Passengers (2016)",
+        "width": 2025,
+        "height": 3000
+      },
+      "imdbRating": 7,
+      "numVotes": 490611,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6960,
+      "runtimeMinutes": 116,
+      "metascore": 41,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 14,
+      "titleId": "tt3385516",
+      "title": "X-Men: Apocalypse",
+      "originalTitle": "X-Men: Apocalypse",
+      "year": 2016,
+      "releaseDate": {
+        "day": 27,
+        "month": 5,
+        "year": 2016
+      },
+      "plot": "In the 1980s, the X-Men must defeat an ancient all-powerful mutant, En Sabah Nur, who intends to thrive by bringing destruction to the world.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjVhNWY3NjItNmZjOS00NTU3LWFiZTctNzdjNGM5Y2Y0MDUwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Nicholas Hoult, James McAvoy, Michael Fassbender, Oscar Isaac, Evan Peters, Olivia Munn, Jennifer Lawrence, Kodi Smit-McPhee, Alexandra Shipp, Sophie Turner, Tye Sheridan, and Ben Hardy in X-Men: Apocalypse (2016)",
+        "width": 700,
+        "height": 1037
+      },
+      "imdbRating": 6.8,
+      "numVotes": 489177,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 8640,
+      "runtimeMinutes": 144,
+      "metascore": 52,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 15,
+      "titleId": "tt3521164",
+      "title": "Moana",
+      "originalTitle": "Moana",
+      "year": 2016,
+      "releaseDate": {
+        "day": 23,
+        "month": 11,
+        "year": 2016
+      },
+      "plot": "In ancient Polynesia, when a terrible curse incurred by the demigod Maui reaches Moana's island, she answers the Ocean's call to seek out Maui to set things right.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjI4MzU5NTExNF5BMl5BanBnXkFtZTgwNzY1MTEwMDI@._V1_.jpg",
+        "caption": "Dwayne Johnson, Stephen Kearin, Temuera Morrison, Alan Tudyk, Nicole Scherzinger, Any Gabrielly, and Auli'i Cravalho in Moana (2016)",
+        "width": 1086,
+        "height": 1609
+      },
+      "imdbRating": 7.6,
+      "numVotes": 435217,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 6420,
+      "runtimeMinutes": 107,
+      "metascore": 81,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 16,
+      "titleId": "tt3799694",
+      "title": "The Nice Guys",
+      "originalTitle": "The Nice Guys",
+      "year": 2016,
+      "releaseDate": {
+        "day": 20,
+        "month": 5,
+        "year": 2016
+      },
+      "plot": "In 1970s Los Angeles, a mismatched pair of private eyes investigate a missing girl and the mysterious death of a porn star.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BM2YwNWZlZGEtYTEyZi00NjdjLWEwM2ItM2Q2MDMwZjkzMjk0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Russell Crowe and Ryan Gosling in The Nice Guys (2016)",
+        "width": 1012,
+        "height": 1500
+      },
+      "imdbRating": 7.4,
+      "numVotes": 408887,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 6960,
+      "runtimeMinutes": 116,
+      "metascore": 70,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 17,
+      "titleId": "tt2140479",
+      "title": "The Accountant",
+      "originalTitle": "The Accountant",
+      "year": 2016,
+      "releaseDate": {
+        "day": 14,
+        "month": 10,
+        "year": 2016
+      },
+      "plot": "As a math savant uncooks the books for a new client, the treasury department closes in on his activities and the body count starts to rise.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDc5Mzg2NTYxNV5BMl5BanBnXkFtZTgwMjQ2ODAwOTE@._V1_.jpg",
+        "caption": "Ben Affleck in The Accountant (2016)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 7.3,
+      "numVotes": 391485,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 7680,
+      "runtimeMinutes": 128,
+      "metascore": 51,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 18,
+      "titleId": "tt5311514",
+      "title": "Your Name.",
+      "originalTitle": "Kimi no na wa.",
+      "year": 2016,
+      "releaseDate": {
+        "day": 7,
+        "month": 4,
+        "year": 2017
+      },
+      "plot": "Two teenagers share a profound, magical connection upon discovering they are swapping bodies. Things manage to become even more complicated when the boy and girl decide to meet in person.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjI1ODZkYTgtYTY3Yy00ZTJkLWFkOTgtZDUyYWM4MzQwNjk0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Your Name. (2016)",
+        "width": 8100,
+        "height": 12000
+      },
+      "imdbRating": 8.4,
+      "numVotes": 384054,
+      "certificate": "",
+      "genres": [
+        "Animation",
+        "Drama",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 6360,
+      "runtimeMinutes": 106,
+      "metascore": 81,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 19,
+      "titleId": "tt1179933",
+      "title": "10 Cloverfield Lane",
+      "originalTitle": "10 Cloverfield Lane",
+      "year": 2016,
+      "releaseDate": {
+        "day": 11,
+        "month": 3,
+        "year": 2016
+      },
+      "plot": "A young woman is held in an underground bunker by a man who insists that a hostile event has left the surface of the Earth uninhabitable.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjEzMjczOTIxMV5BMl5BanBnXkFtZTgwOTUwMjI3NzE@._V1_.jpg",
+        "caption": "10 Cloverfield Lane (2016)",
+        "width": 831,
+        "height": 1231
+      },
+      "imdbRating": 7.2,
+      "numVotes": 381229,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6180,
+      "runtimeMinutes": 103,
+      "metascore": 76,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 20,
+      "titleId": "tt3110958",
+      "title": "Now You See Me 2",
+      "originalTitle": "Now You See Me 2",
+      "year": 2016,
+      "releaseDate": {
+        "day": 10,
+        "month": 6,
+        "year": 2016
+      },
+      "plot": "The Four Horsemen resurface, and are forcibly recruited by a tech genius to pull off their most impossible heist yet.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTVjNTA0ZWEtNzU2Ny00Njg1LWE1MmEtZTUyZGQzYTVlY2Q5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Morgan Freeman, Michael Caine, Woody Harrelson, Lizzy Caplan, Jesse Eisenberg, Daniel Radcliffe, Mark Ruffalo, Jay Chou, and Dave Franco in Now You See Me 2 (2016)",
+        "width": 1972,
+        "height": 2975
+      },
+      "imdbRating": 6.4,
+      "numVotes": 357058,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 7740,
+      "runtimeMinutes": 129,
+      "metascore": 46,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 21,
+      "titleId": "tt4034228",
+      "title": "Manchester by the Sea",
+      "originalTitle": "Manchester by the Sea",
+      "year": 2016,
+      "releaseDate": {
+        "day": 16,
+        "month": 12,
+        "year": 2016
+      },
+      "plot": "A depressed uncle is asked to take care of his teenage nephew after the boy's father dies.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTYxMjk0NDg4Ml5BMl5BanBnXkFtZTgwODcyNjA5OTE@._V1_.jpg",
+        "caption": "Casey Affleck and Michelle Williams in Manchester by the Sea (2016)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 7.8,
+      "numVotes": 351666,
+      "certificate": "R",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 8220,
+      "runtimeMinutes": 137,
+      "metascore": 96,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 22,
+      "titleId": "tt4975722",
+      "title": "Moonlight",
+      "originalTitle": "Moonlight",
+      "year": 2016,
+      "releaseDate": {
+        "day": 18,
+        "month": 11,
+        "year": 2016
+      },
+      "plot": "A young African-American man grapples with his identity and sexuality while experiencing the everyday struggles of childhood, adolescence, and burgeoning adulthood.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzQxNTIyODAxMV5BMl5BanBnXkFtZTgwNzQyMDA3OTE@._V1_.jpg",
+        "caption": "Trevante Rhodes, Ashton Sanders, and Alex R. Hibbert in Moonlight (2016)",
+        "width": 2764,
+        "height": 4096
+      },
+      "imdbRating": 7.4,
+      "numVotes": 349548,
+      "certificate": "R",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 6660,
+      "runtimeMinutes": 111,
+      "metascore": 99,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 23,
+      "titleId": "tt3065204",
+      "title": "The Conjuring 2",
+      "originalTitle": "The Conjuring 2",
+      "year": 2016,
+      "releaseDate": {
+        "day": 10,
+        "month": 6,
+        "year": 2016
+      },
+      "plot": "Ed and Lorraine Warren travel to North London to help a single mother raising four children alone in a house plagued by a supernatural spirit.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTRkMDlmZWEtMzQyYy00YzgyLTgwM2QtNzgxYmIwNGVlYmJlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Bonnie Aarons and Madison Wolfe in The Conjuring 2 (2016)",
+        "width": 1280,
+        "height": 1897
+      },
+      "imdbRating": 7.3,
+      "numVotes": 338907,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 8040,
+      "runtimeMinutes": 134,
+      "metascore": 65,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 24,
+      "titleId": "tt4550098",
+      "title": "Nocturnal Animals",
+      "originalTitle": "Nocturnal Animals",
+      "year": 2016,
+      "releaseDate": {
+        "day": 9,
+        "month": 12,
+        "year": 2016
+      },
+      "plot": "A wealthy art gallery owner is haunted by her ex-husband's novel, her memories of their relationship, and her regrets about her life.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTYwMzMwMzgxNl5BMl5BanBnXkFtZTgwMTA0MTUzMDI@._V1_.jpg",
+        "caption": "Amy Adams and Jake Gyllenhaal in Nocturnal Animals (2016)",
+        "width": 1012,
+        "height": 1500
+      },
+      "imdbRating": 7.4,
+      "numVotes": 336332,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6960,
+      "runtimeMinutes": 116,
+      "metascore": 67,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 25,
+      "titleId": "tt2277860",
+      "title": "Finding Dory",
+      "originalTitle": "Finding Dory",
+      "year": 2016,
+      "releaseDate": {
+        "day": 17,
+        "month": 6,
+        "year": 2016
+      },
+      "plot": "Friendly but forgetful blue tang Dory begins a search for her long-lost parents and everyone learns a few things about the real meaning of family along the way.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2VlYWJjMGMtYjcwZC00MDE2LThmMDItYjVlMzNhYzBhYTk5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Sigourney Weaver, Willem Dafoe, Diane Keaton, Albert Brooks, Ellen DeGeneres, John Ratzenberger, Deb Fink, Andrew Stanton, Brad Garrett, Allison Janney, David Arnott, Torbin Xan Bullock, Doug Burch, Ty Burrell, Cathy Cavadini, Judi M. Durand, Idris Elba, Bill Hader, Barbara Harris, Aaron Hendry, Andy Hirsch, Carlyle King, Eugene Levy, Vicki Lewis, Angus MacLane, Jeremy Maxwell, Kate McKinnon, Daniel Edward Mora, Ed O'Neill, Kaitlin Olson, Jason Pace, Austin Pendleton, Bob Peterson, David Randolph, Jerome Ranft, Katherine Ringgold, Stephen Root, Andreana Weiner, Dominic West, Aaron Fors, Alexander Gould, Will Collyer, Nancy Truman, Regina Taufen, Liza Seneca, Willow Geer, Dylan Naber, Carrie Paff, Terrell Ransom Jr., Alex Puccinelli, Dashell Zamm, Gunnar Sizemore, Molly Jackson, Emma Shannon, Daniella Jones, Dara Iruka, Carter Hastings, Paige Nan Pollack, Hayden Rolence, Riley Lio, Veronika Bonell, Ashlyn Faith Williams, Gabriel C. Brown, Bennett Dammann, Sloane Murray, and Lucia Geddes in Finding Dory (2016)",
+        "width": 720,
+        "height": 1029
+      },
+      "imdbRating": 7.2,
+      "numVotes": 330434,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 5820,
+      "runtimeMinutes": 97,
+      "metascore": 77,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 26,
+      "titleId": "tt2674426",
+      "title": "Me Before You",
+      "originalTitle": "Me Before You",
+      "year": 2016,
+      "releaseDate": {
+        "day": 3,
+        "month": 6,
+        "year": 2016
+      },
+      "plot": "A girl in a small town forms an unlikely bond with a recently-paralyzed man she's taking care of.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTQ2NjE4NDE2NV5BMl5BanBnXkFtZTgwOTcwNDE5NzE@._V1_.jpg",
+        "caption": "Sam Claflin and Emilia Clarke in Me Before You (2016)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 7.4,
+      "numVotes": 328869,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 6600,
+      "runtimeMinutes": 110,
+      "metascore": 51,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 27,
+      "titleId": "tt4160708",
+      "title": "Don't Breathe",
+      "originalTitle": "Don't Breathe",
+      "year": 2016,
+      "releaseDate": {
+        "day": 26,
+        "month": 8,
+        "year": 2016
+      },
+      "plot": "Three delinquents break into the house of a war veteran who is blind to steal his money. However, they discover that the man is not as defenseless as he seems.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjAxOTJkMmEtNjg4MC00ODk3LTkwYmUtNjM3YzE5YTk1YTFjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jane Levy in Don't Breathe (2016)",
+        "width": 1055,
+        "height": 1582
+      },
+      "imdbRating": 7.1,
+      "numVotes": 327775,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Horror",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5280,
+      "runtimeMinutes": 88,
+      "metascore": 71,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 28,
+      "titleId": "tt3263904",
+      "title": "Sully",
+      "originalTitle": "Sully",
+      "year": 2016,
+      "releaseDate": {
+        "day": 9,
+        "month": 9,
+        "year": 2016
+      },
+      "plot": "When pilot Chesley \"Sully\" Sullenberger lands his damaged plane on the Hudson River in order to save the flight's passengers and crew, some consider him a hero while others think he was reckless.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzM5ODA5MDItZGM4MS00YmQ3LTkxMDUtMDY2NjcyM2RmYzlkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tom Hanks in Sully (2016)",
+        "width": 2730,
+        "height": 4095
+      },
+      "imdbRating": 7.4,
+      "numVotes": 319845,
+      "certificate": "PG-13",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "runtimeSeconds": 5760,
+      "runtimeMinutes": 96,
+      "metascore": 74,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 29,
+      "titleId": "tt3040964",
+      "title": "The Jungle Book",
+      "originalTitle": "The Jungle Book",
+      "year": 2016,
+      "releaseDate": {
+        "day": 15,
+        "month": 4,
+        "year": 2016
+      },
+      "plot": "After a threat from the tiger Shere Khan forces him to flee the jungle, a man-cub named Mowgli embarks on a journey of self discovery with the help of panther Bagheera and free-spirited bear Baloo.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTc3NTUzNTI4MV5BMl5BanBnXkFtZTgwNjU0NjU5NzE@._V1_.jpg",
+        "caption": "Bill Murray, Christopher Walken, Ben Kingsley, Idris Elba, Scarlett Johansson, Lupita Nyong'o, and Neel Sethi in The Jungle Book (2016)",
+        "width": 864,
+        "height": 1280
+      },
+      "imdbRating": 7.3,
+      "numVotes": 304130,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "runtimeSeconds": 6360,
+      "runtimeMinutes": 106,
+      "metascore": 77,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 30,
+      "titleId": "tt5700672",
+      "title": "Train to Busan",
+      "originalTitle": "Busanhaeng",
+      "year": 2016,
+      "releaseDate": {
+        "day": 20,
+        "month": 7,
+        "year": 2016
+      },
+      "plot": "While a zombie virus breaks out in South Korea, passengers struggle to survive on the train from Seoul to Busan.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTkwOTQ4OTg0OV5BMl5BanBnXkFtZTgwMzQyOTM0OTE@._V1_.jpg",
+        "caption": "Kim Su-an, Gong Yoo, Jung Yu-mi, Ma Dong-seok, Sohee, and Choi Woo-sik in Train to Busan (2016)",
+        "width": 406,
+        "height": 600
+      },
+      "imdbRating": 7.6,
+      "numVotes": 301104,
+      "certificate": "Not Rated",
+      "genres": [
+        "Action",
+        "Horror",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7080,
+      "runtimeMinutes": 118,
+      "metascore": 73,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 31,
+      "titleId": "tt0803096",
+      "title": "Warcraft",
+      "originalTitle": "Warcraft",
+      "year": 2016,
+      "releaseDate": {
+        "day": 10,
+        "month": 6,
+        "year": 2016
+      },
+      "plot": "As an Orc horde invades the planet Azeroth using a magic portal, a few human heroes and dissenting Orcs must attempt to stop the true evil behind this war.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjIwNTM0Mzc5MV5BMl5BanBnXkFtZTgwMDk5NDU1ODE@._V1_.jpg",
+        "caption": "Travis Fimmel and Toby Kebbell in Warcraft (2016)",
+        "width": 1293,
+        "height": 2048
+      },
+      "imdbRating": 6.7,
+      "numVotes": 293461,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 7380,
+      "runtimeMinutes": 123,
+      "metascore": 32,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 32,
+      "titleId": "tt2005151",
+      "title": "War Dogs",
+      "originalTitle": "War Dogs",
+      "year": 2016,
+      "releaseDate": {
+        "day": 19,
+        "month": 8,
+        "year": 2016
+      },
+      "plot": "Loosely based on the true story of two young men, David Packouz and Efraim Diveroli, who won a three hundred million dollar contract from the Pentagon to arm America's allies in Afghanistan.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjEyNzQ0NzM4MV5BMl5BanBnXkFtZTgwMDI0ODM2OTE@._V1_.jpg",
+        "caption": "Jonah Hill and Miles Teller in War Dogs (2016)",
+        "width": 346,
+        "height": 512
+      },
+      "imdbRating": 7.1,
+      "numVotes": 292929,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 6840,
+      "runtimeMinutes": 114,
+      "metascore": 57,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 33,
+      "titleId": "tt4846340",
+      "title": "Hidden Figures",
+      "originalTitle": "Hidden Figures",
+      "year": 2016,
+      "releaseDate": {
+        "day": 6,
+        "month": 1,
+        "year": 2017
+      },
+      "plot": "Three female African-American mathematicians play a pivotal role in astronaut John Glenn's launch into orbit while dealing with racial and gender discrimination.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2RhNDRhNzctZTllMy00NTc2LWJjZmUtMzg3MTNiNjhhODMxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Kevin Costner, Kirsten Dunst, Taraji P. Henson, Octavia Spencer, Mahershala Ali, Glen Powell, Jim Parsons, and Janelle Mon\u00e1e in Hidden Figures (2016)",
+        "width": 1382,
+        "height": 2047
+      },
+      "imdbRating": 7.8,
+      "numVotes": 285185,
+      "certificate": "PG",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "runtimeSeconds": 7620,
+      "runtimeMinutes": 127,
+      "metascore": 74,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 34,
+      "titleId": "tt2582782",
+      "title": "Hell or High Water",
+      "originalTitle": "Hell or High Water",
+      "year": 2016,
+      "releaseDate": {
+        "day": 26,
+        "month": 8,
+        "year": 2016
+      },
+      "plot": "Toby is a divorced father who's trying to make a better life. His brother is an ex-con with a short temper and a loose trigger finger. Together, they plan a series of heists against the bank that's about to foreclose on their family ranch.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTg4NDA1OTA5NF5BMl5BanBnXkFtZTgwMDQ2MDM5ODE@._V1_.jpg",
+        "caption": "Jeff Bridges, Ben Foster, and Chris Pine in Hell or High Water (2016)",
+        "width": 2764,
+        "height": 4096
+      },
+      "imdbRating": 7.6,
+      "numVotes": 274050,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6120,
+      "runtimeMinutes": 102,
+      "metascore": 88,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 35,
+      "titleId": "tt2660888",
+      "title": "Star Trek Beyond",
+      "originalTitle": "Star Trek Beyond",
+      "year": 2016,
+      "releaseDate": {
+        "day": 22,
+        "month": 7,
+        "year": 2016
+      },
+      "plot": "The crew of the USS Enterprise explores the furthest reaches of uncharted space, where they encounter a new ruthless enemy, who puts them, and everything the Federation stands for, to the test.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BN2FhNDI1YTYtNWI0OC00ZjYxLWJlYWEtN2ZiZjRmZDY1MWJjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Simon Pegg, Zachary Quinto, Zoe Salda\u00f1a, Sofia Boutella, and Chris Pine in Star Trek Beyond (2016)",
+        "width": 1688,
+        "height": 2500
+      },
+      "imdbRating": 7,
+      "numVotes": 268737,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 7320,
+      "runtimeMinutes": 122,
+      "metascore": 68,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 36,
+      "titleId": "tt3741834",
+      "title": "Lion",
+      "originalTitle": "Lion",
+      "year": 2016,
+      "releaseDate": {
+        "day": 6,
+        "month": 1,
+        "year": 2017
+      },
+      "plot": "A five-year-old Indian boy is adopted by an Australian couple after getting lost hundreds of kilometers from home. 25 years later, he sets out to find his lost family.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjA3NjkzNjg2MF5BMl5BanBnXkFtZTgwMDkyMzgzMDI@._V1_.jpg",
+        "caption": "Rooney Mara and Dev Patel in Lion (2016)",
+        "width": 4168,
+        "height": 6118
+      },
+      "imdbRating": 8,
+      "numVotes": 264899,
+      "certificate": "PG-13",
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "runtimeSeconds": 7080,
+      "runtimeMinutes": 118,
+      "metascore": 69,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 37,
+      "titleId": "tt1289401",
+      "title": "Ghostbusters",
+      "originalTitle": "Ghostbusters",
+      "year": 2016,
+      "releaseDate": {
+        "day": 15,
+        "month": 7,
+        "year": 2016
+      },
+      "plot": "Following a ghost invasion of Manhattan, paranormal enthusiasts Erin Gilbert and Abby Yates, nuclear engineer Jillian Holtzmann, and subway worker Patty Tolan band together to stop the otherworldly threat.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjNhMzU5MjgtY2VhMC00NzZmLTk1YTEtMDc5OGU1OWJiMTE4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Leslie Jones, Melissa McCarthy, Kate McKinnon, Chris Hemsworth, and Kristen Wiig in Ghostbusters (2016)",
+        "width": 1383,
+        "height": 2048
+      },
+      "imdbRating": 6.8,
+      "numVotes": 257494,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 7020,
+      "runtimeMinutes": 117,
+      "metascore": 60,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 38,
+      "titleId": "tt4196776",
+      "title": "Jason Bourne",
+      "originalTitle": "Jason Bourne",
+      "year": 2016,
+      "releaseDate": {
+        "day": 29,
+        "month": 7,
+        "year": 2016
+      },
+      "plot": "The CIA's most dangerous former operative is drawn out of hiding to uncover more explosive truths about his past.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzY3Y2Q3MmUtZmU3MC00OWMxLWIwNDMtNDA4MmViMTUxYjYxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Matt Damon in Jason Bourne (2016)",
+        "width": 1047,
+        "height": 1576
+      },
+      "imdbRating": 6.6,
+      "numVotes": 255755,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7380,
+      "runtimeMinutes": 123,
+      "metascore": 58,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 39,
+      "titleId": "tt3553976",
+      "title": "Captain Fantastic",
+      "originalTitle": "Captain Fantastic",
+      "year": 2016,
+      "releaseDate": {
+        "day": 29,
+        "month": 7,
+        "year": 2016
+      },
+      "plot": "A widower who lives in the forest takes his six children into the outside world for the first time.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjE5OTM0OTY5NF5BMl5BanBnXkFtZTgwMDcxOTQ3ODE@._V1_.jpg",
+        "caption": "Viggo Mortensen, George MacKay, Annalise Basso, Samantha Isler, Shree Crooks, Nicholas Hamilton, and Charlie Shotwell in Captain Fantastic (2016)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 7.8,
+      "numVotes": 249023,
+      "certificate": "R",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 7080,
+      "runtimeMinutes": 118,
+      "metascore": 72,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 40,
+      "titleId": "tt2404435",
+      "title": "The Magnificent Seven",
+      "originalTitle": "The Magnificent Seven",
+      "year": 2016,
+      "releaseDate": {
+        "day": 23,
+        "month": 9,
+        "year": 2016
+      },
+      "plot": "Seven gunmen from a variety of backgrounds are brought together by a vengeful young widow to protect her town from the private army of a destructive industrialist.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTUzNTc0NTAyM15BMl5BanBnXkFtZTgwMTk1ODA5OTE@._V1_.jpg",
+        "caption": "Ethan Hawke, Denzel Washington, Vincent D'Onofrio, Lee Byung-hun, Chris Pratt, Manuel Garcia-Rulfo, and Martin Sensmeier in The Magnificent Seven (2016)",
+        "width": 1000,
+        "height": 1481
+      },
+      "imdbRating": 6.9,
+      "numVotes": 243888,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "runtimeSeconds": 7920,
+      "runtimeMinutes": 132,
+      "metascore": 54,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 41,
+      "titleId": "tt5074352",
+      "title": "Dangal",
+      "originalTitle": "Dangal",
+      "year": 2016,
+      "releaseDate": {
+        "day": 21,
+        "month": 12,
+        "year": 2016
+      },
+      "plot": "Mahavir Singh Phogat, a former wrestler, decides to fulfill his dream of winning a gold medal for his country by training his daughters for the Commonwealth Games despite the existing social stigmas.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_.jpg",
+        "caption": "Dangal (2016)",
+        "width": 1462,
+        "height": 2048
+      },
+      "imdbRating": 8.3,
+      "numVotes": 239460,
+      "certificate": "Not Rated",
+      "genres": [
+        "Action",
+        "Biography",
+        "Drama"
+      ],
+      "runtimeSeconds": 9660,
+      "runtimeMinutes": 161,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 42,
+      "titleId": "tt1489889",
+      "title": "Central Intelligence",
+      "originalTitle": "Central Intelligence",
+      "year": 2016,
+      "releaseDate": {
+        "day": 17,
+        "month": 6,
+        "year": 2016
+      },
+      "plot": "After he reconnects with an awkward pal from high school through Facebook, a mild-mannered accountant is lured into the world of international espionage.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjA2NzEzNjIwNl5BMl5BanBnXkFtZTgwNzgwMTEzNzE@._V1_.jpg",
+        "caption": "Kevin Hart and Dwayne Johnson in Central Intelligence (2016)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 6.3,
+      "numVotes": 235773,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 6420,
+      "runtimeMinutes": 107,
+      "metascore": 52,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 43,
+      "titleId": "tt2709768",
+      "title": "The Secret Life of Pets",
+      "originalTitle": "The Secret Life of Pets",
+      "year": 2016,
+      "releaseDate": {
+        "day": 8,
+        "month": 7,
+        "year": 2016
+      },
+      "plot": "The quiet life of a terrier named Max is upended when his owner takes in Duke, a stray whom Max instantly dislikes.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjIzMzA1OTkzNV5BMl5BanBnXkFtZTgwODE3MjM4NzE@._V1_.jpg",
+        "caption": "The Secret Life of Pets (2016)",
+        "width": 480,
+        "height": 760
+      },
+      "imdbRating": 6.5,
+      "numVotes": 233619,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 5160,
+      "runtimeMinutes": 86,
+      "metascore": 61,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 44,
+      "titleId": "tt1700841",
+      "title": "Sausage Party",
+      "originalTitle": "Sausage Party",
+      "year": 2016,
+      "releaseDate": {
+        "day": 12,
+        "month": 8,
+        "year": 2016
+      },
+      "plot": "A sausage leads a group of supermarket products on a journey to discover the truth about their existence and what really happens when they are picked off the shelf.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjkxOTk1MzY4MF5BMl5BanBnXkFtZTgwODQzOTU5ODE@._V1_.jpg",
+        "caption": "Seth Rogen in Sausage Party (2016)",
+        "width": 1012,
+        "height": 1500
+      },
+      "imdbRating": 6.1,
+      "numVotes": 225164,
+      "certificate": "R",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 5340,
+      "runtimeMinutes": 89,
+      "metascore": 66,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 45,
+      "titleId": "tt2094766",
+      "title": "Assassin's Creed",
+      "originalTitle": "Assassin's Creed",
+      "year": 2016,
+      "releaseDate": {
+        "day": 21,
+        "month": 12,
+        "year": 2016
+      },
+      "plot": "A man explores the memories of his ancestor in 15th century Spain and gains the skills of a mysterious secret society, the Assassins, to confront the oppressive Templar organization in the present day.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTU2Mjc1ODY2OV5BMl5BanBnXkFtZTgwNTMzMTYzMDI@._V1_.jpg",
+        "caption": "Michael Fassbender in Assassin's Creed (2016)",
+        "width": 1381,
+        "height": 2048
+      },
+      "imdbRating": 5.6,
+      "numVotes": 218009,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6900,
+      "runtimeMinutes": 115,
+      "metascore": 36,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 46,
+      "titleId": "tt2267968",
+      "title": "Kung Fu Panda 3",
+      "originalTitle": "Kung Fu Panda 3",
+      "year": 2016,
+      "releaseDate": {
+        "day": 29,
+        "month": 1,
+        "year": 2016
+      },
+      "plot": "Continuing his \"legendary adventures of awesomeness\", Po must face two hugely epic, but different threats: one supernatural and the other a little closer to home.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTUyNzgxNjg2M15BMl5BanBnXkFtZTgwMTY1NDI1NjE@._V1_.jpg",
+        "caption": "Kate Hudson, Jack Black, and Bryan Cranston in Kung Fu Panda 3 (2016)",
+        "width": 660,
+        "height": 978
+      },
+      "imdbRating": 7.1,
+      "numVotes": 214472,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "runtimeSeconds": 5700,
+      "runtimeMinutes": 95,
+      "metascore": 66,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 47,
+      "titleId": "tt4857264",
+      "title": "The Invisible Guest",
+      "originalTitle": "Contratiempo",
+      "year": 2016,
+      "releaseDate": {
+        "day": 6,
+        "month": 1,
+        "year": 2017
+      },
+      "plot": "A young businessman wakes up in a hotel room locked from the inside with the dead body of his lover next to him. He hires a prestigious lawyer, and over one night they work together to clarify what happened in a frenetic race against time.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzZmOTc5ZjctMzAyZC00YmM1LThmNWUtM2UxNzFjMDcyYjAzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jose Coronado, Ana Wagener, B\u00e1rbara Lennie, and Mario Casas in The Invisible Guest (2016)",
+        "width": 1606,
+        "height": 2283
+      },
+      "imdbRating": 8,
+      "numVotes": 210573,
+      "certificate": "TV-MA",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "runtimeSeconds": 6360,
+      "runtimeMinutes": 106,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 48,
+      "titleId": "tt3470600",
+      "title": "Sing",
+      "originalTitle": "Sing",
+      "year": 2016,
+      "releaseDate": {
+        "day": 21,
+        "month": 12,
+        "year": 2016
+      },
+      "plot": "In a city of humanoid animals, a hustling theater impresario's attempt to save his theater with a singing competition becomes grander than he anticipates even as its finalists find that their lives will never be the same.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTYzODYzODU2Ml5BMl5BanBnXkFtZTgwNTc1MTA2NzE@._V1_.jpg",
+        "caption": "Matthew McConaughey in Sing (2016)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 7.1,
+      "numVotes": 210150,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "runtimeSeconds": 6480,
+      "runtimeMinutes": 108,
+      "metascore": 59,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 49,
+      "titleId": "tt3631112",
+      "title": "The Girl on the Train",
+      "originalTitle": "The Girl on the Train",
+      "year": 2016,
+      "releaseDate": {
+        "day": 7,
+        "month": 10,
+        "year": 2016
+      },
+      "plot": "A divorcee becomes entangled in a missing persons investigation that promises to send shockwaves throughout her life.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTg4MGViYTMtYTFkMC00YzVlLWExZDItOTM4NTUwMjc2NTE2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Emily Blunt in The Girl on the Train (2016)",
+        "width": 669,
+        "height": 1000
+      },
+      "imdbRating": 6.5,
+      "numVotes": 209841,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "runtimeSeconds": 6720,
+      "runtimeMinutes": 112,
+      "metascore": 48,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 50,
+      "titleId": "tt1935859",
+      "title": "Miss Peregrine's Home for Peculiar Children",
+      "originalTitle": "Miss Peregrine's Home for Peculiar Children",
+      "year": 2016,
+      "releaseDate": {
+        "day": 30,
+        "month": 9,
+        "year": 2016
+      },
+      "plot": "When Jacob discovers clues to a mystery that stretches across time, he finds Miss Peregrine's Home for Peculiar Children. But the danger deepens after he gets to know the residents and learns about their special powers.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTU0Nzc5NzI5NV5BMl5BanBnXkFtZTgwNTk1MDE4MDI@._V1_.jpg",
+        "caption": "Eva Green, Asa Butterfield, Ella Purnell, Pixie Davies, Lauren McCrostie, Cameron James-King, Thomas Odwell, and Joseph Odwell in Miss Peregrine's Home for Peculiar Children (2016)",
+        "width": 1600,
+        "height": 2005
+      },
+      "imdbRating": 6.7,
+      "numVotes": 206752,
+      "certificate": "PG-13",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Family"
+      ],
+      "runtimeSeconds": 7620,
+      "runtimeMinutes": 127,
+      "metascore": 57,
+      "credits": [],
+      "titleType": "movie"
+    }
+  ]
+}

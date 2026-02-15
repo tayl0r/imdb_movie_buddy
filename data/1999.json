@@ -1,0 +1,1586 @@
+{
+  "year": 1999,
+  "movies": [
+    {
+      "rank": 1,
+      "titleId": "tt0137523",
+      "title": "Fight Club",
+      "originalTitle": "Fight Club",
+      "year": 1999,
+      "releaseDate": {
+        "day": 15,
+        "month": 10,
+        "year": 1999
+      },
+      "plot": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTgyOGQ1NDItNGU3Ny00MjU3LTg2YWEtNmEyYjBiMjI1Y2M5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Brad Pitt and Edward Norton in Fight Club (1999)",
+        "width": 1066,
+        "height": 1600
+      },
+      "imdbRating": 8.8,
+      "numVotes": 2570871,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 8340,
+      "runtimeMinutes": 139,
+      "metascore": 67,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 2,
+      "titleId": "tt0133093",
+      "title": "The Matrix",
+      "originalTitle": "The Matrix",
+      "year": 1999,
+      "releaseDate": {
+        "day": 31,
+        "month": 3,
+        "year": 1999
+      },
+      "plot": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Keanu Reeves, Laurence Fishburne, Joe Pantoliano, and Carrie-Anne Moss in The Matrix (1999)",
+        "width": 2100,
+        "height": 3156
+      },
+      "imdbRating": 8.7,
+      "numVotes": 2225519,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 8160,
+      "runtimeMinutes": 136,
+      "metascore": 73,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 3,
+      "titleId": "tt0120689",
+      "title": "The Green Mile",
+      "originalTitle": "The Green Mile",
+      "year": 1999,
+      "releaseDate": {
+        "day": 10,
+        "month": 12,
+        "year": 1999
+      },
+      "plot": "A death row guard learns that a gentle giant in his charge possesses a mysterious gift.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_.jpg",
+        "caption": "Movie Poster",
+        "width": 500,
+        "height": 740
+      },
+      "imdbRating": 8.6,
+      "numVotes": 1544653,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 11340,
+      "runtimeMinutes": 189,
+      "metascore": 61,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 4,
+      "titleId": "tt0169547",
+      "title": "American Beauty",
+      "originalTitle": "American Beauty",
+      "year": 1999,
+      "releaseDate": {
+        "day": 1,
+        "month": 10,
+        "year": 1999
+      },
+      "plot": "A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDI1MDE0OTMtMmI2MS00Yjc2LTg2MTItMWExYTg5NzA1OGUzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Kevin Spacey, Thora Birch, and Mena Suvari in American Beauty (1999)",
+        "width": 675,
+        "height": 1000
+      },
+      "imdbRating": 8.3,
+      "numVotes": 1273124,
+      "certificate": "R",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 7320,
+      "runtimeMinutes": 122,
+      "metascore": 84,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 5,
+      "titleId": "tt0167404",
+      "title": "The Sixth Sense",
+      "originalTitle": "The Sixth Sense",
+      "year": 1999,
+      "releaseDate": {
+        "day": 6,
+        "month": 8,
+        "year": 1999
+      },
+      "plot": "After being shot by a resentful former patient whom he failed to help, a Philadelphia child psychologist seeks redemption by treating a young boy with a disturbing secret.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWQ2OTY0M2UtMTQxNC00MmIzLTllNDQtNDQ0MTQyYzI2M2ZiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Haley Joel Osment in The Sixth Sense (1999)",
+        "width": 500,
+        "height": 739
+      },
+      "imdbRating": 8.2,
+      "numVotes": 1134051,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6420,
+      "runtimeMinutes": 107,
+      "metascore": 64,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 6,
+      "titleId": "tt0120915",
+      "title": "Star Wars: Episode I - The Phantom Menace",
+      "originalTitle": "Star Wars: Episode I - The Phantom Menace",
+      "year": 1999,
+      "releaseDate": {
+        "day": 19,
+        "month": 5,
+        "year": 1999
+      },
+      "plot": "Two Jedi escape a hostile blockade to find allies and come across a young boy who may bring balance to the Force, but the long-dormant Sith resurface to claim their former glory.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODVhNGIxOGItYWNlMi00YTA0LWI3NTctZmQxZGUwZDEyZWI4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "George Lucas, Ewan McGregor, Natalie Portman, Anthony Daniels, Liam Neeson, John Williams, Jake Lloyd, Kenny Baker, Ahmed Best, Keira Knightley, Ray Park, and Peter Serafinowicz in Star Wars: Episode I - The Phantom Menace (1999)",
+        "width": 1230,
+        "height": 1845
+      },
+      "imdbRating": 6.5,
+      "numVotes": 918053,
+      "certificate": "PG",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 8160,
+      "runtimeMinutes": 136,
+      "metascore": 51,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 7,
+      "titleId": "tt0120363",
+      "title": "Toy Story 2",
+      "originalTitle": "Toy Story 2",
+      "year": 1999,
+      "releaseDate": {
+        "day": 24,
+        "month": 11,
+        "year": 1999
+      },
+      "plot": "When Woody is stolen by a toy collector, Buzz and his friends set out on a rescue mission to save Woody before he becomes a museum toy property with his roundup gang Jessie, Prospector, and Bullseye.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzVmODlhMDEtY2YxZi00OTVjLTlkNTktN2Q2OTRlM2I4M2FhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tom Hanks and Tim Allen in Toy Story 2 (1999)",
+        "width": 1016,
+        "height": 1500
+      },
+      "imdbRating": 7.9,
+      "numVotes": 663069,
+      "certificate": "G",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 5520,
+      "runtimeMinutes": 92,
+      "metascore": 88,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 8,
+      "titleId": "tt0120616",
+      "title": "The Mummy",
+      "originalTitle": "The Mummy",
+      "year": 1999,
+      "releaseDate": {
+        "day": 7,
+        "month": 5,
+        "year": 1999
+      },
+      "plot": "At an archaeological dig in the ancient city of Hamunaptra, an American serving in the French Foreign Legion accidentally awakens a mummy who begins to wreak havoc as he searches for the reincarnation of his long-lost love.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTY4YWE0OGMtNjU0Yi00YzIwLTk3NTktM2ZiYWQwNjM4MmMxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "The Mummy (1999)",
+        "width": 1008,
+        "height": 1500
+      },
+      "imdbRating": 7.1,
+      "numVotes": 496199,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 7440,
+      "runtimeMinutes": 124,
+      "metascore": 48,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 9,
+      "titleId": "tt0163651",
+      "title": "American Pie",
+      "originalTitle": "American Pie",
+      "year": 1999,
+      "releaseDate": {
+        "day": 9,
+        "month": 7,
+        "year": 1999
+      },
+      "plot": "Four teenage boys enter a pact to lose their virginity by prom night.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTg3ODY5ODI1NF5BMl5BanBnXkFtZTgwMTkxNTYxMTE@._V1_.jpg",
+        "caption": "Mena Suvari, Jason Biggs, Alyson Hannigan, Chris Klein, Natasha Lyonne, Thomas Ian Nicholas, Tara Reid, Seann William Scott, and Eddie Kaye Thomas in American Pie (1999)",
+        "width": 930,
+        "height": 1377
+      },
+      "imdbRating": 7,
+      "numVotes": 464488,
+      "certificate": "R",
+      "genres": [
+        "Comedy"
+      ],
+      "runtimeSeconds": 5700,
+      "runtimeMinutes": 95,
+      "metascore": 58,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 10,
+      "titleId": "tt0147800",
+      "title": "10 Things I Hate About You",
+      "originalTitle": "10 Things I Hate About You",
+      "year": 1999,
+      "releaseDate": {
+        "day": 31,
+        "month": 3,
+        "year": 1999
+      },
+      "plot": "A high-school boy, Cameron, cannot date Bianca until her anti-social older sister, Kat, has a boyfriend. So, Cameron pays a mysterious boy, Patrick, to charm Kat.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTQwYmRhNGQtODI2Mi00ZTRlLTk0Y2QtY2NkNjE1MGNhNTgwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Andrew Keegan, Heath Ledger, Julia Stiles, Gabrielle Union, Susan May Pratt, Joseph Gordon-Levitt, David Krumholtz, and Larisa Oleynik in 10 Things I Hate About You (1999)",
+        "width": 580,
+        "height": 863
+      },
+      "imdbRating": 7.4,
+      "numVotes": 442511,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 5820,
+      "runtimeMinutes": 97,
+      "metascore": 70,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 11,
+      "titleId": "tt0120663",
+      "title": "Eyes Wide Shut",
+      "originalTitle": "Eyes Wide Shut",
+      "year": 1999,
+      "releaseDate": {
+        "day": 16,
+        "month": 7,
+        "year": 1999
+      },
+      "plot": "A Manhattan doctor embarks on a bizarre, night-long odyssey after his wife's admission of unfulfilled longing.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTQ0MmM5MDAtYmYyZS00MzlmLTlhZTAtZDJlZWY5ZTZkZjZmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tom Cruise and Nicole Kidman in Eyes Wide Shut (1999)",
+        "width": 676,
+        "height": 1000
+      },
+      "imdbRating": 7.5,
+      "numVotes": 420186,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 9540,
+      "runtimeMinutes": 159,
+      "metascore": 69,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 12,
+      "titleId": "tt0162661",
+      "title": "Sleepy Hollow",
+      "originalTitle": "Sleepy Hollow",
+      "year": 1999,
+      "releaseDate": {
+        "day": 19,
+        "month": 11,
+        "year": 1999
+      },
+      "plot": "Ichabod Crane is sent to Sleepy Hollow to investigate the decapitations of three people; the culprit is legendary apparition The Headless Horseman.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYWIwMTIxZTQtNDZhNS00ZDZlLTg5MTEtOTNkMmNjOGUzMTA1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Christopher Walken in Sleepy Hollow (1999)",
+        "width": 1000,
+        "height": 1488
+      },
+      "imdbRating": 7.3,
+      "numVotes": 410339,
+      "certificate": "R",
+      "genres": [
+        "Fantasy",
+        "Horror",
+        "Mystery"
+      ],
+      "runtimeSeconds": 6300,
+      "runtimeMinutes": 105,
+      "metascore": 65,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 13,
+      "titleId": "tt0125439",
+      "title": "Notting Hill",
+      "originalTitle": "Notting Hill",
+      "year": 1999,
+      "releaseDate": {
+        "day": 28,
+        "month": 5,
+        "year": 1999
+      },
+      "plot": "A set of circumstances makes Anna Scott, a famous actress, fall in love with William Thacker, owner of a bookstore in Notting Hill. But the paparazzi's fascination with her complicates their bond.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjY3YWI5OTMtYTdlNy00ZTZiLWEwYjItN2M1MGVkMDM4ZDExXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Julia Roberts and Hugh Grant in Notting Hill (1999)",
+        "width": 1007,
+        "height": 1500
+      },
+      "imdbRating": 7.2,
+      "numVotes": 379887,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 7440,
+      "runtimeMinutes": 124,
+      "metascore": 68,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 14,
+      "titleId": "tt0120601",
+      "title": "Being John Malkovich",
+      "originalTitle": "Being John Malkovich",
+      "year": 1999,
+      "releaseDate": {
+        "day": 3,
+        "month": 12,
+        "year": 1999
+      },
+      "plot": "A puppeteer discovers a portal that leads literally into the head of movie star John Malkovich.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDExODk1MTktNzRiYS00MWEyLTgyOWItYTI1OWY4NzI1NDM2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "John Cusack, Cameron Diaz, and Catherine Keener in Being John Malkovich (1999)",
+        "width": 1528,
+        "height": 2265
+      },
+      "imdbRating": 7.7,
+      "numVotes": 367930,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 6780,
+      "runtimeMinutes": 113,
+      "metascore": 90,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 15,
+      "titleId": "tt0175880",
+      "title": "Magnolia",
+      "originalTitle": "Magnolia",
+      "year": 1999,
+      "releaseDate": {
+        "day": 7,
+        "month": 1,
+        "year": 2000
+      },
+      "plot": "An epic mosaic of interrelated characters in search of love, forgiveness and meaning in the San Fernando Valley.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWY0Zjk1YTMtMGFlYi00OTFmLWEyOTAtNmRkYjE0ZDJiZWMwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Philip Seymour Hoffman, William H. Macy, Philip Baker Hall, Jason Robards, and Jeremy Blackman in Magnolia (1999)",
+        "width": 1752,
+        "height": 2771
+      },
+      "imdbRating": 8,
+      "numVotes": 347817,
+      "certificate": "R",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 11280,
+      "runtimeMinutes": 188,
+      "metascore": 78,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 16,
+      "titleId": "tt0185937",
+      "title": "The Blair Witch Project",
+      "originalTitle": "The Blair Witch Project",
+      "year": 1999,
+      "releaseDate": {
+        "day": 30,
+        "month": 7,
+        "year": 1999
+      },
+      "plot": "Three film students vanish after traveling into a Maryland forest to film a documentary on the local Blair Witch legend, leaving only their footage behind.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGFmYzA5NzktOTc1Ni00YTIxLWJiZTEtNmEyZjBjNDM2MjRlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Heather Donahue in The Blair Witch Project (1999)",
+        "width": 580,
+        "height": 864
+      },
+      "imdbRating": 6.5,
+      "numVotes": 313094,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "runtimeSeconds": 4860,
+      "runtimeMinutes": 81,
+      "metascore": 80,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 17,
+      "titleId": "tt0151804",
+      "title": "Office Space",
+      "originalTitle": "Office Space",
+      "year": 1999,
+      "releaseDate": {
+        "day": 19,
+        "month": 2,
+        "year": 1999
+      },
+      "plot": "Three company workers who hate their jobs decide to rebel against their greedy boss.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTA5MzQ3MzI1NV5BMl5BanBnXkFtZTgwNTcxNTYxMTE@._V1_.jpg",
+        "caption": "Version A, 1 sheet ",
+        "width": 930,
+        "height": 1377
+      },
+      "imdbRating": 7.6,
+      "numVotes": 306337,
+      "certificate": "R",
+      "genres": [
+        "Comedy"
+      ],
+      "runtimeSeconds": 5340,
+      "runtimeMinutes": 89,
+      "metascore": 68,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 18,
+      "titleId": "tt0134119",
+      "title": "The Talented Mr. Ripley",
+      "originalTitle": "The Talented Mr. Ripley",
+      "year": 1999,
+      "releaseDate": {
+        "day": 25,
+        "month": 12,
+        "year": 1999
+      },
+      "plot": "In late 1950s New York, a young underachiever named Tom Ripley is sent to Italy to retrieve Dickie Greenleaf, a rich and spoiled millionaire playboy. But when the errand fails, Ripley takes extreme measures.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzI2ZmU3MWMtZmRlMi00ZmVlLTkwMDMtZmI1YTg4YzcwMDE0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jude Law, Matt Damon, and Gwyneth Paltrow in The Talented Mr. Ripley (1999)",
+        "width": 1009,
+        "height": 1500
+      },
+      "imdbRating": 7.4,
+      "numVotes": 269271,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 8340,
+      "runtimeMinutes": 139,
+      "metascore": 76,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 19,
+      "titleId": "tt0120855",
+      "title": "Tarzan",
+      "originalTitle": "Tarzan",
+      "year": 1999,
+      "releaseDate": {
+        "day": 18,
+        "month": 6,
+        "year": 1999
+      },
+      "plot": "A man raised by gorillas must decide where he really belongs when he discovers he is a human.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjM5OWM5NzktMTIzYy00OTk1LWIyYzAtYzBhNWY3NWQ2Y2Y0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Minnie Driver, Tony Goldwyn, Wayne Knight, and Rosie O'Donnell in Tarzan (1999)",
+        "width": 1011,
+        "height": 1500
+      },
+      "imdbRating": 7.3,
+      "numVotes": 266532,
+      "certificate": "G",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 5280,
+      "runtimeMinutes": 88,
+      "metascore": 80,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 20,
+      "titleId": "tt0145660",
+      "title": "Austin Powers: The Spy Who Shagged Me",
+      "originalTitle": "Austin Powers: The Spy Who Shagged Me",
+      "year": 1999,
+      "releaseDate": {
+        "day": 11,
+        "month": 6,
+        "year": 1999
+      },
+      "plot": "Dr. Evil is back and has invented a new time machine that allows him to go back to the 1960s and steal Austin Powers' mojo, inadvertently leaving him \"shagless\".",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2I3ZTBjOGQtYjQ3My00M2RlLTk3MjgtOTVmMWExNmU3ZjBkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Mike Myers and Heather Graham in Austin Powers: The Spy Who Shagged Me (1999)",
+        "width": 982,
+        "height": 1500
+      },
+      "imdbRating": 6.7,
+      "numVotes": 261195,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 5700,
+      "runtimeMinutes": 95,
+      "metascore": 59,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 21,
+      "titleId": "tt0144117",
+      "title": "The Boondock Saints",
+      "originalTitle": "The Boondock Saints",
+      "year": 1999,
+      "releaseDate": {
+        "day": 21,
+        "month": 1,
+        "year": 2000
+      },
+      "plot": "Two Irish Catholic brothers become vigilantes in order to try to wipe out Boston's criminal underworld in the name of God.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzIzYjE3YmMtYjdjOC00NTk5LWI0N2MtZDliYjUxNGYyNGZhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Willem Dafoe, Sean Patrick Flanery, and Norman Reedus in The Boondock Saints (1999)",
+        "width": 1980,
+        "height": 2933
+      },
+      "imdbRating": 7.6,
+      "numVotes": 261033,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6480,
+      "runtimeMinutes": 108,
+      "metascore": 44,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 22,
+      "titleId": "tt0129167",
+      "title": "The Iron Giant",
+      "originalTitle": "The Iron Giant",
+      "year": 1999,
+      "releaseDate": {
+        "day": 6,
+        "month": 8,
+        "year": 1999
+      },
+      "plot": "A young boy befriends a giant robot from outer space that a paranoid government agent wants to destroy.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODM4ZjZjMGEtYmFiMy00MThjLWIzZjUtMDU0ODg1NTI2MzIwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jennifer Aniston, Harry Connick Jr., John Mahoney, Christopher McDonald, Vin Diesel, Bob Bergen, and Eli Marienthal in The Iron Giant (1999)",
+        "width": 1959,
+        "height": 2905
+      },
+      "imdbRating": 8.1,
+      "numVotes": 256746,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "runtimeSeconds": 5160,
+      "runtimeMinutes": 86,
+      "metascore": 85,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 23,
+      "titleId": "tt0142342",
+      "title": "Big Daddy",
+      "originalTitle": "Big Daddy",
+      "year": 1999,
+      "releaseDate": {
+        "day": 25,
+        "month": 6,
+        "year": 1999
+      },
+      "plot": "A lazy law school graduate adopts a kid to impress his girlfriend, but everything doesn't go as planned.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZGQwMzAyMjEtYjNiNi00NWQwLThiNjQtY2Q2ZWQ5ZGIzMDI4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Adam Sandler, Cole Sprouse, and Dylan Sprouse in Big Daddy (1999)",
+        "width": 953,
+        "height": 1463
+      },
+      "imdbRating": 6.5,
+      "numVotes": 249863,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 5580,
+      "runtimeMinutes": 93,
+      "metascore": 42,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 24,
+      "titleId": "tt0120655",
+      "title": "Dogma",
+      "originalTitle": "Dogma",
+      "year": 1999,
+      "releaseDate": {
+        "day": 12,
+        "month": 11,
+        "year": 1999
+      },
+      "plot": "An abortion clinic worker with a special heritage is called upon to save the existence of humanity from being negated by two renegade angels trying to exploit a loop-hole and reenter Heaven.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDE1Yjc3N2UtZmYwNi00YTA3LTllNGEtZTIwODg2MmMwNjBjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Salma Hayek, Ben Affleck, Matt Damon, Linda Fiorentino, Alan Rickman, Chris Rock, Kevin Smith, and Jason Mewes in Dogma (1999)",
+        "width": 1000,
+        "height": 1366
+      },
+      "imdbRating": 7.3,
+      "numVotes": 239245,
+      "certificate": "R",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 7800,
+      "runtimeMinutes": 130,
+      "metascore": 62,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 25,
+      "titleId": "tt0172493",
+      "title": "Girl, Interrupted",
+      "originalTitle": "Girl, Interrupted",
+      "year": 1999,
+      "releaseDate": {
+        "day": 14,
+        "month": 1,
+        "year": 2000
+      },
+      "plot": "Directionless teenager Susanna is rushed to Claymoore, a mental institution, after a supposed suicide attempt. There she befriends a group of troubled women who deeply influence her life.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWVhYzdiMTQtMzJkMC00YWEwLTkyNDEtNzkwMGQ3NTBhMzExXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Winona Ryder in Girl, Interrupted (1999)",
+        "width": 500,
+        "height": 746
+      },
+      "imdbRating": 7.3,
+      "numVotes": 232449,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "runtimeSeconds": 7620,
+      "runtimeMinutes": 127,
+      "metascore": 51,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 26,
+      "titleId": "tt0158983",
+      "title": "South Park: Bigger, Longer & Uncut",
+      "originalTitle": "South Park: Bigger, Longer & Uncut",
+      "year": 1999,
+      "releaseDate": {
+        "day": 30,
+        "month": 6,
+        "year": 1999
+      },
+      "plot": "When Eric Cartman and his friends go see an R-rated movie, they start cursing and their parents think that Canada is to blame.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDcyNDE4OWEtMjIzNi00OTdmLWIwMWEtNWU2ZjM4ZjA4YzNkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Eric Idle, Matt Stone, Isaac Hayes, Trey Parker, Mary Kay Bergman, Franchesca Clifford, Anthony Cross-Thomas, and Jesse Brant Howell in South Park: Bigger, Longer & Uncut (1999)",
+        "width": 580,
+        "height": 866
+      },
+      "imdbRating": 7.7,
+      "numVotes": 223777,
+      "certificate": "R",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 4860,
+      "runtimeMinutes": 81,
+      "metascore": 73,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 27,
+      "titleId": "tt0143145",
+      "title": "The World Is Not Enough",
+      "originalTitle": "The World Is Not Enough",
+      "year": 1999,
+      "releaseDate": {
+        "day": 19,
+        "month": 11,
+        "year": 1999
+      },
+      "plot": "James Bond uncovers a nuclear plot while protecting an oil heiress from her former kidnapper, an international terrorist who can't feel pain.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDlmNTA0YmMtODJmMi00NTZhLTk4MzUtY2FiYjNhMmY4OTI1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Pierce Brosnan, Sophie Marceau, Denise Richards, and Robert Carlyle in The World Is Not Enough (1999)",
+        "width": 1524,
+        "height": 2260
+      },
+      "imdbRating": 6.4,
+      "numVotes": 218948,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7680,
+      "runtimeMinutes": 128,
+      "metascore": 57,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 28,
+      "titleId": "tt0139134",
+      "title": "Cruel Intentions",
+      "originalTitle": "Cruel Intentions",
+      "year": 1999,
+      "releaseDate": {
+        "day": 5,
+        "month": 3,
+        "year": 1999
+      },
+      "plot": "Two vicious step-siblings of an elite Manhattan prep school make a wager: to deflower the new headmaster's daughter before the start of term.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjgyYmVjNWYtZTNjOS00YjEyLWI0MjEtMDgwYWI2YzZiMTFkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ryan Phillippe, Reese Witherspoon, and Sarah Michelle Gellar in Cruel Intentions (1999)",
+        "width": 4050,
+        "height": 6000
+      },
+      "imdbRating": 6.8,
+      "numVotes": 218614,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 5820,
+      "runtimeMinutes": 97,
+      "metascore": 56,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 29,
+      "titleId": "tt0142688",
+      "title": "The Ninth Gate",
+      "originalTitle": "The Ninth Gate",
+      "year": 1999,
+      "releaseDate": {
+        "day": 10,
+        "month": 3,
+        "year": 2000
+      },
+      "plot": "An unscrupulous dealer of rare books finds himself at the heart of a string of paranormal events when he is hired to find the last two copies of a text capable of summoning the devil.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTQ2ODM2NjktMzJjMC00MWJiLWI2MjMtMzhiOTFmMzc1ZDUyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Johnny Depp in The Ninth Gate (1999)",
+        "width": 1646,
+        "height": 2416
+      },
+      "imdbRating": 6.7,
+      "numVotes": 208716,
+      "certificate": "R",
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7980,
+      "runtimeMinutes": 133,
+      "metascore": 44,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 30,
+      "titleId": "tt0145681",
+      "title": "The Bone Collector",
+      "originalTitle": "The Bone Collector",
+      "year": 1999,
+      "releaseDate": {
+        "day": 5,
+        "month": 11,
+        "year": 1999
+      },
+      "plot": "A quadriplegic ex-homicide detective and his partner try to track down a serial killer who is terrorizing New York City.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWY0NjY0M2ItYmNjYy00YWZiLWE3ZjktM2Q3YmU2NWY0YmVmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Denzel Washington and Angelina Jolie in The Bone Collector (1999)",
+        "width": 1463,
+        "height": 2166
+      },
+      "imdbRating": 6.7,
+      "numVotes": 199022,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "runtimeSeconds": 7080,
+      "runtimeMinutes": 118,
+      "metascore": 45,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 31,
+      "titleId": "tt0140352",
+      "title": "The Insider",
+      "originalTitle": "The Insider",
+      "year": 1999,
+      "releaseDate": {
+        "day": 5,
+        "month": 11,
+        "year": 1999
+      },
+      "plot": "A research chemist comes under personal and professional attack when he decides to appear in a 60 Minutes expos\u00e9 on Big Tobacco.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZGY3ZjEyODAtNjAwMC00ZTEwLTg3NDctYzMzYTZkMjBmZDQwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Russell Crowe and Al Pacino in The Insider (1999)",
+        "width": 580,
+        "height": 833
+      },
+      "imdbRating": 7.8,
+      "numVotes": 191058,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "runtimeSeconds": 9420,
+      "runtimeMinutes": 157,
+      "metascore": 85,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 32,
+      "titleId": "tt0177789",
+      "title": "Galaxy Quest",
+      "originalTitle": "Galaxy Quest",
+      "year": 1999,
+      "releaseDate": {
+        "day": 25,
+        "month": 12,
+        "year": 1999
+      },
+      "plot": "The alumni cast of a space opera television series have to play their roles as the real thing when an alien race needs their help. However, they also have to defend both Earth and the alien race from a reptilian warlord.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZmJkYmNhMGMtMDYyNC00ZDEyLWE2ZjAtYTg5OWViODJlNDdmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Sigourney Weaver, Alan Rickman, and Tim Allen in Galaxy Quest (1999)",
+        "width": 838,
+        "height": 1187
+      },
+      "imdbRating": 7.4,
+      "numVotes": 190195,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6120,
+      "runtimeMinutes": 102,
+      "metascore": 70,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 33,
+      "titleId": "tt0120188",
+      "title": "Three Kings",
+      "originalTitle": "Three Kings",
+      "year": 1999,
+      "releaseDate": {
+        "day": 1,
+        "month": 10,
+        "year": 1999
+      },
+      "plot": "In the aftermath of the Persian Gulf War, four soldiers set out to steal gold that was stolen from Kuwait, but they discover people who desperately need their help.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODdlODNiYWUtNDU4Mi00OWY0LTk2MmMtZWMwNzA4Yzc1NTAyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "George Clooney, Mark Wahlberg, and Ice Cube in Three Kings (1999)",
+        "width": 1307,
+        "height": 1946
+      },
+      "imdbRating": 7.1,
+      "numVotes": 186779,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 6840,
+      "runtimeMinutes": 114,
+      "metascore": 82,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 34,
+      "titleId": "tt0159097",
+      "title": "The Virgin Suicides",
+      "originalTitle": "The Virgin Suicides",
+      "year": 1999,
+      "releaseDate": {
+        "day": 19,
+        "month": 5,
+        "year": 2000
+      },
+      "plot": "A group of male friends become obsessed with five mysterious sisters who are sheltered by their strict, religious parents in suburban Detroit in the mid 1970s.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMmNhYTE5MjQtMzI2Ny00MDRhLWE4ZjAtYTg0YjNhNjZmMTVlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Kirsten Dunst in The Virgin Suicides (1999)",
+        "width": 1013,
+        "height": 1500
+      },
+      "imdbRating": 7.2,
+      "numVotes": 184703,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 5820,
+      "runtimeMinutes": 97,
+      "metascore": 77,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 35,
+      "titleId": "tt0120891",
+      "title": "Wild Wild West",
+      "originalTitle": "Wild Wild West",
+      "year": 1999,
+      "releaseDate": {
+        "day": 30,
+        "month": 6,
+        "year": 1999
+      },
+      "plot": "The two best special agents in the Wild West must save President Grant from the clutches of a diabolical, wheelchair-bound, steampunk-savvy, Confederate scientist bent on revenge for losing the Civil War.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOGI1OWJjMWUtOTNiNC00N2RlLWE3OTYtM2FmOGUzNTQxNzk2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Kevin Kline and Will Smith in Wild Wild West (1999)",
+        "width": 960,
+        "height": 1440
+      },
+      "imdbRating": 4.9,
+      "numVotes": 172763,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6360,
+      "runtimeMinutes": 106,
+      "metascore": 40,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 36,
+      "titleId": "tt0122933",
+      "title": "Analyze This",
+      "originalTitle": "Analyze This",
+      "year": 1999,
+      "releaseDate": {
+        "day": 5,
+        "month": 3,
+        "year": 1999
+      },
+      "plot": "A comedy about a psychiatrist whose number-one patient is an insecure mob boss.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDJmZTNmMmQtYWM2MC00YzM5LWI5MGEtODRmZTgzNDAyN2FjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Robert De Niro and Billy Crystal in Analyze This (1999)",
+        "width": 960,
+        "height": 1440
+      },
+      "imdbRating": 6.7,
+      "numVotes": 168493,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 6180,
+      "runtimeMinutes": 103,
+      "metascore": 60,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 37,
+      "titleId": "tt0164912",
+      "title": "Stuart Little",
+      "originalTitle": "Stuart Little",
+      "year": 1999,
+      "releaseDate": {
+        "day": 17,
+        "month": 12,
+        "year": 1999
+      },
+      "plot": "When the Littles adopt Stuart, the mouse, George is initially unwelcoming to his new brother, the family cat, Snowbell, is even less enthusiastic. Stuart resolves to face these difficulties with as much pluck and courage as he can muster.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTE3MzQxOWQtMmMxNS00YWVkLThiNDMtOTFiNzVjNmE3MGIxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Michael J. Fox in Stuart Little (1999)",
+        "width": 700,
+        "height": 1011
+      },
+      "imdbRating": 6,
+      "numVotes": 159172,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family"
+      ],
+      "runtimeSeconds": 5040,
+      "runtimeMinutes": 84,
+      "metascore": 61,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 38,
+      "titleId": "tt0120784",
+      "title": "Payback",
+      "originalTitle": "Payback",
+      "year": 1999,
+      "releaseDate": {
+        "day": 5,
+        "month": 2,
+        "year": 1999
+      },
+      "plot": "After a successful heist, Porter is left for dead. Once he recovers, he seeks vengeance and wants his share of the money.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDVmM2YxNDUtMjE2Yy00M2I0LTk1MmEtYWUxZTI4NjMyMDJiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Mel Gibson in Payback (1999)",
+        "width": 800,
+        "height": 1191
+      },
+      "imdbRating": 7,
+      "numVotes": 152867,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 6000,
+      "runtimeMinutes": 100,
+      "metascore": 46,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 39,
+      "titleId": "tt0149261",
+      "title": "Deep Blue Sea",
+      "originalTitle": "Deep Blue Sea",
+      "year": 1999,
+      "releaseDate": {
+        "day": 28,
+        "month": 7,
+        "year": 1999
+      },
+      "plot": "Searching for a cure to Alzheimer's disease, a group of scientists on an isolated research facility become the prey, as a trio of intelligent sharks fight back.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTM5OTUyYWYtMGE2OS00ODEzLTk0ZjctZmQ5NzFlNWQ3OTAxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Saffron Burrows in Deep Blue Sea (1999)",
+        "width": 811,
+        "height": 1200
+      },
+      "imdbRating": 5.9,
+      "numVotes": 150555,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6300,
+      "runtimeMinutes": 105,
+      "metascore": 54,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 40,
+      "titleId": "tt0134273",
+      "title": "8MM",
+      "originalTitle": "8MM",
+      "year": 1999,
+      "releaseDate": {
+        "day": 26,
+        "month": 2,
+        "year": 1999
+      },
+      "plot": "A private investigator is hired to discover if a \"snuff film\" is authentic or not.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNmEzZjIzYzQtOGI0MS00NmQ5LWFmYjktYTEwNTUxNDhmY2IzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Nicolas Cage and Jenny Powell in 8MM (1999)",
+        "width": 1543,
+        "height": 2290
+      },
+      "imdbRating": 6.6,
+      "numVotes": 150467,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "runtimeSeconds": 7380,
+      "runtimeMinutes": 123,
+      "metascore": 21,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 41,
+      "titleId": "tt0125664",
+      "title": "Man on the Moon",
+      "originalTitle": "Man on the Moon",
+      "year": 1999,
+      "releaseDate": {
+        "day": 22,
+        "month": 12,
+        "year": 1999
+      },
+      "plot": "The life and career of legendary comedian Andy Kaufman.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjQ1NmQ3MjItNGNiZC00OWFiLWFiYjktN2E5MzAzZDYwNjdhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jim Carrey in Man on the Moon (1999)",
+        "width": 1008,
+        "height": 1500
+      },
+      "imdbRating": 7.4,
+      "numVotes": 142899,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 7080,
+      "runtimeMinutes": 118,
+      "metascore": 58,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 42,
+      "titleId": "tt0120657",
+      "title": "The 13th Warrior",
+      "originalTitle": "The 13th Warrior",
+      "year": 1999,
+      "releaseDate": {
+        "day": 27,
+        "month": 8,
+        "year": 1999
+      },
+      "plot": "A man, having fallen in love with the wrong woman, is sent by the sultan himself on a diplomatic mission to a distant land as an ambassador. Stopping at a Viking village port to restock on supplies, he finds himself unwittingly embroiled in a quest to banish a mysterious threat in a distant Viking land.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2IwMTYyNjctYzhjZi00Y2Y3LWE3NjktMGVjMjFhNzk0NWFjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "The 13th Warrior (1999)",
+        "width": 1522,
+        "height": 2265
+      },
+      "imdbRating": 6.6,
+      "numVotes": 138376,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "History"
+      ],
+      "runtimeSeconds": 6120,
+      "runtimeMinutes": 102,
+      "metascore": 42,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 43,
+      "titleId": "tt0182789",
+      "title": "Bicentennial Man",
+      "originalTitle": "Bicentennial Man",
+      "year": 1999,
+      "releaseDate": {
+        "day": 17,
+        "month": 12,
+        "year": 1999
+      },
+      "plot": "The life and times of Andrew, a robot purchased as a household appliance programmed to perform menial tasks. As Andrew begins to experience emotions and creative thought, the Martin family soon discovers they don't have an ordinary robot.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzM1MDVlZDItN2ZiZS00MWY2LTk3YzgtOGY4ZDRhNTEyNzA4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Robin Williams in Bicentennial Man (1999)",
+        "width": 1009,
+        "height": 1500
+      },
+      "imdbRating": 6.9,
+      "numVotes": 131077,
+      "certificate": "PG",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 7920,
+      "runtimeMinutes": 132,
+      "metascore": 42,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 44,
+      "titleId": "tt0146838",
+      "title": "Any Given Sunday",
+      "originalTitle": "Any Given Sunday",
+      "year": 1999,
+      "releaseDate": {
+        "day": 22,
+        "month": 12,
+        "year": 1999
+      },
+      "plot": "A behind-the-scenes look at the life-and-death struggles of modern-day gladiators and those who lead them.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDIyMGYxMWYtNmUyZC00N2M3LWI0ZGYtMTIwMTk3NmZiY2RkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Cameron Diaz, Al Pacino, James Woods, Dennis Quaid, Jamie Foxx, and LL Cool J in Any Given Sunday (1999)",
+        "width": 1000,
+        "height": 1332
+      },
+      "imdbRating": 6.9,
+      "numVotes": 130834,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Sport"
+      ],
+      "runtimeSeconds": 9720,
+      "runtimeMinutes": 162,
+      "metascore": 52,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 45,
+      "titleId": "tt0137494",
+      "title": "Entrapment",
+      "originalTitle": "Entrapment",
+      "year": 1999,
+      "releaseDate": {
+        "day": 30,
+        "month": 4,
+        "year": 1999
+      },
+      "plot": "Insurance investigator Virginia Baker deems that the thief Robert MacDougal has robbed a Rembrandt painting. To retrieve the painting, she poses as an art thief, cooperating with him in criminal acts.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjliMDM0ZGQtMzA1Yy00MjZhLWI2NDgtODJhOWMyNTBlZDdhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Sean Connery and Catherine Zeta-Jones in Entrapment (1999)",
+        "width": 511,
+        "height": 755
+      },
+      "imdbRating": 6.3,
+      "numVotes": 129223,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Crime",
+        "Romance"
+      ],
+      "runtimeSeconds": 6780,
+      "runtimeMinutes": 113,
+      "metascore": 54,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 46,
+      "titleId": "tt0146675",
+      "title": "End of Days",
+      "originalTitle": "End of Days",
+      "year": 1999,
+      "releaseDate": {
+        "day": 24,
+        "month": 11,
+        "year": 1999
+      },
+      "plot": "An ex-cop must prevent a woman from bearing the Antichrist.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODg2NmE4MTYtMzFmNS00ZWExLWE4YjktNDEwMzg1ZDBkY2JlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Arnold Schwarzenegger in End of Days (1999)",
+        "width": 1464,
+        "height": 2179
+      },
+      "imdbRating": 5.8,
+      "numVotes": 122064,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Horror"
+      ],
+      "runtimeSeconds": 7320,
+      "runtimeMinutes": 122,
+      "metascore": 34,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 47,
+      "titleId": "tt0120907",
+      "title": "eXistenZ",
+      "originalTitle": "eXistenZ",
+      "year": 1999,
+      "releaseDate": {
+        "day": 23,
+        "month": 4,
+        "year": 1999
+      },
+      "plot": "A game designer on the run from assassins must play her latest virtual reality creation with a marketing trainee to determine if the game has been damaged.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjk3MGRhN2EtN2IyYi00NjFkLWFmNTUtNWI3MzZiYjI2ZjRkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jude Law and Jennifer Jason Leigh in eXistenZ (1999)",
+        "width": 1108,
+        "height": 1600
+      },
+      "imdbRating": 6.8,
+      "numVotes": 112872,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 5820,
+      "runtimeMinutes": 97,
+      "metascore": 70,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 48,
+      "titleId": "tt0160862",
+      "title": "She's All That",
+      "originalTitle": "She's All That",
+      "year": 1999,
+      "releaseDate": {
+        "day": 29,
+        "month": 1,
+        "year": 1999
+      },
+      "plot": "When Zack's famous girlfriend, Taylor, cheats on him with another boy and parts ways with him, he makes a bet with his friends to turn a socially inept Laney into their high school's next prom queen.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOGUyZTFiOTEtN2Y1Ny00NDFhLWEyMTMtZmE0MzNjODE3MzAzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Rachael Leigh Cook and Freddie Prinze Jr. in She's All That (1999)",
+        "width": 500,
+        "height": 752
+      },
+      "imdbRating": 6,
+      "numVotes": 112148,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "runtimeSeconds": 5700,
+      "runtimeMinutes": 95,
+      "metascore": 51,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 49,
+      "titleId": "tt0132477",
+      "title": "October Sky",
+      "originalTitle": "October Sky",
+      "year": 1999,
+      "releaseDate": {
+        "day": 19,
+        "month": 2,
+        "year": 1999
+      },
+      "plot": "The true story of Homer Hickam, a coal miner's son who was inspired by the first Sputnik launch to take up rocketry against his father's wishes.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDU0M2I3ODUtZDAyYy00NThhLWIwNjQtZGNmNTNjZDIxODM4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "October Sky (1999)",
+        "width": 1614,
+        "height": 2407
+      },
+      "imdbRating": 7.8,
+      "numVotes": 111062,
+      "certificate": "PG",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Family"
+      ],
+      "runtimeSeconds": 6480,
+      "runtimeMinutes": 108,
+      "metascore": 71,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 50,
+      "titleId": "tt0126886",
+      "title": "Election",
+      "originalTitle": "Election",
+      "year": 1999,
+      "releaseDate": {
+        "day": 7,
+        "month": 5,
+        "year": 1999
+      },
+      "plot": "A high school teacher meets his match in an over-achieving student politician.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTVmMWJiMTgtNmNmMS00NmI2LTgxZTAtNjdhODE2NTBlYTAyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Matthew Broderick and Reese Witherspoon in Election (1999)",
+        "width": 580,
+        "height": 912
+      },
+      "imdbRating": 7.2,
+      "numVotes": 110958,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "runtimeSeconds": 6180,
+      "runtimeMinutes": 103,
+      "metascore": 83,
+      "credits": [],
+      "titleType": "movie"
+    }
+  ]
+}

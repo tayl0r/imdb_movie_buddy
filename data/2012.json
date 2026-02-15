@@ -1,0 +1,1585 @@
+{
+  "year": 2012,
+  "movies": [
+    {
+      "rank": 1,
+      "titleId": "tt1345836",
+      "title": "The Dark Knight Rises",
+      "originalTitle": "The Dark Knight Rises",
+      "year": 2012,
+      "releaseDate": {
+        "day": 20,
+        "month": 7,
+        "year": 2012
+      },
+      "plot": "Bane, an imposing terrorist, attacks Gotham City and disrupts its eight-year-long period of peace. This forces Bruce Wayne to come out of hiding and don the cape and cowl of Batman again.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_.jpg",
+        "caption": "Morgan Freeman, Gary Oldman, Christian Bale, Michael Caine, Matthew Modine, Anne Hathaway, Marion Cotillard, and Joseph Gordon-Levitt in The Dark Knight Rises (2012)",
+        "width": 486,
+        "height": 720
+      },
+      "imdbRating": 8.4,
+      "numVotes": 1974718,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 9840,
+      "runtimeMinutes": 164,
+      "metascore": 78,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 2,
+      "titleId": "tt1853728",
+      "title": "Django Unchained",
+      "originalTitle": "Django Unchained",
+      "year": 2012,
+      "releaseDate": {
+        "day": 25,
+        "month": 12,
+        "year": 2012
+      },
+      "plot": "With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation owner in Mississippi.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_.jpg",
+        "caption": "Leonardo DiCaprio, Jamie Foxx, and Christoph Waltz in Django Unchained (2012)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 8.5,
+      "numVotes": 1861537,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Western"
+      ],
+      "runtimeSeconds": 9900,
+      "runtimeMinutes": 165,
+      "metascore": 81,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 3,
+      "titleId": "tt0848228",
+      "title": "The Avengers",
+      "originalTitle": "The Avengers",
+      "year": 2012,
+      "releaseDate": {
+        "day": 4,
+        "month": 5,
+        "year": 2012
+      },
+      "plot": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGE0YTVjNzUtNzJjOS00NGNlLTgxMzctZTY4YTE1Y2Y1ZTU4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Samuel L. Jackson, Robert Downey Jr., Lou Ferrigno, Chris Evans, Scarlett Johansson, Jeremy Renner, Mark Ruffalo, and Chris Hemsworth in The Avengers (2012)",
+        "width": 800,
+        "height": 1184
+      },
+      "imdbRating": 8,
+      "numVotes": 1545648,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 8580,
+      "runtimeMinutes": 143,
+      "metascore": 69,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 4,
+      "titleId": "tt1392170",
+      "title": "The Hunger Games",
+      "originalTitle": "The Hunger Games",
+      "year": 2012,
+      "releaseDate": {
+        "day": 23,
+        "month": 3,
+        "year": 2012
+      },
+      "plot": "Katniss Everdeen voluntarily takes her younger sister's place in the Hunger Games: a televised competition in which two teenagers from each of the twelve Districts of Panem are chosen at random to fight to the death.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMWI1OGM4YjQtNmIxNi00YmE2LWJkNTAtY2Q0YjU4NTI5NWQyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jennifer Lawrence in The Hunger Games (2012)",
+        "width": 1837,
+        "height": 2756
+      },
+      "imdbRating": 7.2,
+      "numVotes": 1072813,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 8520,
+      "runtimeMinutes": 142,
+      "metascore": 68,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 5,
+      "titleId": "tt0903624",
+      "title": "The Hobbit: An Unexpected Journey",
+      "originalTitle": "The Hobbit: An Unexpected Journey",
+      "year": 2012,
+      "releaseDate": {
+        "day": 14,
+        "month": 12,
+        "year": 2012
+      },
+      "plot": "A reluctant Hobbit, Bilbo Baggins, sets out to the Lonely Mountain with a spirited group of dwarves to reclaim their mountain home and the gold within it from the dragon Smaug.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTcwNTE4MTUxMl5BMl5BanBnXkFtZTcwMDIyODM4OA@@._V1_.jpg",
+        "caption": "Martin Freeman in The Hobbit: An Unexpected Journey (2012)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 7.8,
+      "numVotes": 921501,
+      "certificate": "PG-13",
+      "genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 10140,
+      "runtimeMinutes": 169,
+      "metascore": 58,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 6,
+      "titleId": "tt1045658",
+      "title": "Silver Linings Playbook",
+      "originalTitle": "Silver Linings Playbook",
+      "year": 2012,
+      "releaseDate": {
+        "day": 25,
+        "month": 12,
+        "year": 2012
+      },
+      "plot": "After a stint in a mental institution, former teacher Pat Solitano moves back in with his parents and tries to reconcile with his ex-wife. Things get more challenging when Pat meets Tiffany, a mysterious girl with problems of her own.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTM2MTI5NzA3MF5BMl5BanBnXkFtZTcwODExNTc0OA@@._V1_.jpg",
+        "caption": "Bradley Cooper, Debbie Lay, and Jennifer Lawrence in Silver Linings Playbook (2012)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 7.7,
+      "numVotes": 770105,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 7320,
+      "runtimeMinutes": 122,
+      "metascore": 81,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 7,
+      "titleId": "tt1074638",
+      "title": "Skyfall",
+      "originalTitle": "Skyfall",
+      "year": 2012,
+      "releaseDate": {
+        "day": 9,
+        "month": 11,
+        "year": 2012
+      },
+      "plot": "James Bond's loyalty to M is tested when her past comes back to haunt her. When MI6 comes under attack, 007 must track down and destroy the threat, no matter how personal the cost.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjAzMWNkODUtM2FlMi00NzgyLWJhMGUtMWEyNDYyZGFiN2RlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Daniel Craig in Skyfall (2012)",
+        "width": 691,
+        "height": 1024
+      },
+      "imdbRating": 7.8,
+      "numVotes": 767491,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "runtimeSeconds": 8580,
+      "runtimeMinutes": 143,
+      "metascore": 81,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 8,
+      "titleId": "tt0948470",
+      "title": "The Amazing Spider-Man",
+      "originalTitle": "The Amazing Spider-Man",
+      "year": 2012,
+      "releaseDate": {
+        "day": 3,
+        "month": 7,
+        "year": 2012
+      },
+      "plot": "After Peter Parker is bitten by a genetically altered spider, he gains newfound, spider-like powers and ventures out to save the city from the machinations of a mysterious reptilian foe.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjMyOTM4MDMxNV5BMl5BanBnXkFtZTcwNjIyNzExOA@@._V1_.jpg",
+        "caption": "The Amazing Spider-Man (2012)",
+        "width": 1381,
+        "height": 2048
+      },
+      "imdbRating": 6.9,
+      "numVotes": 756383,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 8160,
+      "runtimeMinutes": 136,
+      "metascore": 66,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 9,
+      "titleId": "tt1637725",
+      "title": "Ted",
+      "originalTitle": "Ted",
+      "year": 2012,
+      "releaseDate": {
+        "day": 29,
+        "month": 6,
+        "year": 2012
+      },
+      "plot": "John Bennett, a man whose childhood wish of bringing his teddy bear to life came true, now must decide between keeping the relationship with the bear, Ted or his girlfriend, Lori.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTQ1OTU0ODcxMV5BMl5BanBnXkFtZTcwOTMxNTUwOA@@._V1_.jpg",
+        "caption": "Mark Wahlberg and Seth MacFarlane in Ted (2012)",
+        "width": 1293,
+        "height": 2048
+      },
+      "imdbRating": 6.9,
+      "numVotes": 703898,
+      "certificate": "R",
+      "genres": [
+        "Comedy"
+      ],
+      "runtimeSeconds": 6360,
+      "runtimeMinutes": 106,
+      "metascore": 62,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 10,
+      "titleId": "tt0454876",
+      "title": "Life of Pi",
+      "originalTitle": "Life of Pi",
+      "year": 2012,
+      "releaseDate": {
+        "day": 21,
+        "month": 11,
+        "year": 2012
+      },
+      "plot": "A young man who survives a disaster at sea is hurtled into an epic journey of adventure and discovery. While cast away, he forms an unexpected connection with another survivor: a fearsome Bengal tiger.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTg2OTY2ODg5OF5BMl5BanBnXkFtZTcwODM5MTYxOA@@._V1_.jpg",
+        "caption": "Suraj Sharma in Life of Pi (2012)",
+        "width": 500,
+        "height": 742
+      },
+      "imdbRating": 7.9,
+      "numVotes": 696376,
+      "certificate": "PG",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 7620,
+      "runtimeMinutes": 127,
+      "metascore": 79,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 11,
+      "titleId": "tt1446714",
+      "title": "Prometheus",
+      "originalTitle": "Prometheus",
+      "year": 2012,
+      "releaseDate": {
+        "day": 8,
+        "month": 6,
+        "year": 2012
+      },
+      "plot": "Following clues to the origin of mankind, a team finds a structure on a distant moon, but they soon realize they are not alone.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTY3NzIyNTA2NV5BMl5BanBnXkFtZTcwNzE2NjI4Nw@@._V1_.jpg",
+        "caption": "Prometheus (2012)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 7,
+      "numVotes": 692159,
+      "certificate": "R",
+      "genres": [
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 7440,
+      "runtimeMinutes": 124,
+      "metascore": 64,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 12,
+      "titleId": "tt1024648",
+      "title": "Argo",
+      "originalTitle": "Argo",
+      "year": 2012,
+      "releaseDate": {
+        "day": 12,
+        "month": 10,
+        "year": 2012
+      },
+      "plot": "Acting under the cover of a Hollywood producer scouting a location for a science fiction film, a CIA agent launches a dangerous operation to rescue six Americans in Tehran during the U.S. hostage crisis in Iran in 1979.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BM2QyMGUyZTEtMjE4Yi00M2RiLTgwN2QtZDMxZDNiMTFkMTFjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ben Affleck, Tate Donovan, Rory Cochrane, Clea DuVall, Scoot McNairy, and Kerry Bish\u00e9 in Argo (2012)",
+        "width": 2025,
+        "height": 3000
+      },
+      "imdbRating": 7.7,
+      "numVotes": 662591,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "runtimeSeconds": 7200,
+      "runtimeMinutes": 120,
+      "metascore": 86,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 13,
+      "titleId": "tt1232829",
+      "title": "21 Jump Street",
+      "originalTitle": "21 Jump Street",
+      "year": 2012,
+      "releaseDate": {
+        "day": 16,
+        "month": 3,
+        "year": 2012
+      },
+      "plot": "A pair of underachieving cops are sent back to a local high school to blend in and bring down a synthetic drug ring.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTg2NjJiODctM2IyMS00MmQ5LWI1YmQtNTBjMTI4M2U2YzA5XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Channing Tatum and Jonah Hill in 21 Jump Street (2012)",
+        "width": 2025,
+        "height": 3000
+      },
+      "imdbRating": 7.2,
+      "numVotes": 640385,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 6540,
+      "runtimeMinutes": 109,
+      "metascore": 69,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 14,
+      "titleId": "tt1276104",
+      "title": "Looper",
+      "originalTitle": "Looper",
+      "year": 2012,
+      "releaseDate": {
+        "day": 28,
+        "month": 9,
+        "year": 2012
+      },
+      "plot": "In 2074, when the mob wants to get rid of someone, the target is sent into the past, where a hired gun awaits - someone like Joe - who one day learns the mob wants to 'close the loop' by sending back Joe's future self for assassination.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTg5NTA3NTg4NF5BMl5BanBnXkFtZTcwNTA0NDYzOA@@._V1_.jpg",
+        "caption": "Bruce Willis, Jeff Daniels, Piper Perabo, Paul Dano, Joseph Gordon-Levitt, and Emily Blunt in Looper (2012)",
+        "width": 1383,
+        "height": 2048
+      },
+      "imdbRating": 7.4,
+      "numVotes": 625748,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 7140,
+      "runtimeMinutes": 119,
+      "metascore": 84,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 15,
+      "titleId": "tt1659337",
+      "title": "The Perks of Being a Wallflower",
+      "originalTitle": "The Perks of Being a Wallflower",
+      "year": 2012,
+      "releaseDate": {
+        "day": 12,
+        "month": 10,
+        "year": 2012
+      },
+      "plot": "A pair of charismatic seniors take socially awkward Charlie under their wing.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTY0ZTI2NzQtYWI1YS00ZWM3LWFmMjMtZWYxNmNmOTI0MGJjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Logan Lerman, Emma Watson, and Ezra Miller in The Perks of Being a Wallflower (2012)",
+        "width": 1707,
+        "height": 2522
+      },
+      "imdbRating": 7.9,
+      "numVotes": 588906,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 6180,
+      "runtimeMinutes": 103,
+      "metascore": 67,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 16,
+      "titleId": "tt1772341",
+      "title": "Wreck-It Ralph",
+      "originalTitle": "Wreck-It Ralph",
+      "year": 2012,
+      "releaseDate": {
+        "day": 2,
+        "month": 11,
+        "year": 2012
+      },
+      "plot": "Ralph is tired of playing the role of a bad guy and embarks on a journey to become a video game hero. But he accidentally lets loose a deadly enemy that threatens the entire arcade.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzMxNTExOTkyMF5BMl5BanBnXkFtZTcwMzEyNDc0OA@@._V1_.jpg",
+        "caption": "John C. Reilly, Jane Lynch, Rich Moore, Sarah Silverman, Gerald C. Rivers, Jack McBrayer, Roger Craig Smith, and Kevin Deters in Wreck-It Ralph (2012)",
+        "width": 1086,
+        "height": 1609
+      },
+      "imdbRating": 7.7,
+      "numVotes": 493700,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 6060,
+      "runtimeMinutes": 101,
+      "metascore": 72,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 17,
+      "titleId": "tt1217209",
+      "title": "Brave",
+      "originalTitle": "Brave",
+      "year": 2012,
+      "releaseDate": {
+        "day": 22,
+        "month": 6,
+        "year": 2012
+      },
+      "plot": "Determined to make her own path in life, Princess Merida defies a custom that brings chaos to her kingdom. Granted one wish, Merida must rely on her bravery and her archery skills to undo a beastly curse.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzgwODk3ODA1NF5BMl5BanBnXkFtZTcwNjU3NjQ0Nw@@._V1_.jpg",
+        "caption": "Kelly Macdonald and Dina Gardner in Brave (2012)",
+        "width": 1013,
+        "height": 1500
+      },
+      "imdbRating": 7.1,
+      "numVotes": 475151,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "runtimeSeconds": 5580,
+      "runtimeMinutes": 93,
+      "metascore": 69,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 18,
+      "titleId": "tt1409024",
+      "title": "Men in Black\u00b3",
+      "originalTitle": "Men in Black\u00b3",
+      "year": 2012,
+      "releaseDate": {
+        "day": 25,
+        "month": 5,
+        "year": 2012
+      },
+      "plot": "Agent J travels in time to M.I.B.'s early days in 1969 to stop an alien from assassinating his friend Agent K and changing history.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTU2NTYxODcwMF5BMl5BanBnXkFtZTcwNDk1NDY0Nw@@._V1_.jpg",
+        "caption": "Tommy Lee Jones, Will Smith, and Josh Brolin in Men in Black\u00b3 (2012)",
+        "width": 691,
+        "height": 1024
+      },
+      "imdbRating": 6.8,
+      "numVotes": 409211,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 6360,
+      "runtimeMinutes": 106,
+      "metascore": 58,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 19,
+      "titleId": "tt2106476",
+      "title": "The Hunt",
+      "originalTitle": "Jagten",
+      "year": 2012,
+      "releaseDate": {
+        "day": 14,
+        "month": 11,
+        "year": 2012
+      },
+      "plot": "A teacher lives a lonely life, all the while struggling over his son's custody. His life slowly gets better as he finds love and receives good news from his son, but his new luck is about to be brutally shattered by an innocent little lie.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTg2NDg3ODg4NF5BMl5BanBnXkFtZTcwNzk3NTc3Nw@@._V1_.jpg",
+        "caption": "Mads Mikkelsen in The Hunt (2012)",
+        "width": 4134,
+        "height": 5906
+      },
+      "imdbRating": 8.3,
+      "numVotes": 404452,
+      "certificate": "R",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 6900,
+      "runtimeMinutes": 115,
+      "metascore": 77,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 20,
+      "titleId": "tt1907668",
+      "title": "Flight",
+      "originalTitle": "Flight",
+      "year": 2012,
+      "releaseDate": {
+        "day": 2,
+        "month": 11,
+        "year": 2012
+      },
+      "plot": "Troubling questions arise after airline pilot Whip Whitaker makes a miracle landing after a mid-air catastrophe.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTUxMjI1OTMxNl5BMl5BanBnXkFtZTcwNjc3NTY1OA@@._V1_.jpg",
+        "caption": "Denzel Washington, Don Cheadle, John Goodman, Kelly Reilly, and Jacqueline Marie Zwick in Flight (2012)",
+        "width": 640,
+        "height": 948
+      },
+      "imdbRating": 7.3,
+      "numVotes": 394941,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 8280,
+      "runtimeMinutes": 138,
+      "metascore": 76,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 21,
+      "titleId": "tt0790724",
+      "title": "Jack Reacher",
+      "originalTitle": "Jack Reacher",
+      "year": 2012,
+      "releaseDate": {
+        "day": 21,
+        "month": 12,
+        "year": 2012
+      },
+      "plot": "Jack Reacher, a homicide investigator, digs deeper into a case involving a trained military sniper responsible for a mass shooting.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTM1NjUxMDI3OV5BMl5BanBnXkFtZTcwNjg1ODM3OA@@._V1_.jpg",
+        "caption": "Tom Cruise in Jack Reacher (2012)",
+        "width": 1392,
+        "height": 2000
+      },
+      "imdbRating": 7,
+      "numVotes": 388731,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7800,
+      "runtimeMinutes": 130,
+      "metascore": 50,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 22,
+      "titleId": "tt1371111",
+      "title": "Cloud Atlas",
+      "originalTitle": "Cloud Atlas",
+      "year": 2012,
+      "releaseDate": {
+        "day": 26,
+        "month": 10,
+        "year": 2012
+      },
+      "plot": "As souls are born and reborn, they renew their connections to one another throughout the ages.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTczMTgxMjc4NF5BMl5BanBnXkFtZTcwNjM5MTA2OA@@._V1_.jpg",
+        "caption": "Tom Hanks, Susan Sarandon, Hugh Grant, Halle Berry, Jim Broadbent, Bae Doona, Jim Sturgess, and Ben Whishaw in Cloud Atlas (2012)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 7.3,
+      "numVotes": 385312,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 10320,
+      "runtimeMinutes": 172,
+      "metascore": 55,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 23,
+      "titleId": "tt1748122",
+      "title": "Moonrise Kingdom",
+      "originalTitle": "Moonrise Kingdom",
+      "year": 2012,
+      "releaseDate": {
+        "day": 29,
+        "month": 6,
+        "year": 2012
+      },
+      "plot": "Two 12-year-olds, who live on an island, fall in love with each other and elope into the wilderness. While people set out on a search mission, a violent storm approaching them catches their attention.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTEwMTc3NDkzOTJeQTJeQWpwZ15BbWU3MDI4NTAwNzc@._V1_.jpg",
+        "caption": "Moonrise Kingdom (2012)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 7.8,
+      "numVotes": 381114,
+      "certificate": "PG-13",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 5640,
+      "runtimeMinutes": 94,
+      "metascore": 84,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 24,
+      "titleId": "tt1645170",
+      "title": "The Dictator",
+      "originalTitle": "The Dictator",
+      "year": 2012,
+      "releaseDate": {
+        "day": 16,
+        "month": 5,
+        "year": 2012
+      },
+      "plot": "The heroic story of a dictator who risked his life to ensure that democracy would never come to the country he so lovingly oppressed.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BM2IwMDM3ZmQtNjQ3NS00OTFiLWI5YzEtYWE3YjI5NTk3YzkwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Sacha Baron Cohen in The Dictator (2012)",
+        "width": 1000,
+        "height": 1481
+      },
+      "imdbRating": 6.5,
+      "numVotes": 362994,
+      "certificate": "R",
+      "genres": [
+        "Comedy"
+      ],
+      "runtimeSeconds": 4980,
+      "runtimeMinutes": 83,
+      "metascore": 58,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 25,
+      "titleId": "tt1707386",
+      "title": "Les Mis\u00e9rables",
+      "originalTitle": "Les Mis\u00e9rables",
+      "year": 2012,
+      "releaseDate": {
+        "day": 25,
+        "month": 12,
+        "year": 2012
+      },
+      "plot": "In 19th-century France, Jean Valjean, who, for decades, has been hunted by the ruthless policeman Javert after breaking parole, agrees to care for a factory worker's daughter. The decision changes their lives forever.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2Q1YjIxZTAtZTU0YS00ZmE5LWEwODEtY2IyYWM2ZTJlOWE1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Russell Crowe, Anne Hathaway, Sacha Baron Cohen, Hugh Jackman, Amanda Seyfried, and Eddie Redmayne in Les Mis\u00e9rables (2012)",
+        "width": 2041,
+        "height": 3024
+      },
+      "imdbRating": 7.5,
+      "numVotes": 360410,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama",
+        "Musical",
+        "Romance"
+      ],
+      "runtimeSeconds": 9480,
+      "runtimeMinutes": 158,
+      "metascore": 63,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 26,
+      "titleId": "tt1981677",
+      "title": "Pitch Perfect",
+      "originalTitle": "Pitch Perfect",
+      "year": 2012,
+      "releaseDate": {
+        "day": 5,
+        "month": 10,
+        "year": 2012
+      },
+      "plot": "Beca, a freshman at Barden University, is cajoled into joining The Bellas, her school's all-girls singing group. Injecting some much needed energy into their repertoire, The Bellas take on their male rivals in a campus competition.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTcyMTMzNzE5N15BMl5BanBnXkFtZTcwNzg5NjM5Nw@@._V1_.jpg",
+        "caption": "Anna Kendrick, Brittany Snow, Rebel Wilson, Anna Camp, Hana Mae Lee, Alexis Knapp, and Ester Dean in Pitch Perfect (2012)",
+        "width": 1293,
+        "height": 2048
+      },
+      "imdbRating": 7.1,
+      "numVotes": 348494,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Music",
+        "Romance"
+      ],
+      "runtimeSeconds": 6720,
+      "runtimeMinutes": 112,
+      "metascore": 66,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 27,
+      "titleId": "tt1790885",
+      "title": "Zero Dark Thirty",
+      "originalTitle": "Zero Dark Thirty",
+      "year": 2012,
+      "releaseDate": {
+        "day": 11,
+        "month": 1,
+        "year": 2013
+      },
+      "plot": "A chronicle of the decade-long hunt for al-Qaeda terrorist leader Osama bin Laden after the September 2001 attacks, and his death at the hands of the Navy S.E.A.L.s Team 6 in May 2011.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTQ4OTUyNzcwN15BMl5BanBnXkFtZTcwMTQ1NDE3OA@@._V1_.jpg",
+        "caption": "Zero Dark Thirty (2012)",
+        "width": 1012,
+        "height": 1500
+      },
+      "imdbRating": 7.4,
+      "numVotes": 338825,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "History",
+        "Thriller"
+      ],
+      "runtimeSeconds": 9420,
+      "runtimeMinutes": 157,
+      "metascore": 95,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 28,
+      "titleId": "tt1397280",
+      "title": "Taken 2",
+      "originalTitle": "Taken 2",
+      "year": 2012,
+      "releaseDate": {
+        "day": 5,
+        "month": 10,
+        "year": 2012
+      },
+      "plot": "In Istanbul, retired CIA operative Bryan Mills and his wife are taken hostage by the father of a kidnapper Mills killed while rescuing his daughter.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTkwNTQ0ODExOV5BMl5BanBnXkFtZTcwNjU3NDQwOA@@._V1_.jpg",
+        "caption": "Liam Neeson in Taken 2 (2012)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 6.2,
+      "numVotes": 335537,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5520,
+      "runtimeMinutes": 92,
+      "metascore": 45,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 29,
+      "titleId": "tt1764651",
+      "title": "The Expendables 2",
+      "originalTitle": "The Expendables 2",
+      "year": 2012,
+      "releaseDate": {
+        "day": 17,
+        "month": 8,
+        "year": 2012
+      },
+      "plot": "Mr. Church reunites the Expendables for what should be an easy paycheck, but when one of their men is murdered on the job, their quest for revenge puts them deep in enemy territory and up against an unexpected threat.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTkwZGYyYzktNmEzMS00ZDkzLTlkMjEtYTdiOWExM2Y2ZjE4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Dolph Lundgren, Arnold Schwarzenegger, Sylvester Stallone, Jean-Claude Van Damme, Bruce Willis, Jet Li, Chuck Norris, and Jason Statham in The Expendables 2 (2012)",
+        "width": 2000,
+        "height": 3000
+      },
+      "imdbRating": 6.6,
+      "numVotes": 333170,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6180,
+      "runtimeMinutes": 103,
+      "metascore": 51,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 30,
+      "titleId": "tt1194173",
+      "title": "The Bourne Legacy",
+      "originalTitle": "The Bourne Legacy",
+      "year": 2012,
+      "releaseDate": {
+        "day": 10,
+        "month": 8,
+        "year": 2012
+      },
+      "plot": "An expansion of the universe from Robert Ludlum's novels, centered on a new hero whose stakes have been triggered by the events of the previous three films.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTc4Njk3MDM1Nl5BMl5BanBnXkFtZTcwODgyOTMxOA@@._V1_.jpg",
+        "caption": "Jeremy Renner in The Bourne Legacy (2012)",
+        "width": 1293,
+        "height": 2048
+      },
+      "imdbRating": 6.6,
+      "numVotes": 326875,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "runtimeSeconds": 8100,
+      "runtimeMinutes": 135,
+      "metascore": 61,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 31,
+      "titleId": "tt1735898",
+      "title": "Snow White and the Huntsman",
+      "originalTitle": "Snow White and the Huntsman",
+      "year": 2012,
+      "releaseDate": {
+        "day": 1,
+        "month": 6,
+        "year": 2012
+      },
+      "plot": "In a twist to the fairy tale, the Huntsman ordered to take Snow White into the woods to be killed winds up becoming her protector and mentor in a quest to vanquish the Evil Queen.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BY2JjYWUyZjUtMDg3OS00MGIyLTgyN2QtYjIyY2VlYzViYThlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Charlize Theron, Kristen Stewart, and Chris Hemsworth in Snow White and the Huntsman (2012)",
+        "width": 725,
+        "height": 1148
+      },
+      "imdbRating": 6.1,
+      "numVotes": 313652,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "runtimeSeconds": 7620,
+      "runtimeMinutes": 127,
+      "metascore": 57,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 32,
+      "titleId": "tt1922777",
+      "title": "Sinister",
+      "originalTitle": "Sinister",
+      "year": 2012,
+      "releaseDate": {
+        "day": 12,
+        "month": 10,
+        "year": 2012
+      },
+      "plot": "A controversial true-crime writer finds a box of Super 8 home movies in his new home, revealing that the murder case he is currently researching could be the work of an unknown serial killer whose legacy dates back to the 1960s.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjI5MTg1Njg0Ml5BMl5BanBnXkFtZTcwNzg2Mjc4Nw@@._V1_.jpg",
+        "caption": "Clare Foley in Sinister (2012)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 6.8,
+      "numVotes": 312976,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6600,
+      "runtimeMinutes": 110,
+      "metascore": 53,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 33,
+      "titleId": "tt1343727",
+      "title": "Dredd",
+      "originalTitle": "Dredd",
+      "year": 2012,
+      "releaseDate": {
+        "day": 21,
+        "month": 9,
+        "year": 2012
+      },
+      "plot": "In a violent, futuristic metropolis, a law enforcement and his rookie trainee become caught up in a high-stakes drug war.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODkyNDQzMzUzOF5BMl5BanBnXkFtZTcwODYyMDEyOA@@._V1_.jpg",
+        "caption": "Karl Urban in Dredd (2012)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 7.1,
+      "numVotes": 310452,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 5700,
+      "runtimeMinutes": 95,
+      "metascore": 60,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 34,
+      "titleId": "tt0837562",
+      "title": "Hotel Transylvania",
+      "originalTitle": "Hotel Transylvania",
+      "year": 2012,
+      "releaseDate": {
+        "day": 28,
+        "month": 9,
+        "year": 2012
+      },
+      "plot": "Dracula, who operates a high-end resort away from the human world, goes into overprotective mode when a boy discovers the resort and falls for the count's teenaged daughter.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTM3NjQyODI3M15BMl5BanBnXkFtZTcwMDM4NjM0OA@@._V1_.jpg",
+        "caption": "Steve Buscemi, Adam Sandler, CeeLo Green, Kevin James, and Selena Gomez in Hotel Transylvania (2012)",
+        "width": 691,
+        "height": 1024
+      },
+      "imdbRating": 7,
+      "numVotes": 309910,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "runtimeSeconds": 5460,
+      "runtimeMinutes": 91,
+      "metascore": 47,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 35,
+      "titleId": "tt1817273",
+      "title": "The Place Beyond the Pines",
+      "originalTitle": "The Place Beyond the Pines",
+      "year": 2012,
+      "releaseDate": {
+        "day": 19,
+        "month": 4,
+        "year": 2013
+      },
+      "plot": "A stunt rider turns into a robber in order to lead a happy life with his child and lover and grabs the attention of a police officer. They both get on a collision course that affects their families.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjc1OTEwNjU4N15BMl5BanBnXkFtZTcwNzUzNDIwOQ@@._V1_.jpg",
+        "caption": "Bradley Cooper, Ryan Gosling, and Eva Mendes in The Place Beyond the Pines (2012)",
+        "width": 1328,
+        "height": 2048
+      },
+      "imdbRating": 7.3,
+      "numVotes": 306562,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 8400,
+      "runtimeMinutes": 140,
+      "metascore": 68,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 36,
+      "titleId": "tt0401729",
+      "title": "John Carter",
+      "originalTitle": "John Carter",
+      "year": 2012,
+      "releaseDate": {
+        "day": 9,
+        "month": 3,
+        "year": 2012
+      },
+      "plot": "A war-weary former army captain is inexplicably transported to Mars and reluctantly becomes embroiled in a conflict of epic proportions.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWNmZGYzZjUtODRmOS00ODgzLWE4NWQtMDI3MGUwNjRjYjY0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Samantha Morton, Lynn Collins, and Taylor Kitsch in John Carter (2012)",
+        "width": 742,
+        "height": 1018
+      },
+      "imdbRating": 6.6,
+      "numVotes": 297727,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 7920,
+      "runtimeMinutes": 132,
+      "metascore": 51,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 37,
+      "titleId": "tt1077368",
+      "title": "Dark Shadows",
+      "originalTitle": "Dark Shadows",
+      "year": 2012,
+      "releaseDate": {
+        "day": 11,
+        "month": 5,
+        "year": 2012
+      },
+      "plot": "An imprisoned vampire, Barnabas Collins, is set free and returns to his ancestral home, where his dysfunctional descendants are in need of his protection.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjNiYWMxZjctMzEyZS00NDZmLTgxYmYtM2NmOGI0MmY3ZTJiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Johnny Depp, Michelle Pfeiffer, Helena Bonham Carter, Jonny Lee Miller, Jackie Earle Haley, Eva Green, Chlo\u00eb Grace Moretz, Bella Heathcote, and Gulliver McGrath in Dark Shadows (2012)",
+        "width": 1013,
+        "height": 1500
+      },
+      "imdbRating": 6.2,
+      "numVotes": 292989,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Horror"
+      ],
+      "runtimeSeconds": 6780,
+      "runtimeMinutes": 113,
+      "metascore": 55,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 38,
+      "titleId": "tt1855199",
+      "title": "End of Watch",
+      "originalTitle": "End of Watch",
+      "year": 2012,
+      "releaseDate": {
+        "day": 21,
+        "month": 9,
+        "year": 2012
+      },
+      "plot": "Shot documentary-style, this film follows the daily grind of two young police officers in LA who are partners and close friends.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjMxNjU0ODU5Ml5BMl5BanBnXkFtZTcwNjI4MzAyOA@@._V1_.jpg",
+        "caption": "Jake Gyllenhaal and Michael Pe\u00f1a in End of Watch (2012)",
+        "width": 1327,
+        "height": 2048
+      },
+      "imdbRating": 7.6,
+      "numVotes": 289676,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 6540,
+      "runtimeMinutes": 109,
+      "metascore": 68,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 39,
+      "titleId": "tt1931533",
+      "title": "Seven Psychopaths",
+      "originalTitle": "Seven Psychopaths",
+      "year": 2012,
+      "releaseDate": {
+        "day": 12,
+        "month": 10,
+        "year": 2012
+      },
+      "plot": "A struggling screenwriter inadvertently becomes entangled in the Los Angeles criminal underworld after his oddball friends kidnap a gangster's beloved Shih Tzu.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTgwMzUxMjc0M15BMl5BanBnXkFtZTcwMzQ2MjYyOA@@._V1_.jpg",
+        "caption": "Woody Harrelson, Christopher Walken, Tom Waits, Sam Rockwell, Abbie Cornish, Colin Farrell, Olga Kurylenko, and Bonny in Seven Psychopaths (2012)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 7.1,
+      "numVotes": 286268,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 6600,
+      "runtimeMinutes": 110,
+      "metascore": 66,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 40,
+      "titleId": "tt0443272",
+      "title": "Lincoln",
+      "originalTitle": "Lincoln",
+      "year": 2012,
+      "releaseDate": {
+        "day": 16,
+        "month": 11,
+        "year": 2012
+      },
+      "plot": "As the Civil War rages on, U.S President Abraham Lincoln struggles with continuing carnage on the battlefield as he fights with many inside his own cabinet on his decision to emancipate the slaves.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTQzNzczMDUyNV5BMl5BanBnXkFtZTcwNjM2ODEzOA@@._V1_.jpg",
+        "caption": "Daniel Day-Lewis in Lincoln (2012)",
+        "width": 743,
+        "height": 1100
+      },
+      "imdbRating": 7.3,
+      "numVotes": 283365,
+      "certificate": "PG-13",
+      "genres": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "runtimeSeconds": 9000,
+      "runtimeMinutes": 150,
+      "metascore": 87,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 41,
+      "titleId": "tt1673434",
+      "title": "The Twilight Saga: Breaking Dawn - Part 2",
+      "originalTitle": "The Twilight Saga: Breaking Dawn - Part 2",
+      "year": 2012,
+      "releaseDate": {
+        "day": 16,
+        "month": 11,
+        "year": 2012
+      },
+      "plot": "After the birth of Bella and Edward's daughter, Renesmee, the Cullens gather werewolves, vampire clans, and other allies from around the world to protect her after a false allegation puts her life in danger.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTcyMzUyMzY1OF5BMl5BanBnXkFtZTcwNDQ4ODk1OA@@._V1_.jpg",
+        "caption": "Kristen Stewart, Taylor Lautner, and Robert Pattinson in The Twilight Saga: Breaking Dawn - Part 2 (2012)",
+        "width": 1382,
+        "height": 2048
+      },
+      "imdbRating": 5.6,
+      "numVotes": 279986,
+      "certificate": "PG-13",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 6900,
+      "runtimeMinutes": 115,
+      "metascore": 52,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 42,
+      "titleId": "tt1706593",
+      "title": "Chronicle",
+      "originalTitle": "Chronicle",
+      "year": 2012,
+      "releaseDate": {
+        "day": 3,
+        "month": 2,
+        "year": 2012
+      },
+      "plot": "Three high school friends gain superpowers after making an incredible discovery underground. Soon they find their lives spinning out of control and their bond tested as they embrace their darker sides.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDBmYmExZDUtYWQxZS00MWI4LTkyZTQtYzIxNzg3NjJkZjZhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Michael B. Jordan, Dane DeHaan, and Alex Russell in Chronicle (2012)",
+        "width": 810,
+        "height": 1200
+      },
+      "imdbRating": 7,
+      "numVotes": 275906,
+      "certificate": "PG-13",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 5040,
+      "runtimeMinutes": 84,
+      "metascore": 69,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 43,
+      "titleId": "tt1386703",
+      "title": "Total Recall",
+      "originalTitle": "Total Recall",
+      "year": 2012,
+      "releaseDate": {
+        "day": 3,
+        "month": 8,
+        "year": 2012
+      },
+      "plot": "A factory worker, Douglas Quaid, begins to suspect that he is a spy after visiting Rekall - a company that provides its clients with implanted fake memories of a life they would like to have led - goes wrong and he finds himself on the run.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWYzNDNiYzUtNWMwOS00YmFkLTkzN2UtYmVmOGJlNDdjZWUyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Kate Beckinsale, Jessica Biel, and Colin Farrell in Total Recall (2012)",
+        "width": 1060,
+        "height": 1500
+      },
+      "imdbRating": 6.2,
+      "numVotes": 275483,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 7080,
+      "runtimeMinutes": 118,
+      "metascore": 43,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 44,
+      "titleId": "tt1440129",
+      "title": "Battleship",
+      "originalTitle": "Battleship",
+      "year": 2012,
+      "releaseDate": {
+        "day": 18,
+        "month": 5,
+        "year": 2012
+      },
+      "plot": "A fleet of ships is forced to do battle with an armada of unknown origins in order to discover and thwart their destructive goals.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjI5NTM5MDA2N15BMl5BanBnXkFtZTcwNjkwMzQxNw@@._V1_.jpg",
+        "caption": "Battleship (2012)",
+        "width": 900,
+        "height": 1425
+      },
+      "imdbRating": 5.8,
+      "numVotes": 268060,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 7860,
+      "runtimeMinutes": 131,
+      "metascore": 41,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 45,
+      "titleId": "tt1212450",
+      "title": "Lawless",
+      "originalTitle": "Lawless",
+      "year": 2012,
+      "releaseDate": {
+        "day": 29,
+        "month": 8,
+        "year": 2012
+      },
+      "plot": "Set in Depression-era Franklin County, Virginia, a trio of bootlegging brothers are threatened by a new special deputy and other authorities angling for a cut of their profits.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjAxNjUyNjUwN15BMl5BanBnXkFtZTcwMDgwOTIyOA@@._V1_.jpg",
+        "caption": "Tom Hardy, Shia LaBeouf, and Jessica Chastain in Lawless (2012)",
+        "width": 650,
+        "height": 960
+      },
+      "imdbRating": 7.2,
+      "numVotes": 261713,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 6960,
+      "runtimeMinutes": 116,
+      "metascore": 58,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 46,
+      "titleId": "tt1649419",
+      "title": "The Impossible",
+      "originalTitle": "Lo imposible",
+      "year": 2012,
+      "releaseDate": {
+        "day": 4,
+        "month": 1,
+        "year": 2013
+      },
+      "plot": "The story of a tourist family in Thailand caught in the destruction and chaotic aftermath of the 2004 Indian Ocean tsunami.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjM1ZTJkMjctY2M0ZC00ZTkyLTliYTktNzYxYWIzYTAyOTRjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ewan McGregor, Naomi Watts, Oaklee Pendergast, Tom Holland, and Samuel Joslin in The Impossible (2012)",
+        "width": 800,
+        "height": 1143
+      },
+      "imdbRating": 7.5,
+      "numVotes": 261400,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama",
+        "History",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6840,
+      "runtimeMinutes": 114,
+      "metascore": 73,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 47,
+      "titleId": "tt1636826",
+      "title": "Project X",
+      "originalTitle": "Project X",
+      "year": 2012,
+      "releaseDate": {
+        "day": 2,
+        "month": 3,
+        "year": 2012
+      },
+      "plot": "Three high-school seniors throw a birthday party to make a name for themselves. As the night progresses, things spiral out of control as word of the party spreads.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTc1MTk0Njg4OF5BMl5BanBnXkFtZTcwODc0ODkyNw@@._V1_.jpg",
+        "caption": "Thomas Mann, Dax Flame, Oliver Cooper, and Jonathan Daniel Brown in Project X (2012)",
+        "width": 800,
+        "height": 1185
+      },
+      "imdbRating": 6.7,
+      "numVotes": 254880,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5280,
+      "runtimeMinutes": 88,
+      "metascore": 46,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 48,
+      "titleId": "tt1599348",
+      "title": "Safe House",
+      "originalTitle": "Safe House",
+      "year": 2012,
+      "releaseDate": {
+        "day": 10,
+        "month": 2,
+        "year": 2012
+      },
+      "plot": "A young CIA agent is tasked with looking after a fugitive in a safe house. But when the safe house is attacked, he finds himself on the run with his charge.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjI5ODkyMjA2Nl5BMl5BanBnXkFtZTcwNTcyNTgzNw@@._V1_.jpg",
+        "caption": "Denzel Washington and Ryan Reynolds in Safe House (2012)",
+        "width": 864,
+        "height": 1280
+      },
+      "imdbRating": 6.7,
+      "numVotes": 248437,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6900,
+      "runtimeMinutes": 115,
+      "metascore": 52,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 49,
+      "titleId": "tt1667889",
+      "title": "Ice Age: Continental Drift",
+      "originalTitle": "Ice Age: Continental Drift",
+      "year": 2012,
+      "releaseDate": {
+        "day": 13,
+        "month": 7,
+        "year": 2012
+      },
+      "plot": "Manny, Diego, and Sid embark upon another adventure after their continent is set adrift. Using an iceberg as a ship, they encounter sea creatures and battle pirates as they explore a new world.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTM3NDM5MzY5Ml5BMl5BanBnXkFtZTcwNjExMDUwOA@@._V1_.jpg",
+        "caption": "Jennifer Lopez, John Leguizamo, Queen Latifah, Denis Leary, Patrick Stewart, Elton John, Ray Romano, Seann William Scott, Renato Falc\u00e3o, Alad\u00e1r L\u00e1szl\u00f3, Carlos Alazraqui, Ashley Paige Albert, Kristen Alderson, Dave Allen, Kristen Ariza, Michael Beattie, Joy Behar, Michael Berg, Bob Bergen, Edita Brychta, Christopher Campbell, Aim\u00e9e Castle, Sebastian Cavazza, Cedric The Entertainer, Alain Chabat, Jacqulin Cole, Jim Conroy, Peter Dinklage, Karen Disher, Walt Dohrn, John C. Donkin, Jenny Eclair, Nick Frost, Jason Fuchs, Ella Gombasz\u00f6gi, Juliette Gruber, Aysen Gruda, Yilmaz Gruda, Mona Grudt, Marcus Gr\u00fcsser, Jean-Claude Grumberg, Guy A. Grundy, David Gruner, Cheryl Grunwald, Gustaf Gr\u00fcndgens, Jason Harris, Sondra James, Tara Sands, Linda Joy, Grudi Kadiev, Ljubomir Kerekes, Ruby Lee, Selenis Leyva, Bill Lobley, Annie Tippe, Danny Mann, Steve Martino, Mike Mitchell, Yuji Naka, James Palumbo, Josh Peck, Simon Pegg, Chris Phillips, John Powell, Dennis T. Carnegie, Don Rickles, Linda Robson, Peter Pamela Rose, David Ian Salter, Peter Sohn, Wanda Sykes, Randy Thom, Michael Thurmeier, Josh Todd, Alan Tudyk, Aron Warner, Chris Wedge, Christopher Knights, Lori Forte, Drake, Tarik Filipovic, Keith Silverstein, Mimiyuuuh, Ge Gru, Ben Gleib, Ron McClary, Keanu Uu, A.J. Satiu, Josh Gad, Susanne Uusitalo, Kaijiuu, Edo Maajka, Bayarkhuu Ulambayar, Suhana Khan, Anabelle Daisy Grundberg, Chop Suuush, Grusha Kapoor, YNM Uuu, Uuuu, Alexander Duke, Corwin C. Tuggles, Kalevi Uusivuori, Gru, Sodkhuu Urtnasan, Roe Arevalo, Tooti Fruuuti, Chuuuutki Nalu, Grub Smith, Kristen DeLuca, Keke Palmer, Seishuu Uragami, Arno Serene, Shoshanna Gruss, Ivan Druuu, Vuhuuu, Risuruuu, Guuuby, Yuko Yagyu, Alexandra Romano, Merzouuu, Eddie 'Piolin' Sotelo, Satu Uusiautti, Marieve Herington, Tashiana Washington, Auuutieee, Uku Uusberg, Bicho Siiuuu, Hiuuugs, Sanjeeth 'Sanjuuuu' Gowdru, Aleksandra Gruziel, Jason Fricchione, Erin Grush, Gruff Rhys, Brian Scott McFadden, Vanessa Lemonides, Christopher Lee Parson, Jeff Gruenewald, Aziz Ansari, George Jacobs, Rebel Wilson, Kunal Nayyar, Markku Uusipaavalniemi, Rebecca Gruss, Pierre Gruno, Samu Uutela, Chuuch, Yuu Urata, Christina Martino, Ellie Martino, Danny Flaherty, Markku Uusikoski, Mike Grubbs, Teri Reeves, Brad Grusnick, Lucas Leguizamo, Allegra Leguizamo, Gabriel Rush, Alexa Kahn, Heather Elizabeth Morris, Ester Dean, Nathan Zen-Sapien, Nicki Minaj, Bruno Montes de Oca Monge, Markku Uusitalo, Shumpei Negami, Seth Dusky, Teilor Grubbs, Perttu Uusitalo, Sarah Gr\u00fcnewald, Matthew Simmons, Una Grujic, Meghan Thurmeier, Nola Donkin, Kristen Phaneuf, Grunde Tveiten, Elisabet Casanovas, Cezar Grumazescu, Arttu Uuranm\u00e4ki, Ruta Lecaite, Eppu Uutinen, Sh\u00fb Uchida, Andy Wu, Anu Uusipulkamo, Satu Uusitalo, Jake Grunberg, Vilppu Uusitalo, Yuu Uchida, and Munkhuu Uvgun in Ice Age: Continental Drift (2012)",
+        "width": 1350,
+        "height": 2000
+      },
+      "imdbRating": 6.5,
+      "numVotes": 241495,
+      "certificate": "PG",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 5280,
+      "runtimeMinutes": 88,
+      "metascore": 49,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 50,
+      "titleId": "tt1605630",
+      "title": "American Reunion",
+      "originalTitle": "American Reunion",
+      "year": 2012,
+      "releaseDate": {
+        "day": 6,
+        "month": 4,
+        "year": 2012
+      },
+      "plot": "Jim, Michelle, Stifler, and their friends reunite in East Great Falls, Michigan for their high school reunion.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTY4MTEyMzU1N15BMl5BanBnXkFtZTcwNDQ0NTc1Nw@@._V1_.jpg",
+        "caption": "Mena Suvari, Jason Biggs, Alyson Hannigan, Chris Klein, Natasha Lyonne, Thomas Ian Nicholas, Tara Reid, Seann William Scott, and Eddie Kaye Thomas in American Reunion (2012)",
+        "width": 1294,
+        "height": 2048
+      },
+      "imdbRating": 6.7,
+      "numVotes": 232775,
+      "certificate": "R",
+      "genres": [
+        "Comedy"
+      ],
+      "runtimeSeconds": 6780,
+      "runtimeMinutes": 113,
+      "metascore": 49,
+      "credits": [],
+      "titleType": "movie"
+    }
+  ]
+}

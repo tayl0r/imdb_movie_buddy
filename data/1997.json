@@ -1,0 +1,1594 @@
+{
+  "year": 1997,
+  "movies": [
+    {
+      "rank": 1,
+      "titleId": "tt0120338",
+      "title": "Titanic",
+      "originalTitle": "Titanic",
+      "year": 1997,
+      "releaseDate": {
+        "day": 19,
+        "month": 12,
+        "year": 1997
+      },
+      "plot": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzYyN2FiZmUtYWYzMy00MzViLWJkZTMtOGY1ZjgzNWMwN2YxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates, and Frances Fisher in Titanic (1997)",
+        "width": 2015,
+        "height": 3000
+      },
+      "imdbRating": 8,
+      "numVotes": 1379330,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 11640,
+      "runtimeMinutes": 194,
+      "metascore": 75,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 2,
+      "titleId": "tt0119217",
+      "title": "Good Will Hunting",
+      "originalTitle": "Good Will Hunting",
+      "year": 1997,
+      "releaseDate": {
+        "day": 9,
+        "month": 1,
+        "year": 1998
+      },
+      "plot": "A therapist counsels Will Hunting, a janitor with a genius IQ.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDdjZGQ5YzEtNTc2My00Mjc0LWFlMTctYzkwMzZlNzdiZWYzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Robin Williams and Matt Damon in Good Will Hunting (1997)",
+        "width": 983,
+        "height": 1500
+      },
+      "imdbRating": 8.3,
+      "numVotes": 1197689,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 7560,
+      "runtimeMinutes": 126,
+      "metascore": 71,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 3,
+      "titleId": "tt0118799",
+      "title": "Life Is Beautiful",
+      "originalTitle": "La vita \u00e8 bella",
+      "year": 1997,
+      "releaseDate": {
+        "day": 20,
+        "month": 12,
+        "year": 1997
+      },
+      "plot": "When an open-minded Jewish waiter and his son become victims of the Holocaust, he uses a perfect mixture of will, humor and imagination to protect his son from the dangers around their camp.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTBhOGYzZjQtYzE0Mi00MGIwLWE0MWYtNzMxNTM2OTFkM2NjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Roberto Benigni, Nicoletta Braschi, and Giorgio Cantarini in Life Is Beautiful (1997)",
+        "width": 1005,
+        "height": 1500
+      },
+      "imdbRating": 8.6,
+      "numVotes": 805478,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 6960,
+      "runtimeMinutes": 116,
+      "metascore": 58,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 4,
+      "titleId": "tt0119654",
+      "title": "Men in Black",
+      "originalTitle": "Men in Black",
+      "year": 1997,
+      "releaseDate": {
+        "day": 2,
+        "month": 7,
+        "year": 1997
+      },
+      "plot": "James, an NYC cop, is hired by Agent K of a secret government agency that monitors extraterrestrial life on Earth. Together, they must recover an item that has been stolen by an intergalactic villain.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZmQ0YTdhYzEtMjIxZC00MGFiLTlmNjktZmFlOWE2M2QxOTRhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Tommy Lee Jones and Will Smith in Men in Black (1997)",
+        "width": 1000,
+        "height": 1500
+      },
+      "imdbRating": 7.3,
+      "numVotes": 658283,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 5880,
+      "runtimeMinutes": 98,
+      "metascore": 72,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 5,
+      "titleId": "tt0119488",
+      "title": "L.A. Confidential",
+      "originalTitle": "L.A. Confidential",
+      "year": 1997,
+      "releaseDate": {
+        "day": 19,
+        "month": 9,
+        "year": 1997
+      },
+      "plot": "As corruption grows in 1950s Los Angeles, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODdiMjY1OGYtNDk0NC00NGQ1LWI4MDItOTJhMTM0YjE1YTAzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Kim Basinger, Russell Crowe, Kevin Spacey, Danny DeVito, and Guy Pearce in L.A. Confidential (1997)",
+        "width": 850,
+        "height": 1246
+      },
+      "imdbRating": 8.2,
+      "numVotes": 654916,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "runtimeSeconds": 8280,
+      "runtimeMinutes": 138,
+      "metascore": 91,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 6,
+      "titleId": "tt0119116",
+      "title": "The Fifth Element",
+      "originalTitle": "Le cinqui\u00e8me \u00e9l\u00e9ment",
+      "year": 1997,
+      "releaseDate": {
+        "day": 9,
+        "month": 5,
+        "year": 1997
+      },
+      "plot": "In the colorful future, cabdriver Korben Dallas unwittingly becomes the central figure in the search for a legendary cosmic weapon to keep the great evil and Jean-Baptiste Emmanuel Zorg at bay.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODU4ZTE5MWYtNmY2MC00NDkyLTk0NDgtNTk5YjgzMzc4NmQwXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Milla Jovovich, Gary Oldman, and Bruce Willis in The Fifth Element (1997)",
+        "width": 1045,
+        "height": 1500
+      },
+      "imdbRating": 7.6,
+      "numVotes": 539868,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 7560,
+      "runtimeMinutes": 126,
+      "metascore": 52,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 7,
+      "titleId": "tt0119698",
+      "title": "Princess Mononoke",
+      "originalTitle": "Mononoke-hime",
+      "year": 1997,
+      "releaseDate": {
+        "day": 12,
+        "month": 7,
+        "year": 1997
+      },
+      "plot": "While seeking to cure himself of a curse, young warrior Ashitaka stumbles into a conflict between the people of Iron Town and Princess Mononoke, a girl raised by wolves, who will stop at nothing to prevent the destruction of her home.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjAzODViNGEtMjBkYi00N2U5LWJjNjAtY2U0MGJhZTEwOTU0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Claire Danes and Yuriko Ishida in Princess Mononoke (1997)",
+        "width": 1526,
+        "height": 2265
+      },
+      "imdbRating": 8.3,
+      "numVotes": 478252,
+      "certificate": "PG-13",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 7980,
+      "runtimeMinutes": 133,
+      "metascore": 78,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 8,
+      "titleId": "tt0119567",
+      "title": "The Lost World: Jurassic Park",
+      "originalTitle": "The Lost World: Jurassic Park",
+      "year": 1997,
+      "releaseDate": {
+        "day": 22,
+        "month": 5,
+        "year": 1997
+      },
+      "plot": "A research team is sent to the Jurassic Park Site B island to study the dinosaurs there, while an InGen team approaches with another agenda.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMGI3NDg5N2ItZGIyZi00ZWNkLWFlODUtZDA1Y2Q1M2U4NGM2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "The Lost World: Jurassic Park (1997)",
+        "width": 2000,
+        "height": 3000
+      },
+      "imdbRating": 6.6,
+      "numVotes": 474246,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 7740,
+      "runtimeMinutes": 129,
+      "metascore": 59,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 9,
+      "titleId": "tt0119174",
+      "title": "The Game",
+      "originalTitle": "The Game",
+      "year": 1997,
+      "releaseDate": {
+        "day": 12,
+        "month": 9,
+        "year": 1997
+      },
+      "plot": "A mysterious game invades a man's ordered existence.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGUzNzQwNmMtNzI3Mi00ZDIwLWJlM2ItMTA5N2Q2ZDMxMjJiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Michael Douglas in The Game (1997)",
+        "width": 1458,
+        "height": 2190
+      },
+      "imdbRating": 7.7,
+      "numVotes": 466118,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7740,
+      "runtimeMinutes": 129,
+      "metascore": 63,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 10,
+      "titleId": "tt0118971",
+      "title": "The Devil's Advocate",
+      "originalTitle": "The Devil's Advocate",
+      "year": 1997,
+      "releaseDate": {
+        "day": 17,
+        "month": 10,
+        "year": 1997
+      },
+      "plot": "An exceptionally adept Florida lawyer is offered a job at a high-end New York City law firm with a high-end boss - the biggest opportunity of his career to date.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGIxZmU2ZjEtYjc3OC00Y2FiLWE2ZTQtZGI3NzE0YmRhOTMxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Al Pacino and Keanu Reeves in The Devil's Advocate (1997)",
+        "width": 800,
+        "height": 1137
+      },
+      "imdbRating": 7.5,
+      "numVotes": 439673,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Mystery"
+      ],
+      "runtimeSeconds": 8640,
+      "runtimeMinutes": 144,
+      "metascore": 60,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 11,
+      "titleId": "tt0119094",
+      "title": "Face/Off",
+      "originalTitle": "Face/Off",
+      "year": 1997,
+      "releaseDate": {
+        "day": 27,
+        "month": 6,
+        "year": 1997
+      },
+      "plot": "To foil a terrorist plot, an FBI agent assumes the identity of the criminal who murdered his son via facial transplant surgery, but the crook wakes up prematurely and vows revenge.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOGQyOWNmYTgtZWY0NS00NzhjLTg3NmMtMzcwYzQ2OTA2OTJkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Nicolas Cage and John Travolta in Face/Off (1997)",
+        "width": 520,
+        "height": 777
+      },
+      "imdbRating": 7.3,
+      "numVotes": 424082,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 8280,
+      "runtimeMinutes": 138,
+      "metascore": 82,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 12,
+      "titleId": "tt0119396",
+      "title": "Jackie Brown",
+      "originalTitle": "Jackie Brown",
+      "year": 1997,
+      "releaseDate": {
+        "day": 25,
+        "month": 12,
+        "year": 1997
+      },
+      "plot": "A flight attendant with a criminal past gets nabbed by the ATF for smuggling. Under pressure to become an informant against the illegal arms dealer she works for, she must find a way to secure her future without getting killed.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZmUxZjY3MDktNGI5NS00MTQ5LWE0YWItZWQzNmZhNjhkZDYyXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Robert De Niro, Samuel L. Jackson, Bridget Fonda, Pam Grier, Michael Keaton, and Robert Forster in Jackie Brown (1997)",
+        "width": 1200,
+        "height": 1755
+      },
+      "imdbRating": 7.5,
+      "numVotes": 400508,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 9240,
+      "runtimeMinutes": 154,
+      "metascore": 62,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 13,
+      "titleId": "tt0119528",
+      "title": "Liar Liar",
+      "originalTitle": "Liar Liar",
+      "year": 1997,
+      "releaseDate": {
+        "day": 21,
+        "month": 3,
+        "year": 1997
+      },
+      "plot": "A pathological liar-lawyer finds his career turned upside down when he inexplicably cannot physically lie for 24 whole hours.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMGQ4MTk5YjctNGE5NC00ODk4LWIzOWItNzNhODc0N2JmYzMzXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jim Carrey and Mitchell Ryan in Liar Liar (1997)",
+        "width": 1015,
+        "height": 1500
+      },
+      "imdbRating": 6.9,
+      "numVotes": 359854,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "runtimeSeconds": 5160,
+      "runtimeMinutes": 86,
+      "metascore": 70,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 14,
+      "titleId": "tt0119008",
+      "title": "Donnie Brasco",
+      "originalTitle": "Donnie Brasco",
+      "year": 1997,
+      "releaseDate": {
+        "day": 28,
+        "month": 2,
+        "year": 1997
+      },
+      "plot": "An FBI undercover agent infiltrates the mob and finds himself identifying more with the Mafia life--at the expense of his regular one.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWZkNDA2YTctZWJhZS00OTAzLThlODMtY2QyMzg1MTEwYjU2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Johnny Depp and Al Pacino in Donnie Brasco (1997)",
+        "width": 2000,
+        "height": 3000
+      },
+      "imdbRating": 7.7,
+      "numVotes": 353717,
+      "certificate": "R",
+      "genres": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 7620,
+      "runtimeMinutes": 127,
+      "metascore": 77,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 15,
+      "titleId": "tt0119177",
+      "title": "Gattaca",
+      "originalTitle": "Gattaca",
+      "year": 1997,
+      "releaseDate": {
+        "day": 24,
+        "month": 10,
+        "year": 1997
+      },
+      "plot": "Vincent, an \"In-Valid,\" assumes the identity of a member of the genetic elite to pursue his goal of traveling into space with the Gattaca Aerospace Corporation. However, a week before his mission, a murder marks Vincent as a suspect.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjQxNTc3YzQtZDA5ZC00MmM5LWE3NGYtMGE0Yjk3MDYwODVlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ethan Hawke and Uma Thurman in Gattaca (1997)",
+        "width": 973,
+        "height": 1460
+      },
+      "imdbRating": 7.7,
+      "numVotes": 344258,
+      "certificate": "PG-13",
+      "genres": [
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6360,
+      "runtimeMinutes": 106,
+      "metascore": 64,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 16,
+      "titleId": "tt0120201",
+      "title": "Starship Troopers",
+      "originalTitle": "Starship Troopers",
+      "year": 1997,
+      "releaseDate": {
+        "day": 7,
+        "month": 11,
+        "year": 1997
+      },
+      "plot": "Humans, in a fascist militaristic future, wage war with giant alien bugs.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTNiOGM1ZWUtZTZjZC00OWJmLWE2YzUtZjQ4ODZjZmVlMDU3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Dina Meyer and Casper Van Dien in Starship Troopers (1997)",
+        "width": 1565,
+        "height": 2331
+      },
+      "imdbRating": 7.3,
+      "numVotes": 343456,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 7740,
+      "runtimeMinutes": 129,
+      "metascore": 52,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 17,
+      "titleId": "tt0118880",
+      "title": "Con Air",
+      "originalTitle": "Con Air",
+      "year": 1997,
+      "releaseDate": {
+        "day": 6,
+        "month": 6,
+        "year": 1997
+      },
+      "plot": "Former US Army Ranger, Cameron Poe, has just been paroled for manslaughter, but must stop a group of violent and deadly criminals from escaping the country after they seize control of the prison transport plane he is on.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODcxOGFjOTEtM2M3Zi00ZWNiLWFjMTYtZDQ0Yjg2NTE2MzNiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Nicolas Cage, John Cusack, John Malkovich, and Ving Rhames in Con Air (1997)",
+        "width": 1013,
+        "height": 1500
+      },
+      "imdbRating": 6.9,
+      "numVotes": 337190,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6900,
+      "runtimeMinutes": 115,
+      "metascore": 52,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 18,
+      "titleId": "tt0119822",
+      "title": "As Good as It Gets",
+      "originalTitle": "As Good as It Gets",
+      "year": 1997,
+      "releaseDate": {
+        "day": 25,
+        "month": 12,
+        "year": 1997
+      },
+      "plot": "A single mother and waitress, a misanthropic author, and a gay artist form an unlikely friendship after the artist is assaulted in a robbery.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzBiMWJhYmQtOWYzNS00NjgxLWE5NDItNzZlZDQwODBmODNjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jack Nicholson in As Good as It Gets (1997)",
+        "width": 580,
+        "height": 858
+      },
+      "imdbRating": 7.7,
+      "numVotes": 336208,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 8340,
+      "runtimeMinutes": 139,
+      "metascore": 67,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 19,
+      "titleId": "tt0118884",
+      "title": "Contact",
+      "originalTitle": "Contact",
+      "year": 1997,
+      "releaseDate": {
+        "day": 11,
+        "month": 7,
+        "year": 1997
+      },
+      "plot": "Dr. Ellie Arroway, after years of searching, finds conclusive radio proof of extraterrestrial intelligence, sending plans for a mysterious machine.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BM2JiYmE1Y2UtNDQ3YS00YTZhLTk5MzAtYzEzMzIyNTM4OTRlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Jodie Foster and Matthew McConaughey in Contact (1997)",
+        "width": 2016,
+        "height": 3000
+      },
+      "imdbRating": 7.5,
+      "numVotes": 310417,
+      "certificate": "PG",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 9000,
+      "runtimeMinutes": 150,
+      "metascore": 62,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 20,
+      "titleId": "tt0118749",
+      "title": "Boogie Nights",
+      "originalTitle": "Boogie Nights",
+      "year": 1997,
+      "releaseDate": {
+        "day": 31,
+        "month": 10,
+        "year": 1997
+      },
+      "plot": "An idealistic porn producer aspires to elevate his craft to an art when he discovers a hot young talent.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTFmZmE4OTMtNDYxNi00MmZmLThlYjktMmExMzMwY2YzOTFiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Julianne Moore, Burt Reynolds, and Heather Graham in Boogie Nights (1997)",
+        "width": 600,
+        "height": 891
+      },
+      "imdbRating": 7.9,
+      "numVotes": 302673,
+      "certificate": "R",
+      "genres": [
+        "Drama"
+      ],
+      "runtimeSeconds": 9300,
+      "runtimeMinutes": 155,
+      "metascore": 86,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 21,
+      "titleId": "tt0118583",
+      "title": "Alien: Resurrection",
+      "originalTitle": "Alien: Resurrection",
+      "year": 1997,
+      "releaseDate": {
+        "day": 26,
+        "month": 11,
+        "year": 1997
+      },
+      "plot": "Two centuries after her death, a powerful human/alien hybrid clone of Ellen Ripley aids a crew of space pirates in stopping the aliens from reaching Earth.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDMyNmU5ZGQtNzhiZi00NjRjLTk3NGUtMmQ5YWU4ODlkNTBhXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Winona Ryder and Sigourney Weaver in Alien: Resurrection (1997)",
+        "width": 500,
+        "height": 725
+      },
+      "imdbRating": 6.2,
+      "numVotes": 290185,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Horror",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 6540,
+      "runtimeMinutes": 109,
+      "metascore": 62,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 22,
+      "titleId": "tt0118688",
+      "title": "Batman & Robin",
+      "originalTitle": "Batman & Robin",
+      "year": 1997,
+      "releaseDate": {
+        "day": 20,
+        "month": 6,
+        "year": 1997
+      },
+      "plot": "Batman and Robin try to keep their relationship together even as they must stop Mr. Freeze and Poison Ivy from freezing Gotham City.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzU3ZjE3M2UtM2E4Ni00MDI5LTkyZGUtOTFkMGIyYjNjZGU3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "George Clooney, Arnold Schwarzenegger, Alicia Silverstone, Uma Thurman, and Chris O'Donnell in Batman & Robin (1997)",
+        "width": 1363,
+        "height": 2029
+      },
+      "imdbRating": 3.8,
+      "numVotes": 280983,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 7500,
+      "runtimeMinutes": 125,
+      "metascore": 29,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 23,
+      "titleId": "tt0119282",
+      "title": "Hercules",
+      "originalTitle": "Hercules",
+      "year": 1997,
+      "releaseDate": {
+        "day": 27,
+        "month": 6,
+        "year": 1997
+      },
+      "plot": "The son of Zeus and Hera is stripped of his immortality as an infant and must become a true hero in order to reclaim it.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMmUyZGY1ZjItMWYwZS00MjJjLTg1YzAtY2Q5OTA4MmFhYzFjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "James Woods, Danny DeVito, Matt Frewer, Bobcat Goldthwait, Amanda Plummer, Rip Torn, Samantha Eggar, Tate Donovan, Josh Keaton, Roger Bart, Jim Cummings, Paddi Edwards, Susan Egan, Cheryl Freeman, LaChanze, Roz Ryan, Paul Shaffer, Carole Shelley, Van\u00e9ese Y. Thomas, and Lillias White in Hercules (1997)",
+        "width": 1012,
+        "height": 1500
+      },
+      "imdbRating": 7.3,
+      "numVotes": 276626,
+      "certificate": "G",
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "runtimeSeconds": 5580,
+      "runtimeMinutes": 93,
+      "metascore": 74,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 24,
+      "titleId": "tt0118655",
+      "title": "Austin Powers: International Man of Mystery",
+      "originalTitle": "Austin Powers: International Man of Mystery",
+      "year": 1997,
+      "releaseDate": {
+        "day": 2,
+        "month": 5,
+        "year": 1997
+      },
+      "plot": "A world-class playboy and part-time secret agent from the 1960s emerges after thirty years in a cryogenic state to battle with his nemesis Dr. Evil.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODQzM2UwODQtMzg1ZC00MTk4LTlkOTEtYzU4NDFhYmM1MWJkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Mike Myers, Cynthia LaMontagne, Cindy Margolis, Barbara Moore, and Donna W. Scott in Austin Powers: International Man of Mystery (1997)",
+        "width": 988,
+        "height": 1500
+      },
+      "imdbRating": 7,
+      "numVotes": 271718,
+      "certificate": "PG-13",
+      "genres": [
+        "Adventure",
+        "Comedy"
+      ],
+      "runtimeSeconds": 5340,
+      "runtimeMinutes": 89,
+      "metascore": 51,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 25,
+      "titleId": "tt0123755",
+      "title": "Cube",
+      "originalTitle": "Cube",
+      "year": 1997,
+      "releaseDate": {
+        "day": 10,
+        "month": 12,
+        "year": 1997
+      },
+      "plot": "A group of strangers awaken to find themselves placed in a giant cube. Each one of them is gifted with a special skill and they must work together to escape an endless maze of deadly traps.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzcyOTE5YTItM2I4OC00MTc0LTkyNWUtMWZmYmY1MWVhNmZiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Cube (1997)",
+        "width": 854,
+        "height": 1282
+      },
+      "imdbRating": 7.1,
+      "numVotes": 260072,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 5400,
+      "runtimeMinutes": 90,
+      "metascore": 61,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 26,
+      "titleId": "tt0120082",
+      "title": "Scream 2",
+      "originalTitle": "Scream 2",
+      "year": 1997,
+      "releaseDate": {
+        "day": 12,
+        "month": 12,
+        "year": 1997
+      },
+      "plot": "A year after the Woodsboro murders, the survivors try to move on at Windsor College in Ohio-but when a new Ghostface killer starts a campus killing spree, they must face terror all over again.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODE5YWJkMDMtN2ZiNC00MjI5LTkxYTgtOTkyZjUwMjU0YThiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Neve Campbell, David Arquette, Jada Pinkett Smith, Courteney Cox, and Jerry O'Connell in Scream 2 (1997)",
+        "width": 1014,
+        "height": 1500
+      },
+      "imdbRating": 6.3,
+      "numVotes": 231674,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "runtimeSeconds": 7200,
+      "runtimeMinutes": 120,
+      "metascore": 62,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 27,
+      "titleId": "tt0118571",
+      "title": "Air Force One",
+      "originalTitle": "Air Force One",
+      "year": 1997,
+      "releaseDate": {
+        "day": 25,
+        "month": 7,
+        "year": 1997
+      },
+      "plot": "Communist radicals led by Ivan Korshunov hijack Air Force One with US President James Marshall and his family on board. Vice President Kathryn Bennett negotiates from Washington D.C., while Marshall fights to rescue the hostages on board.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTVlYmFhZjktOTA2ZC00Y2YzLWFmNDMtZGU2YzBkNGZkODY4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Harrison Ford in Air Force One (1997)",
+        "width": 2007,
+        "height": 2978
+      },
+      "imdbRating": 6.5,
+      "numVotes": 222492,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 7440,
+      "runtimeMinutes": 124,
+      "metascore": 62,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 28,
+      "titleId": "tt0120347",
+      "title": "Tomorrow Never Dies",
+      "originalTitle": "Tomorrow Never Dies",
+      "year": 1997,
+      "releaseDate": {
+        "day": 19,
+        "month": 12,
+        "year": 1997
+      },
+      "plot": "James Bond is sent to disrupt a media mogul's plot to foment a war between China and the United Kingdom.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTM1MTk2ODQxNV5BMl5BanBnXkFtZTcwOTY5MDg0NA@@._V1_.jpg",
+        "caption": "Pierce Brosnan, Teri Hatcher, Jonathan Pryce, Michelle Yeoh, Judi Dench, Desmond Llewelyn, and Cecilie Thomsen in Tomorrow Never Dies (1997)",
+        "width": 682,
+        "height": 1023
+      },
+      "imdbRating": 6.5,
+      "numVotes": 214255,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "runtimeSeconds": 7140,
+      "runtimeMinutes": 119,
+      "metascore": 52,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 29,
+      "titleId": "tt0119081",
+      "title": "Event Horizon",
+      "originalTitle": "Event Horizon",
+      "year": 1997,
+      "releaseDate": {
+        "day": 15,
+        "month": 8,
+        "year": 1997
+      },
+      "plot": "A rescue crew is tasked with investigating the mysterious reappearance of a spaceship that had been lost for seven years.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BM2M4ZTI2MjMtYjVlNy00Y2E3LTgzM2EtNDA0NTUzZmQxZjY3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Event Horizon (1997)",
+        "width": 1200,
+        "height": 1793
+      },
+      "imdbRating": 6.6,
+      "numVotes": 212609,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "runtimeSeconds": 5760,
+      "runtimeMinutes": 96,
+      "metascore": 35,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 30,
+      "titleId": "tt0119345",
+      "title": "I Know What You Did Last Summer",
+      "originalTitle": "I Know What You Did Last Summer",
+      "year": 1997,
+      "releaseDate": {
+        "day": 17,
+        "month": 10,
+        "year": 1997
+      },
+      "plot": "Four young friends bound by a tragic accident are reunited when they find themselves being stalked by a hook-wielding maniac in their small seaside town.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOGE1MmMxZDMtYzkyYS00N2EzLTgxYWItNWZiN2NmMzZiZTNmXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Ryan Phillippe, Sarah Michelle Gellar, Jennifer Love Hewitt, and Freddie Prinze Jr. in I Know What You Did Last Summer (1997)",
+        "width": 1468,
+        "height": 2286
+      },
+      "imdbRating": 5.9,
+      "numVotes": 178931,
+      "certificate": "R",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "runtimeSeconds": 6060,
+      "runtimeMinutes": 101,
+      "metascore": 52,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 31,
+      "titleId": "tt0116922",
+      "title": "Lost Highway",
+      "originalTitle": "Lost Highway",
+      "year": 1997,
+      "releaseDate": {
+        "day": 15,
+        "month": 1,
+        "year": 1997
+      },
+      "plot": "Anonymous videotapes presage a musician's murder conviction, and a gangster's girlfriend leads a mechanic astray.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjcyNmM2ODktYzk0Mi00Njk0LTljZGMtNGZhMzI4NmY1NzA1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Patricia Arquette and Bill Pullman in Lost Highway (1997)",
+        "width": 1081,
+        "height": 1594
+      },
+      "imdbRating": 7.6,
+      "numVotes": 168644,
+      "certificate": "R",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtimeSeconds": 8040,
+      "runtimeMinutes": 134,
+      "metascore": 53,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 32,
+      "titleId": "tt0120102",
+      "title": "Seven Years in Tibet",
+      "originalTitle": "Seven Years in Tibet",
+      "year": 1997,
+      "releaseDate": {
+        "day": 10,
+        "month": 10,
+        "year": 1997
+      },
+      "plot": "Heinrich Harrer, an Austrian climber and Nazi supporter, breaks out of a British POW camp in India and treks to the holy city of Lhasa where he's employed as an instructor to the young 14th Dalai Lama and soon becomes his close confidante.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTE3NGU1ZDAtN2Y2MC00Y2VkLThjMDUtMTQxMWVmYTY2ZmU4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Brad Pitt and Jamyang Jamtsho Wangchuk in Seven Years in Tibet (1997)",
+        "width": 1968,
+        "height": 2918
+      },
+      "imdbRating": 7.1,
+      "numVotes": 166214,
+      "certificate": "PG-13",
+      "genres": [
+        "Adventure",
+        "Biography",
+        "Drama"
+      ],
+      "runtimeSeconds": 8160,
+      "runtimeMinutes": 136,
+      "metascore": 55,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 33,
+      "titleId": "tt0119738",
+      "title": "My Best Friend's Wedding",
+      "originalTitle": "My Best Friend's Wedding",
+      "year": 1997,
+      "releaseDate": {
+        "day": 20,
+        "month": 6,
+        "year": 1997
+      },
+      "plot": "When a woman's long-time friend reveals he's engaged, she realizes she loves him herself and sets out to get him, with only days before the wedding.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzhlZjE4NTYtZDBlOC00NTAwLWFmMTQtMWVjNDQwZGI1MjViXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Cameron Diaz, Julia Roberts, and Dermot Mulroney in My Best Friend's Wedding (1997)",
+        "width": 506,
+        "height": 755
+      },
+      "imdbRating": 6.4,
+      "numVotes": 165349,
+      "certificate": "PG-13",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 6300,
+      "runtimeMinutes": 105,
+      "metascore": 51,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 34,
+      "titleId": "tt0118842",
+      "title": "Chasing Amy",
+      "originalTitle": "Chasing Amy",
+      "year": 1997,
+      "releaseDate": {
+        "day": 18,
+        "month": 4,
+        "year": 1997
+      },
+      "plot": "Holden and Banky are comic book artists. Everything's going good for them until they meet Alyssa, also a comic book artist. Holden falls for her, but his hopes are crushed when he finds out she's a lesbian.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZWQ5OWQ4NWEtZGJlYy00MzI3LTg5YzItZjVhYjJhYmNkZjM4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Joey Lauren Adams in Chasing Amy (1997)",
+        "width": 716,
+        "height": 1080
+      },
+      "imdbRating": 7.2,
+      "numVotes": 147898,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "runtimeSeconds": 6780,
+      "runtimeMinutes": 113,
+      "metascore": 71,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 35,
+      "titleId": "tt0118617",
+      "title": "Anastasia",
+      "originalTitle": "Anastasia",
+      "year": 1997,
+      "releaseDate": {
+        "day": 21,
+        "month": 11,
+        "year": 1997
+      },
+      "plot": "The last surviving child of the Russian Royal Family joins two con men to reunite with her grandmother, the Dowager Empress, while the undead Rasputin seeks her death.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMGY2YjdjNTItMGIzOC00MDNhLTkxNDMtNzgxN2U4YzA3YzRlXkEyXkFqcGc@._V1_.jpg",
+        "caption": "John Cusack, Meg Ryan, Hank Azaria, Christopher Lloyd, Liz Callaway, Jim Cummings, and Jonathan Dokuchitz in Anastasia (1997)",
+        "width": 1955,
+        "height": 2896
+      },
+      "imdbRating": 7.2,
+      "numVotes": 145848,
+      "certificate": "G",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Drama"
+      ],
+      "runtimeSeconds": 5640,
+      "runtimeMinutes": 94,
+      "metascore": 61,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 36,
+      "titleId": "tt0119303",
+      "title": "Home Alone 3",
+      "originalTitle": "Home Alone 3",
+      "year": 1997,
+      "releaseDate": {
+        "day": 12,
+        "month": 12,
+        "year": 1997
+      },
+      "plot": "Alex Pruitt, an 8-year-old boy living in Chicago, must fend off four international criminals who are seeking a top-secret microchip in his toy car.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNmI0MjcxYjYtYzY5Ni00NjBkLTllN2MtZGYyNzJiYzA5ZGYxXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Henry Bumstead, Christopher Curry, Adrianne Duncan, Bruce Green, Darwin Harris, Rya Kihlstedt, Kevin Kilner, Darren T. Knaus, Olek Krupa, Krista Lally, Alex D. Linz, Julio Macat, Haviland Morris, Marian Seldes, David Thornton, and Lenny von Dohlen in Home Alone 3 (1997)",
+        "width": 1004,
+        "height": 1500
+      },
+      "imdbRating": 4.6,
+      "numVotes": 137517,
+      "certificate": "PG",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 6120,
+      "runtimeMinutes": 102,
+      "metascore": null,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 37,
+      "titleId": "tt0119395",
+      "title": "The Jackal",
+      "originalTitle": "The Jackal",
+      "year": 1997,
+      "releaseDate": {
+        "day": 14,
+        "month": 11,
+        "year": 1997
+      },
+      "plot": "An imprisoned I.R.A. fighter is freed to help stop a brutal, seemingly \"faceless\" assassin from completing his next job.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTAyYjFiYWYtNDI1YS00MWM5LTgyYTMtNDhiYWEzOGE2OTM0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "The Jackal (1997)",
+        "width": 1450,
+        "height": 2160
+      },
+      "imdbRating": 6.4,
+      "numVotes": 131366,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 7440,
+      "runtimeMinutes": 124,
+      "metascore": 36,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 38,
+      "titleId": "tt0118615",
+      "title": "Anaconda",
+      "originalTitle": "Anaconda",
+      "year": 1997,
+      "releaseDate": {
+        "day": 11,
+        "month": 4,
+        "year": 1997
+      },
+      "plot": "A \"National Geographic\" film crew is taken hostage by an insane hunter, who forces them along on his quest to capture the world's largest - and deadliest - snake.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMmU2ZGYyZDAtZGM3My00NjQ4LTlmZmQtNzY4OGRlNDFjNTE4XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Anaconda (1997)",
+        "width": 1526,
+        "height": 2265
+      },
+      "imdbRating": 4.9,
+      "numVotes": 122839,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Horror"
+      ],
+      "runtimeSeconds": 5340,
+      "runtimeMinutes": 89,
+      "metascore": 37,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 39,
+      "titleId": "tt0119164",
+      "title": "The Full Monty",
+      "originalTitle": "The Full Monty",
+      "year": 1997,
+      "releaseDate": {
+        "day": 19,
+        "month": 9,
+        "year": 1997
+      },
+      "plot": "Six unemployed steel workers form a male striptease act. The women cheer them on to go for \"the full monty\" - total nudity.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjZjNjU4YjItM2NhNS00NzIwLWIzMjMtMGMzZjcyMjYwYzE2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Robert Carlyle, Mark Addy, Paul Barber, Steve Huison, Hugo Speer, and Tom Wilkinson in The Full Monty (1997)",
+        "width": 1992,
+        "height": 2964
+      },
+      "imdbRating": 7.2,
+      "numVotes": 119228,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 5460,
+      "runtimeMinutes": 91,
+      "metascore": 75,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 40,
+      "titleId": "tt0156887",
+      "title": "Perfect Blue",
+      "originalTitle": "P\u00e2fekuto bur\u00fb",
+      "year": 1997,
+      "releaseDate": {
+        "day": 28,
+        "month": 2,
+        "year": 1998
+      },
+      "plot": "A pop singer gives up her career to become an actress, but she slowly goes insane when she starts being stalked by an obsessed fan and what seems to be a ghost of her past.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzAwNDIzMzEtZDZkNC00ZDQ4LTk3ZDMtZjVhMTU2YzgzZTZiXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Perfect Blue (1997)",
+        "width": 1000,
+        "height": 1480
+      },
+      "imdbRating": 8,
+      "numVotes": 118555,
+      "certificate": "Not Rated",
+      "genres": [
+        "Animation",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 4920,
+      "runtimeMinutes": 82,
+      "metascore": 67,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 41,
+      "titleId": "tt0118689",
+      "title": "Bean",
+      "originalTitle": "Bean",
+      "year": 1997,
+      "releaseDate": {
+        "day": 7,
+        "month": 11,
+        "year": 1997
+      },
+      "plot": "The bumbling Mr. Bean travels to America when he is given the responsibility of bringing a highly valuable painting to a Los Angeles museum.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjJiMmNlNGItOGQyOC00ZDczLWEzODYtYmM2MTE1YTczYzA0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Rowan Atkinson in Bean (1997)",
+        "width": 999,
+        "height": 1479
+      },
+      "imdbRating": 6.5,
+      "numVotes": 115993,
+      "certificate": "PG-13",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Family"
+      ],
+      "runtimeSeconds": 5340,
+      "runtimeMinutes": 89,
+      "metascore": 52,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 42,
+      "titleId": "tt0118887",
+      "title": "Cop Land",
+      "originalTitle": "Cop Land",
+      "year": 1997,
+      "releaseDate": {
+        "day": 15,
+        "month": 8,
+        "year": 1997
+      },
+      "plot": "The Sheriff of a suburban New Jersey community, populated by New York City police officers, slowly discovers the town is a front for mob connections and corruption.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNWVjN2IzYjctMDRlNy00YzlhLTlmZmMtNWYxNzVjN2E2NDg2XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Robert De Niro, Harvey Keitel, Sylvester Stallone, and Ray Liotta in Cop Land (1997)",
+        "width": 800,
+        "height": 1200
+      },
+      "imdbRating": 7,
+      "numVotes": 114345,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6300,
+      "runtimeMinutes": 105,
+      "metascore": 64,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 43,
+      "titleId": "tt0118883",
+      "title": "Conspiracy Theory",
+      "originalTitle": "Conspiracy Theory",
+      "year": 1997,
+      "releaseDate": {
+        "day": 8,
+        "month": 8,
+        "year": 1997
+      },
+      "plot": "A taxi driver with a penchant for conspiracy theories becomes a target after one of these theories turns out to be true. Unfortunately, to save himself, he has to figure out which theory it is.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjQ1MTYxMzA4OF5BMl5BanBnXkFtZTgwNjg2NTM1MTI@._V1_.jpg",
+        "caption": "Mel Gibson and Julia Roberts in Conspiracy Theory (1997)",
+        "width": 1009,
+        "height": 1500
+      },
+      "imdbRating": 6.7,
+      "numVotes": 113452,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "runtimeSeconds": 8100,
+      "runtimeMinutes": 135,
+      "metascore": 50,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 44,
+      "titleId": "tt0118928",
+      "title": "Dante's Peak",
+      "originalTitle": "Dante's Peak",
+      "year": 1997,
+      "releaseDate": {
+        "day": 7,
+        "month": 2,
+        "year": 1997
+      },
+      "plot": "A volcanologist arrives at a countryside town recently named the second-most desirable place to live in America, and discovers that a nearby long-dormant volcano may awaken at any moment.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNmZmZGQ1YmEtZGI1My00NDU1LTk5ODUtODM1ZTRlOTYyMmU3XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Pierce Brosnan and Linda Hamilton in Dante's Peak (1997)",
+        "width": 936,
+        "height": 1402
+      },
+      "imdbRating": 6.1,
+      "numVotes": 106760,
+      "certificate": "PG-13",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "runtimeSeconds": 6480,
+      "runtimeMinutes": 108,
+      "metascore": 43,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 45,
+      "titleId": "tt0119229",
+      "title": "Grosse Pointe Blank",
+      "originalTitle": "Grosse Pointe Blank",
+      "year": 1997,
+      "releaseDate": {
+        "day": 11,
+        "month": 4,
+        "year": 1997
+      },
+      "plot": "Professional assassin Martin Blank is sent on a mission to a small Detroit suburb, Grosse Pointe--where, by coincidence, his 10-year high-school reunion party is about to take place.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDJkMWJkMTgtZjljZS00ZDNlLWE2MjEtNjQ2NzI5NDk4MTRkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "John Cusack and Minnie Driver in Grosse Pointe Blank (1997)",
+        "width": 668,
+        "height": 1000
+      },
+      "imdbRating": 7.3,
+      "numVotes": 104490,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "runtimeSeconds": 6420,
+      "runtimeMinutes": 107,
+      "metascore": 76,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 46,
+      "titleId": "tt0119137",
+      "title": "Flubber",
+      "originalTitle": "Flubber",
+      "year": 1997,
+      "releaseDate": {
+        "day": 26,
+        "month": 11,
+        "year": 1997
+      },
+      "plot": "An absent-minded professor discovers \"flubber,\" a rubber-like super-bouncy substance.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzRiODczNDMtNWY3Yi00YjFhLWExOGEtMDI5OGY5MDBhYjdjXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Robin Williams in Flubber (1997)",
+        "width": 1947,
+        "height": 2884
+      },
+      "imdbRating": 5.3,
+      "numVotes": 99530,
+      "certificate": "PG",
+      "genres": [
+        "Comedy",
+        "Family",
+        "Sci-Fi"
+      ],
+      "runtimeSeconds": 5580,
+      "runtimeMinutes": 93,
+      "metascore": 38,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 47,
+      "titleId": "tt0119468",
+      "title": "Kiss the Girls",
+      "originalTitle": "Kiss the Girls",
+      "year": 1997,
+      "releaseDate": {
+        "day": 3,
+        "month": 10,
+        "year": 1997
+      },
+      "plot": "Police hunting for a serial kidnapper are helped when a victim manages to escape for the first time.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZGMyYzdlYTUtNjcwNi00ZDE0LWEwNDEtN2EyMGE3OWM3Zjg0XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Morgan Freeman and Ashley Judd in Kiss the Girls (1997)",
+        "width": 838,
+        "height": 1250
+      },
+      "imdbRating": 6.6,
+      "numVotes": 99345,
+      "certificate": "R",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "runtimeSeconds": 6900,
+      "runtimeMinutes": 115,
+      "metascore": 46,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 48,
+      "titleId": "tt0119167",
+      "title": "Funny Games",
+      "originalTitle": "Funny Games",
+      "year": 1997,
+      "releaseDate": {
+        "day": 11,
+        "month": 3,
+        "year": 1998
+      },
+      "plot": "Two violent young men take a mother, father, and son hostage in their vacation cabin and force them to play sadistic \"games\" with one another for their own amusement.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BN2NkZWQyNzgtNGIzZC00YjFkLWFkZGQtNTU0OGI5ODYxODA1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Funny Games (1997)",
+        "width": 1280,
+        "height": 1824
+      },
+      "imdbRating": 7.5,
+      "numVotes": 95556,
+      "certificate": "Not Rated",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Horror"
+      ],
+      "runtimeSeconds": 6480,
+      "runtimeMinutes": 108,
+      "metascore": 69,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 49,
+      "titleId": "tt0120885",
+      "title": "Wag the Dog",
+      "originalTitle": "Wag the Dog",
+      "year": 1997,
+      "releaseDate": {
+        "day": 9,
+        "month": 1,
+        "year": 1998
+      },
+      "plot": "Shortly before an election, a spin-doctor and a Hollywood producer join efforts to fabricate a war in order to cover up a Presidential sex scandal.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNmEwNzk5ZTYtNGUzOC00ZThjLTk3NGYtMDQ5MzNiYzQ0ZTNkXkEyXkFqcGc@._V1_.jpg",
+        "caption": "Wag the Dog (1997)",
+        "width": 1920,
+        "height": 2844
+      },
+      "imdbRating": 7.1,
+      "numVotes": 92639,
+      "certificate": "R",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "runtimeSeconds": 5820,
+      "runtimeMinutes": 97,
+      "metascore": 74,
+      "credits": [],
+      "titleType": "movie"
+    },
+    {
+      "rank": 50,
+      "titleId": "tt0119173",
+      "title": "G.I. Jane",
+      "originalTitle": "G.I. Jane",
+      "year": 1997,
+      "releaseDate": {
+        "day": 22,
+        "month": 8,
+        "year": 1997
+      },
+      "plot": "Lt. Jordan, a US Navy topographic analyst, joins the US Navy Special Warfare Group and struggles to prove her worth in a unit dominated by men. But a cynical woman Texan senator has sold her out.",
+      "poster": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMWY5OTllYzYtYjRmMS00ZmU5LTg0NmEtMzBjMDFmNDdhZGI1XkEyXkFqcGc@._V1_.jpg",
+        "caption": "Demi Moore in G.I. Jane (1997)",
+        "width": 800,
+        "height": 1188
+      },
+      "imdbRating": 6,
+      "numVotes": 92401,
+      "certificate": "R",
+      "genres": [
+        "Action",
+        "Drama",
+        "War"
+      ],
+      "runtimeSeconds": 7500,
+      "runtimeMinutes": 125,
+      "metascore": 62,
+      "credits": [],
+      "titleType": "movie"
+    }
+  ]
+}
