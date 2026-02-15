@@ -9,6 +9,12 @@ PORT = 8000
 
 
 class Handler(SimpleHTTPRequestHandler):
+    def send_json(self, data):
+        self.send_response(200)
+        self.send_header("Content-Type", "application/json")
+        self.end_headers()
+        self.wfile.write(json.dumps(data).encode())
+
     def do_GET(self):
         if self.path == "/api/lists":
             data_dir = os.path.join(os.path.dirname(__file__) or ".", "data")
@@ -24,10 +30,7 @@ class Handler(SimpleHTTPRequestHandler):
                         list_files.append(fname)
                 except Exception:
                     pass
-            self.send_response(200)
-            self.send_header("Content-Type", "application/json")
-            self.end_headers()
-            self.wfile.write(json.dumps(list_files).encode())
+            self.send_json(list_files)
         else:
             super().do_GET()
 
@@ -38,10 +41,7 @@ class Handler(SimpleHTTPRequestHandler):
             os.makedirs("lists", exist_ok=True)
             with open(os.path.join("lists", "want_to_watch.csv"), "w") as f:
                 f.write(body)
-            self.send_response(200)
-            self.send_header("Content-Type", "application/json")
-            self.end_headers()
-            self.wfile.write(json.dumps({"ok": True}).encode())
+            self.send_json({"ok": True})
         else:
             self.send_error(404)
 

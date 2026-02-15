@@ -9,7 +9,13 @@ import re
 import sys
 import time
 import urllib.parse
-import urllib.request
+
+from imdb_utils import (
+    extract_next_data,
+    fetch_html,
+    parse_movie_item,
+    parse_search_items,
+)
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(SCRIPT_DIR, "data")
@@ -23,23 +29,12 @@ SEARCH_URL = (
     "&count=50"
 )
 
-HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/120.0.0.0 Safari/537.36"
-    ),
-    "Accept-Language": "en-US,en;q=0.9",
-}
-
 
 def normalize(title):
-    """Normalize a title for comparison: lowercase, strip punctuation, split into words."""
     return re.sub(r'[^\w\s]', '', title).lower().split()
 
 
 def load_known_movies():
-    """Load all existing movie data and return a set of normalized (title, year) tuples."""
     known = set()
     for path in glob.glob(os.path.join(DATA_DIR, "*.json")):
         with open(path) as f:
@@ -52,64 +47,7 @@ def load_known_movies():
     return known
 
 
-def parse_search_results(html):
-    """Extract movie list from IMDB search page HTML (same as scrape_imdb.py)."""
-    match = re.search(
-        r'<script id="__NEXT_DATA__"[^>]*>(.*?)</script>', html, re.DOTALL
-    )
-    if not match:
-        return []
-
-    data = json.loads(match.group(1))
-    items = (
-        data.get("props", {})
-        .get("pageProps", {})
-        .get("searchResults", {})
-        .get("titleResults", {})
-        .get("titleListItems", [])
-    )
-
-    results = []
-    for rank, item in enumerate(items, start=1):
-        rating = item.get("ratingSummary", {})
-        image = item.get("primaryImage") or {}
-        release = item.get("releaseDate") or {}
-        runtime_secs = item.get("runtime")
-
-        results.append({
-            "rank": rank,
-            "titleId": item.get("titleId", ""),
-            "title": item.get("titleText", ""),
-            "originalTitle": item.get("originalTitleText", ""),
-            "year": item.get("releaseYear"),
-            "releaseDate": {
-                "day": release.get("day"),
-                "month": release.get("month"),
-                "year": release.get("year"),
-            },
-            "plot": item.get("plot", ""),
-            "poster": {
-                "url": image.get("url", ""),
-                "caption": image.get("caption", ""),
-                "width": image.get("width"),
-                "height": image.get("height"),
-            },
-            "imdbRating": rating.get("aggregateRating"),
-            "numVotes": rating.get("voteCount"),
-            "certificate": item.get("certificate", ""),
-            "genres": item.get("genres", []),
-            "runtimeSeconds": runtime_secs,
-            "runtimeMinutes": runtime_secs // 60 if runtime_secs else None,
-            "metascore": item.get("metascore"),
-            "credits": item.get("principalCredits", []),
-            "titleType": (item.get("titleType") or {}).get("id", ""),
-        })
-
-    return results
-
-
 def find_match(results, csv_title):
-    """Find the search result whose title matches the CSV title (all words present)."""
     target_words = set(normalize(csv_title))
     if not target_words:
         return None
@@ -119,7 +57,7 @@ def find_match(results, csv_title):
         if target_words <= imdb_words or imdb_words <= target_words:
             return movie
 
-    # Fallback: check if all target words appear in the IMDB title
+    # Fallback: substring match (catches partial-word matches the set check misses)
     for movie in results:
         imdb_title_lower = movie.get("title", "").lower()
         if all(w in imdb_title_lower for w in target_words):
@@ -129,15 +67,16 @@ def find_match(results, csv_title):
 
 
 def search_imdb(title, year):
-    """Search IMDB for a specific movie title and year."""
     url = SEARCH_URL.format(
         title=urllib.parse.quote(title),
         year=year,
     )
-    req = urllib.request.Request(url, headers=HEADERS)
-    with urllib.request.urlopen(req, timeout=30) as resp:
-        html = resp.read().decode("utf-8")
-    return parse_search_results(html)
+    html = fetch_html(url)
+    data = extract_next_data(html)
+    if not data:
+        return []
+    items = parse_search_items(data)
+    return [parse_movie_item(item, rank) for rank, item in enumerate(items, start=1)]
 
 
 def main():
@@ -150,22 +89,17 @@ def main():
         print(f"ERROR: {csv_path} not found", file=sys.stderr)
         sys.exit(1)
 
-    # Determine output path: lists/want_to_watch.csv -> data/want_to_watch.json
     csv_stem = os.path.splitext(os.path.basename(csv_path))[0]
     out_path = os.path.join(DATA_DIR, f"{csv_stem}.json")
 
-    # Load existing movie data for dedup
     known = load_known_movies()
-    print(f"Loaded {sum(1 for _ in glob.glob(os.path.join(DATA_DIR, '*.json')))} data files, "
-          f"{len(known)} unique movies")
+    data_files = glob.glob(os.path.join(DATA_DIR, "*.json"))
+    print(f"Loaded {len(data_files)} data files, {len(known)} unique movies")
 
-    # Read CSV
     with open(csv_path, newline="") as f:
-        reader = csv.DictReader(f)
-        csv_movies = list(reader)
+        csv_movies = list(csv.DictReader(f))
     print(f"Read {len(csv_movies)} movies from {csv_path}")
 
-    # Filter out already-known movies
     to_lookup = []
     already_known = 0
     for row in csv_movies:
@@ -178,7 +112,6 @@ def main():
 
     print(f"{already_known} already known, looking up {len(to_lookup)}...\n")
 
-    # Search IMDB for each missing movie
     found_movies = []
     not_found = []
 
@@ -204,12 +137,10 @@ def main():
         if i < len(to_lookup) - 1:
             time.sleep(1)
 
-    # Write output
     os.makedirs(DATA_DIR, exist_ok=True)
     with open(out_path, "w") as f:
         json.dump({"source": os.path.basename(csv_path), "movies": found_movies}, f, indent=2)
 
-    # Summary
     print(f"\n{'='*60}")
     print(f"Done! Found: {len(found_movies)}, Already known: {already_known}, "
           f"Not found: {len(not_found)}")

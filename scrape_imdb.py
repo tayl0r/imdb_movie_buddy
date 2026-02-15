@@ -3,10 +3,10 @@
 
 import json
 import os
-import re
 import sys
 import time
-import urllib.request
+
+from imdb_utils import extract_next_data, fetch_html, parse_movie_item, parse_search_items
 
 BASE_URL = (
     "https://www.imdb.com/search/title/"
@@ -16,78 +16,21 @@ BASE_URL = (
     "&count=50"
 )
 
-HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/120.0.0.0 Safari/537.36"
-    ),
-    "Accept-Language": "en-US,en;q=0.9",
-}
-
 DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data")
 
 
-def fetch_year(year: int) -> list[dict]:
-    """Fetch top 20 movies for a given year, return list of dicts with full data."""
+def fetch_year(year):
     url = BASE_URL.format(year=year)
-    req = urllib.request.Request(url, headers=HEADERS)
-    with urllib.request.urlopen(req, timeout=30) as resp:
-        html = resp.read().decode("utf-8")
+    html = fetch_html(url)
 
-    match = re.search(
-        r'<script id="__NEXT_DATA__"[^>]*>(.*?)</script>', html, re.DOTALL
-    )
-    if not match:
+    data = extract_next_data(html)
+    if not data:
         print(f"  ERROR: Could not find __NEXT_DATA__ for {year}", file=sys.stderr)
         return []
 
-    data = json.loads(match.group(1))
-    items = (
-        data.get("props", {})
-        .get("pageProps", {})
-        .get("searchResults", {})
-        .get("titleResults", {})
-        .get("titleListItems", [])
-    )
-
-    results = []
-    for rank, item in enumerate(items, start=1):
-        rating = item.get("ratingSummary", {})
-        image = item.get("primaryImage") or {}
-        release = item.get("releaseDate") or {}
-        runtime_secs = item.get("runtime")
-
-        results.append({
-            "rank": rank,
-            "titleId": item.get("titleId", ""),
-            "title": item.get("titleText", ""),
-            "originalTitle": item.get("originalTitleText", ""),
-            "year": item.get("releaseYear", year),
-            "releaseDate": {
-                "day": release.get("day"),
-                "month": release.get("month"),
-                "year": release.get("year"),
-            },
-            "plot": item.get("plot", ""),
-            "poster": {
-                "url": image.get("url", ""),
-                "caption": image.get("caption", ""),
-                "width": image.get("width"),
-                "height": image.get("height"),
-            },
-            "imdbRating": rating.get("aggregateRating"),
-            "numVotes": rating.get("voteCount"),
-            "certificate": item.get("certificate", ""),
-            "genres": item.get("genres", []),
-            "runtimeSeconds": runtime_secs,
-            "runtimeMinutes": runtime_secs // 60 if runtime_secs else None,
-            "metascore": item.get("metascore"),
-            "credits": item.get("principalCredits", []),
-            "titleType": (item.get("titleType") or {}).get("id", ""),
-        })
-
-    return results
+    items = parse_search_items(data)
+    return [parse_movie_item(item, rank, default_year=year)
+            for rank, item in enumerate(items, start=1)]
 
 
 def main():

@@ -27,7 +27,6 @@ def main():
 
     skipped = 0
     downloaded = 0
-    failed = 0
 
     for movie in movies:
         title = movie["title"]
@@ -59,7 +58,7 @@ def main():
             sys.exit(1)
 
     print(f"\n{'='*60}")
-    print(f"Done! Downloaded: {downloaded}, Skipped: {skipped}, Failed: {failed}")
+    print(f"Done! Downloaded: {downloaded}, Skipped: {skipped}")
 
 
 if __name__ == "__main__":

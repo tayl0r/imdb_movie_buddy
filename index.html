@@ -11,9 +11,6 @@
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
     background: #121212;
     color: #e0e0e0;
-  }
-
-  body {
     height: 100vh;
     display: flex;
     flex-direction: column;
@@ -588,10 +585,11 @@ function metascoreClass(s) {
   if (s >= 40) return 'mid';
   return 'low';
 }
-function escapeHtml(s) {
-  const d = document.createElement('div');
-  d.textContent = s;
-  return d.innerHTML;
+function createSpan(className, text) {
+  const span = document.createElement('span');
+  span.className = className;
+  span.textContent = text;
+  return span;
 }
 
 // --- Popup ---
@@ -602,16 +600,20 @@ function openPopup(titleId) {
   document.getElementById('popupPoster').src = posterUrl(m.poster?.url, 800);
   document.getElementById('popupTitle').textContent = m.title + ' (' + m.year + ')';
 
-  let meta = '';
-  if (m.imdbRating) meta += `<span class="popup-rating">★ ${m.imdbRating}</span>`;
-  if (m.numVotes) meta += `<span class="vote-count">${formatVotes(m.numVotes)} votes</span>`;
-  if (m.metascore) meta += `<span class="metascore ${metascoreClass(m.metascore)}">${m.metascore}</span>`;
-  if (m.certificate) meta += `<span class="popup-tag">${escapeHtml(m.certificate)}</span>`;
-  if (m.runtimeMinutes) meta += `<span class="popup-tag">${formatRuntime(m.runtimeMinutes)}</span>`;
-  document.getElementById('popupMeta').innerHTML = meta;
+  const metaEl = document.getElementById('popupMeta');
+  metaEl.innerHTML = '';
+  if (m.imdbRating) metaEl.appendChild(createSpan('popup-rating', '\u2605 ' + m.imdbRating));
+  if (m.numVotes) metaEl.appendChild(createSpan('vote-count', formatVotes(m.numVotes) + ' votes'));
+  if (m.metascore) metaEl.appendChild(createSpan('metascore ' + metascoreClass(m.metascore), m.metascore));
+  if (m.certificate) metaEl.appendChild(createSpan('popup-tag', m.certificate));
+  if (m.runtimeMinutes) metaEl.appendChild(createSpan('popup-tag', formatRuntime(m.runtimeMinutes)));
 
-  document.getElementById('popupGenres').innerHTML =
-    (m.genres || []).map(g => `<span class="popup-genre">${escapeHtml(g)}</span>`).join('');
+  const genresEl = document.getElementById('popupGenres');
+  genresEl.innerHTML = '';
+  for (const g of (m.genres || [])) {
+    genresEl.appendChild(createSpan('popup-genre', g));
+  }
+
   document.getElementById('popupPlot').textContent = m.plot || '';
 
   const btn = document.getElementById('popupToggle');
@@ -638,140 +640,121 @@ document.addEventListener('keydown', e => {
 document.getElementById('searchBox').addEventListener('input', () => applyFilters());
 
 // --- Grid rendering ---
+function createMovieCell(m) {
+  const isSelected = selected.has(m.titleId);
+  const cell = document.createElement('div');
+  cell.className = 'cell' + (isSelected ? ' selected' : '');
+  cell.dataset.id = m.titleId;
+  cell.title = m.title;
+
+  const posterWrap = document.createElement('div');
+  posterWrap.className = 'poster-wrap';
+
+  const img = document.createElement('img');
+  img.src = posterUrl(m.poster?.url, 432);
+  img.alt = '';
+  img.loading = 'lazy';
+  posterWrap.appendChild(img);
+
+  if (m.imdbRating) {
+    const pip = document.createElement('span');
+    pip.className = 'rating-pip';
+    pip.textContent = m.imdbRating;
+    posterWrap.appendChild(pip);
+  }
+
+  const hoverBtns = document.createElement('div');
+  hoverBtns.className = 'hover-btns';
+
+  const favBtn = document.createElement('button');
+  favBtn.className = 'hover-btn fav-btn';
+  favBtn.textContent = isSelected ? '\u2665 Favorited' : '\u2661 Favorite';
+  favBtn.addEventListener('click', e => {
+    e.stopPropagation();
+    toggleMovie(m.titleId);
+    e.currentTarget.textContent = selected.has(m.titleId) ? '\u2665 Favorited' : '\u2661 Favorite';
+  });
+  hoverBtns.appendChild(favBtn);
+
+  const detailBtn = document.createElement('button');
+  detailBtn.className = 'hover-btn detail-btn';
+  detailBtn.textContent = 'Details';
+  detailBtn.addEventListener('click', e => {
+    e.stopPropagation();
+    openPopup(m.titleId);
+  });
+  hoverBtns.appendChild(detailBtn);
+
+  posterWrap.appendChild(hoverBtns);
+  cell.appendChild(posterWrap);
+
+  const titleDiv = document.createElement('div');
+  titleDiv.className = 'cell-title';
+  titleDiv.textContent = m.title;
+  cell.appendChild(titleDiv);
+
+  return cell;
+}
+
+function createRow(labelText, movies, extraClasses) {
+  const row = document.createElement('div');
+  row.className = 'year-row' + (extraClasses ? ' ' + extraClasses : '');
+
+  const label = document.createElement('div');
+  label.className = 'year-label';
+  label.textContent = labelText;
+  if (extraClasses) label.title = labelText;
+  row.appendChild(label);
+
+  const moviesDiv = document.createElement('div');
+  moviesDiv.className = 'year-movies';
+  for (const m of movies) {
+    moviesDiv.appendChild(createMovieCell(m));
+  }
+  row.appendChild(moviesDiv);
+  return row;
+}
+
 function buildGrid() {
-  // Rank header
   const header = document.getElementById('rankHeader');
   let headerHtml = '';
-  for (let r = 1; r <= MAX_RANK; r++) headerHtml += `<span>${r}</span>`;
+  for (let r = 1; r <= MAX_RANK; r++) headerHtml += '<span>' + r + '</span>';
   header.innerHTML = headerHtml;
 
   const body = document.getElementById('gridBody');
   body.innerHTML = '';
 
-  // Rows: one per year, newest first
   for (let year = END_YEAR; year >= START_YEAR; year--) {
-    const row = document.createElement('div');
-    row.className = 'year-row';
-
-    const label = document.createElement('div');
-    label.className = 'year-label';
-    label.textContent = year;
-    row.appendChild(label);
-
-    const moviesDiv = document.createElement('div');
-    moviesDiv.className = 'year-movies';
-
     const movies = allData[year]?.movies || [];
     const byRank = {};
     movies.forEach(m => { byRank[m.rank] = m; });
 
+    const ranked = [];
     for (let r = 1; r <= MAX_RANK; r++) {
-      const m = byRank[r];
-      if (!m) continue;
-
-      const cell = document.createElement('div');
-      cell.className = 'cell' + (selected.has(m.titleId) ? ' selected' : '');
-      cell.dataset.id = m.titleId;
-      cell.title = m.title;
-      const isSelected = selected.has(m.titleId);
-      cell.innerHTML = `
-        <div class="poster-wrap">
-          <img src="${posterUrl(m.poster?.url, 432)}" alt="" loading="lazy">
-          ${m.imdbRating ? `<span class="rating-pip">${m.imdbRating}</span>` : ''}
-          <div class="hover-btns">
-            <button class="hover-btn fav-btn">${isSelected ? '♥ Favorited' : '♡ Favorite'}</button>
-            <button class="hover-btn detail-btn">Details</button>
-          </div>
-        </div>
-        <div class="cell-title">${escapeHtml(m.title)}</div>
-      `;
-      cell.querySelector('.fav-btn').addEventListener('click', e => {
-        e.stopPropagation();
-        toggleMovie(m.titleId);
-        e.currentTarget.textContent = selected.has(m.titleId) ? '♥ Favorited' : '♡ Favorite';
-      });
-      cell.querySelector('.detail-btn').addEventListener('click', e => {
-        e.stopPropagation();
-        openPopup(m.titleId);
-      });
-      moviesDiv.appendChild(cell);
+      if (byRank[r]) ranked.push(byRank[r]);
     }
 
-    row.appendChild(moviesDiv);
-    body.appendChild(row);
+    body.appendChild(createRow(year, ranked));
   }
 
-  // List rows
   for (const [name, movies] of Object.entries(listData)) {
-    const row = document.createElement('div');
-    row.className = 'year-row list-row';
-
-    const label = document.createElement('div');
-    label.className = 'year-label';
-    label.textContent = name;
-    label.title = name;
-    row.appendChild(label);
-
-    const moviesDiv = document.createElement('div');
-    moviesDiv.className = 'year-movies';
-
-    for (const m of movies) {
-      const cell = document.createElement('div');
-      cell.className = 'cell' + (selected.has(m.titleId) ? ' selected' : '');
-      cell.dataset.id = m.titleId;
-      cell.title = m.title;
-      const isSelected = selected.has(m.titleId);
-      cell.innerHTML = `
-        <div class="poster-wrap">
-          <img src="${posterUrl(m.poster?.url, 432)}" alt="" loading="lazy">
-          ${m.imdbRating ? `<span class="rating-pip">${m.imdbRating}</span>` : ''}
-          <div class="hover-btns">
-            <button class="hover-btn fav-btn">${isSelected ? '♥ Favorited' : '♡ Favorite'}</button>
-            <button class="hover-btn detail-btn">Details</button>
-          </div>
-        </div>
-        <div class="cell-title">${escapeHtml(m.title)}</div>
-      `;
-      cell.querySelector('.fav-btn').addEventListener('click', e => {
-        e.stopPropagation();
-        toggleMovie(m.titleId);
-        e.currentTarget.textContent = selected.has(m.titleId) ? '♥ Favorited' : '♡ Favorite';
-      });
-      cell.querySelector('.detail-btn').addEventListener('click', e => {
-        e.stopPropagation();
-        openPopup(m.titleId);
-      });
-      moviesDiv.appendChild(cell);
-    }
-
-    row.appendChild(moviesDiv);
-    body.appendChild(row);
+    body.appendChild(createRow(name, movies, 'list-row'));
   }
 }
 
 // --- CSV export ---
 function buildCSV() {
+  const allMovies = [
+    ...Object.values(allData).flatMap(d => d.movies),
+    ...Object.values(listData).flat(),
+  ];
+  const rows = allMovies.filter(m => selected.has(m.titleId));
+
   let csv = 'year,rank,title,imdb_score,num_ratings\n';
-  const rows = [];
-  for (let year = START_YEAR; year <= END_YEAR; year++) {
-    const movies = allData[year]?.movies || [];
-    movies.forEach(m => {
-      if (selected.has(m.titleId)) {
-        rows.push(m);
-      }
-    });
+  for (const m of rows) {
+    const title = m.title.includes(',') ? '"' + m.title.replace(/"/g, '""') + '"' : m.title;
+    csv += m.year + ',' + (m.rank || '') + ',' + title + ',' + (m.imdbRating || '') + ',' + (m.numVotes || '') + '\n';
   }
-  for (const [name, movies] of Object.entries(listData)) {
-    movies.forEach(m => {
-      if (selected.has(m.titleId)) {
-        rows.push(m);
-      }
-    });
-  }
-  rows.forEach(m => {
-    const title = m.title.includes(',') ? `"${m.title.replace(/"/g, '""')}"` : m.title;
-    csv += `${m.year},${m.rank || ''},${title},${m.imdbRating || ''},${m.numVotes || ''}\n`;
-  });
   return csv;
 }
 
@@ -810,8 +793,37 @@ function toggleFilterPanel() {
   btn.classList.toggle('active');
 }
 
+function populateFilterList(container, entries, activeSet) {
+  container.innerHTML = '';
+  for (const [value, count] of entries) {
+    const label = document.createElement('label');
+    label.className = 'genre-item';
+
+    const cb = document.createElement('input');
+    cb.type = 'checkbox';
+    cb.value = value;
+    cb.checked = activeSet.has(value);
+    cb.addEventListener('change', () => {
+      if (cb.checked) activeSet.add(value);
+      else activeSet.delete(value);
+      applyFilters();
+    });
+
+    const nameSpan = document.createElement('span');
+    nameSpan.textContent = value;
+
+    const countSpan = document.createElement('span');
+    countSpan.className = 'genre-count';
+    countSpan.textContent = count;
+
+    label.appendChild(cb);
+    label.appendChild(nameSpan);
+    label.appendChild(countSpan);
+    container.appendChild(label);
+  }
+}
+
 function buildFilterLists() {
-  // Collect genres and ratings with counts
   allGenres = {};
   allRatings = {};
   const allMovieSources = [
@@ -827,7 +839,6 @@ function buildFilterLists() {
     }
   }
 
-  // Rating list
   const ratingOrder = ['G', 'PG', 'PG-13', 'R', 'NC-17'];
   const ratingsSorted = Object.entries(allRatings).sort((a, b) => {
     const ai = ratingOrder.indexOf(a[0]), bi = ratingOrder.indexOf(b[0]);
@@ -836,47 +847,10 @@ function buildFilterLists() {
     if (bi !== -1) return 1;
     return b[1] - a[1];
   });
-  const ratingList = document.getElementById('ratingList');
-  ratingList.innerHTML = '';
-  for (const [rating, count] of ratingsSorted) {
-    const label = document.createElement('label');
-    label.className = 'genre-item';
-    label.innerHTML = `
-      <input type="checkbox" value="${escapeHtml(rating)}">
-      <span>${escapeHtml(rating)}</span>
-      <span class="genre-count">${count}</span>
-    `;
-    const ratingCb = label.querySelector('input');
-    ratingCb.checked = activeRatings.has(rating);
-    ratingCb.addEventListener('change', e => {
-      if (e.target.checked) activeRatings.add(rating);
-      else activeRatings.delete(rating);
-      applyFilters();
-    });
-    ratingList.appendChild(label);
-  }
+  populateFilterList(document.getElementById('ratingList'), ratingsSorted, activeRatings);
 
-  // Genre list
   const genresSorted = Object.entries(allGenres).sort((a, b) => b[1] - a[1]);
-  const genreList = document.getElementById('genreList');
-  genreList.innerHTML = '';
-  for (const [genre, count] of genresSorted) {
-    const label = document.createElement('label');
-    label.className = 'genre-item';
-    label.innerHTML = `
-      <input type="checkbox" value="${escapeHtml(genre)}">
-      <span>${escapeHtml(genre)}</span>
-      <span class="genre-count">${count}</span>
-    `;
-    const genreCb = label.querySelector('input');
-    genreCb.checked = activeGenres.has(genre);
-    genreCb.addEventListener('change', e => {
-      if (e.target.checked) activeGenres.add(genre);
-      else activeGenres.delete(genre);
-      applyFilters();
-    });
-    genreList.appendChild(label);
-  }
+  populateFilterList(document.getElementById('genreList'), genresSorted, activeGenres);
 }
 
 function clearGenreFilter() {

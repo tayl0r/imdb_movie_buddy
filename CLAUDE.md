@@ -21,7 +21,8 @@ scrape_imdb.py → data/*.json → index.html (browse/select) → lists/want_to_
 
 ### Scripts
 
-- **`scrape_imdb.py`** — Scrapes IMDB top 50 most-voted movies per year (1980–2025). Parses `__NEXT_DATA__` JSON from HTML. Writes `data/{year}.json`. Skips existing years.
+- **`imdb_utils.py`** — Shared IMDB library: HTTP fetching, `__NEXT_DATA__` JSON extraction, movie item parsing. Used by all three scraper scripts.
+- **`scrape_imdb.py`** — Scrapes IMDB top 50 most-voted movies per year (1980–2025). Writes `data/{year}.json`. Skips existing years.
 - **`scrape_imdb_list.py`** — Scrapes a custom IMDB list URL → `lists/{name}.csv`
 - **`lookup_imdb.py`** — Enriches a CSV with full IMDB metadata for movies not already in `data/`
 - **`search_iptorrents.py`** — Searches IPTorrents for a movie, ranks results (prefers smallest 1080p x265 under 4 GB), downloads `.torrent` file. Also supports `--csv` batch mode.

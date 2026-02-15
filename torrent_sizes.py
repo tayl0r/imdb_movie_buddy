@@ -73,11 +73,12 @@ def main():
     for fn in os.listdir(torrents_dir):
         if not fn.endswith('.torrent'):
             continue
+        name = fn[:-len('.torrent')]
         sz = torrent_size(os.path.join(torrents_dir, fn))
         if sz is not None:
-            sizes.append((sz, fn[:-len('.torrent')]))
+            sizes.append((sz, name))
         else:
-            invalid.append(fn[:-len('.torrent')])
+            invalid.append(name)
 
     sizes.sort(reverse=True)
     total = sum(s for s, _ in sizes)

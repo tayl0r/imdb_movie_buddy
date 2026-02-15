@@ -43,10 +43,8 @@ def load_cookie():
                 continue
             key, _, value = line.partition("=")
             if key.strip() == "IPTORRENTS_COOKIE":
-                # Strip surrounding quotes if present
                 value = value.strip()
-                if (value.startswith('"') and value.endswith('"')) or \
-                   (value.startswith("'") and value.endswith("'")):
+                if len(value) >= 2 and value[0] == value[-1] and value[0] in "\"'":
                     value = value[1:-1]
                 return value
 
@@ -132,16 +130,6 @@ def parse_results(page_html):
 MAX_SIZE_BYTES = 4 * 1024**3  # 4 GB
 
 
-def _pick_best(candidates, label):
-    """From a list of (tier_candidates, tier_label) tuples, pick smallest in first non-empty tier."""
-    for tier, tier_label in candidates:
-        if tier:
-            best = min(tier, key=lambda r: r["size_bytes"])
-            print(f"Selected ({label} {tier_label}, {best['size_str']}): {best['name']}")
-            return best
-    return None
-
-
 def rank_results(results, movie_name="", year=""):
     """Pick the best torrent under 4 GB. Prefers 1080p, falls back to 720p."""
     buckets = {"1080p": {"x265": [], "x264": [], "other": []},
@@ -164,12 +152,14 @@ def rank_results(results, movie_name="", year=""):
                     buckets[res]["other"].append(r)
                 break
 
-    # Try 1080p first, then 720p. Within each: x265 → x264 → largest other.
+    # Try 1080p first, then 720p. Within each: smallest x265 → smallest x264 → largest other.
     for res in ("1080p", "720p"):
         b = buckets[res]
-        best = _pick_best([(b["x265"], "x265"), (b["x264"], "x264")], res)
-        if best:
-            return best
+        for codec in ("x265", "x264"):
+            if b[codec]:
+                best = min(b[codec], key=lambda r: r["size_bytes"])
+                print(f"Selected ({res} {codec}, {best['size_str']}): {best['name']}")
+                return best
         if b["other"]:
             best = max(b["other"], key=lambda r: r["size_bytes"])
             print(f"Selected ({res} best-available, {best['size_str']}): {best['name']}")
@@ -238,52 +228,52 @@ def search_and_download(movie_name, year, cookie):
     return (f"{movie_name} ({year})", "ok")
 
 
+def usage():
+    print(f"Usage: {sys.argv[0]} <movie_name> <year>", file=sys.stderr)
+    print(f"       {sys.argv[0]} --csv <file.csv>", file=sys.stderr)
+    sys.exit(1)
+
+
+def run_csv(csv_path, cookie):
+    import csv
+    import time
+
+    with open(csv_path) as f:
+        rows = list(csv.DictReader(f))
+
+    failed = []
+    succeeded = 0
+    for i, row in enumerate(rows):
+        title = row["title"]
+        year = row["year"]
+        print(f"\n--- [{i+1}/{len(rows)}] {title} ({year}) ---")
+        _, status = search_and_download(title, year, cookie)
+        if status == "ok":
+            succeeded += 1
+        else:
+            failed.append((f"{title} ({year})", status))
+        if i < len(rows) - 1:
+            time.sleep(1)
+
+    print(f"\n{'='*60}")
+    print(f"SUMMARY: {succeeded} downloaded, {len(failed)} failed out of {len(rows)} total")
+    if failed:
+        print(f"\nFailed movies:")
+        for title, reason in failed:
+            print(f"  - {title}: {reason}")
+    print(f"{'='*60}")
+
+
 def main():
-    if len(sys.argv) < 2:
-        print(f"Usage: {sys.argv[0]} <movie_name> <year>", file=sys.stderr)
-        print(f"       {sys.argv[0]} --csv <file.csv>", file=sys.stderr)
-        sys.exit(1)
+    if len(sys.argv) < 3:
+        usage()
 
     cookie = load_cookie()
 
     if sys.argv[1] == "--csv":
-        if len(sys.argv) < 3:
-            print(f"Usage: {sys.argv[0]} --csv <file.csv>", file=sys.stderr)
-            sys.exit(1)
-        import csv
-        import time
-        csv_path = sys.argv[2]
-        failed = []
-        succeeded = 0
-        with open(csv_path) as f:
-            reader = csv.DictReader(f)
-            rows = list(reader)
-        for i, row in enumerate(rows):
-            title = row["title"]
-            year = row["year"]
-            print(f"\n--- [{i+1}/{len(rows)}] {title} ({year}) ---")
-            _, status = search_and_download(title, year, cookie)
-            if status == "ok":
-                succeeded += 1
-            else:
-                failed.append((f"{title} ({year})", status))
-            if i < len(rows) - 1:
-                time.sleep(1)
-
-        print(f"\n{'='*60}")
-        print(f"SUMMARY: {succeeded} downloaded, {len(failed)} failed out of {len(rows)} total")
-        if failed:
-            print(f"\nFailed movies:")
-            for title, reason in failed:
-                print(f"  - {title}: {reason}")
-        print(f"{'='*60}")
+        run_csv(sys.argv[2], cookie)
     else:
-        if len(sys.argv) < 3:
-            print(f"Usage: {sys.argv[0]} <movie_name> <year>", file=sys.stderr)
-            sys.exit(1)
-        movie_name = sys.argv[1]
-        year = sys.argv[2]
-        _, status = search_and_download(movie_name, year, cookie)
+        _, status = search_and_download(sys.argv[1], sys.argv[2], cookie)
         if status != "ok":
             sys.exit(1)
 

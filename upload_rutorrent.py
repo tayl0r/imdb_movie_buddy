@@ -87,13 +87,14 @@ def get_download_dir(filename, movies):
     """Determine the download directory for a torrent file."""
     movie = match_movie(filename, movies)
     if movie is None:
-        print(f"  WARNING: No movie match found, defaulting to Movies")
+        print("  WARNING: No movie match found, defaulting to Movies")
         return MOVIES_DIR
-    if is_kids_movie(movie):
-        print(f"  Category: Kids Movies ({movie['title']} {movie['year']} — {', '.join(movie.get('genres', []))}/{movie.get('certificate', '?')})")
-        return KIDS_DIR
-    print(f"  Category: Movies ({movie['title']} {movie['year']} — {', '.join(movie.get('genres', []))}/{movie.get('certificate', '?')})")
-    return MOVIES_DIR
+    kids = is_kids_movie(movie)
+    category = "Kids Movies" if kids else "Movies"
+    genres = ', '.join(movie.get('genres', []))
+    cert = movie.get('certificate', '?')
+    print(f"  Category: {category} ({movie['title']} {movie['year']} — {genres}/{cert})")
+    return KIDS_DIR if kids else MOVIES_DIR
 
 
 def upload_torrent(filepath, url, username, password, download_dir=None):
@@ -104,28 +105,23 @@ def upload_torrent(filepath, url, username, password, download_dir=None):
     with open(filepath, "rb") as f:
         file_data = f.read()
 
-    parts = []
-
-    # Torrent file part
-    parts.append(
+    file_header = (
         f"--{boundary}\r\n"
         f'Content-Disposition: form-data; name="torrent_file"; filename="{filename}"\r\n'
         f"Content-Type: application/octet-stream\r\n"
         f"\r\n"
     )
-    file_part = parts[0].encode() + file_data + b"\r\n"
+    body = file_header.encode() + file_data + b"\r\n"
 
-    # Download directory part
-    dir_part = b""
     if download_dir:
-        dir_part = (
+        body += (
             f"--{boundary}\r\n"
             f'Content-Disposition: form-data; name="dir_edit"\r\n'
             f"\r\n"
             f"{download_dir}\r\n"
         ).encode()
 
-    body = file_part + dir_part + f"--{boundary}--\r\n".encode()
+    body += f"--{boundary}--\r\n".encode()
 
     endpoint = f"{url.rstrip('/')}/php/addtorrent.php"
     credentials = base64.b64encode(f"{username}:{password}".encode()).decode()
@@ -196,7 +192,7 @@ def main():
             mark_uploaded(uploaded_path, filename)
             uploaded.add(filename)
             uploaded_count += 1
-            print(f"  OK")
+            print("  OK")
         else:
             failed_count += 1
 
