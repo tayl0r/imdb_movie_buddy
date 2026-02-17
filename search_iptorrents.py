@@ -11,19 +11,12 @@ import urllib.error
 import urllib.parse
 import urllib.request
 
+from env_utils import load_env
+from imdb_utils import HEADERS
 from torrent_utils import title_matches
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 TORRENTS_DIR = os.path.join(SCRIPT_DIR, "torrents")
-
-HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/120.0.0.0 Safari/537.36"
-    ),
-    "Accept-Language": "en-US,en;q=0.9",
-}
 
 # Category IDs: Movies (all sub-categories on IPTorrents)
 SEARCH_URL = "https://iptorrents.com/t?7;100;87;48;77;90;101;62;89;38;96;6;54;68;20;q={query};o=completed#torrents"
@@ -31,25 +24,12 @@ SEARCH_URL = "https://iptorrents.com/t?7;100;87;48;77;90;101;62;89;38;96;6;54;68
 
 def load_cookie():
     """Read IPTORRENTS_COOKIE from .env file."""
-    env_path = os.path.join(SCRIPT_DIR, ".env")
-    if not os.path.exists(env_path):
-        print("ERROR: .env file not found. Create it with IPTORRENTS_COOKIE.", file=sys.stderr)
+    env = load_env()
+    cookie = env.get("IPTORRENTS_COOKIE")
+    if not cookie:
+        print("ERROR: IPTORRENTS_COOKIE not found in .env file.", file=sys.stderr)
         sys.exit(1)
-
-    with open(env_path) as f:
-        for line in f:
-            line = line.strip()
-            if line.startswith("#") or "=" not in line:
-                continue
-            key, _, value = line.partition("=")
-            if key.strip() == "IPTORRENTS_COOKIE":
-                value = value.strip()
-                if len(value) >= 2 and value[0] == value[-1] and value[0] in "\"'":
-                    value = value[1:-1]
-                return value
-
-    print("ERROR: IPTORRENTS_COOKIE not found in .env file.", file=sys.stderr)
-    sys.exit(1)
+    return cookie
 
 
 def fetch_search(query, cookie):
@@ -219,12 +199,16 @@ def download_torrent(download_path, name, cookie):
     return filepath
 
 
-def search_and_download(movie_name, year, cookie):
-    """Search for a movie and download the best torrent. Returns (title, status)."""
-    # Replace punctuation with spaces (not strip) so "X-Men" becomes "X Men" not "XMen"
+def clean_search_query(movie_name, year=""):
+    """Clean a movie name for search: replace punctuation with spaces, append year."""
     clean_name = re.sub(r'[^\w\s]', ' ', movie_name)
     clean_name = re.sub(r'\s+', ' ', clean_name).strip()
-    query = f"{clean_name} {year}"
+    return f"{clean_name} {year}".strip()
+
+
+def search_and_download(movie_name, year, cookie):
+    """Search for a movie and download the best torrent. Returns (title, status)."""
+    query = clean_search_query(movie_name, year)
 
     page_html = fetch_search(query, cookie)
 

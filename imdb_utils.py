@@ -1,8 +1,12 @@
 """Shared utilities for IMDB scraping."""
 
+import glob
 import json
+import os
 import re
 import urllib.request
+
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 
 HEADERS = {
     "User-Agent": (
@@ -75,3 +79,14 @@ def parse_movie_item(item, rank, default_year=None):
         "credits": item.get("principalCredits", []),
         "titleType": (item.get("titleType") or {}).get("id", ""),
     }
+
+
+def load_movie_data():
+    """Load all movie data from data/*.json files."""
+    movies = []
+    data_dir = os.path.join(SCRIPT_DIR, "data")
+    for path in glob.glob(os.path.join(data_dir, "*.json")):
+        with open(path) as f:
+            data = json.load(f)
+        movies.extend(data.get("movies", []))
+    return movies

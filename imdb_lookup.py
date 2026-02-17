@@ -1,27 +1,13 @@
 #!/usr/bin/env python3
 """Look up a single movie's IMDB metadata (genres, certificate) for categorization."""
 
-import glob
 import json
 import os
 import re
 import sys
 import urllib.request
 
-from imdb_utils import HEADERS, fetch_html, extract_next_data
-
-SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-DATA_DIR = os.path.join(SCRIPT_DIR, "data")
-
-
-def load_movie_data():
-    """Load all movies from data/*.json into a list."""
-    movies = []
-    for path in glob.glob(os.path.join(DATA_DIR, "*.json")):
-        with open(path) as f:
-            data = json.load(f)
-        movies.extend(data.get("movies", []))
-    return movies
+from imdb_utils import HEADERS, fetch_html, extract_next_data, load_movie_data
 
 
 def _normalize(s):

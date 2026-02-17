@@ -3,36 +3,19 @@
 
 import base64
 import glob
-import json
 import os
-import re
 import sys
 import uuid
 import urllib.request
+
+from env_utils import load_env
+from imdb_utils import load_movie_data
+from torrent_utils import title_matches
 
 KIDS_DIR = "/home/ioiuoiuio/media/Kids Movies/"
 MOVIES_DIR = "/home/ioiuoiuio/media/Movies/"
 KIDS_GENRES = {"Animation", "Family", "Comedy"}
 KIDS_CERTS = {"G", "PG"}
-
-
-def load_env():
-    """Read key=value pairs from .env file."""
-    env = {}
-    env_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), ".env")
-    if not os.path.exists(env_path):
-        return env
-    with open(env_path) as f:
-        for line in f:
-            line = line.strip()
-            if not line or line.startswith("#"):
-                continue
-            if "=" not in line:
-                continue
-            key, value = line.split("=", 1)
-            value = value.strip().strip('"').strip("'")
-            env[key.strip()] = value
-    return env
 
 
 def load_uploaded(uploaded_path):
@@ -49,29 +32,15 @@ def mark_uploaded(uploaded_path, filename):
         f.write(filename + "\n")
 
 
-def load_movie_data():
-    """Load all movie data from data/*.json files."""
-    movies = []
-    data_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data")
-    for path in glob.glob(os.path.join(data_dir, "*.json")):
-        with open(path) as f:
-            data = json.load(f)
-        movies.extend(data.get("movies", []))
-    return movies
-
-
 def match_movie(filename, movies):
-    """Match a torrent filename to a movie in the data.
-
-    Uses the same logic as download_all.py:torrent_exists() — all title words
-    must appear in the filename and the year must match.
-    """
-    fn_lower = filename.lower()
+    """Match a torrent filename to a movie in the data."""
+    name_without_ext = filename.removesuffix('.torrent')
     for movie in movies:
         title = movie.get("title", "")
-        year = str(movie.get("year", ""))
-        norm = re.sub(r'[^\w\s]', '', title).lower().split()
-        if year in fn_lower and all(w in fn_lower for w in norm):
+        year = movie.get("year")
+        if not year:
+            continue
+        if title_matches(name_without_ext, title, year, fuzzy_year=True):
             return movie
     return None
 

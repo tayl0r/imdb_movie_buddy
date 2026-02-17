@@ -9,8 +9,10 @@ import sys
 from slack_bolt import App
 from slack_bolt.adapter.socket_mode import SocketModeHandler
 
+from env_utils import load_env
 from search_iptorrents import (
     load_cookie,
+    clean_search_query,
     fetch_search,
     parse_results,
     rank_results,
@@ -21,7 +23,6 @@ from upload_rutorrent import (
     is_kids_movie,
     KIDS_DIR,
     MOVIES_DIR,
-    load_env,
 )
 from imdb_lookup import lookup_movie
 
@@ -49,9 +50,7 @@ def parse_command(text):
 
 def search_torrents(movie_name, year):
     """Search IPTorrents and return (results, query)."""
-    clean_name = re.sub(r'[^\w\s]', ' ', movie_name)
-    clean_name = re.sub(r'\s+', ' ', clean_name).strip()
-    query = f"{clean_name} {year}".strip()
+    query = clean_search_query(movie_name, year)
     page_html = fetch_search(query, COOKIE)
     results = parse_results(page_html)
     return results, query
