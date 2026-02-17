@@ -27,6 +27,7 @@ def main():
 
     skipped = 0
     downloaded = 0
+    not_found = []
 
     for movie in movies:
         title = movie["title"]
@@ -50,6 +51,10 @@ def main():
 
         if result.returncode == 0:
             downloaded += 1
+        elif result.returncode == 2:
+            # No matching torrent found — continue with next movie
+            not_found.append(f"{title} ({year})")
+            print(f"SKIPPING: no matching torrent for {title} ({year})\n")
         else:
             if result.stderr:
                 print(result.stderr, end="", file=sys.stderr)
@@ -58,7 +63,12 @@ def main():
             sys.exit(1)
 
     print(f"\n{'='*60}")
-    print(f"Done! Downloaded: {downloaded}, Skipped: {skipped}")
+    print(f"Done! Downloaded: {downloaded}, Skipped: {skipped}, Not found: {len(not_found)}")
+    if not_found:
+        print(f"\nNo matching torrents found for:")
+        for title in not_found:
+            print(f"  - {title}")
+    print(f"{'='*60}")
 
 
 if __name__ == "__main__":
