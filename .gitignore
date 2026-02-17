@@ -2,3 +2,4 @@
 *.torrent
 torrents/
 .worktrees/
+__pycache__/

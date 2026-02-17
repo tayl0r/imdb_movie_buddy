@@ -131,9 +131,10 @@ MAX_SIZE_BYTES = 4 * 1024**3  # 4 GB
 
 
 def rank_results(results, movie_name="", year=""):
-    """Pick the best torrent under 4 GB. Prefers 1080p, falls back to 720p."""
+    """Pick the best torrent under 4 GB. Prefers 1080p → 720p → any (largest)."""
     buckets = {"1080p": {"x265": [], "x264": [], "other": []},
                "720p":  {"x265": [], "x264": [], "other": []}}
+    fallback = []
 
     for r in results:
         name_lower = r["name"].lower()
@@ -142,6 +143,7 @@ def rank_results(results, movie_name="", year=""):
         if r["size_bytes"] > MAX_SIZE_BYTES:
             continue
 
+        matched_res = False
         for res in ("1080p", "720p"):
             if res in name_lower:
                 if re.search(r"x265|h\.?265|hevc", name_lower):
@@ -150,7 +152,10 @@ def rank_results(results, movie_name="", year=""):
                     buckets[res]["x264"].append(r)
                 else:
                     buckets[res]["other"].append(r)
+                matched_res = True
                 break
+        if not matched_res:
+            fallback.append(r)
 
     # Try 1080p first, then 720p. Within each: smallest x265 → smallest x264 → largest other.
     for res in ("1080p", "720p"):
@@ -164,6 +169,12 @@ def rank_results(results, movie_name="", year=""):
             best = max(b["other"], key=lambda r: r["size_bytes"])
             print(f"Selected ({res} best-available, {best['size_str']}): {best['name']}")
             return best
+
+    # Fallback: largest under 4 GB regardless of resolution/codec
+    if fallback:
+        best = max(fallback, key=lambda r: r["size_bytes"])
+        print(f"Selected (fallback, {best['size_str']}): {best['name']}")
+        return best
 
     return None
 
@@ -226,7 +237,7 @@ def search_and_download(movie_name, year, cookie):
 
     best = rank_results(results, movie_name, year)
     if not best:
-        print(f"No 1080p x265/x264 results found for: {query}")
+        print(f"No matching torrent under 4 GB found for: {query}")
         print("\nAll results:")
         for r in results:
             print(f"  {r['size_str']:>10}  {r['name']}")
@@ -283,7 +294,7 @@ def main():
     else:
         _, status = search_and_download(sys.argv[1], sys.argv[2], cookie)
         if status != "ok":
-            sys.exit(1)
+            sys.exit(2)  # exit 2 = no match (vs exit 1 = actual error)
 
 
 if __name__ == "__main__":

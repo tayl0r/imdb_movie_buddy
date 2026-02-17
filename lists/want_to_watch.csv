@@ -1,6 +1,9 @@
 year,rank,title,imdb_score,num_ratings
 1980,4,Airplane!,7.7,284492
+1980,9,Superman II,6.8,123908
+1980,13,Flash Gordon,6.5,65694
 1980,21,Popeye,5.4,37312
+1981,14,Excalibur,7.3,72272
 1982,16,The Dark Crystal,7.1,76512
 1982,26,The Secret of NIMH,7.5,49441
 1982,29,Grease 2,4.6,41014
@@ -25,7 +28,6 @@ year,rank,title,imdb_score,num_ratings
 1985,37,Better Off Dead,7.1,53352
 1986,2,Top Gun,7,545656
 1986,5,Ferris Bueller's Day Off,7.8,412672
-1986,8,Castle in the Sky,8,196340
 1986,9,Big Trouble in Little China,7.2,165504
 1986,10,Labyrinth,7.3,162887
 1986,13,Crocodile Dundee,6.7,123460
