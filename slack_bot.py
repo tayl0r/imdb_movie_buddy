@@ -33,6 +33,7 @@ COOKIE = load_cookie()
 RUTORRENT_URL = env.get("RUTORRENT_URL", "")
 RUTORRENT_USER = env.get("RUTORRENT_USERNAME", "")
 RUTORRENT_PASS = env.get("RUTORRENT_PASSWORD", "")
+ALLOWED_USER = env.get("SLACK_ALLOWED_USER", "")
 
 app = App(token=env.get("SLACK_BOT_TOKEN", ""))
 
@@ -112,16 +113,8 @@ def do_download_and_upload(download_path, torrent_name, movie_name, year):
 
 
 
-@app.command("/torrent")
-def handle_torrent(ack, command, respond):
-    """Handle /torrent slash command."""
-    ack()
-
-    text = command.get("text", "").strip()
-    if not text:
-        respond("Usage: `/torrent Movie Name [year]`")
-        return
-
+def handle_search(text, respond):
+    """Shared search logic for slash commands and DMs."""
     movie_name, year = parse_command(text)
     year_display = f" ({year})" if year else ""
     respond(f'Searching IPTorrents for "{movie_name}"{year_display}...')
@@ -180,6 +173,45 @@ def handle_torrent(ack, command, respond):
             },
         ],
     )
+
+
+@app.command("/torrent")
+def handle_torrent(ack, command, respond):
+    """Handle /torrent slash command."""
+    ack()
+
+    if ALLOWED_USER and command.get("user_id") != ALLOWED_USER:
+        respond("Sorry, this command is restricted.")
+        return
+
+    text = command.get("text", "").strip()
+    if not text:
+        respond("Usage: `/torrent Movie Name [year]`")
+        return
+
+    handle_search(text, respond)
+
+
+@app.event("message")
+def handle_dm(event, say):
+    """Handle direct messages to the bot."""
+    # Only respond to DMs (im channel type)
+    if event.get("channel_type") != "im":
+        return
+
+    # Ignore bot messages / message_changed / etc.
+    if event.get("subtype"):
+        return
+
+    if ALLOWED_USER and event.get("user") != ALLOWED_USER:
+        say("Sorry, this bot is restricted.")
+        return
+
+    text = event.get("text", "").strip()
+    if not text:
+        return
+
+    handle_search(text, say)
 
 
 @app.action("confirm_download")
