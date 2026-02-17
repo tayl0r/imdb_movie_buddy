@@ -97,13 +97,9 @@ def get_download_dir(filename, movies):
     return KIDS_DIR if kids else MOVIES_DIR
 
 
-def upload_torrent(filepath, url, username, password, download_dir=None):
-    """Upload a single .torrent file to ruTorrent. Returns True on success."""
+def upload_torrent_bytes(torrent_bytes, filename, url, username, password, download_dir=None):
+    """Upload torrent bytes to ruTorrent. Returns True on success."""
     boundary = uuid.uuid4().hex
-    filename = os.path.basename(filepath)
-
-    with open(filepath, "rb") as f:
-        file_data = f.read()
 
     file_header = (
         f"--{boundary}\r\n"
@@ -111,7 +107,7 @@ def upload_torrent(filepath, url, username, password, download_dir=None):
         f"Content-Type: application/octet-stream\r\n"
         f"\r\n"
     )
-    body = file_header.encode() + file_data + b"\r\n"
+    body = file_header.encode() + torrent_bytes + b"\r\n"
 
     if download_dir:
         body += (
@@ -146,6 +142,13 @@ def upload_torrent(filepath, url, username, password, download_dir=None):
     except urllib.error.URLError as e:
         print(f"  Connection error: {e.reason}")
         return False
+
+
+def upload_torrent(filepath, url, username, password, download_dir=None):
+    """Upload a single .torrent file to ruTorrent. Returns True on success."""
+    with open(filepath, "rb") as f:
+        file_data = f.read()
+    return upload_torrent_bytes(file_data, os.path.basename(filepath), url, username, password, download_dir)
 
 
 def main():
