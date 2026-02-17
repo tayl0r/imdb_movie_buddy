@@ -168,10 +168,8 @@ def rank_results(results, movie_name="", year=""):
     return None
 
 
-def download_torrent(download_path, name, cookie):
-    """Download .torrent file to torrents/ directory."""
-    os.makedirs(TORRENTS_DIR, exist_ok=True)
-
+def download_torrent_bytes(download_path, cookie):
+    """Download a torrent and return raw bytes. Raises RuntimeError on error."""
     url = f"https://iptorrents.com{urllib.parse.quote(download_path)}"
     headers = {**HEADERS, "Cookie": cookie}
     req = urllib.request.Request(url, headers=headers)
@@ -179,13 +177,23 @@ def download_torrent(download_path, name, cookie):
         with urllib.request.urlopen(req, timeout=30) as resp:
             data = resp.read()
     except urllib.error.HTTPError as e:
-        print(f"FATAL: HTTP {e.code} downloading torrent: {e.reason}", file=sys.stderr)
-        sys.exit(1)
+        raise RuntimeError(f"HTTP {e.code} downloading torrent: {e.reason}")
 
-    # Verify we got a real torrent file, not an HTML error page
     if not data.startswith(b'd'):
-        print(f"FATAL: Downloaded file is not a valid torrent (got HTML error page)", file=sys.stderr)
-        print(data.decode("utf-8", errors="replace"), file=sys.stderr)
+        preview = data[:500].decode("utf-8", errors="replace")
+        raise RuntimeError(f"Downloaded file is not a valid torrent (got HTML error page): {preview}")
+
+    return data
+
+
+def download_torrent(download_path, name, cookie):
+    """Download .torrent file to torrents/ directory."""
+    os.makedirs(TORRENTS_DIR, exist_ok=True)
+
+    try:
+        data = download_torrent_bytes(download_path, cookie)
+    except RuntimeError as e:
+        print(f"FATAL: {e}", file=sys.stderr)
         sys.exit(1)
 
     # Sanitize filename
