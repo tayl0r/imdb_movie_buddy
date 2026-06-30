@@ -1,0 +1,21 @@
+# Secrets — never bake into the image (injected at runtime via env_file)
+.env
+
+# data/ is the IMDB metadata cache; the bot fetches from IMDB live instead.
+data/
+lists/
+torrents/
+*.torrent
+
+.git/
+.github/
+.gitignore
+.venv/
+.worktrees/
+__pycache__/
+*.pyc
+.claude/
+*.md
+README.md
+index.html
+server.py
