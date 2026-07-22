@@ -5,6 +5,9 @@ import json
 import os
 import re
 import sys
+import threading
+import time
+import urllib.request
 
 from slack_bolt import App
 from slack_bolt.adapter.socket_mode import SocketModeHandler
@@ -35,6 +38,7 @@ RUTORRENT_URL = env.get("RUTORRENT_URL", "")
 RUTORRENT_USER = env.get("RUTORRENT_USERNAME", "")
 RUTORRENT_PASS = env.get("RUTORRENT_PASSWORD", "")
 ALLOWED_USER = env.get("SLACK_ALLOWED_USER", "")
+HEARTBEAT_URL = env.get("UPTIME_KUMA_PUSH_URL", "")
 
 app = App(token=env.get("SLACK_BOT_TOKEN", ""))
 
@@ -256,6 +260,32 @@ def handle_show_all(ack, action, respond):
 
 
 
+def start_heartbeat(url, interval=60):
+    """Push a liveness heartbeat to Uptime Kuma every `interval` seconds.
+
+    A dead-man's switch: this is a socket-mode worker with no inbound port, so
+    Uptime Kuma can't poll it — instead the bot pushes out. If the process dies,
+    crash-loops, or wedges, the pushes stop and Kuma fires its Telegram alert
+    after the monitor's grace window. `restart: unless-stopped` handles the
+    actual restart-on-crash; this exists so we *find out* when it happens.
+
+    No-ops when UPTIME_KUMA_PUSH_URL is unset (local dev, tests, anyone running
+    without the monitor configured), so the bot behaves identically without it.
+    """
+    if not url:
+        return
+
+    def _loop():
+        while True:
+            try:
+                urllib.request.urlopen(url, timeout=10)
+            except Exception as e:
+                print(f"Heartbeat push failed: {e}", file=sys.stderr)
+            time.sleep(interval)
+
+    threading.Thread(target=_loop, daemon=True).start()
+
+
 def main():
     bot_token = env.get("SLACK_BOT_TOKEN", "")
     app_token = env.get("SLACK_APP_TOKEN", "")
@@ -269,6 +299,7 @@ def main():
         sys.exit(1)
 
     print("Starting Slack bot (socket mode)...")
+    start_heartbeat(HEARTBEAT_URL)
     handler = SocketModeHandler(app, app_token)
     handler.start()
 
