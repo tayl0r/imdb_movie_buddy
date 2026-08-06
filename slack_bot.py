@@ -20,12 +20,15 @@ from search_iptorrents import (
     parse_results,
     rank_results,
     download_torrent_bytes,
+    parse_episode_spec,
+    search_tv_episode,
 )
 from upload_rutorrent import (
     upload_torrent_bytes,
     is_kids_movie,
     KIDS_DIR,
     MOVIES_DIR,
+    TV_SHOWS_DIR,
 )
 from imdb_lookup import lookup_movie
 
@@ -50,6 +53,26 @@ def parse_command(text):
     if match:
         return match.group(1).strip(), match.group(2)
     return text, ""
+
+
+def parse_tv_command(text):
+    """Parse TV command: '<show name> S<season> <episode count>'
+
+    Args:
+        text: e.g. "House S01 5" or "The Office s02 3"
+
+    Returns:
+        tuple (show_name, season, num_episodes) or (None, None, None) on parse error
+    """
+    text = text.strip()
+    # Match: anything, then SXX (or sXX), then number
+    match = re.match(r'^(.+?)\s+[Ss](\d{1,2})\s+(\d+)\s*$', text)
+    if match:
+        show_name = match.group(1).strip()
+        season = match.group(2)  # Keep as string for zfill in parse_episode_spec
+        num_episodes = int(match.group(3))
+        return show_name, season, num_episodes
+    return None, None, None
 
 
 def search_torrents(movie_name, year):
@@ -114,6 +137,47 @@ def do_download_and_upload(download_path, torrent_name, movie_name, year):
     cert = movie_data.get('certificate', '?') if movie_data else '?'
     return f'Uploaded *{torrent_name}* as *{category}*\n{genres} / {cert}'
 
+
+def do_tv_download_and_upload(show_name, episode_specs):
+    """Download and upload multiple TV episode torrents.
+
+    Args:
+        show_name: e.g. "House"
+        episode_specs: list of "S01E01", "S01E02", etc.
+
+    Returns:
+        (success: bool, message: str)
+    """
+    uploaded = []
+    for episode_spec in episode_specs:
+        # Search for this episode
+        best = search_tv_episode(show_name, episode_spec, COOKIE)
+        if not best:
+            return False, f"No match found for {show_name} {episode_spec}"
+
+        # Download torrent bytes
+        try:
+            torrent_bytes = download_torrent_bytes(best["download_path"], COOKIE)
+        except RuntimeError as e:
+            return False, f"Download failed for {episode_spec}: {e}"
+
+        # Build filename: Show.Name.S01E01.torrent
+        safe_show = re.sub(r'[^\w\s\-]', '', show_name)[:100].strip()
+        filename = f"{safe_show}.{episode_spec}.torrent"
+
+        # Upload to TV Shows directory
+        success = upload_torrent_bytes(
+            torrent_bytes, filename,
+            RUTORRENT_URL, RUTORRENT_USER, RUTORRENT_PASS,
+            download_dir=TV_SHOWS_DIR,
+        )
+
+        if not success:
+            return False, f"Upload failed for {episode_spec}"
+
+        uploaded.append(episode_spec)
+
+    return True, f"Uploaded {len(uploaded)} episodes: {', '.join(uploaded)}"
 
 
 def handle_search(text, respond):
@@ -193,6 +257,36 @@ def handle_torrent(ack, command, respond):
         return
 
     handle_search(text, respond)
+
+
+@app.command("/tv")
+def handle_tv(ack, command, respond):
+    """Handle /tv slash command for TV episode downloads."""
+    ack()
+
+    if ALLOWED_USER and command.get("user_id") != ALLOWED_USER:
+        respond("Sorry, this command is restricted.")
+        return
+
+    text = command.get("text", "").strip()
+    if not text:
+        respond("Usage: `/tv Show Name SXX N` (e.g., `/tv House S01 5`)")
+        return
+
+    show_name, season, num_episodes = parse_tv_command(text)
+    if show_name is None:
+        respond("Usage: `/tv Show Name SXX N` (e.g., `/tv House S01 5`)")
+        return
+
+    respond(f'Searching IPTorrents for {show_name} Season {season}, {num_episodes} episodes...')
+
+    episode_specs = parse_episode_spec(season, num_episodes)
+    success, message = do_tv_download_and_upload(show_name, episode_specs)
+
+    if success:
+        respond(message)
+    else:
+        respond(f"Failed: {message}")
 
 
 @app.event("message")
