@@ -53,10 +53,18 @@ def load_cookie():
     return cookie
 
 
-def fetch_search(query, cookie):
-    """Fetch IPTorrents search results page."""
+def fetch_search(query, cookie, url_template=None):
+    """Fetch IPTorrents search results page.
+
+    Args:
+        query: search query string
+        cookie: auth cookie
+        url_template: optional URL template with {query} placeholder (defaults to SEARCH_URL)
+    """
+    if url_template is None:
+        url_template = SEARCH_URL
     encoded = urllib.parse.quote(query)
-    url = SEARCH_URL.format(query=encoded)
+    url = url_template.format(query=encoded)
     print(f"Searching: {url}")
 
     headers = {**HEADERS, "Cookie": cookie, "Accept-Encoding": "gzip, deflate"}
@@ -131,8 +139,20 @@ def parse_results(page_html):
 MAX_SIZE_BYTES = 4 * 1024**3  # 4 GB
 
 
-def rank_results(results, movie_name="", year=""):
-    """Pick the best torrent under 4 GB. Prefers 1080p → 720p → any (largest)."""
+def rank_results(results, movie_name="", year="", max_size_bytes=None):
+    """Pick the best torrent. Prefers 1080p → 720p → any (largest).
+
+    Args:
+        results: list of result dicts from parse_results()
+        movie_name: optional title for matching
+        year: optional year for matching
+        max_size_bytes: max file size in bytes (defaults to 4 GB)
+
+    Returns:
+        dict with best match or None if no match under size limit
+    """
+    if max_size_bytes is None:
+        max_size_bytes = MAX_SIZE_BYTES
     buckets = {"1080p": {"x265": [], "x264": [], "other": []},
                "720p":  {"x265": [], "x264": [], "other": []}}
     fallback = []
@@ -141,7 +161,7 @@ def rank_results(results, movie_name="", year=""):
         name_lower = r["name"].lower()
         if movie_name and not title_matches(r["name"], movie_name, year):
             continue
-        if r["size_bytes"] > MAX_SIZE_BYTES:
+        if r["size_bytes"] > max_size_bytes:
             continue
 
         matched_res = False
@@ -225,6 +245,31 @@ def clean_search_query(movie_name, year=""):
     clean_name = re.sub(r'[^\w\s]', ' ', movie_name)
     clean_name = re.sub(r'\s+', ' ', clean_name).strip()
     return f"{clean_name} {year}".strip()
+
+
+def search_tv_episode(show_name, episode_spec, cookie):
+	"""Search for a single TV episode and return the best match.
+
+	Args:
+		show_name: e.g. "House"
+		episode_spec: e.g. "S01E01"
+		cookie: IPTorrents auth cookie
+
+	Returns:
+		dict with keys: name, download_path, size_str, size_bytes
+		Returns None if no match found or no results under 2 GB
+	"""
+	query = clean_search_query(f"{show_name} {episode_spec}", "")
+	page_html = fetch_search(query, cookie, url_template=TV_SEARCH_URL)
+	results = parse_results(page_html)
+
+	if not results:
+		return None
+
+	# TV episodes: 2 GB ceiling, no title filtering (search already includes episode)
+	TV_MAX_SIZE = 2 * 1024**3
+	best = rank_results(results, max_size_bytes=TV_MAX_SIZE)
+	return best
 
 
 def search_and_download(movie_name, year, cookie):
