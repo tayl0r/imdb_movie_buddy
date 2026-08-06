@@ -14,6 +14,7 @@ from torrent_utils import title_matches
 
 KIDS_DIR = "/home/ioiuoiuio/media/Kids Movies/"
 MOVIES_DIR = "/home/ioiuoiuio/media/Movies/"
+TV_SHOWS_DIR = "/home/ioiuoiuio/media/TV Shows/"
 KIDS_GENRES = {"Animation", "Family", "Comedy"}
 KIDS_CERTS = {"G", "PG"}
 

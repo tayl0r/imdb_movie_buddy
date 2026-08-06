@@ -7,19 +7,37 @@ import io
 import os
 import re
 import sys
+import time
 import urllib.error
 import urllib.parse
 import urllib.request
 
 from env_utils import load_env
 from imdb_utils import HEADERS
-from torrent_utils import title_matches
+from torrent_utils import title_matches, episode_matches, sanitize_torrent_filename
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 TORRENTS_DIR = os.path.join(SCRIPT_DIR, "torrents")
 
 # Category IDs: Movies (all sub-categories on IPTorrents)
 SEARCH_URL = "https://iptorrents.com/t?7;100;87;48;77;90;101;62;89;38;96;6;54;68;20;q={query};o=completed#torrents"
+
+# TV categories (TV shows, anime, etc.)
+TV_SEARCH_URL = "https://iptorrents.com/t?24;25;26;q={query};o=completed#torrents"
+
+
+def parse_episode_spec(season, num_episodes):
+    """Parse season and episode count into list of episode specs.
+
+    Args:
+        season: str like "01" or "1"
+        num_episodes: int like 5
+
+    Returns:
+        list of strings like ["S01E01", "S01E02", ..., "S01E05"]
+    """
+    season_str = season.zfill(2)  # Ensure "01" format
+    return [f"S{season_str}E{i:02d}" for i in range(1, num_episodes + 1)]
 
 
 def load_cookie():
@@ -32,10 +50,38 @@ def load_cookie():
     return cookie
 
 
-def fetch_search(query, cookie):
-    """Fetch IPTorrents search results page."""
+# Politeness throttle: minimum seconds between IPTorrents search requests.
+# Enforced here at the single seam so every caller — the one-shot CLI search, the
+# CSV batch, and the Slack bot's per-episode TV loop — is spaced without each one
+# having to remember to sleep. Only rapid back-to-back calls actually wait.
+_MIN_SEARCH_INTERVAL = 1.0
+_last_search_time = 0.0
+
+
+def fetch_search(query, cookie, url_template=None):
+    """Fetch IPTorrents search results page.
+
+    Rate-limited to one request per _MIN_SEARCH_INTERVAL seconds across all
+    callers. Raises RuntimeError on any fetch failure (HTTP or network error) so
+    long-running callers — notably the Slack bot — can report the failure and keep
+    serving, instead of the whole process aborting via sys.exit.
+
+    Args:
+        query: search query string
+        cookie: auth cookie
+        url_template: optional URL template with {query} placeholder (defaults to SEARCH_URL)
+    """
+    global _last_search_time
+    if url_template is None:
+        url_template = SEARCH_URL
+
+    wait = _MIN_SEARCH_INTERVAL - (time.monotonic() - _last_search_time)
+    if wait > 0:
+        time.sleep(wait)
+    _last_search_time = time.monotonic()
+
     encoded = urllib.parse.quote(query)
-    url = SEARCH_URL.format(query=encoded)
+    url = url_template.format(query=encoded)
     print(f"Searching: {url}")
 
     headers = {**HEADERS, "Cookie": cookie, "Accept-Encoding": "gzip, deflate"}
@@ -47,8 +93,9 @@ def fetch_search(query, cookie):
                 data = gzip.GzipFile(fileobj=io.BytesIO(data)).read()
             return data.decode("utf-8", errors="replace")
     except urllib.error.HTTPError as e:
-        print(f"FATAL: HTTP {e.code} fetching search results: {e.reason}", file=sys.stderr)
-        sys.exit(1)
+        raise RuntimeError(f"HTTP {e.code} fetching search results: {e.reason}")
+    except urllib.error.URLError as e:
+        raise RuntimeError(f"Network error fetching search results: {e.reason}")
 
 
 def parse_size(size_str):
@@ -107,11 +154,24 @@ def parse_results(page_html):
     return results
 
 
-MAX_SIZE_BYTES = 4 * 1024**3  # 4 GB
+MAX_SIZE_BYTES = 4 * 1024**3     # 4 GB, movie default
+TV_MAX_SIZE_BYTES = 2 * 1024**3  # 2 GB, TV episode cap
 
 
-def rank_results(results, movie_name="", year=""):
-    """Pick the best torrent under 4 GB. Prefers 1080p → 720p → any (largest)."""
+def rank_results(results, movie_name="", year="", max_size_bytes=None):
+    """Pick the best torrent. Prefers 1080p → 720p → any (largest).
+
+    Args:
+        results: list of result dicts from parse_results()
+        movie_name: optional title for matching
+        year: optional year for matching
+        max_size_bytes: max file size in bytes (defaults to 4 GB)
+
+    Returns:
+        dict with best match or None if no match under size limit
+    """
+    if max_size_bytes is None:
+        max_size_bytes = MAX_SIZE_BYTES
     buckets = {"1080p": {"x265": [], "x264": [], "other": []},
                "720p":  {"x265": [], "x264": [], "other": []}}
     fallback = []
@@ -120,7 +180,7 @@ def rank_results(results, movie_name="", year=""):
         name_lower = r["name"].lower()
         if movie_name and not title_matches(r["name"], movie_name, year):
             continue
-        if r["size_bytes"] > MAX_SIZE_BYTES:
+        if r["size_bytes"] > max_size_bytes:
             continue
 
         matched_res = False
@@ -150,7 +210,7 @@ def rank_results(results, movie_name="", year=""):
             print(f"Selected ({res} best-available, {best['size_str']}): {best['name']}")
             return best
 
-    # Fallback: largest under 4 GB regardless of resolution/codec
+    # Fallback: largest under the size limit, regardless of resolution/codec
     if fallback:
         best = max(fallback, key=lambda r: r["size_bytes"])
         print(f"Selected (fallback, {best['size_str']}): {best['name']}")
@@ -188,8 +248,7 @@ def download_torrent(download_path, name, cookie):
         sys.exit(1)
 
     # Sanitize filename
-    safe_name = re.sub(r'[^\w\s\-.\(\)]', '', name)[:200].strip()
-    filename = f"{safe_name}.torrent"
+    filename = f"{sanitize_torrent_filename(name)}.torrent"
     filepath = os.path.join(TORRENTS_DIR, filename)
 
     with open(filepath, "wb") as f:
@@ -206,11 +265,43 @@ def clean_search_query(movie_name, year=""):
     return f"{clean_name} {year}".strip()
 
 
+def search_tv_episode(show_name, episode_spec, cookie):
+    """Search for a single TV episode and return the best match.
+
+    Args:
+        show_name: e.g. "House"
+        episode_spec: e.g. "S01E01"
+        cookie: IPTorrents auth cookie
+
+    Returns:
+        dict with keys: name, download_path, size_str, size_bytes
+        Returns None if no match found or no results under 2 GB
+    """
+    query = clean_search_query(f"{show_name} {episode_spec}", "")
+    page_html = fetch_search(query, cookie, url_template=TV_SEARCH_URL)
+    results = parse_results(page_html)
+
+    # Keep only torrents that are actually this show AND this episode. IPTorrents
+    # full-text search is fuzzy and can surface other shows or other episodes, and
+    # rank_results only sorts by resolution/size — without this guard the wrong
+    # show could win on size alone. Mirrors the title+year guard the movie path applies.
+    matches = [r for r in results if episode_matches(r["name"], show_name, episode_spec)]
+    if not matches:
+        return None
+
+    # TV episodes: 2 GB ceiling.
+    return rank_results(matches, max_size_bytes=TV_MAX_SIZE_BYTES)
+
+
 def search_and_download(movie_name, year, cookie):
     """Search for a movie and download the best torrent. Returns (title, status)."""
     query = clean_search_query(movie_name, year)
 
-    page_html = fetch_search(query, cookie)
+    try:
+        page_html = fetch_search(query, cookie)
+    except RuntimeError as e:
+        print(f"ERROR fetching results for {query}: {e}", file=sys.stderr)
+        return (f"{movie_name} ({year})", "fetch error")
 
     results = parse_results(page_html)
     if not results:
@@ -239,7 +330,6 @@ def usage():
 
 def run_csv(csv_path, cookie):
     import csv
-    import time
 
     with open(csv_path) as f:
         rows = list(csv.DictReader(f))
@@ -255,8 +345,6 @@ def run_csv(csv_path, cookie):
             succeeded += 1
         else:
             failed.append((f"{title} ({year})", status))
-        if i < len(rows) - 1:
-            time.sleep(1)
 
     print(f"\n{'='*60}")
     print(f"SUMMARY: {succeeded} downloaded, {len(failed)} failed out of {len(rows)} total")
