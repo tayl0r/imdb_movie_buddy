@@ -21,6 +21,27 @@ TORRENTS_DIR = os.path.join(SCRIPT_DIR, "torrents")
 # Category IDs: Movies (all sub-categories on IPTorrents)
 SEARCH_URL = "https://iptorrents.com/t?7;100;87;48;77;90;101;62;89;38;96;6;54;68;20;q={query};o=completed#torrents"
 
+# TV categories (TV shows, anime, etc.)
+TV_SEARCH_URL = "https://iptorrents.com/t?24;25;26;q={query};o=completed#torrents"
+
+
+def parse_episode_spec(season, num_episodes):
+	"""Parse season and episode count into list of episode specs.
+
+	Args:
+		season: str like "01" or "1"
+		num_episodes: int like 5
+
+	Returns:
+		list of strings like ["S01E01", "S01E02", ..., "S01E05"]
+	"""
+	season_str = season.zfill(2)  # Ensure "01" format
+	episodes = []
+	for i in range(1, num_episodes + 1):
+		ep_str = str(i).zfill(2)
+		episodes.append(f"S{season_str}E{ep_str}")
+	return episodes
+
 
 def load_cookie():
     """Read IPTORRENTS_COOKIE from .env file."""
