@@ -31,6 +31,7 @@ from upload_rutorrent import (
     TV_SHOWS_DIR,
 )
 from imdb_lookup import lookup_movie
+from torrent_utils import sanitize_torrent_filename
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 
@@ -42,6 +43,11 @@ RUTORRENT_USER = env.get("RUTORRENT_USERNAME", "")
 RUTORRENT_PASS = env.get("RUTORRENT_PASSWORD", "")
 ALLOWED_USER = env.get("SLACK_ALLOWED_USER", "")
 HEARTBEAT_URL = env.get("UPTIME_KUMA_PUSH_URL", "")
+
+# Upper bound on episodes per /tv request. Guards against a typo like "S01 500"
+# firing hundreds of sequential IPTorrents searches. Generous enough for any real
+# season, including long anime cours.
+MAX_TV_EPISODES = 50
 
 app = App(token=env.get("SLACK_BOT_TOKEN", ""))
 
@@ -121,8 +127,7 @@ def do_download_and_upload(download_path, torrent_name, movie_name, year):
         download_dir = MOVIES_DIR
 
     # Build filename
-    safe_name = re.sub(r'[^\w\s\-.\(\)]', '', torrent_name)[:200].strip()
-    filename = f"{safe_name}.torrent"
+    filename = f"{sanitize_torrent_filename(torrent_name)}.torrent"
 
     success = upload_torrent_bytes(
         torrent_bytes, filename,
@@ -139,45 +144,60 @@ def do_download_and_upload(download_path, torrent_name, movie_name, year):
 
 
 def do_tv_download_and_upload(show_name, episode_specs):
-    """Download and upload multiple TV episode torrents.
+    """Download and upload TV episode torrents, best-effort.
+
+    Each episode is searched, downloaded, and uploaded independently. A failure on
+    one episode (no match, download error, upload error, or a transient search
+    error) is recorded and the loop continues, so a single gap in a season doesn't
+    abort the rest. The returned message always reports exactly what was uploaded
+    and what failed, so partial progress is visible instead of a bare "failed on
+    S01E03" that hides the episodes already uploaded.
 
     Args:
         show_name: e.g. "House"
         episode_specs: list of "S01E01", "S01E02", etc.
 
     Returns:
-        (success: bool, message: str)
+        (all_succeeded: bool, message: str)
     """
     uploaded = []
+    failed = []  # (episode_spec, reason)
     for episode_spec in episode_specs:
-        # Search for this episode
-        best = search_tv_episode(show_name, episode_spec, COOKIE)
-        if not best:
-            return False, f"No match found for {show_name} {episode_spec}"
+        try:
+            best = search_tv_episode(show_name, episode_spec, COOKIE)
+        except RuntimeError as e:
+            failed.append((episode_spec, f"search error: {e}"))
+            continue
 
-        # Download torrent bytes
+        if not best:
+            failed.append((episode_spec, "no match found"))
+            continue
+
         try:
             torrent_bytes = download_torrent_bytes(best["download_path"], COOKIE)
         except RuntimeError as e:
-            return False, f"Download failed for {episode_spec}: {e}"
+            failed.append((episode_spec, f"download failed: {e}"))
+            continue
 
         # Build filename: Show.Name.S01E01.torrent
-        safe_show = re.sub(r'[^\w\s\-]', '', show_name)[:100].strip()
-        filename = f"{safe_show}.{episode_spec}.torrent"
-
-        # Upload to TV Shows directory
-        success = upload_torrent_bytes(
+        filename = f"{sanitize_torrent_filename(show_name)}.{episode_spec}.torrent"
+        ok = upload_torrent_bytes(
             torrent_bytes, filename,
             RUTORRENT_URL, RUTORRENT_USER, RUTORRENT_PASS,
             download_dir=TV_SHOWS_DIR,
         )
+        if ok:
+            uploaded.append(episode_spec)
+        else:
+            failed.append((episode_spec, "upload failed"))
 
-        if not success:
-            return False, f"Upload failed for {episode_spec}"
-
-        uploaded.append(episode_spec)
-
-    return True, f"Uploaded {len(uploaded)} episodes: {', '.join(uploaded)}"
+    total = len(episode_specs)
+    summary = f"Uploaded {len(uploaded)}/{total}"
+    summary += f": {', '.join(uploaded)}" if uploaded else " episodes."
+    lines = [summary]
+    if failed:
+        lines.append("Failed: " + ', '.join(f"{ep} ({reason})" for ep, reason in failed))
+    return (not failed), "\n".join(lines)
 
 
 def handle_search(text, respond):
@@ -269,24 +289,20 @@ def handle_tv(ack, command, respond):
         return
 
     text = command.get("text", "").strip()
-    if not text:
-        respond("Usage: `/tv Show Name SXX N` (e.g., `/tv House S01 5`)")
-        return
-
     show_name, season, num_episodes = parse_tv_command(text)
     if show_name is None:
         respond("Usage: `/tv Show Name SXX N` (e.g., `/tv House S01 5`)")
         return
 
+    if not 1 <= num_episodes <= MAX_TV_EPISODES:
+        respond(f"Number of episodes must be between 1 and {MAX_TV_EPISODES}.")
+        return
+
     respond(f'Searching IPTorrents for {show_name} Season {season}, {num_episodes} episodes...')
 
     episode_specs = parse_episode_spec(season, num_episodes)
-    success, message = do_tv_download_and_upload(show_name, episode_specs)
-
-    if success:
-        respond(message)
-    else:
-        respond(f"Failed: {message}")
+    _, message = do_tv_download_and_upload(show_name, episode_specs)
+    respond(message)
 
 
 @app.event("message")
@@ -351,6 +367,30 @@ def handle_show_all(ack, action, respond):
     for i, r in enumerate(results[:20]):
         lines.append(f"{i+1}. {r['name']} — {r['size_str']}")
     respond(text="\n".join(lines))
+
+
+@app.error
+def handle_uncaught_error(error, logger, respond=None, say=None):
+    """Global safety net for any unhandled error raised by a listener.
+
+    Every /command, action, and DM handler inherits this, so a failure that isn't
+    caught locally — e.g. an IPTorrents search raising RuntimeError — is reported
+    back to the user and logged, instead of vanishing silently in a worker thread
+    (SystemExit/BaseException from a listener is swallowed by the thread pool and
+    the user just sees the "Searching..." message never get a reply). Prefers
+    respond() (slash commands, button actions); falls back to say() for DMs, which
+    have no response_url.
+    """
+    logger.exception(f"Unhandled listener error: {error}")
+    message = f"Something went wrong: {error}"
+    for notify in (respond, say):
+        if notify is None:
+            continue
+        try:
+            notify(message)
+            return
+        except Exception:
+            continue
 
 
 

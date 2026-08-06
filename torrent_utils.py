@@ -12,6 +12,19 @@ def _normalize(s):
     return re.sub(r'\s+', ' ', s).strip()
 
 
+def sanitize_torrent_filename(name, max_len=200):
+    """Sanitize a torrent/show name into a safe .torrent filename stem.
+
+    Strips characters that could break the ruTorrent multipart upload header or a
+    local filename (quotes, slashes, control chars, etc.), caps the length, and
+    trims surrounding whitespace. Keeps word chars, spaces, hyphens, dots, and
+    parentheses so names stay readable. The caller appends the extension (and,
+    for TV, the episode spec). Only a literal space is kept, not arbitrary
+    whitespace, so tabs/newlines can't be smuggled into the upload header.
+    """
+    return re.sub(r'[^\w \-.()]', '', name)[:max_len].strip()
+
+
 def title_matches(torrent_name, movie_name, year, fuzzy_year=False):
     """Check that the torrent name contains all significant title words and the year."""
     name_norm = _normalize(torrent_name)
@@ -35,6 +48,40 @@ def title_matches(torrent_name, movie_name, year, fuzzy_year=False):
                 return True
 
     return False
+
+
+def episode_matches(torrent_name, show_name, episode_spec):
+    """Check that a torrent name is the wanted show AND the exact episode.
+
+    The TV analogue of title_matches, anchored on the SxxEyy episode tag instead
+    of a year: the episode tag must be present, and the portion of the name before
+    it must equal the show name (exactly, or compact/spaceless to absorb
+    punctuation and spacing differences like "Spider Man" vs "Spider-Man").
+
+    Matching is intentionally strict — equality only, no "starts-with" prefix
+    match. Unlike movies, TV searches have no year to disambiguate, so a loose
+    prefix match would let "House of Cards S01E01" satisfy a search for "House".
+    Missing a differently-named release ("House M.D." for a "House" query) is a
+    safe, visible failure the caller reports and the user can refine; silently
+    grabbing the wrong show is the correctness bug this guard exists to prevent.
+
+    Args:
+        torrent_name: e.g. "House.S01E01.1080p.x265"
+        show_name: e.g. "House"
+        episode_spec: e.g. "S01E01"
+    """
+    name_norm = _normalize(torrent_name)
+    show_norm = ' '.join(_normalize(show_name).split())
+    ep = episode_spec.lower()
+
+    ep_match = re.search(r'\b' + re.escape(ep) + r'\b', name_norm)
+    if not ep_match:
+        return False
+
+    torrent_title = name_norm[:ep_match.start()].strip()
+    if torrent_title == show_norm:
+        return True
+    return re.sub(r'\s+', '', torrent_title) == re.sub(r'\s+', '', show_norm)
 
 
 def find_matching_torrent(torrents_dir, title, year):
