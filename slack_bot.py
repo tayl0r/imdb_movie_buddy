@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Slack bot for interactive torrent downloads via /torrent command."""
+"""Slack bot for interactive torrent downloads via DM messages."""
 
 import json
 import os
@@ -262,52 +262,15 @@ def handle_search(text, respond):
     )
 
 
-@app.command("/torrent")
-def handle_torrent(ack, command, respond):
-    """Handle /torrent slash command."""
-    ack()
-
-    if ALLOWED_USER and command.get("user_id") != ALLOWED_USER:
-        respond("Sorry, this command is restricted.")
-        return
-
-    text = command.get("text", "").strip()
-    if not text:
-        respond("Usage: `/torrent Movie Name [year]`")
-        return
-
-    handle_search(text, respond)
-
-
-@app.command("/tv")
-def handle_tv(ack, command, respond):
-    """Handle /tv slash command for TV episode downloads."""
-    ack()
-
-    if ALLOWED_USER and command.get("user_id") != ALLOWED_USER:
-        respond("Sorry, this command is restricted.")
-        return
-
-    text = command.get("text", "").strip()
-    show_name, season, num_episodes = parse_tv_command(text)
-    if show_name is None:
-        respond("Usage: `/tv Show Name SXX N` (e.g., `/tv House S01 5`)")
-        return
-
-    if not 1 <= num_episodes <= MAX_TV_EPISODES:
-        respond(f"Number of episodes must be between 1 and {MAX_TV_EPISODES}.")
-        return
-
-    respond(f'Searching IPTorrents for {show_name} Season {season}, {num_episodes} episodes...')
-
-    episode_specs = parse_episode_spec(season, num_episodes)
-    _, message = do_tv_download_and_upload(show_name, episode_specs)
-    respond(message)
-
-
 @app.event("message")
 def handle_dm(event, say):
-    """Handle direct messages to the bot."""
+    """Handle direct messages to the bot.
+
+    Messages should start with:
+    - 'tv Show Name SXX N' to search for TV episodes
+    - 'movie Movie Name [year]' to search for a movie
+    - 'help' to see usage
+    """
     # Only respond to DMs (im channel type)
     if event.get("channel_type") != "im":
         return
@@ -320,11 +283,50 @@ def handle_dm(event, say):
         say("Sorry, this bot is restricted.")
         return
 
-    text = event.get("text", "").strip()
+    text = event.get("text", "").strip().lower()
     if not text:
         return
 
-    handle_search(text, say)
+    # Handle help command
+    if text == "help":
+        say("""📺 **Torrent Bot Commands**
+
+Search for movies:
+  `movie House` or `movie House 2024`
+
+Search for TV shows (downloads individual episodes):
+  `tv House S01 5` - downloads House S01E01 through S01E05
+
+Type `help` to see this message again.""")
+        return
+
+    # Parse command prefix
+    if text.startswith("movie "):
+        movie_text = text[6:].strip()
+        if not movie_text:
+            say("Usage: `movie Movie Name [year]`")
+            return
+        handle_search(movie_text, say)
+
+    elif text.startswith("tv "):
+        tv_text = text[3:].strip()
+        show_name, season, num_episodes = parse_tv_command(tv_text)
+        if show_name is None:
+            say("Usage: `tv Show Name SXX N` (e.g., `tv House S01 5`)")
+            return
+
+        if not 1 <= num_episodes <= MAX_TV_EPISODES:
+            say(f"Number of episodes must be between 1 and {MAX_TV_EPISODES}.")
+            return
+
+        say(f'Searching IPTorrents for {show_name} Season {season}, {num_episodes} episodes...')
+
+        episode_specs = parse_episode_spec(season, num_episodes)
+        _, message = do_tv_download_and_upload(show_name, episode_specs)
+        say(message)
+
+    else:
+        say("I only understand `movie`, `tv`, or `help`. Type `help` for usage.")
 
 
 @app.action("confirm_download")
