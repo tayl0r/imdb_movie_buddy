@@ -281,16 +281,32 @@ def search_tv_episode(show_name, episode_spec, cookie):
     page_html = fetch_search(query, cookie, url_template=TV_SEARCH_URL)
     results = parse_results(page_html)
 
+    print(f"DEBUG: Found {len(results)} total results for {show_name} {episode_spec}")
+    for i, r in enumerate(results[:10]):  # Show first 10
+        print(f"  {i+1}. {r['name']} ({r['size_str']})")
+
     # Keep only torrents that are actually this show AND this episode. IPTorrents
     # full-text search is fuzzy and can surface other shows or other episodes, and
     # rank_results only sorts by resolution/size — without this guard the wrong
     # show could win on size alone. Mirrors the title+year guard the movie path applies.
     matches = [r for r in results if episode_matches(r["name"], show_name, episode_spec)]
+
+    print(f"DEBUG: {len(matches)} matched show/episode filter:")
+    for i, r in enumerate(matches[:10]):
+        size_ok = "✓" if r["size_bytes"] <= TV_MAX_SIZE_BYTES else "✗ (over 2GB)"
+        print(f"  {i+1}. {r['name']} ({r['size_str']}) {size_ok}")
+
     if not matches:
+        print(f"DEBUG: No matches found for {show_name} {episode_spec}")
         return None
 
     # TV episodes: 2 GB ceiling.
-    return rank_results(matches, max_size_bytes=TV_MAX_SIZE_BYTES)
+    best = rank_results(matches, max_size_bytes=TV_MAX_SIZE_BYTES)
+    if best:
+        print(f"DEBUG: Selected: {best['name']}")
+    else:
+        print(f"DEBUG: No results under 2GB")
+    return best
 
 
 def search_and_download(movie_name, year, cookie):
