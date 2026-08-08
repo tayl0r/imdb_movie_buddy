@@ -51,19 +51,12 @@ def title_matches(torrent_name, movie_name, year, fuzzy_year=False):
 
 
 def episode_matches(torrent_name, show_name, episode_spec):
-    """Check that a torrent name is the wanted show AND the exact episode.
+    """Check that a torrent name contains the wanted show AND the exact episode.
 
     The TV analogue of title_matches, anchored on the SxxEyy episode tag instead
-    of a year: the episode tag must be present, and the portion of the name before
-    it must equal the show name (exactly, or compact/spaceless to absorb
-    punctuation and spacing differences like "Spider Man" vs "Spider-Man").
-
-    Matching is intentionally strict — equality only, no "starts-with" prefix
-    match. Unlike movies, TV searches have no year to disambiguate, so a loose
-    prefix match would let "House of Cards S01E01" satisfy a search for "House".
-    Missing a differently-named release ("House M.D." for a "House" query) is a
-    safe, visible failure the caller reports and the user can refine; silently
-    grabbing the wrong show is the correctness bug this guard exists to prevent.
+    of a year. Allows substring matching so "Life Larry Unhappiness" matches
+    "Life, Larry and the Pursuit of Unhappiness" while still preventing
+    "House" from matching "House of Cards" (word-set matching).
 
     Args:
         torrent_name: e.g. "House.S01E01.1080p.x265"
@@ -79,9 +72,20 @@ def episode_matches(torrent_name, show_name, episode_spec):
         return False
 
     torrent_title = name_norm[:ep_match.start()].strip()
+
+    # Exact match
     if torrent_title == show_norm:
         return True
-    return re.sub(r'\s+', '', torrent_title) == re.sub(r'\s+', '', show_norm)
+
+    # Compact match (handles punctuation)
+    if re.sub(r'\s+', '', torrent_title) == re.sub(r'\s+', '', show_norm):
+        return True
+
+    # Substring match: all words from show_name must appear in torrent_title
+    # e.g. "life larry unhappiness" matches "life larry and the pursuit of unhappiness"
+    show_words = set(show_norm.split())
+    torrent_words = set(torrent_title.split())
+    return show_words.issubset(torrent_words)
 
 
 def find_matching_torrent(torrents_dir, title, year):
