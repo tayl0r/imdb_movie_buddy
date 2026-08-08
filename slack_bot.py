@@ -271,20 +271,26 @@ def handle_dm(event, say):
     - 'movie Movie Name [year]' to search for a movie
     - 'help' to see usage
     """
+    print(f"DEBUG: Received message event: channel_type={event.get('channel_type')}, subtype={event.get('subtype')}, text={event.get('text')}")
+
     # Only respond to DMs (im channel type)
     if event.get("channel_type") != "im":
+        print(f"DEBUG: Ignoring non-DM message (channel_type={event.get('channel_type')})")
         return
 
     # Ignore bot messages / message_changed / etc.
     if event.get("subtype"):
+        print(f"DEBUG: Ignoring message with subtype: {event.get('subtype')}")
         return
 
     if ALLOWED_USER and event.get("user") != ALLOWED_USER:
+        print(f"DEBUG: User not allowed: {event.get('user')}")
         say("Sorry, this bot is restricted.")
         return
 
     text = event.get("text", "").strip()
     if not text:
+        print("DEBUG: Empty text, ignoring")
         return
 
     print(f"DEBUG: Received DM message: {text}")
