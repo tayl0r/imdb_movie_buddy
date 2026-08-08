@@ -283,12 +283,17 @@ def handle_dm(event, say):
         say("Sorry, this bot is restricted.")
         return
 
-    text = event.get("text", "").strip().lower()
+    text = event.get("text", "").strip()
     if not text:
         return
 
+    print(f"DEBUG: Received DM message: {text}")
+
+    text_lower = text.lower()
+
     # Handle help command
-    if text == "help":
+    if text_lower == "help":
+        print("DEBUG: Handling help command")
         say("""📺 **Torrent Bot Commands**
 
 Search for movies:
@@ -301,15 +306,17 @@ Type `help` to see this message again.""")
         return
 
     # Parse command prefix
-    if text.startswith("movie "):
+    if text_lower.startswith("movie "):
         movie_text = text[6:].strip()
         if not movie_text:
             say("Usage: `movie Movie Name [year]`")
             return
+        print(f"DEBUG: Searching for movie: {movie_text}")
         handle_search(movie_text, say)
 
-    elif text.startswith("tv "):
+    elif text_lower.startswith("tv "):
         tv_text = text[3:].strip()
+        print(f"DEBUG: Parsing TV command: {tv_text}")
         show_name, season, num_episodes = parse_tv_command(tv_text)
         if show_name is None:
             say("Usage: `tv Show Name SXX N` (e.g., `tv House S01 5`)")
@@ -326,6 +333,7 @@ Type `help` to see this message again.""")
         say(message)
 
     else:
+        print(f"DEBUG: Unrecognized command: {text}")
         say("I only understand `movie`, `tv`, or `help`. Type `help` for usage.")
 
 
