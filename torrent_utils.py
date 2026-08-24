@@ -50,6 +50,20 @@ def title_matches(torrent_name, movie_name, year, fuzzy_year=False):
     return False
 
 
+def _show_prefix_matches(torrent_title, show_norm):
+    """Does the text before a season/episode tag name the show we asked for?
+
+    Shared by episode_matches and season_matches so both judge the show half of
+    a name identically. The wanted name may be a subset of the torrent's.
+    """
+    if torrent_title == show_norm:
+        return True
+    if re.sub(r'\s+', '', torrent_title) == re.sub(r'\s+', '', show_norm):
+        return True
+    # e.g. "life larry unhappiness" matches "life larry and the pursuit of unhappiness"
+    return set(show_norm.split()).issubset(set(torrent_title.split()))
+
+
 def episode_matches(torrent_name, show_name, episode_spec):
     """Check that a torrent name contains the wanted show AND the exact episode.
 
@@ -71,21 +85,34 @@ def episode_matches(torrent_name, show_name, episode_spec):
     if not ep_match:
         return False
 
-    torrent_title = name_norm[:ep_match.start()].strip()
+    return _show_prefix_matches(name_norm[:ep_match.start()].strip(), show_norm)
 
-    # Exact match
-    if torrent_title == show_norm:
-        return True
 
-    # Compact match (handles punctuation)
-    if re.sub(r'\s+', '', torrent_title) == re.sub(r'\s+', '', show_norm):
-        return True
+def season_matches(torrent_name, show_name, season_tag):
+    """True if the torrent is a full-season pack for this show and season only.
 
-    # Substring match: all words from show_name must appear in torrent_title
-    # e.g. "life larry unhappiness" matches "life larry and the pursuit of unhappiness"
-    show_words = set(show_norm.split())
-    torrent_words = set(torrent_title.split())
-    return show_words.issubset(torrent_words)
+    The season tag must stand alone: after _normalize, `\bs06\b` matches
+    "Show.S06.1080p" but not "Show.S06E01" (no boundary between "6" and "e").
+    Two spellings still slip past that test and are rejected explicitly:
+    "S06.E01" normalizes to "s06 e01" (one episode), and a multi-season pack
+    ("S01-S08", "S01.S02") carries more than one season token — uploading eight
+    seasons for a one-season request is the worst failure this guard prevents.
+    """
+    name_norm = _normalize(torrent_name)
+    show_norm = ' '.join(_normalize(show_name).split())
+    season = season_tag.lower()
+
+    season_match = re.search(r'\b' + re.escape(season) + r'\b', name_norm)
+    if not season_match:
+        return False
+
+    if len(re.findall(r'\bs\d{1,2}\b', name_norm)) != 1:
+        return False
+
+    if re.match(r'\s*e\d{1,3}\b', name_norm[season_match.end():]):
+        return False
+
+    return _show_prefix_matches(name_norm[:season_match.start()].strip(), show_norm)
 
 
 def find_matching_torrent(torrents_dir, title, year):

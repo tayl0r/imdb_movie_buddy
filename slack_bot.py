@@ -8,6 +8,7 @@ import sys
 import threading
 import time
 import urllib.request
+from collections import namedtuple
 
 from slack_bolt import App
 from slack_bolt.adapter.socket_mode import SocketModeHandler
@@ -22,6 +23,9 @@ from search_iptorrents import (
     download_torrent_bytes,
     parse_episode_spec,
     search_tv_episode,
+    search_tv_season,
+    TV_MAX_SIZE_BYTES,
+    TV_HQ_MAX_SIZE_BYTES,
 )
 from upload_rutorrent import (
     upload_torrent_bytes,
@@ -44,9 +48,7 @@ RUTORRENT_PASS = env.get("RUTORRENT_PASSWORD", "")
 ALLOWED_USER = env.get("SLACK_ALLOWED_USER", "")
 HEARTBEAT_URL = env.get("UPTIME_KUMA_PUSH_URL", "")
 
-# Upper bound on episodes per /tv request. Guards against a typo like "S01 500"
-# firing hundreds of sequential IPTorrents searches. Generous enough for any real
-# season, including long anime cours.
+# Guards against a typo like "S01 500" firing hundreds of sequential searches.
 MAX_TV_EPISODES = 50
 
 app = App(token=env.get("SLACK_BOT_TOKEN", ""))
@@ -61,24 +63,31 @@ def parse_command(text):
     return text, ""
 
 
+TvRequest = namedtuple("TvRequest", "show season first_episode last_episode hq")
+
+
 def parse_tv_command(text):
-    """Parse TV command: '<show name> S<season> <episode count>'
+    """Parse '<show> S<season> [<first>] <last> [--hq]'. Returns TvRequest or None.
 
-    Args:
-        text: e.g. "House S01 5" or "The Office s02 3"
-
-    Returns:
-        tuple (show_name, season, num_episodes) or (None, None, None) on parse error
+    One trailing number means episodes 1-N; two mean an inclusive range.
     """
     text = text.strip()
-    # Match: anything, then SXX (or sXX), then number
-    match = re.match(r'^(.+?)\s+[Ss](\d{1,2})\s+(\d+)\s*$', text)
-    if match:
-        show_name = match.group(1).strip()
-        season = match.group(2)  # Keep as string for zfill in parse_episode_spec
-        num_episodes = int(match.group(3))
-        return show_name, season, num_episodes
-    return None, None, None
+    # Accept --hq anywhere and in any case; folding a misplaced flag into the
+    # show name would silently search for it and run at the default cap.
+    text, n = re.subn(r'\s*--hq\b', '', text, flags=re.I)
+    hq = n > 0
+    text = text.strip()
+
+    match = re.match(r'^(.+?)\s+[Ss](\d{1,2})\s+(\d+)(?:\s+(\d+))?\s*$', text)
+    if not match:
+        return None
+
+    season = match.group(2)  # str, for zfill in parse_episode_spec
+    if match.group(4) is None:
+        first, last = 1, int(match.group(3))
+    else:
+        first, last = int(match.group(3)), int(match.group(4))
+    return TvRequest(match.group(1).strip(), season, first, last, hq)
 
 
 def search_torrents(movie_name, year):
@@ -143,7 +152,26 @@ def do_download_and_upload(download_path, torrent_name, movie_name, year):
     return f'Uploaded *{torrent_name}* as *{category}*\n{genres} / {cert}'
 
 
-def do_tv_download_and_upload(show_name, episode_specs):
+def _upload_tv_torrent(best, show_name, label):
+    """Download one TV torrent and upload it to the TV Shows dir.
+
+    Returns None on success, or a human-readable failure reason.
+    """
+    try:
+        torrent_bytes = download_torrent_bytes(best["download_path"], COOKIE)
+    except RuntimeError as e:
+        return f"download failed: {e}"
+
+    filename = f"{sanitize_torrent_filename(show_name)}.{label}.torrent"
+    ok = upload_torrent_bytes(
+        torrent_bytes, filename,
+        RUTORRENT_URL, RUTORRENT_USER, RUTORRENT_PASS,
+        download_dir=TV_SHOWS_DIR,
+    )
+    return None if ok else "upload failed"
+
+
+def do_tv_download_and_upload(show_name, episode_specs, hq_mode=False, season_tag=None):
     """Download and upload TV episode torrents, best-effort.
 
     Each episode is searched, downloaded, and uploaded independently. A failure on
@@ -156,15 +184,36 @@ def do_tv_download_and_upload(show_name, episode_specs):
     Args:
         show_name: e.g. "House"
         episode_specs: list of "S01E01", "S01E02", etc.
+        hq_mode: if True, use the --hq size ceiling instead of the default
+        season_tag: e.g. "S06" to try a full-season pack first; None to skip
+            straight to per-episode search
 
     Returns:
         (all_succeeded: bool, message: str)
     """
+    max_size = TV_HQ_MAX_SIZE_BYTES if hq_mode else TV_MAX_SIZE_BYTES
+
+    # One pack costs a single search and torrent instead of N of each. Budget is
+    # the per-episode ceiling times the episode count, so it tracks --hq.
+    if season_tag:
+        season_budget = max_size * len(episode_specs)
+        try:
+            pack = search_tv_season(show_name, season_tag, COOKIE, season_budget)
+        except RuntimeError as e:
+            pack = None
+            print(f"DEBUG: season pack search failed ({e}); falling back to episodes")
+        if pack:
+            reason = _upload_tv_torrent(pack, show_name, season_tag)
+            if reason is None:
+                return True, f"Uploaded season pack: *{pack['name']}* ({pack['size_str']})"
+            # Fall through to per-episode rather than failing outright.
+            print(f"DEBUG: season pack {reason}; falling back to episodes")
+
     uploaded = []
     failed = []  # (episode_spec, reason)
     for episode_spec in episode_specs:
         try:
-            best = search_tv_episode(show_name, episode_spec, COOKIE)
+            best = search_tv_episode(show_name, episode_spec, COOKIE, max_size_bytes=max_size)
         except RuntimeError as e:
             failed.append((episode_spec, f"search error: {e}"))
             continue
@@ -173,23 +222,11 @@ def do_tv_download_and_upload(show_name, episode_specs):
             failed.append((episode_spec, "no match found"))
             continue
 
-        try:
-            torrent_bytes = download_torrent_bytes(best["download_path"], COOKIE)
-        except RuntimeError as e:
-            failed.append((episode_spec, f"download failed: {e}"))
-            continue
-
-        # Build filename: Show.Name.S01E01.torrent
-        filename = f"{sanitize_torrent_filename(show_name)}.{episode_spec}.torrent"
-        ok = upload_torrent_bytes(
-            torrent_bytes, filename,
-            RUTORRENT_URL, RUTORRENT_USER, RUTORRENT_PASS,
-            download_dir=TV_SHOWS_DIR,
-        )
-        if ok:
+        reason = _upload_tv_torrent(best, show_name, episode_spec)
+        if reason is None:
             uploaded.append(episode_spec)
         else:
-            failed.append((episode_spec, "upload failed"))
+            failed.append((episode_spec, reason))
 
     total = len(episode_specs)
     summary = f"Uploaded {len(uploaded)}/{total}"
@@ -305,8 +342,10 @@ def handle_dm(event, say):
 Search for movies:
   `movie House` or `movie House 2024`
 
-Search for TV shows (downloads individual episodes):
-  `tv House S01 5` - downloads House S01E01 through S01E05
+Search for TV shows:
+  `tv House S01 22` - grabs the full S01 season pack if there is one, else episodes 1-22
+  `tv House S01 3 5` - downloads only S01E03 through S01E05 (never a season pack)
+  `tv House S01 5 --hq` - same, but lifts the size cap so REMUX/large encodes qualify
 
 Type `help` to see this message again.""")
         return
@@ -323,19 +362,42 @@ Type `help` to see this message again.""")
     elif text_lower.startswith("tv "):
         tv_text = text[3:].strip()
         print(f"DEBUG: Parsing TV command: {tv_text}")
-        show_name, season, num_episodes = parse_tv_command(tv_text)
-        if show_name is None:
-            say("Usage: `tv Show Name SXX N` (e.g., `tv House S01 5`)")
+        req = parse_tv_command(tv_text)
+        if req is None:
+            say("Usage: `tv Show Name SXX N [--hq]` for episodes 1-N, "
+                "or `tv Show Name SXX F L [--hq]` for episodes F-L "
+                "(e.g., `tv House S01 5` or `tv House S01 3 5 --hq`)")
             return
 
-        if not 1 <= num_episodes <= MAX_TV_EPISODES:
-            say(f"Number of episodes must be between 1 and {MAX_TV_EPISODES}.")
+        if req.first_episode < 1:
+            say("Episode numbers start at 1.")
+            return
+        if req.last_episode < req.first_episode:
+            say(f"Last episode ({req.last_episode}) must not be before "
+                f"the first ({req.first_episode}).")
             return
 
-        say(f'Searching IPTorrents for {show_name} Season {season}, {num_episodes} episodes...')
+        num_episodes = req.last_episode - req.first_episode + 1
+        if num_episodes > MAX_TV_EPISODES:
+            say(f"That's {num_episodes} episodes; the limit is {MAX_TV_EPISODES} per request.")
+            return
 
-        episode_specs = parse_episode_spec(season, num_episodes)
-        _, message = do_tv_download_and_upload(show_name, episode_specs)
+        # Only try a pack when the request starts at episode 1. A mid-season
+        # range is how you pick up missed episodes, so a whole-season download
+        # would re-fetch what you already have.
+        season_tag = f"S{req.season.zfill(2)}" if req.first_episode == 1 else None
+
+        scope = f"episodes {req.first_episode}-{req.last_episode}"
+        if season_tag:
+            scope = f"full season (or {scope})"
+        hq_text = " (high-quality mode)" if req.hq else ""
+        say(f'Searching IPTorrents for {req.show} Season {req.season}, {scope}{hq_text}...')
+
+        episode_specs = parse_episode_spec(
+            req.season, req.last_episode, first_episode=req.first_episode)
+        _, message = do_tv_download_and_upload(
+            req.show, episode_specs, hq_mode=req.hq, season_tag=season_tag,
+        )
         say(message)
 
     else:
