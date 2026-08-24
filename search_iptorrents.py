@@ -26,18 +26,19 @@ SEARCH_URL = "https://iptorrents.com/t?7;100;87;48;77;90;101;62;89;38;96;6;54;68
 TV_SEARCH_URL = "https://iptorrents.com/t?73;24;25;26;q={query};o=completed#torrents"
 
 
-def parse_episode_spec(season, num_episodes):
-    """Parse season and episode count into list of episode specs.
+def parse_episode_spec(season, last_episode, first_episode=1):
+    """Build the list of episode specs for a season.
 
     Args:
         season: str like "01" or "1"
-        num_episodes: int like 5
+        last_episode: int, the final episode to include (inclusive)
+        first_episode: int, the episode to start from (inclusive, defaults to 1)
 
     Returns:
         list of strings like ["S01E01", "S01E02", ..., "S01E05"]
     """
     season_str = season.zfill(2)  # Ensure "01" format
-    return [f"S{season_str}E{i:02d}" for i in range(1, num_episodes + 1)]
+    return [f"S{season_str}E{i:02d}" for i in range(first_episode, last_episode + 1)]
 
 
 def load_cookie():

@@ -63,15 +63,25 @@ def parse_command(text):
     return text, ""
 
 
+PARSE_ERROR = (None, None, None, None, False)
+
+
 def parse_tv_command(text):
-    """Parse TV command: '<show name> S<season> <episode count> [--hq]'
+    """Parse TV command: '<show name> S<season> [<first>] <last> [--hq]'
+
+    One trailing number is a count from episode 1; two are an inclusive range.
+    The range form exists so a follow-up run can fetch just the episodes that
+    were missed, instead of re-searching ones already uploaded — re-running the
+    whole season risks ranking picking a *different* release for an episode
+    (new upload on the tracker), which rtorrent accepts as a fresh infohash and
+    adds as a duplicate copy.
 
     Args:
-        text: e.g. "House S01 5" or "The Office s02 3" or "House S01 5 --hq"
+        text: e.g. "House S01 5", "House S01 3 5", "House S01 3 5 --hq"
 
     Returns:
-        tuple (show_name, season, num_episodes, hq_flag)
-        or (None, None, None, False) on parse error
+        tuple (show_name, season, first_episode, last_episode, hq_flag)
+        or PARSE_ERROR on parse failure
     """
     text = text.strip()
     # Check for --hq flag at the end
@@ -79,14 +89,18 @@ def parse_tv_command(text):
     if hq_flag:
         text = text[:-4].strip()
 
-    # Match: anything, then SXX (or sXX), then number
-    match = re.match(r'^(.+?)\s+[Ss](\d{1,2})\s+(\d+)\s*$', text)
-    if match:
-        show_name = match.group(1).strip()
-        season = match.group(2)  # Keep as string for zfill in parse_episode_spec
-        num_episodes = int(match.group(3))
-        return show_name, season, num_episodes, hq_flag
-    return None, None, None, False
+    # Match: anything, then SXX (or sXX), then one or two numbers
+    match = re.match(r'^(.+?)\s+[Ss](\d{1,2})\s+(\d+)(?:\s+(\d+))?\s*$', text)
+    if not match:
+        return PARSE_ERROR
+
+    show_name = match.group(1).strip()
+    season = match.group(2)  # Keep as string for zfill in parse_episode_spec
+    if match.group(4) is None:
+        first_episode, last_episode = 1, int(match.group(3))
+    else:
+        first_episode, last_episode = int(match.group(3)), int(match.group(4))
+    return show_name, season, first_episode, last_episode, hq_flag
 
 
 def search_torrents(movie_name, year):
@@ -318,6 +332,7 @@ Search for movies:
 
 Search for TV shows (downloads individual episodes):
   `tv House S01 5` - downloads House S01E01 through S01E05 (up to 2GB per episode)
+  `tv House S01 3 5` - downloads only S01E03 through S01E05
   `tv House S01 5 --hq` - same, but lifts the size cap so REMUX/large encodes qualify
 
 Type `help` to see this message again.""")
@@ -335,19 +350,30 @@ Type `help` to see this message again.""")
     elif text_lower.startswith("tv "):
         tv_text = text[3:].strip()
         print(f"DEBUG: Parsing TV command: {tv_text}")
-        show_name, season, num_episodes, hq_flag = parse_tv_command(tv_text)
+        show_name, season, first_ep, last_ep, hq_flag = parse_tv_command(tv_text)
         if show_name is None:
-            say("Usage: `tv Show Name SXX N [--hq]` (e.g., `tv House S01 5` or `tv House S01 5 --hq`)")
+            say("Usage: `tv Show Name SXX N [--hq]` for episodes 1-N, "
+                "or `tv Show Name SXX F L [--hq]` for episodes F-L "
+                "(e.g., `tv House S01 5` or `tv House S01 3 5 --hq`)")
             return
 
-        if not 1 <= num_episodes <= MAX_TV_EPISODES:
-            say(f"Number of episodes must be between 1 and {MAX_TV_EPISODES}.")
+        if first_ep < 1:
+            say("Episode numbers start at 1.")
+            return
+        if last_ep < first_ep:
+            say(f"Last episode ({last_ep}) must not be before the first ({first_ep}).")
+            return
+
+        num_episodes = last_ep - first_ep + 1
+        if num_episodes > MAX_TV_EPISODES:
+            say(f"That's {num_episodes} episodes; the limit is {MAX_TV_EPISODES} per request.")
             return
 
         hq_text = " (high-quality mode)" if hq_flag else ""
-        say(f'Searching IPTorrents for {show_name} Season {season}, {num_episodes} episodes{hq_text}...')
+        say(f'Searching IPTorrents for {show_name} Season {season}, '
+            f'episodes {first_ep}-{last_ep}{hq_text}...')
 
-        episode_specs = parse_episode_spec(season, num_episodes)
+        episode_specs = parse_episode_spec(season, last_ep, first_episode=first_ep)
         _, message = do_tv_download_and_upload(show_name, episode_specs, hq_mode=hq_flag)
         say(message)
 
