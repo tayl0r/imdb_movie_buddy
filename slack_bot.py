@@ -62,23 +62,29 @@ def parse_command(text):
 
 
 def parse_tv_command(text):
-    """Parse TV command: '<show name> S<season> <episode count>'
+    """Parse TV command: '<show name> S<season> <episode count> [--hq]'
 
     Args:
-        text: e.g. "House S01 5" or "The Office s02 3"
+        text: e.g. "House S01 5" or "The Office s02 3" or "House S01 5 --hq"
 
     Returns:
-        tuple (show_name, season, num_episodes) or (None, None, None) on parse error
+        tuple (show_name, season, num_episodes, hq_flag)
+        or (None, None, None, False) on parse error
     """
     text = text.strip()
+    # Check for --hq flag at the end
+    hq_flag = text.endswith('--hq')
+    if hq_flag:
+        text = text[:-4].strip()
+
     # Match: anything, then SXX (or sXX), then number
     match = re.match(r'^(.+?)\s+[Ss](\d{1,2})\s+(\d+)\s*$', text)
     if match:
         show_name = match.group(1).strip()
         season = match.group(2)  # Keep as string for zfill in parse_episode_spec
         num_episodes = int(match.group(3))
-        return show_name, season, num_episodes
-    return None, None, None
+        return show_name, season, num_episodes, hq_flag
+    return None, None, None, False
 
 
 def search_torrents(movie_name, year):
@@ -143,7 +149,7 @@ def do_download_and_upload(download_path, torrent_name, movie_name, year):
     return f'Uploaded *{torrent_name}* as *{category}*\n{genres} / {cert}'
 
 
-def do_tv_download_and_upload(show_name, episode_specs):
+def do_tv_download_and_upload(show_name, episode_specs, hq_mode=False):
     """Download and upload TV episode torrents, best-effort.
 
     Each episode is searched, downloaded, and uploaded independently. A failure on
@@ -156,15 +162,19 @@ def do_tv_download_and_upload(show_name, episode_specs):
     Args:
         show_name: e.g. "House"
         episode_specs: list of "S01E01", "S01E02", etc.
+        hq_mode: if True, use 5GB ceiling; else use 2GB ceiling
 
     Returns:
         (all_succeeded: bool, message: str)
     """
+    from search_iptorrents import TV_MAX_SIZE_BYTES
+    max_size = 5 * 1024**3 if hq_mode else TV_MAX_SIZE_BYTES
+
     uploaded = []
     failed = []  # (episode_spec, reason)
     for episode_spec in episode_specs:
         try:
-            best = search_tv_episode(show_name, episode_spec, COOKIE)
+            best = search_tv_episode(show_name, episode_spec, COOKIE, max_size_bytes=max_size)
         except RuntimeError as e:
             failed.append((episode_spec, f"search error: {e}"))
             continue
@@ -306,7 +316,8 @@ Search for movies:
   `movie House` or `movie House 2024`
 
 Search for TV shows (downloads individual episodes):
-  `tv House S01 5` - downloads House S01E01 through S01E05
+  `tv House S01 5` - downloads House S01E01 through S01E05 (up to 2GB per episode)
+  `tv House S01 5 --hq` - same, but allows up to 5GB per episode for REMUX quality
 
 Type `help` to see this message again.""")
         return
@@ -323,19 +334,20 @@ Type `help` to see this message again.""")
     elif text_lower.startswith("tv "):
         tv_text = text[3:].strip()
         print(f"DEBUG: Parsing TV command: {tv_text}")
-        show_name, season, num_episodes = parse_tv_command(tv_text)
+        show_name, season, num_episodes, hq_flag = parse_tv_command(tv_text)
         if show_name is None:
-            say("Usage: `tv Show Name SXX N` (e.g., `tv House S01 5`)")
+            say("Usage: `tv Show Name SXX N [--hq]` (e.g., `tv House S01 5` or `tv House S01 5 --hq`)")
             return
 
         if not 1 <= num_episodes <= MAX_TV_EPISODES:
             say(f"Number of episodes must be between 1 and {MAX_TV_EPISODES}.")
             return
 
-        say(f'Searching IPTorrents for {show_name} Season {season}, {num_episodes} episodes...')
+        hq_text = " (high-quality mode, up to 5GB per episode)" if hq_flag else ""
+        say(f'Searching IPTorrents for {show_name} Season {season}, {num_episodes} episodes{hq_text}...')
 
         episode_specs = parse_episode_spec(season, num_episodes)
-        _, message = do_tv_download_and_upload(show_name, episode_specs)
+        _, message = do_tv_download_and_upload(show_name, episode_specs, hq_mode=hq_flag)
         say(message)
 
     else:

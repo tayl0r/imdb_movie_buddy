@@ -265,18 +265,22 @@ def clean_search_query(movie_name, year=""):
     return f"{clean_name} {year}".strip()
 
 
-def search_tv_episode(show_name, episode_spec, cookie):
+def search_tv_episode(show_name, episode_spec, cookie, max_size_bytes=None):
     """Search for a single TV episode and return the best match.
 
     Args:
         show_name: e.g. "House"
         episode_spec: e.g. "S01E01"
         cookie: IPTorrents auth cookie
+        max_size_bytes: max file size (defaults to TV_MAX_SIZE_BYTES, 2GB)
 
     Returns:
         dict with keys: name, download_path, size_str, size_bytes
-        Returns None if no match found or no results under 2 GB
+        Returns None if no match found or no results under size limit
     """
+    if max_size_bytes is None:
+        max_size_bytes = TV_MAX_SIZE_BYTES
+
     query = clean_search_query(f"{show_name} {episode_spec}", "")
     page_html = fetch_search(query, cookie, url_template=TV_SEARCH_URL)
     results = parse_results(page_html)
@@ -291,21 +295,22 @@ def search_tv_episode(show_name, episode_spec, cookie):
     # show could win on size alone. Mirrors the title+year guard the movie path applies.
     matches = [r for r in results if episode_matches(r["name"], show_name, episode_spec)]
 
+    size_limit_gb = max_size_bytes / (1024**3)
     print(f"DEBUG: {len(matches)} matched show/episode filter:")
     for i, r in enumerate(matches[:10]):
-        size_ok = "✓" if r["size_bytes"] <= TV_MAX_SIZE_BYTES else "✗ (over 2GB)"
+        size_ok = "✓" if r["size_bytes"] <= max_size_bytes else f"✗ (over {size_limit_gb:.0f}GB)"
         print(f"  {i+1}. {r['name']} ({r['size_str']}) {size_ok}")
 
     if not matches:
         print(f"DEBUG: No matches found for {show_name} {episode_spec}")
         return None
 
-    # TV episodes: 2 GB ceiling.
-    best = rank_results(matches, max_size_bytes=TV_MAX_SIZE_BYTES)
+    # TV episodes: use specified ceiling (defaults to 2 GB, or higher if --hq).
+    best = rank_results(matches, max_size_bytes=max_size_bytes)
     if best:
         print(f"DEBUG: Selected: {best['name']}")
     else:
-        print(f"DEBUG: No results under 2GB")
+        print(f"DEBUG: No results under {size_limit_gb:.0f}GB")
     return best
 
 
