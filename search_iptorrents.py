@@ -162,9 +162,8 @@ def parse_results(page_html):
 
 MAX_SIZE_BYTES = 4 * 1024**3     # 4 GB, movie default
 TV_MAX_SIZE_BYTES = 2 * 1024**3      # 2 GB, TV episode cap
-# --hq ceiling. Deliberately generous rather than "one notch up": REMUX episodes
-# routinely run 5-7 GB, and rank_results still prefers the smallest good encode,
-# so a high cap widens what qualifies without making huge files the default pick.
+# Generous on purpose: REMUX episodes run 5-7 GB, and rank_results still prefers
+# the smallest good encode, so this widens what qualifies without favouring bulk.
 TV_HQ_MAX_SIZE_BYTES = 10 * 1024**3  # 10 GB, --hq
 
 
@@ -275,100 +274,47 @@ def clean_search_query(movie_name, year=""):
     return f"{clean_name} {year}".strip()
 
 
-def search_tv_season(show_name, season_tag, cookie, max_size_bytes):
-    """Search for a full-season pack and return the best match, or None.
+def _search_tv(show_name, tag, cookie, max_size_bytes, is_match, kind):
+    """Best TV torrent for `tag` under the size cap, or None.
 
-    Tried before the per-episode loop: one pack costs a single search and a
-    single torrent instead of N of each, and rtorrent gets one entry to manage.
-    Falls through to per-episode search when no pack exists for the season.
-
-    max_size_bytes is required rather than defaulted — a season budget is only
-    meaningful relative to how many episodes it holds, so the caller computes it
-    (episode count x the per-episode ceiling) instead of inheriting a per-episode
-    default that every real pack would blow past.
-
-    Args:
-        show_name: e.g. "The Vampire Diaries"
-        season_tag: e.g. "S06"
-        cookie: IPTorrents auth cookie
-        max_size_bytes: size ceiling for the whole pack
-
-    Returns:
-        dict with keys: name, download_path, size_str, size_bytes — or None
+    Shared by the episode and season-pack entry points below: both search the
+    same TV categories and rank identically, differing only in which torrents
+    count as a match.
     """
-    query = clean_search_query(f"{show_name} {season_tag}", "")
-    page_html = fetch_search(query, cookie, url_template=TV_SEARCH_URL)
-    results = parse_results(page_html)
+    query = clean_search_query(f"{show_name} {tag}", "")
+    results = parse_results(fetch_search(query, cookie, url_template=TV_SEARCH_URL))
+    limit_gb = max_size_bytes / (1024**3)
 
-    print(f"DEBUG: Found {len(results)} total results for {show_name} {season_tag} (season pack)")
+    print(f"DEBUG: {len(results)} results for {show_name} {tag} ({kind})")
     for i, r in enumerate(results[:10]):
         print(f"  {i+1}. {r['name']} ({r['size_str']})")
 
-    matches = [r for r in results if season_matches(r["name"], show_name, season_tag)]
-
-    limit_gb = max_size_bytes / (1024**3)
-    print(f"DEBUG: {len(matches)} look like full-season packs (limit {limit_gb:.0f}GB):")
+    matches = [r for r in results if is_match(r["name"], show_name, tag)]
+    print(f"DEBUG: {len(matches)} matched {kind}, limit {limit_gb:.0f}GB:")
     for i, r in enumerate(matches[:10]):
-        size_ok = "OK" if r["size_bytes"] <= max_size_bytes else f"over {limit_gb:.0f}GB"
-        print(f"  {i+1}. {r['name']} ({r['size_str']}) [{size_ok}]")
+        fits = "ok" if r["size_bytes"] <= max_size_bytes else f"over {limit_gb:.0f}GB"
+        print(f"  {i+1}. {r['name']} ({r['size_str']}) [{fits}]")
 
-    if not matches:
-        print(f"DEBUG: No season pack for {show_name} {season_tag}")
-        return None
-
-    best = rank_results(matches, max_size_bytes=max_size_bytes)
-    print(f"DEBUG: Season pack selected: {best['name']}" if best
-          else f"DEBUG: No season pack under {limit_gb:.0f}GB")
+    best = rank_results(matches, max_size_bytes=max_size_bytes) if matches else None
+    print(f"DEBUG: selected {best['name']}" if best
+          else f"DEBUG: no {kind} under {limit_gb:.0f}GB")
     return best
 
 
 def search_tv_episode(show_name, episode_spec, cookie, max_size_bytes=None):
-    """Search for a single TV episode and return the best match.
+    """Best torrent for one episode (e.g. "S01E01"), or None."""
+    cap = TV_MAX_SIZE_BYTES if max_size_bytes is None else max_size_bytes
+    return _search_tv(show_name, episode_spec, cookie, cap, episode_matches, "episode")
 
-    Args:
-        show_name: e.g. "House"
-        episode_spec: e.g. "S01E01"
-        cookie: IPTorrents auth cookie
-        max_size_bytes: max file size (defaults to TV_MAX_SIZE_BYTES, 2GB)
 
-    Returns:
-        dict with keys: name, download_path, size_str, size_bytes
-        Returns None if no match found or no results under size limit
+def search_tv_season(show_name, season_tag, cookie, max_size_bytes):
+    """Best full-season pack (e.g. "S06"), or None.
+
+    The caller sets max_size_bytes (episode count x the per-episode ceiling); a
+    per-episode default would reject every real pack.
     """
-    if max_size_bytes is None:
-        max_size_bytes = TV_MAX_SIZE_BYTES
-
-    query = clean_search_query(f"{show_name} {episode_spec}", "")
-    page_html = fetch_search(query, cookie, url_template=TV_SEARCH_URL)
-    results = parse_results(page_html)
-
-    print(f"DEBUG: Found {len(results)} total results for {show_name} {episode_spec}")
-    for i, r in enumerate(results[:10]):  # Show first 10
-        print(f"  {i+1}. {r['name']} ({r['size_str']})")
-
-    # Keep only torrents that are actually this show AND this episode. IPTorrents
-    # full-text search is fuzzy and can surface other shows or other episodes, and
-    # rank_results only sorts by resolution/size — without this guard the wrong
-    # show could win on size alone. Mirrors the title+year guard the movie path applies.
-    matches = [r for r in results if episode_matches(r["name"], show_name, episode_spec)]
-
-    size_limit_gb = max_size_bytes / (1024**3)
-    print(f"DEBUG: {len(matches)} matched show/episode filter:")
-    for i, r in enumerate(matches[:10]):
-        size_ok = "✓" if r["size_bytes"] <= max_size_bytes else f"✗ (over {size_limit_gb:.0f}GB)"
-        print(f"  {i+1}. {r['name']} ({r['size_str']}) {size_ok}")
-
-    if not matches:
-        print(f"DEBUG: No matches found for {show_name} {episode_spec}")
-        return None
-
-    # TV episodes: use specified ceiling (defaults to 2 GB, or higher if --hq).
-    best = rank_results(matches, max_size_bytes=max_size_bytes)
-    if best:
-        print(f"DEBUG: Selected: {best['name']}")
-    else:
-        print(f"DEBUG: No results under {size_limit_gb:.0f}GB")
-    return best
+    return _search_tv(show_name, season_tag, cookie, max_size_bytes,
+                      season_matches, "season pack")
 
 
 def search_and_download(movie_name, year, cookie):

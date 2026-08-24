@@ -54,22 +54,14 @@ def _show_prefix_matches(torrent_title, show_norm):
     """Does the text before a season/episode tag name the show we asked for?
 
     Shared by episode_matches and season_matches so both judge the show half of
-    the name identically — a torrent that counts as "this show" for an episode
-    must count as "this show" for a season pack too.
+    a name identically. The wanted name may be a subset of the torrent's.
     """
-    # Exact match
     if torrent_title == show_norm:
         return True
-
-    # Compact match (handles punctuation)
     if re.sub(r'\s+', '', torrent_title) == re.sub(r'\s+', '', show_norm):
         return True
-
-    # Substring match: all words from show_name must appear in torrent_title
     # e.g. "life larry unhappiness" matches "life larry and the pursuit of unhappiness"
-    show_words = set(show_norm.split())
-    torrent_words = set(torrent_title.split())
-    return show_words.issubset(torrent_words)
+    return set(show_norm.split()).issubset(set(torrent_title.split()))
 
 
 def episode_matches(torrent_name, show_name, episode_spec):
@@ -97,23 +89,14 @@ def episode_matches(torrent_name, show_name, episode_spec):
 
 
 def season_matches(torrent_name, show_name, season_tag):
-    """Check that a torrent name is a full-SEASON pack for the wanted show.
+    """True if the torrent is a full-season pack for this show and season only.
 
-    A season pack names the season as a standalone token ("... S06 1080p ...")
-    where a single episode carries the episode number too ("... S06E01 ..."). So
-    the test is the season tag as a whole word: after _normalize turns dots and
-    underscores into spaces, `\bs06\b` matches "Show.S06.1080p" but not
-    "Show.S06E01.1080p", because there is no word boundary between "6" and "e".
-
-    The separated spelling "S06.E01" normalizes to "s06 e01", which WOULD satisfy
-    that boundary, so an episode number immediately following the season tag is
-    rejected explicitly — otherwise a single episode could be uploaded as though
-    it were the whole season.
-
-    Args:
-        torrent_name: e.g. "The.Vampire.Diaries.S06.1080p.WEB.x265"
-        show_name: e.g. "The Vampire Diaries"
-        season_tag: e.g. "S06"
+    The season tag must stand alone: after _normalize, `\bs06\b` matches
+    "Show.S06.1080p" but not "Show.S06E01" (no boundary between "6" and "e").
+    Two spellings still slip past that test and are rejected explicitly:
+    "S06.E01" normalizes to "s06 e01" (one episode), and a multi-season pack
+    ("S01-S08", "S01.S02") carries more than one season token — uploading eight
+    seasons for a one-season request is the worst failure this guard prevents.
     """
     name_norm = _normalize(torrent_name)
     show_norm = ' '.join(_normalize(show_name).split())
@@ -123,7 +106,9 @@ def season_matches(torrent_name, show_name, season_tag):
     if not season_match:
         return False
 
-    # Reject the separated episode spelling: "s06 e01" is one episode, not a pack.
+    if len(re.findall(r'\bs\d{1,2}\b', name_norm)) != 1:
+        return False
+
     if re.match(r'\s*e\d{1,3}\b', name_norm[season_match.end():]):
         return False
 
