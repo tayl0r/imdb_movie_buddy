@@ -155,7 +155,11 @@ def parse_results(page_html):
 
 
 MAX_SIZE_BYTES = 4 * 1024**3     # 4 GB, movie default
-TV_MAX_SIZE_BYTES = 2 * 1024**3  # 2 GB, TV episode cap
+TV_MAX_SIZE_BYTES = 2 * 1024**3      # 2 GB, TV episode cap
+# --hq ceiling. Deliberately generous rather than "one notch up": REMUX episodes
+# routinely run 5-7 GB, and rank_results still prefers the smallest good encode,
+# so a high cap widens what qualifies without making huge files the default pick.
+TV_HQ_MAX_SIZE_BYTES = 10 * 1024**3  # 10 GB, --hq
 
 
 def rank_results(results, movie_name="", year="", max_size_bytes=None):

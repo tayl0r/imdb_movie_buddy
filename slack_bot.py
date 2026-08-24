@@ -22,6 +22,8 @@ from search_iptorrents import (
     download_torrent_bytes,
     parse_episode_spec,
     search_tv_episode,
+    TV_MAX_SIZE_BYTES,
+    TV_HQ_MAX_SIZE_BYTES,
 )
 from upload_rutorrent import (
     upload_torrent_bytes,
@@ -162,13 +164,12 @@ def do_tv_download_and_upload(show_name, episode_specs, hq_mode=False):
     Args:
         show_name: e.g. "House"
         episode_specs: list of "S01E01", "S01E02", etc.
-        hq_mode: if True, use 5GB ceiling; else use 2GB ceiling
+        hq_mode: if True, use the --hq size ceiling instead of the default
 
     Returns:
         (all_succeeded: bool, message: str)
     """
-    from search_iptorrents import TV_MAX_SIZE_BYTES
-    max_size = 5 * 1024**3 if hq_mode else TV_MAX_SIZE_BYTES
+    max_size = TV_HQ_MAX_SIZE_BYTES if hq_mode else TV_MAX_SIZE_BYTES
 
     uploaded = []
     failed = []  # (episode_spec, reason)
@@ -317,7 +318,7 @@ Search for movies:
 
 Search for TV shows (downloads individual episodes):
   `tv House S01 5` - downloads House S01E01 through S01E05 (up to 2GB per episode)
-  `tv House S01 5 --hq` - same, but allows up to 5GB per episode for REMUX quality
+  `tv House S01 5 --hq` - same, but lifts the size cap so REMUX/large encodes qualify
 
 Type `help` to see this message again.""")
         return
@@ -343,7 +344,7 @@ Type `help` to see this message again.""")
             say(f"Number of episodes must be between 1 and {MAX_TV_EPISODES}.")
             return
 
-        hq_text = " (high-quality mode, up to 5GB per episode)" if hq_flag else ""
+        hq_text = " (high-quality mode)" if hq_flag else ""
         say(f'Searching IPTorrents for {show_name} Season {season}, {num_episodes} episodes{hq_text}...')
 
         episode_specs = parse_episode_spec(season, num_episodes)
