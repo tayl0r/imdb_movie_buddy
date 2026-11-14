@@ -16,8 +16,8 @@ concurrency:
 
 jobs:
   build:
-    # Only main builds: main alone deploys here, so another branch's image would sit on the tag
-    # undeployed for the next deploy to ship.
+    # Only main builds, whatever triggers are added later (a workflow_dispatch runs on any branch): main alone
+    # deploys here, so another branch's image would sit on the tag undeployed for the next deploy to ship.
     if: github.ref == 'refs/heads/main'   # full ref: a tag named main doesn't match
     runs-on: ubuntu-latest
     timeout-minutes: 30      # a hung build would otherwise block the deploy queue
@@ -46,8 +46,8 @@ jobs:
           tags: ghcr.io/${{ github.repository }}:latest
           provenance: false
 
-  # The deploy key lives only in this reusable workflow, which a calling job can't add steps to. The server
-  # picks the image and migration (vps DEPLOY.md, "How a deploy reaches the server").
+  # The deploy key lives only in this reusable workflow, which a calling job can't add steps to. Give no other
+  # job `environment: vps`.
   deploy:
     needs: build
     permissions:

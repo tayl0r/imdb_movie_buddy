@@ -5,7 +5,7 @@ updates:
     schedule:
       interval: daily   # a pinned action gets no security-update PRs, so this is how its fixes arrive
     cooldown:
-      default-days: 7   # the fleet's dependency cooldown (vps DEPLOY.md, "Dependency cooldown")
+      default-days: 7   # a release must be public 7 days first: compromised ones are usually pulled within hours
     ignore:
       # a vps-deploy major can change what the server's gate expects, so it lands with the gate's own update
       - dependency-name: "tayl0r/vps-deploy*"   # a reusable workflow's name includes its path
