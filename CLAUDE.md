@@ -72,15 +72,28 @@ single Docker container.
   Slack over a websocket. No Traefik labels, no subdomain, no exposed ports, no volumes.
 - **Single instance only.** Two socket-mode bots sharing the same tokens would split
   Slack events between them — so there is **no dev/prod split** and no `prod` branch.
-- **CI/CD**: pushing to `main` runs `.github/workflows/deploy.yml` → builds and pushes
-  `ghcr.io/tayl0r/imdb_movie_buddy:latest` → SSHes to the VPS and `docker compose pull && up -d`.
+- **CI/CD**: pushing to `main` runs `.github/workflows/deploy.yml`. Its build job builds and
+  pushes `ghcr.io/tayl0r/imdb_movie_buddy:latest`. Its deploy job then asks the VPS deploy gate
+  to redeploy `torrent-bot`, and the server pulls that image and recreates the container (see
+  `../vps/DEPLOY.md` § "How a deploy reaches the server").
 - **On the server**: `/opt/apps/torrent-bot/` holds `docker-compose.yml` and a
   hand-created `.env` (never committed). The `.env` provides all credentials, injected
   into the container as environment variables via `env_file:` (read by `env_utils.load_env`).
-- **Repo secrets** (set once): `SSH_HOST`, `SSH_USER`, `SSH_PRIVATE_KEY`.
+- **Deploy secrets**: `VPS_HOST`, `VPS_DEPLOY_USER` and `VPS_DEPLOY_KEY`, in the repo's `vps`
+  environment, which only `main` and `prod` may use. The key logs in as this app's own deploy
+  account. Only `deploy/rotate-key.sh torrent-bot`, run from a vps checkout, sets or rotates
+  them; never set them by hand.
+- **Deploys go only through the deploy gate.** The deploy job is `tayl0r/vps-deploy`, pinned
+  by full commit SHA. It logs in with the `VPS_*` secrets and can only redeploy this app: the
+  server picks the image from its own compose and the migration from the vps app manifest, so
+  never pass either from the workflow. Bump the pin only after reading its diff, and
+  never add another way of SSHing to the server. A failed deploy says why in the job log's
+  `VPS deploy` error, and on the gate's `deploy-gate:` line when the gate ran. Exit 2
+  (refused) also pages Taylor as a possible leaked deploy key, so find out why before
+  re-running it.
 
 ```bash
-# Logs / status / restart
+# Logs / status / restart (admin key)
 ssh root@107.172.161.177 "cd /opt/apps/torrent-bot && docker compose logs -f"
 ssh root@107.172.161.177 "docker ps --filter name=torrent-bot"
 ssh root@107.172.161.177 "cd /opt/apps/torrent-bot && docker compose restart"
