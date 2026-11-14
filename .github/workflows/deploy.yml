@@ -8,44 +8,56 @@ on:
   push:
     branches: [main]
 
+# Workflow-level, so build and deploy run as one: a newer push waits for the running run instead of cancelling
+# it (GitHub keeps only the newest waiting run). What a cancel does: vps DEPLOY.md, "One deploy at a time per deployment".
+concurrency:
+  group: deploy-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
-  deploy:
+  build:
+    # Only main builds, whatever triggers are added later (a workflow_dispatch runs on any branch): main alone
+    # deploys here, so another branch's image would sit on the tag undeployed for the next deploy to ship.
+    if: github.ref == 'refs/heads/main'   # full ref: a tag named main doesn't match
     runs-on: ubuntu-latest
+    timeout-minutes: 30      # a hung build would otherwise block the deploy queue
     permissions:
       contents: read
       packages: write
+    # Pinned by SHA: this job pushes the tag the gate deploys, so a re-pointed tag could ship a substituted
+    # image. Bump a pin only after reading its diff.
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false   # the build needs no git token after checkout
 
       - name: Log in to GHCR
-        uses: docker/login-action@v3
+        uses: docker/login-action@8aa5831fb8d48d8f76594c7ddde61ae58019f550 # v4.8.0
         with:
           registry: ghcr.io
           username: ${{ github.actor }}
           password: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Build and push image
-        uses: docker/build-push-action@v5
+        uses: docker/build-push-action@c3c9e263c25d99ce0380d002d59b67737d91b0dc # v7.4.0
         with:
           context: .
           push: true
           tags: ghcr.io/${{ github.repository }}:latest
           provenance: false
 
-      - name: Deploy to VPS
-        uses: appleboy/ssh-action@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_ACTOR: ${{ github.actor }}
-        with:
-          host: ${{ secrets.SSH_HOST }}
-          username: ${{ secrets.SSH_USER }}
-          key: ${{ secrets.SSH_PRIVATE_KEY }}
-          envs: GITHUB_TOKEN,GITHUB_ACTOR
-          # Calls the shared VPS deploy script (source: tayl0r/vps deploy/app-deploy.sh,
-          # installed at /opt/apps/deploy.sh). It owns isolated GHCR login, single-pull
-          # -with-retry, and `up --pull never` — see vps DEPLOY.md § "The shared deploy
-          # script". Single-env, single image, no DB migrate → static args.
-          script: |
-            export GITHUB_TOKEN GITHUB_ACTOR
-            /opt/apps/deploy.sh torrent-bot "ghcr.io/${{ github.repository }}:latest"
+  # The deploy key lives only in this reusable workflow, which a calling job can't add steps to. Give no other
+  # job `environment: vps`.
+  deploy:
+    needs: build
+    permissions:
+      contents: read
+      packages: read         # the server pulls the image with this run's token
+    uses: tayl0r/vps-deploy/.github/workflows/deploy.yml@61ad38c841556dbd1c2d9e743d9659d6591a1d2f # v2.0.0
+    with:
+      # The app's name in the vps app manifest (not the repo's); a literal, since there's no -dev.
+      target: torrent-bot
+    secrets:
+      VPS_HOST: ${{ secrets.VPS_HOST }}
+      VPS_DEPLOY_USER: ${{ secrets.VPS_DEPLOY_USER }}
+      VPS_DEPLOY_KEY: ${{ secrets.VPS_DEPLOY_KEY }}
