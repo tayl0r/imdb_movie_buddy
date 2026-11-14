@@ -73,16 +73,14 @@ single Docker container.
 - **Single instance only.** Two socket-mode bots sharing the same tokens would split
   Slack events between them — so there is **no dev/prod split** and no `prod` branch.
 - **CI/CD**: pushing to `main` runs `.github/workflows/deploy.yml`. Its build job builds and
-  pushes `ghcr.io/tayl0r/imdb_movie_buddy:latest`. Its deploy job then asks the VPS deploy gate
-  to redeploy `torrent-bot`, and the server pulls that image and recreates the container (see
-  `../vps/DEPLOY.md` § "How a deploy reaches the server").
+  pushes `ghcr.io/tayl0r/imdb_movie_buddy:latest`, then its deploy job redeploys `torrent-bot`
+  through the VPS deploy gate (see `../vps/DEPLOY.md` § "How a deploy reaches the server").
 - **On the server**: `/opt/apps/torrent-bot/` holds `docker-compose.yml` and a
   hand-created `.env` (never committed). The `.env` provides all credentials, injected
   into the container as environment variables via `env_file:` (read by `env_utils.load_env`).
 - **Deploy secrets**: `VPS_HOST`, `VPS_DEPLOY_USER` and `VPS_DEPLOY_KEY`, in the repo's `vps`
-  environment, which only `main` and `prod` may use. The key logs in as this app's own deploy
-  account. Only `deploy/rotate-key.sh torrent-bot`, run from a vps checkout, sets or rotates
-  them; never set them by hand.
+  environment. Only `deploy/rotate-key.sh torrent-bot`, run from a vps checkout, sets or
+  rotates them; never set them by hand.
 - **Deploys go only through the deploy gate.** The deploy job is `tayl0r/vps-deploy`, pinned
   by full commit SHA. It logs in with the `VPS_*` secrets and can only redeploy this app: the
   server picks the image from its own compose and the migration from the vps app manifest, so
