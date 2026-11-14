@@ -8,16 +8,16 @@ on:
   push:
     branches: [main]
 
-# Workflow-level, so build and deploy queue as one. What a cancel does to a deploy: vps DEPLOY.md,
-# "One deploy at a time per deployment".
+# Workflow-level, so build and deploy run as one: a newer push waits for the running run instead of cancelling
+# it (GitHub keeps only the newest waiting run). What a cancel does: vps DEPLOY.md, "One deploy at a time per deployment".
 concurrency:
   group: deploy-${{ github.ref }}
   cancel-in-progress: false
 
 jobs:
   build:
-    # Only main builds: the vps environment refuses other branches, so their image would sit on the
-    # tag undeployed for the next deploy to ship.
+    # Only main builds: main alone deploys here, so another branch's image would sit on the tag
+    # undeployed for the next deploy to ship.
     if: github.ref == 'refs/heads/main'   # full ref: a tag named main doesn't match
     runs-on: ubuntu-latest
     timeout-minutes: 30      # a hung build would otherwise block the deploy queue

@@ -3,6 +3,10 @@ updates:
   - package-ecosystem: github-actions
     directory: /
     schedule:
-      interval: weekly
+      interval: daily   # a pinned action gets no security-update PRs, so this is how its fixes arrive
     cooldown:
       default-days: 7   # the fleet's dependency cooldown (vps DEPLOY.md, "Dependency cooldown")
+    ignore:
+      # a vps-deploy major can change what the server's gate expects, so it lands with the gate's own update
+      - dependency-name: tayl0r/vps-deploy
+        update-types: ["version-update:semver-major"]
