@@ -54,8 +54,7 @@ jobs:
       packages: read         # the server pulls the image with this run's token
     uses: tayl0r/vps-deploy/.github/workflows/deploy.yml@61ad38c841556dbd1c2d9e743d9659d6591a1d2f # v2.0.0
     with:
-      # The app's name in the vps app manifest (not the repo's). A literal: this repo deploys only from main,
-      # to prod; there's no -dev.
+      # The app's name in the vps app manifest (not the repo's); a literal, since there's no -dev.
       target: torrent-bot
     secrets:
       VPS_HOST: ${{ secrets.VPS_HOST }}
