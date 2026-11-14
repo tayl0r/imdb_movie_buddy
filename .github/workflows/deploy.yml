@@ -8,25 +8,24 @@ on:
   push:
     branches: [main]
 
-# One run at a time per branch, build and deploy together: a newer push waits for the running one instead
-# of cancelling it. What a cancel does to a deploy: vps DEPLOY.md, "One deploy at a time per deployment".
+# Workflow-level, so build and deploy queue as one. What a cancel does to a deploy: vps DEPLOY.md,
+# "One deploy at a time per deployment".
 concurrency:
   group: deploy-${{ github.ref }}
   cancel-in-progress: false
 
 jobs:
   build:
-    # Only main builds. A workflow_dispatch (or any trigger) from another branch would otherwise
-    # push a tag the deploy job then can't deploy (the vps environment allows only main and prod), leaving
-    # that tag on an undeployed image for the next deploy to ship.
+    # Only main builds: the vps environment refuses other branches, so their image would sit on the
+    # tag undeployed for the next deploy to ship.
     if: github.ref == 'refs/heads/main'   # full ref: a tag named main doesn't match
     runs-on: ubuntu-latest
-    timeout-minutes: 30      # a hung build would otherwise hold the branch's deploy queue for GitHub's 6 hours
+    timeout-minutes: 30      # a hung build would otherwise block the deploy queue
     permissions:
       contents: read
-      packages: write        # required: GITHUB_TOKEN is read-only by default, can't push to GHCR without this
-    # Every action pinned by full commit SHA: this job can push the tag the gate deploys, so a re-pointed
-    # tag on any of them could ship a substituted image. Bump a pin only after reading its diff.
+      packages: write
+    # Pinned by SHA: this job pushes the tag the gate deploys, so a re-pointed tag could ship a substituted
+    # image. Bump a pin only after reading its diff.
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
@@ -45,8 +44,8 @@ jobs:
           tags: ghcr.io/${{ github.repository }}:latest
           provenance: false
 
-  # The deploy key lives only in this job, a reusable workflow that a calling job can't add steps to. The
-  # server picks the image and migration; this job names the deployment (vps DEPLOY.md, "How a deploy reaches the server").
+  # The deploy key lives only in this reusable workflow, which a calling job can't add steps to. The server
+  # picks the image and migration (vps DEPLOY.md, "How a deploy reaches the server").
   deploy:
     needs: build
     permissions:
