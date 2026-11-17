@@ -53,6 +53,10 @@ python3 upload_rutorrent.py                      # Upload new torrents to ruTorr
 python3 torrent_sizes.py                          # Show sizes of torrents in want_to_watch/
 ```
 
+## Local checks
+
+**Local checks: `./verify.sh`.** It byte-compiles every Python file, then imports every root module, `slack_bot.py` included, with `slack_bolt` stubbed, so a broken import between the repo's own modules fails it. The repo has no test suite. Run it before calling a PR ready: no workflow runs on pull requests. The deploy runs the same command before it builds, so a red check stops the deploy. It needs only `python3`: it installs nothing and needs no credentials. It imports every root module, so keep a new script's work under `if __name__ == "__main__":`, and if `slack_bot.py` gains a third-party import, add it to verify.sh's stub.
+
 ## Key Implementation Details
 
 - **Python scripts use stdlib only** (`urllib.request`, `json`, `csv`, `re`, `base64`) — the one exception is `slack_bot.py`, which needs `slack_bolt` (see `requirements.txt`).
@@ -72,9 +76,11 @@ single Docker container.
   Slack over a websocket. No Traefik labels, no subdomain, no exposed ports, no volumes.
 - **Single instance only.** Two socket-mode bots sharing the same tokens would split
   Slack events between them — so there is **no dev/prod split** and no `prod` branch.
-- **CI/CD**: pushing to `main` runs `.github/workflows/deploy.yml`. Its build job builds and
-  pushes `ghcr.io/tayl0r/imdb_movie_buddy:latest`, then its deploy job redeploys `torrent-bot`
+- **CI/CD**: pushing to `main` runs `.github/workflows/deploy.yml`: `guard` (vps's template
+  job), then `test` (`./verify.sh` on Python 3.12), then `build`, which builds and pushes
+  `ghcr.io/tayl0r/imdb_movie_buddy:latest`, then `deploy`, which redeploys `torrent-bot`
   through the VPS deploy gate (see `../vps/DEPLOY.md` § "How a deploy reaches the server").
+  Each job needs the one before, so a red `test` stops the deploy.
 - **On the server**: `/opt/apps/torrent-bot/` holds `docker-compose.yml` and a
   hand-created `.env` (never committed). The `.env` provides all credentials, injected
   into the container as environment variables via `env_file:` (read by `env_utils.load_env`).
@@ -96,3 +102,7 @@ ssh root@107.172.161.177 "cd /opt/apps/torrent-bot && docker compose logs -f"
 ssh root@107.172.161.177 "docker ps --filter name=torrent-bot"
 ssh root@107.172.161.177 "cd /opt/apps/torrent-bot && docker compose restart"
 ```
+
+This repo has no `prod` branch (one instance, deployed from `main`). If one is added:
+
+**`prod` is fast-forward only.** Promote to prod with `git push origin main:prod`. Never commit directly to `prod`, and never create a merge commit on it — `prod` must always be a strict fast-forward of `main`. GitHub's `prod` ruleset refuses a force push or a merge commit, but not a commit made directly on `prod`.

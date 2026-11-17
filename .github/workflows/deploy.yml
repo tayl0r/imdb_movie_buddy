@@ -15,10 +15,56 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  # Every other job needs this one, so it holds what decides whether the run goes on at all. It runs none of the
+  # commit's code, so a repo whose test stage is a reusable workflow (`uses:`, no steps) keeps it as it is.
+  guard:
+    # Only main and prod run, even for a workflow_dispatch from another branch: the vps environment refuses other
+    # branches, so their image would sit on the tag for the next deploy to ship, and a NAS runner takes only deploy runs.
+    if: github.ref == 'refs/heads/main' || github.ref == 'refs/heads/prod'   # full refs: a tag named main or prod doesn't match
+    # private repos: their own NAS runner (§ Self-hosted runners); public ones: GitHub's
+    runs-on: ${{ github.event.repository.private && 'nas' || 'ubuntu-latest' }}
+    timeout-minutes: 5
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        if: github.ref == 'refs/heads/prod'   # only the next step reads the clone, so main skips it
+        with:
+          persist-credentials: false
+          fetch-depth: 0               # the next step reads origin/main
+
+      # prod is promoted from main by fast-forward (`git push origin main:prod`), so what it deploys has already
+      # been on main. A commit that never was is refused here, before any of its code runs: its install, its tests
+      # or its build.
+      - name: Refuse a prod commit that isn't on main
+        if: github.ref == 'refs/heads/prod'
+        run: |
+          if ! git merge-base --is-ancestor "$GITHUB_SHA" origin/main; then
+            echo "::error::prod is at $GITHUB_SHA, which isn't on main. Promote with \`git push origin main:prod\`."
+            exit 1
+          fi
+
+  # Tests the landed commit before anything is built. No workflow runs on pull requests, so this is the only run
+  # of the repo's checks outside a checkout.
+  test:
+    needs: guard
+    runs-on: ${{ github.event.repository.private && 'nas' || 'ubuntu-latest' }}
+    timeout-minutes: 30      # a hung test would otherwise block the deploy queue
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      # The Dockerfile's Python. No `cache:`: verify.sh installs nothing.
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
+        with:
+          python-version: "3.12"
+      - run: ./verify.sh
+
   build:
-    # Only main builds, whatever triggers are added later (a workflow_dispatch runs on any branch): main alone
-    # deploys here, so another branch's image would sit on the tag undeployed for the next deploy to ship.
-    if: github.ref == 'refs/heads/main'   # full ref: a tag named main doesn't match
+    needs: [guard, test]     # guard by name, so this job never runs without it, whatever the test stage needs
     runs-on: ubuntu-latest
     timeout-minutes: 30      # a hung build would otherwise block the deploy queue
     permissions:
