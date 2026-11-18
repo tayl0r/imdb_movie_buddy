@@ -9,10 +9,14 @@ from unittest import mock
 
 sys.path.insert(0, os.getcwd())   # explicit, so PYTHONSAFEPATH can't drop the repo root
 
-# slack_bolt isn't installed here, so stub only the names slack_bot imports; a misspelled one still fails.
-sys.modules["slack_bolt"] = mock.MagicMock(spec=["App"])
+# slack_bolt isn't installed here, so stub only the names slack_bot uses at import; a misspelled one still fails.
+slack_bolt = sys.modules["slack_bolt"] = mock.MagicMock(spec=["App"])
+slack_bolt.App.return_value = mock.MagicMock(spec=["event", "action", "error"])
 sys.modules["slack_bolt.adapter.socket_mode"] = mock.MagicMock(spec=["SocketModeHandler"])
 
-for path in sorted(pathlib.Path(".").glob("*.py")):
-    importlib.import_module(path.stem)
+for path in sorted(pathlib.Path(".").glob("[!.]*.py")):   # [!.]: not editor lock files like .#slack_bot.py
+    try:
+        importlib.import_module(path.stem)
+    except SystemExit:
+        sys.exit(f"{path.name} exited at import: keep its work under if __name__ == '__main__':")
 EOF
