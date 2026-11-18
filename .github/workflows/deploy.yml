@@ -33,9 +33,9 @@ jobs:
           persist-credentials: false
           fetch-depth: 0               # the next step reads origin/main
 
-      # prod is promoted from main by fast-forward (`git push origin main:prod`), so what it deploys has already
-      # been on main. A commit that never was is refused here, before any of its code runs: its install, its tests
-      # or its build.
+      # prod is promoted from main by fast-forward (`git fetch origin && git push origin origin/main:prod`), so
+      # what it deploys has already been on main. A commit that never was is refused here, before any of its code
+      # runs: its install, its tests or its build.
       - name: Refuse a prod commit that isn't on main
         if: github.ref == 'refs/heads/prod'
         run: |
