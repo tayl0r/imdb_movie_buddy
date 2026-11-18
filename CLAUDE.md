@@ -55,7 +55,7 @@ python3 torrent_sizes.py                          # Show sizes of torrents in wa
 
 ## Local checks
 
-**Local checks: `./verify.sh`.** It imports every root module, which also compiles it, `slack_bot.py` included with `slack_bolt` stubbed, so a syntax error or a broken import between the repo's own modules fails it. The repo has no test suite. Run it before calling a PR ready: no workflow runs on pull requests. The deploy runs the same command before it builds, so a red check stops the deploy. It needs only `python3`: it installs nothing and needs no credentials. It imports every root module, so keep a new script's work under `if __name__ == "__main__":`, and if `slack_bot.py` imports a new name from `slack_bolt` or another third-party package, add it to verify.sh's stubs.
+**Local checks: `./verify.sh`.** It imports every root module, which also compiles it, `slack_bot.py` included with `slack_bolt` stubbed, so a syntax error or a broken import between the repo's own modules fails it. The repo has no test suite. Run it before calling a PR ready: no workflow runs on pull requests. The deploy runs the same command before it builds, so a red check stops the deploy. It needs only `python3`: it installs nothing and needs no credentials. So keep a new script's work under `if __name__ == "__main__":`, and if `slack_bot.py` imports a new name from `slack_bolt` or another third-party package, add it to verify.sh's stubs.
 
 ## Key Implementation Details
 
@@ -80,7 +80,6 @@ single Docker container.
   job), then `test` (`./verify.sh` on Python 3.12), then `build`, which builds and pushes
   `ghcr.io/tayl0r/imdb_movie_buddy:latest`, then `deploy`, which redeploys `torrent-bot`
   through the VPS deploy gate (see `../vps/DEPLOY.md` § "How a deploy reaches the server").
-  Each job needs the one before, so a red `test` stops the deploy.
 - **On the server**: `/opt/apps/torrent-bot/` holds `docker-compose.yml` and a
   hand-created `.env` (never committed). The `.env` provides all credentials, injected
   into the container as environment variables via `env_file:` (read by `env_utils.load_env`).

@@ -15,7 +15,6 @@ from slack_bolt.adapter.socket_mode import SocketModeHandler
 
 from env_utils import load_env
 from search_iptorrents import (
-    load_cookie,
     clean_search_query,
     fetch_search,
     parse_results,
@@ -41,7 +40,7 @@ SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 
 # Load credentials
 env = load_env()
-COOKIE = load_cookie()
+COOKIE = env.get("IPTORRENTS_COOKIE", "")
 RUTORRENT_URL = env.get("RUTORRENT_URL", "")
 RUTORRENT_USER = env.get("RUTORRENT_USERNAME", "")
 RUTORRENT_PASS = env.get("RUTORRENT_PASSWORD", "")
@@ -508,6 +507,10 @@ def main():
 
     if not RUTORRENT_URL or not RUTORRENT_USER or not RUTORRENT_PASS:
         print("Error: Set RUTORRENT_URL, RUTORRENT_USERNAME, and RUTORRENT_PASSWORD in .env", file=sys.stderr)
+        sys.exit(1)
+
+    if not COOKIE:
+        print("Error: Set IPTORRENTS_COOKIE in .env", file=sys.stderr)
         sys.exit(1)
 
     print("Starting Slack bot (socket mode)...")
