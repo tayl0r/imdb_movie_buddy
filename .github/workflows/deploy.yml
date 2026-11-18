@@ -39,14 +39,25 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          body=$(curl -fsS --retry 3 --retry-all-errors --max-time 30 \
-            -H "Authorization: Bearer $GH_TOKEN" -H "Accept: application/vnd.github+json" \
-            "$GITHUB_API_URL/repos/$GITHUB_REPOSITORY/compare/$GITHUB_SHA...refs/heads/main")
-          status=$(jq -r .status <<<"$body")
+          # The answer goes to a file curl truncates on each retry (stdout can't be), the token on stdin, not in
+          # argv. Only a single, well-formed answer of behind or diverged reads as diverged; anything else is an
+          # API failure, so a network blip can never send anyone to the force-push recovery.
+          out=$RUNNER_TEMP/compare.json
+          printf 'header = "Authorization: Bearer %s"\n' "$GH_TOKEN" |
+            curl --config - -fsS --retry 3 --retry-all-errors --max-time 30 -H "Accept: application/vnd.github+json" \
+              -o "$out" "$GITHUB_API_URL/repos/$GITHUB_REPOSITORY/compare/$GITHUB_SHA...refs/heads/main"
+          if ! status=$(jq -ers 'if length == 1 and (.[0].status | type) == "string" then .[0].status else error("not one answer") end' "$out"); then
+            echo "::error::GitHub's compare answer didn't parse, so whether this run's commit is on main is unknown. Re-run this run."
+            exit 1
+          fi
           case $status in
             ahead | identical) ;;
+            behind | diverged)
+              echo "::error::This run's commit $GITHUB_SHA isn't on main ($status), so prod has left main's history and no promote can fast-forward it any more. Putting prod back on main takes a force push, which the prod ruleset refuses: stop, and ask the repo owner to follow vps's DEPLOY.md (tayl0r/vps) § GitHub repo settings, \"If \`prod\` diverges from \`main\` anyway\"."
+              exit 1
+              ;;
             *)
-              echo "::error::prod is at $GITHUB_SHA, which isn't on main ($status), so prod has left main's history and no promote can fast-forward it any more. Putting prod back on main takes a force push, which the prod ruleset refuses: stop, and ask the repo owner to follow vps's DEPLOY.md (tayl0r/vps) § GitHub repo settings, \"If \`prod\` diverges from \`main\` anyway\"."
+              echo "::error::GitHub's compare answer was '$status', not one this check knows. Re-run this run."
               exit 1
               ;;
           esac
@@ -89,9 +100,15 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          tip=$(curl -fsS --retry 3 --retry-all-errors --max-time 30 \
-            -H "Authorization: Bearer $GH_TOKEN" -H "Accept: application/vnd.github.sha" \
-            "$GITHUB_API_URL/repos/$GITHUB_REPOSITORY/commits/$GITHUB_REF")
+          # As in guard: the answer in a file curl truncates on retry, the token on stdin, one well-formed answer.
+          out=$RUNNER_TEMP/tip.json
+          printf 'header = "Authorization: Bearer %s"\n' "$GH_TOKEN" |
+            curl --config - -fsS --retry 3 --retry-all-errors --max-time 30 -H "Accept: application/vnd.github+json" \
+              -o "$out" "$GITHUB_API_URL/repos/$GITHUB_REPOSITORY/git/ref/${GITHUB_REF#refs/}"
+          if ! tip=$(jq -ers 'if length == 1 and (.[0].object.sha | type) == "string" then .[0].object.sha else error("not one answer") end' "$out"); then
+            echo "::error::GitHub's answer for $GITHUB_REF_NAME's tip didn't parse. Re-run this run."
+            exit 1
+          fi
           if [ "$tip" != "$GITHUB_SHA" ]; then
             echo "::error::$GITHUB_REF_NAME is at $tip now, newer than this run's $GITHUB_SHA, so building this one would put an older image on the tag; it stops here. The newest commit's run deploys; if that run failed or never ran, re-run that one. Re-running an older run like this also cancels the newest one while it waits, so re-run only the newest."
             exit 1
