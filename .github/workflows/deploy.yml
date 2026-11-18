@@ -9,7 +9,8 @@ on:
     branches: [main]
 
 # Workflow-level, so build and deploy run as one: a newer push waits for the running run instead of cancelling
-# it (GitHub keeps only the newest waiting run). What a cancel does: vps DEPLOY.md, "One deploy at a time per deployment".
+# it (GitHub keeps only the newest waiting run). What a cancel does: vps's DEPLOY.md (tayl0r/vps) § How a deploy
+# reaches the server, "One deploy at a time per deployment".
 concurrency:
   group: deploy-${{ github.ref }}
   cancel-in-progress: false
@@ -18,31 +19,37 @@ jobs:
   # Every other job needs this one, so it holds what decides whether the run goes on at all. It runs none of the
   # commit's code, so a repo whose test stage is a reusable workflow (`uses:`, no steps) keeps it as it is.
   guard:
-    # Only main and prod run, even for a workflow_dispatch from another branch: the vps environment refuses other
+    # Only main and prod run, even if a workflow_dispatch is added: the vps environment refuses other
     # branches, so their image would sit on the tag for the next deploy to ship, and a NAS runner takes only deploy runs.
     if: github.ref == 'refs/heads/main' || github.ref == 'refs/heads/prod'   # full refs: a tag named main or prod doesn't match
-    # private repos: their own NAS runner (§ Self-hosted runners); public ones: GitHub's
+    # private repos: their own NAS runner (vps's DEPLOY.md (tayl0r/vps) § Self-hosted runners (private repos)); public ones: GitHub's
     runs-on: ${{ github.event.repository.private && 'nas' || 'ubuntu-latest' }}
     timeout-minutes: 5
     permissions:
       contents: read
     steps:
-      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
-        if: github.ref == 'refs/heads/prod'   # only the next step reads the clone, so main skips it
-        with:
-          persist-credentials: false
-          fetch-depth: 0               # the next step reads origin/main
-
-      # prod is promoted from main by fast-forward (`git fetch origin && git push origin origin/main:prod`), so
-      # what it deploys has already been on main. A commit that never was is refused here, before any of its code
-      # runs: its install, its tests or its build.
+      # prod is promoted from main by fast-forward (`git fetch origin && git push origin origin/main:refs/heads/prod`),
+      # so what it deploys has already been on main. A commit that never was is refused here, before any of its code
+      # runs: its install, its tests or its build. It catches a mistake, not a push meant to get around it: that
+      # commit's own deploy.yml defines this job (vps's DEPLOY.md (tayl0r/vps) § GitHub repo settings, "If `prod` diverges from `main` anyway"). GitHub's compare API answers it, with no clone:
+      # main is `ahead` of the commit or `identical` to it exactly when the commit is on main. A failed call fails the
+      # step with curl's error, never with the diverged message.
       - name: Refuse a prod commit that isn't on main
         if: github.ref == 'refs/heads/prod'
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
-          if ! git merge-base --is-ancestor "$GITHUB_SHA" origin/main; then
-            echo "::error::prod is at $GITHUB_SHA, which isn't on main: prod has diverged from main, so no promote can fast-forward it. Recover it as vps DEPLOY.md § GitHub repo settings, 'If prod diverges', says."
-            exit 1
-          fi
+          body=$(curl -fsS --retry 3 --retry-all-errors --max-time 30 \
+            -H "Authorization: Bearer $GH_TOKEN" -H "Accept: application/vnd.github+json" \
+            "$GITHUB_API_URL/repos/$GITHUB_REPOSITORY/compare/$GITHUB_SHA...refs/heads/main")
+          status=$(jq -r .status <<<"$body")
+          case $status in
+            ahead | identical) ;;
+            *)
+              echo "::error::prod is at $GITHUB_SHA, which isn't on main ($status), so prod has left main's history and no promote can fast-forward it any more. Putting prod back on main takes a force push, which the prod ruleset refuses: stop, and ask the repo owner to follow vps's DEPLOY.md (tayl0r/vps) § GitHub repo settings, \"If \`prod\` diverges from \`main\` anyway\"."
+              exit 1
+              ;;
+          esac
 
   # Tests the landed commit before anything is built. No workflow runs on pull requests, so this is the only run
   # of the repo's checks outside a checkout.
@@ -73,24 +80,26 @@ jobs:
     # Pinned by SHA: this job pushes the tag the gate deploys, so a re-pointed tag could ship a substituted
     # image. Bump a pin only after reading its diff.
     steps:
-      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
-        with:
-          persist-credentials: false   # the build needs no git token after checkout
-
       # Only the branch's newest commit builds. A re-run of an older run would rebuild that commit into the tag and
       # deploy it over everything since, and "Re-run failed jobs" skips guard, so the check sits here, before the
-      # tag is pushed. To roll back, revert on main and promote. A push during this run fails this one, and the
-      # newer run deploys next.
+      # tag is pushed (and before the checkout, since it reads no files). To roll back, revert on main and promote.
+      # A push that lands before this step stops this run; one that lands after it lets this run deploy, and the
+      # newer run deploys over it.
       - name: Refuse a commit that isn't the branch's tip
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          tip=$(curl -fsS -H "Authorization: Bearer $GH_TOKEN" -H "Accept: application/vnd.github.sha" \
+          tip=$(curl -fsS --retry 3 --retry-all-errors --max-time 30 \
+            -H "Authorization: Bearer $GH_TOKEN" -H "Accept: application/vnd.github.sha" \
             "$GITHUB_API_URL/repos/$GITHUB_REPOSITORY/commits/$GITHUB_REF")
           if [ "$tip" != "$GITHUB_SHA" ]; then
-            echo "::error::$GITHUB_REF_NAME is at $tip now, so building this run's $GITHUB_SHA would roll it back. Re-run only the newest run; to roll back, revert on main and promote."
+            echo "::error::$GITHUB_REF_NAME is at $tip now, newer than this run's $GITHUB_SHA, so building this one would put an older image on the tag; it stops here. The newest commit's run deploys; if that run failed or never ran, re-run that one. Re-running an older run like this also cancels the newest one while it waits, so re-run only the newest."
             exit 1
           fi
+
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false   # the build needs no git token after checkout
 
       - name: Log in to GHCR
         uses: docker/login-action@8aa5831fb8d48d8f76594c7ddde61ae58019f550 # v4.8.0
