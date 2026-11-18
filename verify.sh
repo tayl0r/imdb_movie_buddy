@@ -17,6 +17,6 @@ sys.modules["slack_bolt.adapter.socket_mode"] = mock.MagicMock(spec=["SocketMode
 for path in sorted(pathlib.Path(".").glob("[!.]*.py")):   # [!.]: not editor lock files like .#slack_bot.py
     try:
         importlib.import_module(path.stem)
-    except SystemExit:
-        sys.exit(f"{path.name} exited at import: keep its work under if __name__ == '__main__':")
+    except SystemExit as e:   # chained, so the traceback names the file that exited, which may be one it imports
+        raise RuntimeError(f"importing {path.name} exited ({e.code!r}): keep each script's work under if __name__ == '__main__':") from e
 EOF
