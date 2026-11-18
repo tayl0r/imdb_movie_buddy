@@ -53,6 +53,10 @@ python3 upload_rutorrent.py                      # Upload new torrents to ruTorr
 python3 torrent_sizes.py                          # Show sizes of torrents in want_to_watch/
 ```
 
+## Local checks
+
+**Local checks: `./verify.sh`.** It imports every root module, which also compiles it, `slack_bot.py` included with `slack_bolt` stubbed, so a syntax error or a broken import between the repo's own modules fails it. The repo has no test suite. Run it before calling a PR ready: no workflow runs on pull requests. The deploy runs the same command before it builds, so a red check stops the deploy. It needs only `python3`: it installs nothing and needs no credentials. Keep a new script's work under `if __name__ == "__main__":`, since verify runs every module's top level for real, with the checkout's `.env` (a script that exits at import fails it), and if `slack_bot.py` starts using a new third-party module, or a new name from one at import, add it to verify.sh's stubs: each module is its own `sys.modules` entry, spec'd to the names used.
+
 ## Key Implementation Details
 
 - **Python scripts use stdlib only** (`urllib.request`, `json`, `csv`, `re`, `base64`) — the one exception is `slack_bot.py`, which needs `slack_bolt` (see `requirements.txt`).
@@ -72,8 +76,9 @@ single Docker container.
   Slack over a websocket. No Traefik labels, no subdomain, no exposed ports, no volumes.
 - **Single instance only.** Two socket-mode bots sharing the same tokens would split
   Slack events between them — so there is **no dev/prod split** and no `prod` branch.
-- **CI/CD**: pushing to `main` runs `.github/workflows/deploy.yml`. Its build job builds and
-  pushes `ghcr.io/tayl0r/imdb_movie_buddy:latest`, then its deploy job redeploys `torrent-bot`
+- **CI/CD**: pushing to `main` runs `.github/workflows/deploy.yml`: `guard` (vps's template
+  job), then `test` (`./verify.sh` on Python 3.12), then `build`, which builds and pushes
+  `ghcr.io/tayl0r/imdb_movie_buddy:latest`, then `deploy`, which redeploys `torrent-bot`
   through the VPS deploy gate (see `../vps/DEPLOY.md` § "How a deploy reaches the server").
 - **On the server**: `/opt/apps/torrent-bot/` holds `docker-compose.yml` and a
   hand-created `.env` (never committed). The `.env` provides all credentials, injected
@@ -96,3 +101,7 @@ ssh root@107.172.161.177 "cd /opt/apps/torrent-bot && docker compose logs -f"
 ssh root@107.172.161.177 "docker ps --filter name=torrent-bot"
 ssh root@107.172.161.177 "cd /opt/apps/torrent-bot && docker compose restart"
 ```
+
+This repo has no `prod` branch (one instance, deployed from `main`). If one is added, its first push may be refused, since `main` holds old merge commits (vps's `DEPLOY.md` (tayl0r/vps) § GitHub repo settings (every repo)), and this applies to it:
+
+**`prod` is fast-forward only.** Promote with `git fetch origin && git push origin origin/main:refs/heads/prod` (GitHub's `main`, never your local one). Push nothing else to `prod`: no direct commit, no force push, no PR with base `prod`, no merge commit on it. If a push to `prod` or a prod deploy is refused, stop and tell Taylor: rollbacks and the fix for a diverged `prod` are his call, even though your gh login can do them (vps's `DEPLOY.md` (tayl0r/vps) § GitHub repo settings (every repo)).

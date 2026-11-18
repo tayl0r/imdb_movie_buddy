@@ -15,7 +15,6 @@ from slack_bolt.adapter.socket_mode import SocketModeHandler
 
 from env_utils import load_env
 from search_iptorrents import (
-    load_cookie,
     clean_search_query,
     fetch_search,
     parse_results,
@@ -41,7 +40,7 @@ SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 
 # Load credentials
 env = load_env()
-COOKIE = load_cookie()
+COOKIE = env.get("IPTORRENTS_COOKIE", "")
 RUTORRENT_URL = env.get("RUTORRENT_URL", "")
 RUTORRENT_USER = env.get("RUTORRENT_USERNAME", "")
 RUTORRENT_PASS = env.get("RUTORRENT_PASSWORD", "")
@@ -499,20 +498,16 @@ def start_heartbeat(url, interval=60):
 
 
 def main():
-    bot_token = env.get("SLACK_BOT_TOKEN", "")
-    app_token = env.get("SLACK_APP_TOKEN", "")
-
-    if not bot_token or not app_token:
-        print("Error: Set SLACK_BOT_TOKEN and SLACK_APP_TOKEN in .env", file=sys.stderr)
-        sys.exit(1)
-
-    if not RUTORRENT_URL or not RUTORRENT_USER or not RUTORRENT_PASS:
-        print("Error: Set RUTORRENT_URL, RUTORRENT_USERNAME, and RUTORRENT_PASSWORD in .env", file=sys.stderr)
+    required = ("SLACK_BOT_TOKEN", "SLACK_APP_TOKEN", "RUTORRENT_URL", "RUTORRENT_USERNAME",
+                "RUTORRENT_PASSWORD", "IPTORRENTS_COOKIE")
+    missing = [key for key in required if not env.get(key)]
+    if missing:
+        print(f"Error: Set {', '.join(missing)} in .env", file=sys.stderr)
         sys.exit(1)
 
     print("Starting Slack bot (socket mode)...")
     start_heartbeat(HEARTBEAT_URL)
-    handler = SocketModeHandler(app, app_token)
+    handler = SocketModeHandler(app, env["SLACK_APP_TOKEN"])
     handler.start()
 
 

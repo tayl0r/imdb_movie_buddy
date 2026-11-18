@@ -9,16 +9,80 @@ on:
     branches: [main]
 
 # Workflow-level, so build and deploy run as one: a newer push waits for the running run instead of cancelling
-# it (GitHub keeps only the newest waiting run). What a cancel does: vps DEPLOY.md, "One deploy at a time per deployment".
+# it (GitHub keeps only the newest waiting run). What a cancel does: vps's DEPLOY.md (tayl0r/vps) § How a deploy
+# reaches the server, "One deploy at a time per deployment".
 concurrency:
   group: deploy-${{ github.ref }}
   cancel-in-progress: false
 
 jobs:
+  # Every other job needs this one, so it holds what decides whether the run goes on at all. It runs none of the
+  # commit's code, so a repo whose test stage is a reusable workflow (`uses:`, no steps) keeps it as it is.
+  guard:
+    # Only main and prod run, even if a workflow_dispatch is added: the vps environment refuses other
+    # branches, so their image would sit on the tag for the next deploy to ship, and a NAS runner takes only deploy runs.
+    if: github.ref == 'refs/heads/main' || github.ref == 'refs/heads/prod'   # full refs: a tag named main or prod doesn't match
+    # private repos: their own NAS runner (vps's DEPLOY.md (tayl0r/vps) § Self-hosted runners (private repos)); public ones: GitHub's
+    runs-on: ${{ github.event.repository.private && 'nas' || 'ubuntu-latest' }}
+    timeout-minutes: 5
+    permissions:
+      contents: read
+    steps:
+      # prod is promoted from main by fast-forward (`git fetch origin && git push origin origin/main:refs/heads/prod`),
+      # so what it deploys has already been on main. A commit that never was is refused here, before any of its code
+      # runs: its install, its tests or its build. It catches a mistake, not a push meant to get around it: that
+      # commit's own deploy.yml defines this job (vps's DEPLOY.md (tayl0r/vps) § GitHub repo settings, "If `prod` diverges from `main` anyway"). GitHub's compare API answers it, with no clone:
+      # main is `ahead` of the commit or `identical` to it exactly when the commit is on main. A failed call fails the
+      # step with curl's error, never with the diverged message.
+      - name: Refuse a prod commit that isn't on main
+        if: github.ref == 'refs/heads/prod'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          # The answer goes to a file curl truncates on each retry (stdout can't be), the token on stdin, not in
+          # argv. Only a single, well-formed answer of behind or diverged reads as diverged; anything else is an
+          # API failure, so a network blip can never send anyone to the force-push recovery.
+          out=$RUNNER_TEMP/compare.json
+          printf 'header = "Authorization: Bearer %s"\n' "$GH_TOKEN" |
+            curl --config - -fsS --retry 3 --retry-all-errors --max-time 30 -H "Accept: application/vnd.github+json" \
+              -o "$out" "$GITHUB_API_URL/repos/$GITHUB_REPOSITORY/compare/$GITHUB_SHA...refs/heads/main"
+          if ! status=$(jq -ers 'if length == 1 and (.[0].status | type) == "string" then .[0].status else error("not one answer") end' "$out"); then
+            echo "::error::GitHub's compare answer didn't parse, so whether this run's commit is on main is unknown. Re-run this run."
+            exit 1
+          fi
+          case $status in
+            ahead | identical) ;;
+            behind | diverged)
+              echo "::error::This run's commit $GITHUB_SHA isn't on main ($status), so prod has left main's history and no promote can fast-forward it any more. Putting prod back on main takes a force push, which the prod ruleset refuses: stop, and ask the repo owner to follow vps's DEPLOY.md (tayl0r/vps) § GitHub repo settings, \"If \`prod\` diverges from \`main\` anyway\"."
+              exit 1
+              ;;
+            *)
+              echo "::error::GitHub's compare answer was '$status', not one this check knows. Re-run this run."
+              exit 1
+              ;;
+          esac
+
+  # Tests the landed commit before anything is built. No workflow runs on pull requests, so this is the only run
+  # of the repo's checks outside a checkout.
+  test:
+    needs: guard
+    runs-on: ${{ github.event.repository.private && 'nas' || 'ubuntu-latest' }}
+    timeout-minutes: 30      # a hung test would otherwise block the deploy queue
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      # The Dockerfile's Python. No `cache:`: verify.sh installs nothing.
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
+        with:
+          python-version: "3.12"
+      - run: ./verify.sh
+
   build:
-    # Only main builds, whatever triggers are added later (a workflow_dispatch runs on any branch): main alone
-    # deploys here, so another branch's image would sit on the tag undeployed for the next deploy to ship.
-    if: github.ref == 'refs/heads/main'   # full ref: a tag named main doesn't match
+    needs: [guard, test]     # guard by name, so this job never runs without it, whatever the test stage needs
     runs-on: ubuntu-latest
     timeout-minutes: 30      # a hung build would otherwise block the deploy queue
     permissions:
@@ -27,6 +91,29 @@ jobs:
     # Pinned by SHA: this job pushes the tag the gate deploys, so a re-pointed tag could ship a substituted
     # image. Bump a pin only after reading its diff.
     steps:
+      # Only the branch's newest commit builds. A re-run of an older run would rebuild that commit into the tag and
+      # deploy it over everything since, and "Re-run failed jobs" skips guard, so the check sits here, before the
+      # tag is pushed (and before the checkout, since it reads no files). To roll back, revert on main and promote.
+      # A push that lands before this step stops this run; one that lands after it lets this run deploy, and the
+      # newer run deploys over it.
+      - name: Refuse a commit that isn't the branch's tip
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          # As in guard: the answer in a file curl truncates on retry, the token on stdin, one well-formed answer.
+          out=$RUNNER_TEMP/tip.json
+          printf 'header = "Authorization: Bearer %s"\n' "$GH_TOKEN" |
+            curl --config - -fsS --retry 3 --retry-all-errors --max-time 30 -H "Accept: application/vnd.github+json" \
+              -o "$out" "$GITHUB_API_URL/repos/$GITHUB_REPOSITORY/git/ref/${GITHUB_REF#refs/}"
+          if ! tip=$(jq -ers 'if length == 1 and (.[0].object.sha | type) == "string" then .[0].object.sha else error("not one answer") end' "$out"); then
+            echo "::error::GitHub's answer for $GITHUB_REF_NAME's tip didn't parse. Re-run this run."
+            exit 1
+          fi
+          if [ "$tip" != "$GITHUB_SHA" ]; then
+            echo "::error::$GITHUB_REF_NAME is at $tip now, newer than this run's $GITHUB_SHA, so building this one would put an older image on the tag; it stops here. The newest commit's run deploys; if that run failed or never ran, re-run that one. Re-running an older run like this also cancels the newest one while it waits, so re-run only the newest."
+            exit 1
+          fi
+
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           persist-credentials: false   # the build needs no git token after checkout
