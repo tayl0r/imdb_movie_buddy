@@ -55,7 +55,7 @@ python3 torrent_sizes.py                          # Show sizes of torrents in wa
 
 ## Local checks
 
-**Local checks: `./verify.sh`.** It byte-compiles every Python file, then imports every root module, `slack_bot.py` included, with `slack_bolt` stubbed, so a broken import between the repo's own modules fails it. The repo has no test suite. Run it before calling a PR ready: no workflow runs on pull requests. The deploy runs the same command before it builds, so a red check stops the deploy. It needs only `python3`: it installs nothing and needs no credentials. It imports every root module, so keep a new script's work under `if __name__ == "__main__":`, and if `slack_bot.py` gains a third-party import, add it to verify.sh's stub.
+**Local checks: `./verify.sh`.** It imports every root module, which also compiles it, `slack_bot.py` included with `slack_bolt` stubbed, so a syntax error or a broken import between the repo's own modules fails it. The repo has no test suite. Run it before calling a PR ready: no workflow runs on pull requests. The deploy runs the same command before it builds, so a red check stops the deploy. It needs only `python3`: it installs nothing and needs no credentials. It imports every root module, so keep a new script's work under `if __name__ == "__main__":`, and if `slack_bot.py` imports a new name from `slack_bolt` or another third-party package, add it to verify.sh's stubs.
 
 ## Key Implementation Details
 
