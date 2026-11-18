@@ -104,4 +104,4 @@ ssh root@107.172.161.177 "cd /opt/apps/torrent-bot && docker compose restart"
 
 This repo has no `prod` branch (one instance, deployed from `main`). If one is added:
 
-**`prod` is fast-forward only.** Promote to prod with `git push origin main:prod`. Never commit directly to `prod`, never open a PR with base `prod`, and never create a merge commit on it — every commit on `prod` must already be on `main` (`prod` is always an ancestor of `main`), so `git push origin main:prod` fast-forwards it. GitHub's `prod` ruleset refuses a force push or a merge commit, but not a commit made directly on `prod`.
+**`prod` is fast-forward only.** Promote to prod with `git push origin main:prod`. Never commit directly to `prod`, never open a PR with base `prod`, and never create a merge commit on it — every commit on `prod` must already be on `main` (`prod` is always an ancestor of `main`), so `git push origin main:prod` fast-forwards it. GitHub's `prod` ruleset refuses a force push or a merge commit, but not a commit made directly on `prod`; the deploy workflow's on-main check refuses to deploy one (DEPLOY.md § Deploy key and secrets covers what it can't stop).

@@ -40,7 +40,7 @@ jobs:
         if: github.ref == 'refs/heads/prod'
         run: |
           if ! git merge-base --is-ancestor "$GITHUB_SHA" origin/main; then
-            echo "::error::prod is at $GITHUB_SHA, which isn't on main. Promote with \`git push origin main:prod\`."
+            echo "::error::prod is at $GITHUB_SHA, which isn't on main: prod has diverged from main, so no promote can fast-forward it. Recover it as vps DEPLOY.md § GitHub repo settings, 'If prod diverges', says."
             exit 1
           fi
 
@@ -76,6 +76,21 @@ jobs:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           persist-credentials: false   # the build needs no git token after checkout
+
+      # Only the branch's newest commit builds. A re-run of an older run would rebuild that commit into the tag and
+      # deploy it over everything since, and "Re-run failed jobs" skips guard, so the check sits here, before the
+      # tag is pushed. To roll back, revert on main and promote. A push during this run fails this one, and the
+      # newer run deploys next.
+      - name: Refuse a commit that isn't the branch's tip
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          tip=$(curl -fsS -H "Authorization: Bearer $GH_TOKEN" -H "Accept: application/vnd.github.sha" \
+            "$GITHUB_API_URL/repos/$GITHUB_REPOSITORY/commits/$GITHUB_REF")
+          if [ "$tip" != "$GITHUB_SHA" ]; then
+            echo "::error::$GITHUB_REF_NAME is at $tip now, so building this run's $GITHUB_SHA would roll it back. Re-run only the newest run; to roll back, revert on main and promote."
+            exit 1
+          fi
 
       - name: Log in to GHCR
         uses: docker/login-action@8aa5831fb8d48d8f76594c7ddde61ae58019f550 # v4.8.0
