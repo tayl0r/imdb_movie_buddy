@@ -102,6 +102,6 @@ ssh root@107.172.161.177 "docker ps --filter name=torrent-bot"
 ssh root@107.172.161.177 "cd /opt/apps/torrent-bot && docker compose restart"
 ```
 
-This repo has no `prod` branch (one instance, deployed from `main`). If one is added, its first push may be refused, since `main` holds old merge commits. If it is, stop and tell Taylor: the way through is his, with the admin login (vps's DEPLOY.md (tayl0r/vps) § GitHub repo settings, "If `prod` diverges from `main` anyway"). Otherwise:
+This repo has no `prod` branch (one instance, deployed from `main`). If one is added, its first push may be refused, since `main` holds old merge commits (vps's `DEPLOY.md` (tayl0r/vps) § GitHub repo settings (every repo)), and this applies to it:
 
 **`prod` is fast-forward only.** Promote with `git fetch origin && git push origin origin/main:refs/heads/prod` (GitHub's `main`, never your local one). Push nothing else to `prod`: no direct commit, no force push, no PR with base `prod`, no merge commit on it. If a push to `prod` or a prod deploy is refused, stop and tell Taylor: rollbacks and the fix for a diverged `prod` are his call, even though your gh login can do them (vps's `DEPLOY.md` (tayl0r/vps) § GitHub repo settings (every repo)).
