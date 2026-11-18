@@ -102,6 +102,6 @@ ssh root@107.172.161.177 "docker ps --filter name=torrent-bot"
 ssh root@107.172.161.177 "cd /opt/apps/torrent-bot && docker compose restart"
 ```
 
-This repo has no `prod` branch (one instance, deployed from `main`). If one is added, its first push may be refused: `main` already holds merge commits, which the `prod` ruleset refuses, and vps's ruleset proof didn't settle whether GitHub checks a new branch's whole history. If it is refused, follow vps's DEPLOY.md (tayl0r/vps) § GitHub repo settings, "If `prod` diverges from `main` anyway": suspend the `prod` ruleset, push, then turn it back on. Otherwise:
+This repo has no `prod` branch (one instance, deployed from `main`). If one is added, its first push may be refused, since `main` holds old merge commits. If it is, stop and tell Taylor: the way through is his, with the admin login (vps's DEPLOY.md (tayl0r/vps) § GitHub repo settings, "If `prod` diverges from `main` anyway"). Otherwise:
 
 **`prod` is fast-forward only.** Promote with `git fetch origin && git push origin origin/main:refs/heads/prod` (GitHub's `main`, never your local one). Never commit to `prod`, open a PR with base `prod`, or merge into it: GitHub can't refuse a direct commit, and one breaks every later promote. If the deploy's `guard` job says `prod` has diverged, stop and tell Taylor. The fix needs his admin login (vps `DEPLOY.md` § GitHub repo settings), and a revert or PR on `prod` makes it worse.
